@@ -1,0 +1,23 @@
+WOS Top Header
+Englishexpand_more
+apps Products
+Web of Science™
+Sign In
+Register
+You are accessing a free view of the Web of Science
+Learn More
+MENU
+tspan { font-size: 18px; fill: white; background-color: black; color: white }
+Accelerating innovation
+© 2025 Clarivate
+Training Portal
+Product Support
+Data Correction
+Privacy Statement
+Newsletter
+Copyright Notice
+Cookie Policy
+Terms of Use
+Cookie Settings
+Follow Us
+ 

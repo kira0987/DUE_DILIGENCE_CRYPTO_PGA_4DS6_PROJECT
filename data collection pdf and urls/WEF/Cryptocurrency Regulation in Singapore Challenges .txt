@@ -1,0 +1,205 @@
+Cryptocurrency Regulation in Singapore: Challenges and Opportunities Ahead
+In the recent years, Singapore has emerged as a global hub in technologies such as cryptocurrencies and blockchain. Simultaneously, the Monetary Authority of Singapore, has been taking steps to actively regulate cryptocurrency business in Singapore. In this piece, we look at the Singapore government’s attitude towards cryptocurrency businesses, the new cryptocurrency regulation and licensing regime,Read more
+Blog Post
+APAC
+Other Jurisdictions
+Blockchain
+In the recent years, Singapore has emerged as a global hub in technologies such as cryptocurrencies and blockchain. Simultaneously, the Monetary Authority of Singapore, has been taking steps to actively regulate cryptocurrency business in Singapore. In this piece, we look at the Singapore government’s attitude towards cryptocurrency businesses, the new cryptocurrency regulation and licensing regime, and the challenges and opportunities facing cryptocurrency businesses in Singapore.
+Singapore government’s attitude towards
+cryptocurrency businesses
+Singapore
+offers a balanced regulatory and legal environment for cryptocurrencies. The
+Monetary Authority of Singapore (MAS),
+Singapore’s financial regulatory body, believes in regulating the
+cryptocurrency ecosystem to monitor any risks associated with crypto
+activities, such as money laundering and terrorist financing, while also
+ensuring that it doesn’t stifle innovation. The statement given by Singapore’s
+Deputy Prime Minister Tharman Shanmugaratnam in an interview, most accurately
+sums up Singapore’s attitude towards cryptocurrencies: “We will continue to encourage experiments in the blockchain space that
+may involve the use of cryptocurrencies. Some of these innovations could turn
+out to be economically or socially useful. But equally, we will stay alert to
+new risks.”[1]In
+line with this, MAS has been working towards regulating cryptocurrency
+exchanges operating in Singapore. Simultaneously, MAS has also issued warnings
+to investors and the public of the risks of investing in crypto products.[2]Singapore has also been experimenting with blockchain technology for
+development of cryptocurrency and digital payments.[3]Under Project Ubin, MAS is partnering with blockchain technology company and
+financial institutions to make inter-bank payments using blockchain technology.[4]
+Legally,
+Singapore offers a neutral regime for the growth of transactions involving
+cryptocurrency. Singapore law is commonly used as the governing law in
+cryptocurrency related contracts because of its advanced dispute resolution
+laws, and a reputation for being an arbitral friendly and neutral regime.[5]In addition, cryptocurrencies are legal in Singapore and therefore, any
+contract involving cryptocurrencies would not be considered illegal.[6]This has been the main reason for Singapore to have emerged as the
+cryptocurrency hub in Asia.
+New crypto regulation and licensing regime
+in Singapore
+Payment Services Act, 2019
+In
+January 2020, the Payment
+Services Act (PSA) came into effect
+to regulate traditional as well as cryptocurrency payments and exchanges. The
+intention behind introducing PSA was to streamline payment services under a
+single piece of legislation, and calibrate regulations according to the risks
+such activities pose by adopting a modular regulatory regime.[7]The PSA provides a framework to obtain license to operate cryptocurrency
+business in Singapore and outlines money laundering compliances to be met by
+cryptocurrency operators. We discuss a few relevant provisions below:
+(1)Digital payments token: The PSA uses the term “digital payments token” to refer to virtual currencies and defines it as any digital representation of value that:
+a.is expressed as a unit;
+b.is not denominated in any currency, and is not pegged by its issuer to any currency;
+c.is, or is intended to be, a medium of exchange accepted by the public, or a section of the public, as payment for goods or services or for the discharge of a debt;
+d.can be transferred, stored or traded electronically; and
+e.satisfies such other characteristics as MAS may prescribe.[8]
+A few Digital Payments Token (DPT) recognized by MAS includes
+Bitcoins and Ether. The PSA further recognizes digital payment token service as dealing
+in digital payment tokens and facilitating the exchange of digital payment
+token.[9]
+(2)License:Any person carrying out digital payment token service has to obtain a payment institution license, unless exemptions apply.[10]A standard payment institution license applies to companies with payment transactions up to $3million per month and a major payment institution license has to be obtained by companies with payment transactions which exceed $3million per month. An application for both these licenses has to be made by a company incorporated in Singapore or overseas, has its permanent place of business or  registered office in Singapore; and has at least one executive director who is a Singapore citizen or a permanent resident or is a person belonging to a class of persons prescribed by the MAS.[11]
+(3)Anti-money laundering (AML)/Countering the financing of terrorism (CFT):MAS has released a separate notice on AML/CFT guidelines for DPT service providers. As per the Notice, DPT service providers are required to set up robust controls to detect and prefect money laundering and terrorism financing.[12]All DPT payment service providers have to implement certain measures as a part of their internal AML/CFT policy which includes:
+a.customer due diligence by verifying their identities and businesses;
+b.monitoring of customers’ transactions for signs of money laundering and terrorism financing;
+c.screening of customers against relevant international sanctions list by the United Nations; and
+d.maintain detailed records of customers activities and out in place a process to report suspicious transactions to MAS.[13]
+Securities and Futures Act
+MAS also made the Securities and Futures Act (SFA) applicable for public offerings or
+issues of digital tokens and in May 2020, released a new Guide to Digital Token
+Offerings. Offers or issues of digital tokens to the public (Offer) will be regulated by MAS if the
+digital tokens are “capital market products”.[14]Capital
+market products under the SFA include securities, units in a collective investment scheme,
+derivatives contracts and spot foreign exchange contracts for purposes of
+leveraged foreign exchange trading.[15]MAS will determine whether a digital token, its
+characteristics and the rights attached to it, is a type of capital markets
+products.[16]
+(1) Prospectus requirements and exemptions:Any offer of digital tokens to the public which constitutes securities,[17]securities-based derivatives contracts or units in a collective investment scheme, requires compliance with all the requirements under the SFA including preparation of a prospectus in accordance with the SFA and registration of the offer with MAS.[18]However, an Offer may be exempted from these requirements if:
+a.the Offer is a small personal offer not exceeding SGD 5 million, within any 12 month period;
+b. the Offer is a private placement offer made to not more than 50 persons within any 12-month period;
+c.the Offer is made only to institutional investors (as defined under the SFA);
+d.the Offer is made only to accredited investors (as defined under the SFA).[19]
+(2)Approved exchanges:Only an approved exchange or a recognized market operator can establish or operate a market.[20]Normally, digital tokens are issued by primary platforms, a platform on which one or more offerors of digital tokens may make primary offers or issues of digital tokens.[21]Typically, persons operating a primary platform has to obtain a license from MAS.
+(3) Capital market services license under the SFA:If a person is operating a primary platform in Singapore in relation to digital tokens which constitutes “capital market products”, it will be considered as a “regulated activity” under the SFA. Any person carrying on a business in any regulated activity under the SFA requires a capital market services (CMS) license. Such a license will only be granted if the applicant, which must be a corporation, meets minimum financial and other requirements as prescribed by the MAS.[22]The SFA also provides certain exemptions from the requirement to hold capital markets services license.[23]
+Proposed
+Omnibus Act for the financial sector by MAS
+In
+July, 2020, MAS proposed the introduction of a new set of regulations to govern
+the financial sector in Singapore, which will also have impact on the
+cryptocurrency industry. The intention behind the proposed regulations is to
+protect Singaporeans from unsuitable entities who can increase the risk
+associated with crypto businesses and to clamp down on financial crime in the
+crypto ecosystem.[24]MAS mainly intends to introduce new provisions for putting in place the
+following:
+(1)A harmonized and expanded power to issue orders: MAS has the power to issue prohibition orders to bar persons from conducting certain activities or holding key roles in financial institutions for a certain period, in cases of serious misconduct.[25]However, MAS derives this power only from the DFA and the Financial Advisers Act (FAA). MAS cannot issue prohibition orders to persons regulated under other Acts. Therefore, the new proposed legislation will allow MAS to issue prohibitory orders against crypto businesses in case of misconduct.[26]
+(2)Anew Part to regulate virtual asset service providers for AML/CFT:MAS wants to introduce new standards to regulate virtual asset service providers on matters of money laundering and terrorism financing, based on the revised international standards of the Financial Action Task Force, the global money laundering and terrorist financing watchdog.[27]MAS also intends to have regulatory oversight on entities based in Singapore conducting crypto business outside of Singapore, for money laundering and terrorism financing related concerns.[28]
+(3)A harmonised power to impose requirements on technology risk management: MAS wants to introduce a high maximum penalty for breaches of technology risk management requirements.[29]MAS intends to introduce a power to issue directions to or make regulations concerning any financial institution or class of financial institution for management of technology risks, cyber security risks, deliverer of financial services and data protection.[30]
+(4)Providing mediators, adjudicators and employees of an operator of an approved dispute resolution scheme with statutory protection from liability: MAS wants financial institutions to subscribe to a MAS approved dispute resolution scheme to provide the customers with an independent and affordable avenue for resolving disputes.[31]
+Way forward: Challenges and
+opportunities for crypto businesses in Singapore
+Challenges
+(1)Banking challenges:In the recent past, several start-ups operating cryptocurrency businesses in Singapore faced operational issues with banks in Singapore. Banks ceased doing businesses with cryptocurrencies operators and arbitrarily closed their bank accounts.[32]Speculators believed that this was due to concerns surrounding money laundering and terrorism financing, especially due to increasing initial coin offerings by cryptocurrency businesses, equivalent to initial public offerings in the crypto industry.[33]However, to help boost its fintech economy, in 2018, MAS agreed to help crypto businesses set up bank accounts in Singapore by strengthening  crypto regulatory regime.[34]As MAS started taking measures to regulate the cryptocurrency industry, few banks have started allowing bank accounts to be opened by crypto businesses. For instance, Luno, a cryptocurrency exchange which halted its activities in 2017 owing to closure of its bank accounts, resumed operations in Singapore towards the end of 2019 after its bank accounts were opened.[35]Having said that, the woes of crypto businesses are far from over. Banking continues to remain a challenge and different banks have different approaches. Businesses are subjected to extensive diligence before they are offered bank accounts, and many banks will outright decline such privilege to companies that have any touch points with cryptocurrency.
+(2)Increased regulatory powers with MAS:The proposed Omnibus Act gives MAS broad powers to issue prohibition orders against crypto businesses and provides a high penalty for breach technology risk management requirements. The enhanced regulatory powers with MAS may be a cause for concern for crypto businesses and especially start-ups looking for a more flexible penalty regime.
+(3) Regulation of overseas crypto-firms: The biggest change being proposed under the Omnibus Act is the regulation of overseas crypto businesses. This implies that virtual asset service providers will have to ensure that their overseas operations meet the same regulatory standards as their Singapore operations.[36]
+Opportunities
+(1) Crypto-friendly attitude:Singapore’s crypto-friendly attitude and flexible regulatory offers an environment to facilitate growth and innovation in the fintech industry. MAS has been supportive of crypto start-ups and firms experimenting with cryptocurrency and blockchain technologies. This friendly climate has been a magnet for several big crypto businesses from countries like Australia, Japan and China setting shop in Singapore.[37]
+(2) Regulatory clarity and certainty:Stakeholders from the cryptocurrency industry welcomed some of the regulatory changes brought by MAS, especially the licensing regime under the PSA. Major crypto businesses such as Japanese-based Liquid Group Inc. and London-based Luno have expressed their eagerness to apply for a MAS license, which offers regulatory clarity and certainty to crypto businesses operating in Singapore.[38]
+(3)Increased consumer confidence in licensed crypto-operators:The licensing regime under the PSA will help increase consumer confidence in the crypto businesses operating in Singapore. Consumers will also be more comfortable in trusting licensed crypto operators.
+(4)Improved access to banking services:The new licensing regime under the PSA will facilitate easier access to traditional banking services to crypto businesses. In fact, the Association of Cryptocurrency Enterprises and Start-ups recently released a Code of Practice , under its Standardization of Practice in Crypto Entities (SPICE) initiative, with support from the Association of Banks in Singapore and the MAS to help crypto businesses apply for a license under the PSA.[39]These measures will lead to increased trust between crypto businesses and banks in Singapore, and improve their access to banking services.
+(5) New AML/CFT provisions reduce risk of financial crimes: The AML/CFT provisions under the PSA reduces the risk of financial crimes which can take place on a crypto platform. The Code of Practice released by the Association of Cryptocurrency Enterprises and Start-ups also seeks to help crypto businesses put in place robust AML/CFT measures. The Code also promotes best practices, including Know-Your-Customer, to help crypto businesses comply with the new regulatory framework.[40]While the regulatory regime is risk-focused, it also offers a flexible framework for crypto-firms to continue their businesses.
+This piece has been authored by Kruthi Venkatesh, a consultant working with Ikigai Law, with inputs from Anirudh Rastogi (anirudh@ikigailaw.com), Managing Partner at Ikigai Law.
+[1]Bitcoin.com,No
+strong case to ban crypto trading, Singapore says, 7 February, 2018,https://news.bitcoin.com/no-strong-case-to-ban-crypto-trading-singapore-says/.
+[2]Monetary Authority of Singapore, Reply to
+Parliamentary Question on regulation of crypto derivatives on Approved
+Exchanges, 6 January, 2020,https://www.mas.gov.sg/news/parliamentary-replies/2020/reply-to-parliamentary-question-on-regulation-of-crypto-derivatives-on-approved-exchanges.
+[3]Asia Times,Why
+Singapore is emerging as global crypto leader,https://asiatimes.com/2020/10/why-singapore-is-emerging-as-global-crypto-leader/.
+[4]Coin Telegraph,Singapore’s
+Government Blockchain Experiment is a Road to Regulatory Understanding, 20
+February, 2018,https://cointelegraph.com/news/singapores-government-blockchain-experiment-is-a-road-to-regulatory-understanding.
+[5]Anthony Soh and Feei Sy Tham,Singapore: Why Singapore has become Asia’s
+Cryptocurrency and Blockchain Hub, 15 January, 2020,https://www.mondaq.com/fin-tech/883798/why-singapore-has-become-asia39s-cryptocurrency-and-blockchain-hub.
+[6]Id.
+[7]Han Ming Ho & Jodephine Law,Singapore, The Virtual Currency Regulation Review, Ed. 3, September
+2020,https://thelawreviews.co.uk/edition/the-virtual-currency-regulation-review-edition-3/1230199/singapore.
+[8]Section 2, Payment Services Act, 2019,https://sso.agc.gov.sg/Acts-Supp/2-2019/Published/20190220?DocDate=20190220.
+[9]Part 3, First Schedule, Payment Services Act, 2019.
+[10]Section 5 and 6, Payment Services Act,supranote 12.
+[11]Section 6, Payment Services Act,supranote 12.
+[12]Scorechain,Cryptocurrencies
+Regulatory Landscape in Singapore,https://blog.scorechain.com/cryptocurrencies-regulatory-landscape-in-singapore/.
+[13]Comply Advantage,Payment
+Services Act in Singapore,https://complyadvantage.com/knowledgebase/payment-services-act-singapore/.
+[14]Monetary Authority of Singapore, A Guide to Digital
+Token Offerings, 26, May 2020,https://www.mas.gov.sg/-/media/MAS/Sectors/Guidance/Guide-to-Digital-Token-Offerings-26-May-2020.pdf.
+[15]Section 2(1), Securities and Futures Act, 2001,https://sso.agc.gov.sg/Act/SFA2001.
+[16]Id.
+[17]As defined under Section 2(1) SFA, this includes:(a) debentures
+or stocks issued or proposed to be issued by a government; (b) debentures,
+stocks or shares issued or proposed to be issued by a corporation or body
+unincorporated; (c) any right, option or derivative in respect of any such
+debentures, stocks or shares; (d) any right under a contract for differences or
+under any other contract the purpose or pretended purpose of which is to secure
+a profit or avoid a loss by reference to fluctuations in — (i) the value or
+price of any such debentures, stocks or shares; (ii) the value or price of any
+group of any such debentures, stocks or shares; or (iii) an index of any such
+debentures, stocks or shares; (e) any unit in a collective investment scheme;
+(f) any unit in a business trust; (g) any derivative of a unit in a business
+trust; or (h) such other product or class of products as the Authority may
+prescribe.
+[18]Sections 240 and 296, Securities
+and Futures Act,supranote 19.
+[19]Sections 272A, 302C, 274, 304 and 305, Securities and Futures Act,supranote
+19.
+[20]Section 6, Securities and Futures Act,supranote
+20.
+[21]Monetary Authority of Singapore, A Guide to Digital
+Token Offerings,supranote 18, at
+2.8.
+[22]Section 82, Securities and Futures Act,supranote 19.
+[23]Section 99, Securities and Futures Act,supranote 19.
+[24]Blockchain News,MAS
+proposes new regulations to tighten crypto business activities, 22 July,
+2020,https://blockchain.news/news/mas-proposes-new-regulations-tighten-crypto-business-activities.
+[25]Monetary Authority of Singapore,Consultation Paper on a New Omnibus Act for the Financial Sector,
+at 5, 21July, 2020,https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2020-July-Consultation-on-FSMA/Consultation-Paper-on-a-New-Omnibus-Act-for-the-Financial-Sector.pdf(hereafter, MAS,Consultation
+Paper on a New Omnibus Act for the Financial Sector).
+[26]Id.
+[27]Id.at 6.
+[28]MAS,Consultation
+Paper on a New Omnibus Act for the Financial Sector,supranote 29, at 10.
+[29]Id.at 18.
+[30]Id.
+[31]Id.at 19.
+[32]Bitcoin.com,Singapore-based
+Bitcoin Startups Deal with Bank Account Closures, September 26, 2017,https://news.bitcoin.com/singapore-based-bitcoin-startups-deal-with-bank-account-closures/.
+[33]Id.
+[34]The Star,Singapore
+will help crypto firms set up local bank accounts,October 10, 2018,https://www.thestar.com.my/business/business-news/2018/10/10/singapore-will-help-crypto-firms-set-up-local-bank-accounts.
+[35]The Business Times,Crypto firm Luno plans Singapore reboot after bank accounts open,
+November 1, 2019,https://www.businesstimes.com.sg/banking-finance/crypto-firm-luno-plans-singapore-reboot-after-bank-accounts-opened.
+[36]Coindesk,Singapore
+may extend crypto regulation to include overseas activities, 21 July 2020,https://www.coindesk.com/singapore-mas-considers-extending-crypto-regulation-overseas-activities.
+[37]Lottie Wells,Why
+Singapore is Emerging as Global Crypto Leader, Asia Times, October 10,
+2020,https://asiatimes.com/2020/10/why-singapore-is-emerging-as-global-crypto-leader/.
+[38]Bloomberg,New
+Singapore Law Allows Global Crypto Firms to Expand Locally, January 28,
+2020,https://www.bloomberg.com/news/articles/2020-01-27/singapore-launches-new-regime-for-cryptocurrency-payments-firms.
+[39]ACCESS,ACCESS rolls out Code of Practice to
+facilitate application of payment service provider license under Singapore’s
+Payment Services Act, August 13, 2020,https://www.access.org.sg/blogs/press-release/access-rolls-out-code-of-practice-to-facilitate-application-of-payment-service-provider-licence-under-singapore-s-payment-services-act.
+[40]Coindesk,Singapore’s Central Bank backs new Code of Practice for crypto
+companies, August 14, 2020,https://www.coindesk.com/singapores-central-bank-backs-new-code-of-practice-for-crypto-companies.
+RELATED WRITING
+Reinstating banking access for the Indian crypto-industry
+Know Your (Crypto) Customer – New KYC rules in town!
+Web3 Roundup 2022
+FTX’s House of Cards
+The Hassleocracy of Crypto-taxes
+Blockchain: Four key policy developments of 2022 from around the world
+Decoding Privacy Coins
+India’s digital assets definition brings it on collision course with in-game currencies
+Cryptocurrency and the Budget 2022-23
+The good and bad of crypto advertisements
+Challengethe status quo
+Sign up to our newsletter.
+Contact us
+011 4100 5597
+contact@ikigailaw.com

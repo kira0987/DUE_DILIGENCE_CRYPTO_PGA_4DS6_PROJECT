@@ -1,0 +1,45 @@
+About us
+UK floats DeFi oversight to mitigate crypto ‘regulatory arbitrage’
+Copy link
+The UK government’snew consultationfor the regulation of crypto fired a starting gun on the country’s aim to become a crypto hub. But when it comes to DeFi, a suite of permissionless financial protocols, or pieces of code, on blockchains like Ethereum, it’s so far holding off.
+The HM Treasury’s sweeping proposal would impact companies running exchanges, market-making services as well as those issuing stablecoins and NFTs – bringing such operators into the fold of traditional financial services. The consultation also provides for the first time regulatory guidance for crypto custody and lending.
+The Treasury said it wants to deliver “similar regulatory outcomes” across centralised crypto services and their DeFi equivalents, “to mitigate against risks of regulatory arbitrage.” However, how the government will achieve its desired outcomes is still unclear.
+“DeFi poses numerous challenges from a legal and regulatory perspective,” Jannah Patchay toldDL News. Patchay is Director of Markets Evolution, a financial regulatory consultancy.
+“Consistent treatment of DeFi structures is going to be crucial if we are to avoid opportunities for regulatory avoidance.”
+The consultation made clear the government ultimately wants “the same regulatory outcomes across comparable DeFi and CeFi activities,” but that it “likely” needs different sets of regulatory tools to achieve this goal. It recognised “a spectrum of decentralisation” in DeFi, acknowledging that protocols retaining a large proportion of their governance tokens or maintaining powers to make changes to the protocol, “should be subject to the same treatment as centralised organisations.”
+One idea from the consultation is to create a bespoke regime that takes into account the “unique challenges” associated with regulating specific DeFi activities, such as providing liquidity on decentralised exchanges like Uniswap, or borrowing assets through lending protocols like Aave.
+Under the proposed regulation, CeFi companies offering crypto services to UK nationals will face strict reporting requirements and obligations such as know-your-customer, or KYC, and anti-money laundering, or AML. But not DeFi – yet.
+“Regulators aren’t able to preside over DeFi given the issue of KYC/AML has yet to be solved,” said Taylor Cable, Managing Director at Cowen Digital Europe, the digital asset arm of investment bank Cowen. Currently, most DeFi protocols have no way of complying with existing financial services regulations as they do not collect personal information from users. Protocols are permissionless, and in many cases do not need a centralised authority to manage and maintain them.
+“Once that happens, they will be able to focus on it – TBD when those solutions will be ready. Ultimately, they will need to regulate it in some way, as consumers will be the main users,” Cable said.
+‘EU-based DeFi projects exist today that operate within a regulated environment, and the UK is lagging behind’
+However, some argue for a different approach on how the UK government should tackle DeFi. “Regulating DeFi doesn’t have to mean reinventing the wheel,” Timo Lehes, co-founder of Swarm Markets, toldDL News.
+“EU-based DeFi projects exist today that operate within a regulated environment, and the UK is lagging behind,” he said. “We have seen major economic powers, such as Germany, update their banking laws to classify crypto assets as financial instruments, meaning any entity dealing with them has to be regulated as a financial institution.”
+But the UK government said it’s aiming for an “innovation friendly approach,” as forcing DeFi protocols to comply with existing regulations – when in many instances it is currently impossible for protocols to do so – may stifle innovation and force developers overseas.
+News
+ETF tracker
+Newsletters
+Who we are
+Work with us
+Contact us
+Editorial standards
+Privacy policy
+Site map
+NewsDeFiDealsLlama UMarketsPeople & cultureRegulationSnapshotWeb3Opinion
+DeFi
+Deals
+Llama U
+Markets
+People & culture
+Regulation
+Snapshot
+Web3
+Opinion
+ETF Tracker
+Newsletters
+About usWho we areWork with usContact us
+Who we are
+Work with us
+Contact us
+Editorial Standards
+Privacy Policy
+Site Map

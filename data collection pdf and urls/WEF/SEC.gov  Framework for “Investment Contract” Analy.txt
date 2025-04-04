@@ -1,0 +1,278 @@
+An official website of the United States government
+Here’s how you know
+Official websites use .govA.govwebsite belongs to an official government organization in the United States.
+Secure .gov websites use HTTPSAlock(LockA locked padlock)
+              orhttps://means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Search FilingsSearch FilingsFull Text SearchLatest FilingsMutual Fund SearchVariable Insurance Products SearchSIC CodesCIK LookupPublic Dissemination Service (PDS)Search Assistance
+Search Filings
+Full Text Search
+Latest Filings
+Mutual Fund Search
+Variable Insurance Products Search
+SIC Codes
+CIK Lookup
+Public Dissemination Service (PDS)
+Search Assistance
+Submit FilingsSubmit FilingsEDGAR Filer Management PortalEDGAR Filing PortalOnline Forms Management PortalEDGAR NextForms IndexTechnical SpecificationsFiler Support & Resources
+Submit Filings
+EDGAR Filer Management Portal
+EDGAR Filing Portal
+Online Forms Management Portal
+EDGAR Next
+Forms Index
+Technical Specifications
+Filer Support & Resources
+Data & ResearchData & ResearchSEC & Markets DataTaxonomiesData Visualizations
+Data & Research
+SEC & Markets Data
+Taxonomies
+Data Visualizations
+Rules, Enforcement, & ComplianceRules & RegulationsRulemaking ActivityStatutes & RegulationsStaff GuidanceNo-Action, Interpretive, and Exemptive LettersSelf-Regulatory Organization RulemakingPublic Petitions for RulemakingEnforcement & LitigationLitigation ReleasesAdministrative ProceedingsAdministrative Law Judge Orders and Initial DecisionsTrading SuspensionsDistributions to Harmed InvestorsReceivershipsComplianceExamination PrioritiesRisk AlertsCompliance Outreach ProgramProposed RulesWhat's NewWhistleblower Program
+Rules & RegulationsRulemaking ActivityStatutes & RegulationsStaff GuidanceNo-Action, Interpretive, and Exemptive LettersSelf-Regulatory Organization RulemakingPublic Petitions for Rulemaking
+Rules & Regulations
+Rulemaking Activity
+Statutes & Regulations
+Staff Guidance
+No-Action, Interpretive, and Exemptive Letters
+Self-Regulatory Organization Rulemaking
+Public Petitions for Rulemaking
+Enforcement & LitigationLitigation ReleasesAdministrative ProceedingsAdministrative Law Judge Orders and Initial DecisionsTrading SuspensionsDistributions to Harmed InvestorsReceiverships
+Enforcement & Litigation
+Litigation Releases
+Administrative Proceedings
+Administrative Law Judge Orders and Initial Decisions
+Trading Suspensions
+Distributions to Harmed Investors
+Receiverships
+ComplianceExamination PrioritiesRisk AlertsCompliance Outreach Program
+Compliance
+Examination Priorities
+Risk Alerts
+Compliance Outreach Program
+Proposed RulesWhat's NewWhistleblower Program
+Proposed Rules
+What's New
+Whistleblower Program
+Securities TopicsSecurities TopicsCybersecuritySaving and Investing for Military PersonnelMarket StructureSaving and Investing for Teachers
+Securities Topics
+Cybersecurity
+Saving and Investing for Military Personnel
+Market Structure
+Saving and Investing for Teachers
+AboutAboutMissionCrypto Task ForceCommissionersDivisions & OfficesDivision & Office DirectorsAdvisory CommitteesBudget & PerformanceReports & PublicationsCommission VotesContact the SECCareers
+About
+Mission
+Crypto Task Force
+Commissioners
+Divisions & Offices
+Division & Office Directors
+Advisory Committees
+Budget & Performance
+Reports & Publications
+Commission Votes
+Contact the SEC
+Careers
+Submit a Tip or Complaint
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+More in this Section
+About
+Mission
+Advisory Committees
+Commission Votes
+Contact the SEC
+Crypto Task Force
+SEC Commissioners
+Divisions & Offices
+Division & Office Directors
+Regional Offices
+Filing Fee Rate
+Payment Options
+Reports & Publications
+Budget & Performance
+Careers
+Developer Resources
+RSS Feeds
+Open Government Directive
+About
+Mission
+Advisory Committees
+Commission Votes
+Contact the SEC
+Crypto Task Force
+SEC Commissioners
+Divisions & Offices
+Division & Office Directors
+Regional Offices
+Filing Fee Rate
+Payment Options
+Reports & Publications
+Budget & Performance
+Careers
+Developer Resources
+RSS Feeds
+Open Government Directive
+Home
+About
+Divisions and Offices
+Division of Corporation Finance
+Framework for “Investment Contract” Analysis of Digital Assets
+Framework for “Investment Contract” Analysis of Digital Assets
+[1]
+I. Introduction
+If you are considering an Initial Coin Offering, sometimes referred to as an "ICO," or otherwise engaging in the offer, sale, or distribution of a digital asset,[2]you need to consider whether the U.S. federal securities laws apply.  A threshold issue is whether the digital asset is a "security" under those laws.[3]The term "security" includes an "investment contract," as well as other instruments such as stocks, bonds, and transferable shares.  A digital asset should be analyzed to determine whether it has the characteristics of any product that meets the definition of "security" under the federal securities laws.  In this guidance, we provide a framework for analyzing whether a digital asset has the characteristics of one particular type of security – an "investment contract."[4]Both the Commission and the federal courts frequently use the "investment contract" analysis to determine whether unique or novel instruments or arrangements, such as digital assets, are securities subject to the federal securities laws.
+The U.S. Supreme Court'sHoweycase and subsequent case law have found that an "investment contract" exists when there is the investment of money in a common enterprise with a reasonable expectation of profits to be derived from the efforts of others.[5]The so-called "Howeytest" applies to any contract, scheme, or transaction, regardless of whether it has any of the characteristics of typical securities.[6]The focus of theHoweyanalysis is not only on the form and terms of the instrument itself (in this case, the digital asset) but also on the circumstances surrounding the digital asset and the manner in which it is offered, sold, or resold (which includes secondary market sales).  Therefore, issuers and other persons and entities engaged in the marketing, offer, sale, resale, or distribution of any digital asset will need to analyze the relevant transactions to determine if the federal securities laws apply.
+The federal securities laws require all offers and sales of securities, including those involving a digital asset, to either be registered under its provisions or to qualify for an exemption from registration.  The registration provisions require persons to disclose certain information to investors, and that information must be complete and not materially misleading.  This requirement for disclosure furthers the federal securities laws' goal of providing investors with the information necessary to make informed investment decisions.  Among the information that must be disclosed is information relating to the essential managerial efforts that affect the success of the enterprise.[7]This is true in the case of a corporation, for example, but also may be true for other types of enterprises regardless of their organizational structure or form.[8]Absent the disclosures required by law about those efforts and the progress and prospects of the enterprise, significant informational asymmetries may exist between the management and promoters of the enterprise on the one hand, and investors and prospective investors on the other hand.  The reduction of these information asymmetries through required disclosures protects investors and is one of the primary purposes of the federal securities laws.
+II. Application ofHoweyto Digital Assets
+In this guidance, we provide a framework for analyzing whether a digital asset is an investment contract and whether offers and sales of a digital asset are securities transactions.  As noted above, under theHoweytest, an "investment contract" exists when there is the investment of money in a common enterprise with a reasonable expectation of profits to be derived from the efforts of others.  Whether a particular digital asset at the time of its offer or sale satisfies theHoweytest depends on the specific facts and circumstances.  We address each of the elements of theHoweytest below.
+A. The Investment of Money
+The first prong of theHoweytest is typically satisfied in an offer and sale of a digital asset because the digital asset is purchased or otherwise acquired in exchange for value, whether in the form of real (or fiat) currency, another digital asset, or other type of consideration.[9]
+B. Common Enterprise
+Courts generally have analyzed a "common enterprise" as a distinct element of an investment contract.[10]In evaluating digital assets, we have found that a "common enterprise" typically exists.[11]
+C. Reasonable Expectation of Profits Derived from Efforts of Others
+Usually, the main issue in analyzing a digital asset under theHoweytest is whether a purchaser has a reasonable expectation of profits (or other financial returns) derived from the efforts of others.  A purchaser may expect to realize a return through participating in distributions or through other methods of realizing appreciation on the asset, such as selling at a gain in a secondary market.  When a promoter, sponsor, or other third party (or affiliated group of third parties) (each, an "Active Participant" or "AP") provides essential managerial efforts that affect the success of the enterprise, and investors reasonably expect to derive profit from those efforts, then this prong of the test is met.  Relevant to this inquiry is the "economic reality"[12]of the transaction and "what character the instrument is given in commerce by the terms of the offer, the plan of distribution, and the economic inducements held out to the prospect."[13]The inquiry, therefore, is an objective one, focused on the transaction itself and the manner in which the digital asset is offered and sold.
+The following characteristics are especially relevant in an analysis of whether the third prong of theHoweytest is satisfied.
+1. Reliance on the Efforts of Others
+The inquiry into whether a purchaser is relying on the efforts of others focuses on two key issues:
+Does the purchaser reasonably expect to rely on the efforts of an AP?
+Are those efforts "the undeniably significant ones, those essential managerial efforts which affect the failure or success of the enterprise,"[14]as opposed to efforts that are more ministerial in nature?
+Although no one of the following characteristics is necessarily determinative, the stronger their presence, the more likely it is that a purchaser of a digital asset is relying on the "efforts of others":
+An AP is responsible for the development, improvement (or enhancement), operation, or promotion of the network,[15]particularly if purchasers of the digital asset expect an AP to be performing or overseeing tasks that are necessary for the network or digital asset to achieve or retain its intended purpose or functionality.[16]Where the network or the digital asset is still in development and the network or digital asset is not fully functional at the time of the offer or sale, purchasers would reasonably expect an AP to further develop the functionality of the network or digital asset (directly or indirectly).  This particularly would be the case where an AP promises further developmental efforts in order for the digital asset to attain or grow in value.
+Where the network or the digital asset is still in development and the network or digital asset is not fully functional at the time of the offer or sale, purchasers would reasonably expect an AP to further develop the functionality of the network or digital asset (directly or indirectly).  This particularly would be the case where an AP promises further developmental efforts in order for the digital asset to attain or grow in value.
+There are essential tasks or responsibilities performed and expected to be performed by an AP, rather than an unaffiliated, dispersed community of network users (commonly known as a "decentralized" network).
+An AP creates or supports a market for,[17]or the price of, the digital asset.  This can include, for example, an AP that:  (1) controls the creation and issuance of the digital asset; or (2) takes other actions to support a market price of the digital asset, such as by limiting supply or ensuring scarcity, through, for example, buybacks, "burning," or other activities.
+An AP has a lead or central role in the direction of the ongoing development of the network or the digital asset.  In particular, an AP plays a lead or central role in deciding governance issues, code updates, or how third parties participate in the validation of transactions that occur with respect to the digital asset.
+An AP has a continuing managerial role in making decisions about or exercising judgment concerning the network or the characteristics or rights the digital asset represents including, for example:Determining whether and how to compensate persons providing services to the network or to the entity or entities charged with oversight of the network.Determining whether and where the digital asset will trade.  For example, purchasers may reasonably rely on an AP for liquidity, such as where the AP has arranged, or promised to arrange for, the trading of the digital asset on a secondary market or platform.Determining who will receive additional digital assets and under what conditions.Making or contributing to managerial level business decisions, such as how to deploy funds raised from sales of the digital asset.Playing a leading role in the validation or confirmation of transactions on the network, or in some other way having responsibility for the ongoing security of the network.Making other managerial judgments or decisions that will directly or indirectly impact the success of the network or the value of the digital asset generally.
+Determining whether and how to compensate persons providing services to the network or to the entity or entities charged with oversight of the network.
+Determining whether and where the digital asset will trade.  For example, purchasers may reasonably rely on an AP for liquidity, such as where the AP has arranged, or promised to arrange for, the trading of the digital asset on a secondary market or platform.
+Determining who will receive additional digital assets and under what conditions.
+Making or contributing to managerial level business decisions, such as how to deploy funds raised from sales of the digital asset.
+Playing a leading role in the validation or confirmation of transactions on the network, or in some other way having responsibility for the ongoing security of the network.
+Making other managerial judgments or decisions that will directly or indirectly impact the success of the network or the value of the digital asset generally.
+Purchasers would reasonably expect the AP to undertake efforts to promote its own interests and enhance the value of the network or digital asset, such as where:The AP has the ability to realize capital appreciation from the value of the digital asset.  This can be demonstrated, for example, if the AP retains a stake or interest in the digital asset.  In these instances, purchasers would reasonably expect the AP to undertake efforts to promote its own interests and enhance the value of the network or digital asset.The AP distributes the digital asset as compensation to management or the AP's compensation is tied to the price of the digital asset in the secondary market.  To the extent these facts are present, the compensated individuals can be expected to take steps to build the value of the digital asset.The AP owns or controls ownership of intellectual property rights of the network or digital asset, directly or indirectly.The AP monetizes the value of the digital asset, especially where the digital asset has limited functionality.
+The AP has the ability to realize capital appreciation from the value of the digital asset.  This can be demonstrated, for example, if the AP retains a stake or interest in the digital asset.  In these instances, purchasers would reasonably expect the AP to undertake efforts to promote its own interests and enhance the value of the network or digital asset.
+The AP distributes the digital asset as compensation to management or the AP's compensation is tied to the price of the digital asset in the secondary market.  To the extent these facts are present, the compensated individuals can be expected to take steps to build the value of the digital asset.
+The AP owns or controls ownership of intellectual property rights of the network or digital asset, directly or indirectly.
+The AP monetizes the value of the digital asset, especially where the digital asset has limited functionality.
+In evaluating whether a digital asset previously sold as a security should be reevaluated at the time of later offers or sales, there would be additional considerations as they relate to the "efforts of others," including but not limited to:
+Whether or not the efforts of an AP, including any successor AP, continue to be important to the value of an investment in the digital asset.
+Whether the network on which the digital asset is to function operates in such a manner that purchasers would no longer reasonably expect an AP to carry out essential managerial or entrepreneurial efforts.
+Whether the efforts of an AP are no longer affecting the enterprise's success.
+2. Reasonable Expectation of Profits
+An evaluation of the digital asset should also consider whether there is a reasonable expectation of profits.  Profits can be, among other things, capital appreciation resulting from the development of the initial investment or business enterprise or a participation in earnings resulting from the use of purchasers' funds.[18]Price appreciation resulting solely from external market forces (such as general inflationary trends or the economy) impacting the supply and demand for an underlying asset generally is not considered "profit" under theHoweytest.
+The more the following characteristics are present, the more likely it is that there is a reasonable expectation of profit:
+The digital asset gives the holder rights to share in the enterprise's income or profits or to realize gain from capital appreciation of the digital asset.The opportunity may result from appreciation in the value of the digital asset that comes, at least in part, from the operation, promotion, improvement, or other positive developments in the network, particularly if there is a secondary trading market that enables digital asset holders to resell their digital assets and realize gains.This also can be the case where the digital asset gives the holder rights to dividends or distributions.
+The opportunity may result from appreciation in the value of the digital asset that comes, at least in part, from the operation, promotion, improvement, or other positive developments in the network, particularly if there is a secondary trading market that enables digital asset holders to resell their digital assets and realize gains.
+This also can be the case where the digital asset gives the holder rights to dividends or distributions.
+The digital asset is transferable or traded on or through a secondary market or platform, or is expected to be in the future.[19]
+Purchasers reasonably would expect that an AP's efforts will result in capital appreciation of the digital asset and therefore be able to earn a return on their purchase.
+The digital asset is offered broadly to potential purchasers as compared to being targeted to expected users of the goods or services or those who have a need for the functionality of the network.The digital asset is offered and purchased in quantities indicative of investment intent instead of quantities indicative of a user of the network.  For example, it is offered and purchased in quantities significantly greater than any likely user would reasonably need, or so small as to make actual use of the asset in the network impractical.
+The digital asset is offered and purchased in quantities indicative of investment intent instead of quantities indicative of a user of the network.  For example, it is offered and purchased in quantities significantly greater than any likely user would reasonably need, or so small as to make actual use of the asset in the network impractical.
+There is little apparent correlation between the purchase/offering price of the digital asset and the market price of the particular goods or services that can be acquired in exchange for the digital asset.
+There is little apparent correlation between quantities the digital asset typically trades in (or the amounts that purchasers typically purchase) and the amount of the underlying goods or services a typical consumer would purchase for use or consumption.
+The AP has raised an amount of funds in excess of what may be needed to establish a functional network or digital asset.
+The AP is able to benefit from its efforts as a result of holding the same class of digital assets as those being distributed to the public.
+The AP continues to expend funds from proceeds or operations to enhance the functionality or value of the network or digital asset.
+The digital asset is marketed, directly or indirectly, using any of the following:The expertise of an AP or its ability to build or grow the value of the network or digital asset.The digital asset is marketed in terms that indicate it is an investment or that the solicited holders are investors.The intended use of the proceeds from the sale of the digital asset is to develop the network or digital asset.The future (and not present) functionality of the network or digital asset, and the prospect that an AP will deliver that functionality.The promise (implied or explicit) to build a business or operation as opposed to delivering currently available goods or services for use on an existing network.The ready transferability of the digital asset is a key selling feature.The potential profitability of the operations of the network, or the potential appreciation in the value of the digital asset, is emphasized in marketing or other promotional materials.The availability of a market for the trading of the digital asset, particularly where the AP implicitly or explicitly promises to create or otherwise support a trading market for the digital asset.
+The expertise of an AP or its ability to build or grow the value of the network or digital asset.
+The digital asset is marketed in terms that indicate it is an investment or that the solicited holders are investors.
+The intended use of the proceeds from the sale of the digital asset is to develop the network or digital asset.
+The future (and not present) functionality of the network or digital asset, and the prospect that an AP will deliver that functionality.
+The promise (implied or explicit) to build a business or operation as opposed to delivering currently available goods or services for use on an existing network.
+The ready transferability of the digital asset is a key selling feature.
+The potential profitability of the operations of the network, or the potential appreciation in the value of the digital asset, is emphasized in marketing or other promotional materials.
+The availability of a market for the trading of the digital asset, particularly where the AP implicitly or explicitly promises to create or otherwise support a trading market for the digital asset.
+In evaluating whether a digital asset previously sold as a security should be reevaluated at the time of later offers or sales, there would be additional considerations as they relate to the "reasonable expectation of profits," including but not limited to:
+Purchasers of the digital asset no longer reasonably expect that continued development efforts of an AP will be a key factor for determining the value of the digital asset.
+The value of the digital asset has shown a direct and stable correlation to the value of the good or service for which it may be exchanged or redeemed.
+The trading volume for the digital asset corresponds to the level of demand for the good or service for which it may be exchanged or redeemed.
+Whether holders are then able to use the digital asset for its intended functionality, such as to acquire goods and services on or through the network or platform.
+Whether any economic benefit that may be derived from appreciation in the value of the digital asset is incidental to obtaining the right to use it for its intended functionality.
+No AP has access to material, non-public information or could otherwise be deemed to hold material inside information about the digital asset.
+3. Other Relevant Considerations
+When assessing whether there is a reasonable expectation of profit derived from the efforts of others, federal courts look to the economic reality of the transaction.[20]In doing so, the courts also have considered whether the instrument is offered and sold for use or consumption by purchasers.[21]
+Although no one of the following characteristics of use or consumption is necessarily determinative, the stronger their presence, the less likely theHoweytest is met:
+The distributed ledger network and digital asset are fully developed and operational.
+Holders of the digital asset are immediately able to use it for its intended functionality on the network, particularly where there are built-in incentives to encourage such use.
+The digital assets' creation and structure is designed and implemented to meet the needs of its users, rather than to feed speculation as to its value or development of its network.  For example, the digital asset can only be used on the network and generally can be held or transferred only in amounts that correspond to a purchaser's expected use.
+Prospects for appreciation in the value of the digital asset are limited.  For example, the design of the digital asset provides that its value will remain constant or even degrade over time, and, therefore, a reasonable purchaser would not be expected to hold the digital asset for extended periods as an investment.
+With respect to a digital asset referred to as a virtual currency, it can immediately be used to make payments in a wide variety of contexts, or acts as a substitute for real (or fiat) currency.This means that it is possible to pay for goods or services with the digital asset without first having to convert it to another digital asset or real currency.If it is characterized as a virtual currency, the digital asset actually operates as a store of value that can be saved, retrieved, and exchanged for something of value at a later time.
+This means that it is possible to pay for goods or services with the digital asset without first having to convert it to another digital asset or real currency.
+If it is characterized as a virtual currency, the digital asset actually operates as a store of value that can be saved, retrieved, and exchanged for something of value at a later time.
+With respect to a digital asset that represents rights to a good or service, it currently can be redeemed within a developed network or platform to acquire or otherwise use those goods or services.  Relevant factors may include:There is a correlation between the purchase price of the digital asset and a market price of the particular good or service for which it may be redeemed or exchanged.The digital asset is available in increments that correlate with a consumptive intent versus an investment or speculative purpose.An intent to consume the digital asset may also be more evident if the good or service underlying the digital asset can only be acquired, or more efficiently acquired, through the use of the digital asset on the network.
+There is a correlation between the purchase price of the digital asset and a market price of the particular good or service for which it may be redeemed or exchanged.
+The digital asset is available in increments that correlate with a consumptive intent versus an investment or speculative purpose.
+An intent to consume the digital asset may also be more evident if the good or service underlying the digital asset can only be acquired, or more efficiently acquired, through the use of the digital asset on the network.
+Any economic benefit that may be derived from appreciation in the value of the digital asset is incidental to obtaining the right to use it for its intended functionality.
+The digital asset is marketed in a manner that emphasizes the functionality of the digital asset, and not the potential for the increase in market value of the digital asset.
+Potential purchasers have the ability to use the network and use (or have used) the digital asset for its intended functionality.
+Restrictions on the transferability of the digital asset are consistent with the asset's use and not facilitating a speculative market.
+If the AP facilitates the creation of a secondary market, transfers of the digital asset may only be made by and among users of the platform.
+Digital assets with these types of use or consumption characteristics are less likely to be investment contracts.  For example, take the case of an online retailer with a fully-developed operating business.  The retailer creates a digital asset to be used by consumers to purchase products only on the retailer's network, offers the digital asset for sale in exchange for real currency, and the digital asset is redeemable for products commensurately priced in that real currency.  The retailer continues to market its products to its existing customer base, advertises its digital asset payment method as part of those efforts, and may "reward" customers with digital assets based on product purchases.  Upon receipt of the digital asset, consumers immediately are able to purchase products on the network using the digital asset.  The digital assets are not transferable; rather, consumers can only use them to purchase products from the retailer or sell them back to the retailer at a discount to the original purchase price.  Under these facts, the digital asset would not be an investment contract.
+Even in cases where a digital asset can be used to purchase goods or services on a network, where that network's or digital asset's functionality is being developed or improved, there may be securities transactions if, among other factors, the following is present:  the digital asset is offered or sold to purchasers at a discount to the value of the goods or services; the digital asset is offered or sold to purchasers in quantities that exceed reasonable use; and/or there are limited or no restrictions on reselling those digital assets, particularly where an AP is continuing in its efforts to increase the value of the digital assets or has facilitated a secondary market.
+III. Conclusion
+The discussion above identifies some of the factors market participants should consider in assessing whether a digital asset is offered or sold as an investment contract and, therefore, is a security.  It also identifies some of the factors to be considered in determining whether and when a digital asset may no longer be a security.  These factors are not intended to be exhaustive in evaluating whether a digital asset is an investment contract or any other type of security, and no single factor is determinative; rather, we are providing them to assist those engaging in the offer, sale, or distribution of a digital asset, and their counsel, as they consider these issues.  We encourage market participants to seek the advice of securities counsel and engage with the Staff throughwww.sec.gov/finhub.
+[1]This framework represents the views of the Strategic Hub for Innovation and Financial Technology ("FinHub," the "Staff," or "we") of the Securities and Exchange Commission (the "Commission").  It is not a rule, regulation, or statement of the Commission, and the Commission has neither approved nor disapproved its content.  Further, this framework does not replace or supersede existing case law, legal requirements, or statements or guidance from the Commission or Staff.  Rather, the framework provides additional guidance in the areas that the Commission or Staff has previously addressed.See, e.g., Report of Investigation Pursuant to Section 21(a) of the Securities Exchange Act of 1934: The DAO(Exchange Act Rel. No. 81207) (July 25, 2017) ("The DAO Report"); William Hinman,Digital Asset Transactions: WhenHoweyMet Gary (Plastic), Remarks at the Yahoo Finance All Markets Summit: Crypto (June 14, 2018), available athttps://www.sec.gov/news/speech/speech-hinman-061418.
+[2]The term "digital asset," as used in this framework, refers to an asset that is issued and transferred using distributed ledger or blockchain technology, including, but not limited to, so-called "virtual currencies," "coins," and "tokens."
+[3]The term "security" is defined in Section 2(a)(1) of the Securities Act of 1933 (the "Securities Act"), Section 3(a)(10) of the Securities Exchange Act of 1934, Section 2(a)(36) of the Investment Company Act of 1940, and Section 202(a)(18) of the Investment Advisers Act of 1940.
+[4]This framework is intended to be instructive and is based on the Staff's experiences to date and relevant law and legal precedent.  It is not an exhaustive treatment of the legal and regulatory issues relevant to conducting an analysis of whether a product is a security, including an investment contract analysis with respect to digital assets generally.  We expect that analysis concerning digital assets as securities may evolve over time as the digital asset market matures.  Also, no one factor is necessarily dispositive as to whether or not an investment contract exists.
+[5]SEC v. W.J.HoweyCo., 328 U.S. 293 (1946) ("Howey").See also United Housing Found., Inc. v. Forman, 421 U.S. 837 (1975) ("Forman");Tcherepnin v. Knight, 389 U.S. 332 (1967) ("Tcherepnin");SEC v. C. M. Joiner Leasing Corp., 320 U.S. 344 (1943) ("Joiner").
+[6]Whether a contract, scheme, or transaction is an investment contract is a matter of federal, not state, law and does not turn on whether there is a formal contract between parties.  Rather, under theHoweytest, "form [is] disregarded for substance and the emphasis [is] on economic reality."Howey, 328 U.S. at 298.  The Supreme Court has further explained that that the term security "embodies a flexible rather than a static principle" in order to meet the "variable schemes devised by those who seek the use of the money of others on the promise of profits."Id.at 299.
+[7]Issuers of digital assets, like all issuers, must provide full and fair disclosure of material information consistent with the requirements of the federal securities laws.  Issuers of digital assets should be guided by the regulatory framework and concepts of materiality.  What is material depends upon the nature and structure of the issuer's particular network and circumstances.SeeTSC Industries v. Northway, 426 U.S. 438, 449 (1976) (a fact is material "if there is a substantial likelihood that a reasonable shareholder would consider it important" in making an investment decision or if it "would have been viewed by the reasonable investor as having significantly altered the 'total mix' of information made available" to the shareholder).
+[8]SeeThe DAO Report.
+[9]The lack of monetary consideration for digital assets, such as those distributed via a so-called "bounty program" does not mean that the investment of money prong is not satisfied.  As the Commission explained inThe DAO Report, "[i]n determining whether an investment contract exists, the investment of 'money' need not take the form of cash" and "in spite ofHowey'sreference to an 'investment of money,' it is well established that cash is not the only form of contribution or investment that will create an investment contract."The DAO Reportat 11 (citation omitted).See In re Tomahawk Exploration LLC, Securities Act Rel. 10530 (Aug. 14, 2018) (issuance of tokens under a so-called "bounty program" constituted an offer and sale of securities because the issuer provided tokens to investors in exchange for services designed to advance the issuer's economic interests and foster a trading market for its securities).   Further, the lack of monetary consideration for digital assets, such as those distributed via a so-called "air drop," does not mean that the investment of money prong is not satisfied; therefore, an airdrop may constitute a sale or distribution of securities.  In a so-called "airdrop," a digital asset is distributed to holders of another digital asset, typically to promote its circulation.
+[10]In order to satisfy the "common enterprise" aspect of theHoweytest, federal courts require that there be either "horizontal commonality" or "vertical commonality."SeeRevak v. SEC Realty Corp., 18 F.3d. 81, 87-88 (2d Cir. 1994) (discussing horizontal commonality as "the tying of each individual investor's fortunes to the fortunes of the other investors by the pooling of assets, usually combined with the pro-rata distribution of profits" and two variants of vertical commonality, which focus "on the relationship between the promoter and the body of investors").  The Commission, on the other hand, does not require vertical or horizontal commonalityper se, nor does it view a "common enterprise" as a distinct element of the term "investment contract."In re Barkate, 57 S.E.C. 488, 496 n.13 (Apr. 8, 2004);see alsothe Commission's Supplemental Brief at 14 inSEC v. Edwards, 540 U.S. 389 (2004) (on remand to the 11th Circuit).
+[11]Based on our experiences to date, investments in digital assets have constituted investments in a common enterprise because the fortunes of digital asset purchasers have been linked to each other or to the success of the promoter's efforts.SeeSEC v. Int'l Loan Network, Inc., 968 F.2d 1304, 1307(D.C. Cir. 1992).
+[12]Howey, 328 U.S. at 298.See alsoTcherepnin, 389 U.S. at 336 ("in searching for the meaning and scope of the word 'security' in the [Acts], form should be disregarded for substance and the emphasis should be on economic reality.")
+[13]Joiner, 320 U.S. at 352-53.
+[14]SEC v. Glenn W. Turner Enter., Inc., 474 F.2d 476, 482 (9th Cir.),cert. denied, 414 U.S. 821, 94 S. Ct. 117, 38 L. Ed. 2d 53 (1973) ("Turner").
+[15]In this guidance, we are using the term "network" broadly to encompass the various elements that comprise a digital asset's network, enterprise, platform, or application.
+[16]We recognize that holders of digital assets may put forth some effort in the operations of the network, but those efforts do not negate the fact that the holders of digital assets are relying on the efforts of the AP.  That a scheme assigns "nominal or limited responsibilities to the [investor] does not negate the existence of an investment contract."SEC v. Koscot Interplanetary, Inc., 497 F.2d 473, 483 n.15 (5th Cir. 1974) (citation and quotation marks omitted).  If the AP provides efforts that are "the undeniably significant ones, those essential managerial efforts which affect the failure or success of the enterprise," and the AP is not merely performing ministerial or routine tasks, then there likely is an investment contract.See Turner, 474 U.S. at 482;see alsoThe DAO Report(although DAO token holders had certain voting rights, they nonetheless reasonably relied on the managerial efforts of others).  Managerial and entrepreneurial efforts typically are characterized as involving expertise and decision-making that impacts the success of the business or enterprise through the application of skill and judgment.
+[17]See, e.g., Gary Plastic Packaging Corp. v. Merrill Lynch, Pierce Fenner & Smith, 756 F.2d 230 (2d Cir. 1985).
+[18]SeeForman, 421 U.S. at 852.
+[19]Situations where the digital asset is exchangeable or redeemable solely for goods or services within the network or on a platform, and may not otherwise be transferred or sold, may more likely be a payment for a good or service in which the purchaser is motivated to use or consume the digital asset.Seediscussion of "Other Relevant Considerations."
+[20]As noted above, underHowey, courts conduct an objective inquiry focused on the transaction itself and the manner in which it is offered.
+[21]See Forman, 421 U.S. at 852-53 (where a purchaser is not "'attracted solely by the prospects of a return' on his investment . . . [but] is motivated by a desire to use or consume the item purchased  . . .  the securities laws do not apply.").
+Last Reviewed or Updated:July 5, 2024
+About the SECBudget & PerformanceCareersCommission VotesContactContracts
+About the SEC
+Budget & Performance
+Careers
+Commission Votes
+Contact
+Contracts
+TransparencyAccessibility & DisabilityArtificial IntelligenceCummings NoticeFOIAInspector GeneralNo FEAR Act & EEO DataOmbudsSEC Excess Personal Property Guidance
+Transparency
+Accessibility & Disability
+Artificial Intelligence
+Cummings Notice
+FOIA
+Inspector General
+No FEAR Act & EEO Data
+Ombuds
+SEC Excess Personal Property Guidance
+WebsitesInvestor.govRelated SitesUSA.gov
+Websites
+Investor.gov
+Related Sites
+USA.gov
+Site InformationPlain WritingPrivacy & SecuritySite Map
+Site Information
+Plain Writing
+Privacy & Security
+Site Map
+Stay connected. Sign up for email updates.
+X
+Facebook
+Instagram
+RSS
+YouTube
+Email Updates
