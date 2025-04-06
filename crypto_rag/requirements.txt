@@ -1,0 +1,6 @@
+langchain
+langchain-community
+streamlit
+faiss-cpu
+ollama
+numpy
