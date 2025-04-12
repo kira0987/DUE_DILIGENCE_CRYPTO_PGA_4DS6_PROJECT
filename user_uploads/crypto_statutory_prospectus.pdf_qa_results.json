@@ -1,0 +1,34 @@
+{
+  "filename": "crypto_statutory_prospectus.pdf",
+  "risk_score": 20.0,
+  "risk_terms": {
+    "regulatory": [
+      "unregulated"
+    ],
+    "financial": [
+      "losses",
+      "bankruptcy"
+    ],
+    "technical": [
+      "vulnerable"
+    ],
+    "operational": []
+  },
+  "qa_results": [
+    {
+      "question": "\u25cb\u200b What are the applicable laws and regulations in those jurisdictions?",
+      "answer": "\u26a0\ufe0f LLM Error: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions",
+      "category": "Regulatory"
+    },
+    {
+      "question": "\u25cb\u200b In which jurisdictions is the digital asset/cryptocurrency operating?",
+      "answer": "\u26a0\ufe0f LLM Error: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions",
+      "category": "General"
+    },
+    {
+      "question": "\u25cb\u200b Has the project obtained all necessary licenses and registrations?",
+      "answer": "\u26a0\ufe0f LLM Error: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions",
+      "category": "General"
+    }
+  ]
+}

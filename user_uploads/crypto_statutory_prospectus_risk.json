@@ -1,0 +1,17 @@
+{
+  "risk_score": 41.0,
+  "risk_terms": {
+    "regulatory": [
+      "enforcement action"
+    ],
+    "technical": [],
+    "financial": [
+      "counterparty risk",
+      "market manipulation"
+    ],
+    "operational": [
+      "concentration risk"
+    ]
+  },
+  "analysis_time": "2025-04-12T01:09:17.760787"
+}

@@ -1,0 +1,41 @@
+{
+  "filename": "ey-token-due-diligence-a-structured-approach-to-evaluate-digital-asset-risk.pdf",
+  "risk_score": 10.0,
+  "risk_terms": {
+    "regulatory": [],
+    "financial": [
+      "unaudited"
+    ],
+    "technical": [
+      "vulnerable"
+    ],
+    "operational": []
+  },
+  "qa_results": [
+    {
+      "question": "\u25cb\u200b What are the applicable laws and regulations in those jurisdictions?",
+      "answer": "Based on the provided context, I cannot accurately determine which jurisdictions you are referring to. However, for a crypto fund analysis, typically relevant laws and regulations include:\n\n*   Anti-Money Laundering (AML) and Know-Your-Customer (KYC) regulations\n*   Securities laws and regulations specific to the jurisdiction (e.g., SEC in the US)\n*   Taxation laws and regulations",
+      "category": "Regulatory"
+    },
+    {
+      "question": "differences?",
+      "answer": "The differences in governance and tokenomics between Ethereum, Solana, and other tokens are evident in the context provided.\n\n**Key differences include:**\n\n*   **Token Supply**: Some tokens (e.g., SOL) have no maximum supply, while others (e.g., Y NFT, SBR) do.\n*   **Governance Participation**: The level of participation in governance votes varies among tokens. For example, Ethereum's community vote was put up to protect itself from a risk, whereas other tokens may not have such mechanisms in place.\n\n**Additional differences can be inferred by analyzing the token metrics:**\n\n*   **Market Cap and TVL**: Tokens like SOL, MNGO, SRM, RAY, TULIP, SLND, and SBR have varying market capitalization (MC) and total value locked (TVL) metrics.\n*   **Inflation Rates**: Some tokens, such as Y NFT and SBR, do not mention inflation rates.\n\nThese differences highlight the distinct approaches to tokenomics and governance among various crypto funds.",
+      "category": "General"
+    },
+    {
+      "question": "\u25cb\u200b In which jurisdictions is the digital asset/cryptocurrency operating?",
+      "answer": "Based on the context provided, there is no explicit information about the jurisdictions where the specific digital assets mentioned (SOL, RAY, TULIP, etc.) are operating. However, it can be inferred that these tokens are part of the Solana ecosystem and likely operate in a jurisdiction-agnostic manner due to their decentralized nature.\n\nBut if we look at the specific tokens, there is no information provided about their jurisdictions. The only relevant information is about the protocols (Layer1) mentioned which includes Solana operating on Layer 1 protocol in Solana Ecosystem.",
+      "category": "General"
+    },
+    {
+      "question": "\u25cb\u200b Has the project obtained all necessary licenses and registrations?",
+      "answer": "Based on the provided context, there is no explicit information about the project obtaining licenses and registrations. However, it appears that most of the listed assets have \"N\" (not) next to their names in the \"holders Y/N\" column, suggesting they may not be registered or licensed entities. It's essential to conduct a thorough analysis to determine if this is accurate and to identify any necessary licenses or registrations required for each project.",
+      "category": "General"
+    },
+    {
+      "question": "\u25cb\u200b What is the legal structure of the entity behind the digital asset?",
+      "answer": "Unfortunately, this information is not provided in the given context. There is no mention of the legal structure of the entities behind the listed digital assets (e.g., SOL, MNGO, SRM, etc.).",
+      "category": "General"
+    }
+  ]
+}

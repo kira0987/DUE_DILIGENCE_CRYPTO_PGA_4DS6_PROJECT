@@ -1,0 +1,106 @@
+{
+  "crypto_projects": [
+    "Bitcoin",
+    "Ethereum",
+    "Solana",
+    "Cardano",
+    "Polkadot",
+    "Avalanche",
+    "Polygon",
+    "Cosmos",
+    "Chainlink",
+    "Litecoin",
+    "Ripple",
+    "Stellar",
+    "Monero",
+    "Tezos",
+    "Algorand",
+    "VeChain",
+    "Filecoin",
+    "Helium"
+  ],
+  "organizations": [
+    "Securities and Exchange Commission",
+    "Financial Conduct Authority",
+    "ProShare Advisors",
+    "Coinbase",
+    "Binance",
+    "Kraken",
+    "Gemini",
+    "FTX",
+    "Crypto.com",
+    "Ledger",
+    "Trezor",
+    "MetaMask",
+    "ConsenSys"
+  ],
+  "locations": [
+    "United States",
+    "United Kingdom",
+    "Canada",
+    "Australia",
+    "Germany",
+    "France",
+    "Japan",
+    "Singapore",
+    "Switzerland",
+    "New York",
+    "London",
+    "Tokyo",
+    "Hong Kong",
+    "Beijing",
+    "Shanghai"
+  ],
+  "crypto_terms": [
+    "bitcoin",
+    "ethereum",
+    "blockchain",
+    "crypto",
+    "defi",
+    "nft",
+    "dao",
+    "web3",
+    "smart contract",
+    "token"
+  ],
+  "risk_terms": {
+    "regulatory": [
+      "regulatory violation",
+      "compliance failure",
+      "SEC investigation",
+      "sanctions risk",
+      "enforcement action",
+      "regulatory scrutiny",
+      "license revocation",
+      "cease and desist"
+    ],
+    "technical": [
+      "smart contract vulnerability",
+      "oracle failure",
+      "51% attack",
+      "bridge exploit",
+      "reentrancy attack",
+      "flash loan attack",
+      "front-running",
+      "governance attack"
+    ],
+    "financial": [
+      "liquidity crunch",
+      "volatility spike",
+      "counterparty risk",
+      "redemption freeze",
+      "bank run",
+      "insolvency risk",
+      "market manipulation",
+      "wash trading"
+    ],
+    "operational": [
+      "cybersecurity breach",
+      "key person risk",
+      "third-party risk",
+      "operational failure",
+      "governance issue",
+      "concentration risk"
+    ]
+  }
+}

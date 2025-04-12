@@ -1,0 +1,59 @@
+{
+  "person_blacklist": [
+    "fund",
+    "llc",
+    "inc",
+    "corp",
+    "trust",
+    "advisor",
+    "advisory",
+    "management",
+    "capital"
+  ],
+  "person_suffixes": [
+    "jr",
+    "sr",
+    "phd",
+    "esq"
+  ],
+  "org_blacklist": [
+    "statement",
+    "report",
+    "form",
+    "document",
+    "section",
+    "chapter",
+    "page"
+  ],
+  "org_suffixes": [
+    "llc",
+    "inc",
+    "ltd",
+    "corp",
+    "trust",
+    "fund",
+    "report",
+    "statement"
+  ],
+  "org_prefixes": [
+    "the",
+    "a",
+    "an"
+  ],
+  "crypto_blacklist": [
+    "fund",
+    "trust",
+    "llc",
+    "inc",
+    "corp",
+    "statement",
+    "report"
+  ],
+  "crypto_suffixes": [
+    "network",
+    "protocol",
+    "fund",
+    "trust",
+    "report"
+  ]
+}
