@@ -1,0 +1,1594 @@
+[
+  {
+    "section": "Introduction",
+    "chunk_id": "INTRODUCTION_0",
+    "content": "Building the Digital Asset Securities Ecosystem DIGITAL ASSET SECURITIES CONTROL PRINCIPLES: A FRAMEWORK FOR ADOPTION In collaboration with May 2024 Table of Contents May 2024 Building the Digital Asset Securities Ecosystem An Industry Paper from DTCC, Clearstream, and Euroclear with the collaboration of BCG BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 2 Letter from the CEOs Executive Summary Transforming Capital Markets through Digital Asset Securities A Vision for Collaborative Advancement Advancing the Digital Asset Securities Evolution Building Adoption and Overcoming Fragmentation Principles Risks Controls An Important Step Toward Standards Case Study: Translating Principles into Practice Next Steps in the Evolution of the DASCP A United Path Forward: The Imperative for Collective Action Appendix Complete Risk and Control Taxonomy Contributors",
+    "entities": [
+      "May 2024",
+      "Digital Asset Securities A Vision for Collaborative Advancement Advancing",
+      "Euroclear",
+      "The Imperative for Collective Action Appendix Complete Risk",
+      "the Digital Asset Securities Ecosystem",
+      "Practice Next Steps",
+      "the Digital Asset Securities Ecosystem DIGITAL ASSET SECURITIES CONTROL PRINCIPLES"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.193
+  },
+  {
+    "section": "About DTCC, Clearstream, Euroclear, and BCG",
+    "chunk_id": "ABOUT DTCC, CLEARSTREAM, EUROCLEAR, AND BCG_0",
+    "content": "With over 50 years of experience, DTCC is the premier post-trade market infrastructure for the global financial services industry. From 20 locations around the world, DTCC, through its subsidiaries, automates, centralizes, and standardizes the processing of financial transactions, mitigating risk, increasing transparency, enhancing performance, and driving efficiency for thousands of broker-dealers, custodian banks, and asset managers. Industry-owned and governed, the firm innovates purposefully, simplifying the complexities of clearing, settlement, asset servicing, transaction processing, trade reporting, and data services across asset classes, bringing enhanced resilience and soundness to existing financial markets, while advancing the digital asset ecosystem. To learn more, visit dtcc.com. Clearstream is the innovative and trusted post-trade business for the global markets. It runs the leading securities and funds servicing ecosystems of tomorrow. The company operates the German and Luxembourg central securities depositories and an international central securities depository for the Eurobonds market. With 18 trillion euros in assets under custody, it is one of the world’s largest settlement and custody firms for domestic and international",
+    "entities": [
+      "Luxembourg",
+      "tomorrow",
+      "50 years"
+    ],
+    "tags": [
+      "performance"
+    ],
+    "importance_score": 0.233
+  },
+  {
+    "section": "in distributed ledger technology (DLT) and digital asset",
+    "chunk_id": "IN DISTRIBUTED LEDGER TECHNOLOGY (DLT) AND DIGITAL ASSET_0",
+    "content": "securities (DAS), DTCC, Clearstream, and Euroclear have partnered to play a lead role in the development and",
+    "entities": [
+      "DAS",
+      "Euroclear"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.093
+  },
+  {
+    "section": "adoption of this technology. Between them, the FMIs",
+    "chunk_id": "ADOPTION OF THIS TECHNOLOGY. BETWEEN THEM, THE FMIS_0",
+    "content": "have decades of experience, a vast network of client relationships from nearly every corner of the financial markets, and a strong track record of supporting market evolution – which has earned the FMIs the trust and respect of market participants, regulators, industry associations, and others. The adoption of digital",
+    "entities": [
+      "decades"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.078
+  },
+  {
+    "section": "technology presents opportunities and challenges that",
+    "chunk_id": "TECHNOLOGY PRESENTS OPPORTUNITIES AND CHALLENGES THAT_0",
+    "content": "require a cohesive, strategic approach, emphasizing the need for collaboration to effectively integrate these innovations into the global financial ecosystem. The beginning of our collaboration was marked by our first white paper, “Advancing the Digital Asset Era, Together.” Building on this, we have worked together to develop the “Digital Asset Securities Control Principles” (DASCP), which are presented in this white paper. The principles serve as a set of guidelines underpinning our collective resolve to uphold the highest standards of integrity, security, and interoperability. This framework is crucial for creating an inclusive, resilient financial ecosystem that is adaptable to technological advancements and responsive to diverse market needs. We would like to thank BCG for its valuable support in enriching and testing this framework. The DASCP marks the starting point of further industry- wide engagement to enable standardization, drive adoption, and unlock value. To achieve these goals, we intend to put these principles into action. By leveraging them in our digital asset activities, we will effectively demonstrate to clients, regulators, and the broader industry that digital asset securities can be just as safe and secure as traditional assets. We will also advise and support market participants as they leverage the principles in their own business activities. Ultimately, we believe that industry collaboration is not only the most expedient way – but also the most effective way – to build a robust global digital assets ecosystem. We invite you to join us in this exciting journey that has the potential to redefine global finance, ensuring that this digital transformation benefits the ecosystem and contributes to sustainable economic growth. We look forward to your support and engagement as we collectively expand upon these principles, setting new standards for financial markets worldwide. Sincerely, Frank La Salla CEO, DTCC Samuel Riley CEO, Clearstream Securities Services Valérie",
+    "entities": [
+      "Clearstream Securities Services Valérie",
+      "Digital Asset Securities Control Principles",
+      "DASCP"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.406
+  },
+  {
+    "section": "technology presents opportunities and challenges that",
+    "chunk_id": "TECHNOLOGY PRESENTS OPPORTUNITIES AND CHALLENGES THAT_1",
+    "content": "finance, ensuring that this digital transformation benefits the ecosystem and contributes to sustainable economic growth. We look forward to your support and engagement as we collectively expand upon these principles, setting new standards for financial markets worldwide. Sincerely, Frank La Salla CEO, DTCC Samuel Riley CEO, Clearstream Securities Services Valérie Urbain CEO, Euroclear Ultimately, we believe that industry collaboration is not only the most expedient way – but also the most effective way – to build a robust global digital assets ecosystem.” “ BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 3 Contents Executive Summary This white paper presents a comprehensive set of risk management principles and controls designed to unlock the transformative nature of distributed ledger",
+    "entities": [
+      "Clearstream Securities Services Valérie Urbain"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.159
+  },
+  {
+    "section": "technology (DLT) in the realm of digital asset securities",
+    "chunk_id": "TECHNOLOGY (DLT) IN THE REALM OF DIGITAL ASSET SECURITIES_0",
+    "content": "(DAS), excluding cryptocurrencies. It outlines an industry-wide risk and control framework, which serves as a guide to navigate the current set of challenges, fostering operational excellence in financial markets driven by DLT. Through this structured approach, the white paper aims to facilitate the adoption of tokenization into the financial markets, paving the way for its substantial role in the evolution of finance. DTCC, Clearstream, and Euroclear have developed the Digital Asset Securities Control Principles (DASCP), utilizing our combined decades of experience to",
+    "entities": [
+      "Digital Asset Securities Control Principles",
+      "DAS",
+      "Euroclear",
+      "decades",
+      "DASCP",
+      "DLT"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.153
+  },
+  {
+    "section": "effectively manage regulatory compliance and reduce",
+    "chunk_id": "EFFECTIVELY MANAGE REGULATORY COMPLIANCE AND REDUCE_0",
+    "content": "operational risks. This set of principles outlines a safe and efficient ecosystem, identifies potential risks specific to DAS, and provides appropriate recommendations for controls to mitigate these risks. In fostering these functions, the DASCP framework is designed to be asset class agnostic and technologically neutral, ensuring its adaptability to the diverse operational requirements of organizations across the financial ecosystem.",
+    "entities": [
+      "DAS",
+      "DASCP"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.099
+  },
+  {
+    "section": "Regulatory Compliance and Market Integrity:",
+    "chunk_id": "REGULATORY COMPLIANCE AND MARKET INTEGRITY:_0",
+    "content": "ensures that DAS operations align with existing and evolving",
+    "entities": [
+      "DAS"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.079
+  },
+  {
+    "section": "regulatory frameworks, maintaining legal and market integrity.",
+    "chunk_id": "REGULATORY FRAMEWORKS, MAINTAINING LEGAL AND MARKET INTEGRITY._0",
+    "content": "Risk Management: provides a structured approach to identify, assess, and manage the specific risks associated with DAS, enhancing market stability and security. Market Adoption: facilitates the broader adoption of DAS by setting clear guidelines that will reduce the barrier to entry for new participants. Interoperability and Efficiency: provides the basis for subsequent standardization that encourages interoperability",
+    "entities": [
+      "DAS"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.085
+  },
+  {
+    "section": "between diverse platforms and systems (e.g., other blockchain platforms, legacy, and",
+    "chunk_id": "BETWEEN DIVERSE PLATFORMS AND SYSTEMS (E.G., OTHER BLOCKCHAIN PLATFORMS, LEGACY, AND_0",
+    "content": "third-party systems, etc.), crucial for efficient transactions across market players. Trust Building: builds trust among issuers, investors, regulators, and market participants, fundamental for sustainable market growth. BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 4 This framework serves multiple functions: Contents The primary objective of this white paper is to catalyze comprehensive understanding, foster collaboration, and spearhead further advancement within the digital asset ecosystem. To ensure our approach remained objective and well-informed, a comprehensive analysis was conducted. It included reviews of approximately",
+    "entities": [],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.107
+  },
+  {
+    "section": "100 regulations, white papers and expert discussions",
+    "chunk_id": "100 REGULATIONS, WHITE PAPERS AND EXPERT DISCUSSIONS_0",
+    "content": "across multiple jurisdictions, as well as over 20 interviews",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.012
+  },
+  {
+    "section": "with key market participants and technology vendors.",
+    "chunk_id": "WITH KEY MARKET PARTICIPANTS AND TECHNOLOGY VENDORS._0",
+    "content": "The initial development of the DASCP marks the beginning of a more expansive initiative. The DASCP will serve as a baseline to help propel the industry toward standards. To ensure the framework remains reflective of the latest industry developments, we plan to transition the stewardship of these principles to a industry association. We believe that a neutral third- party industry association is best positioned to align the digital asset ecosystem on prioritizing, identifying, agreeing, and adopting standards. This move is designed to position the association to actively engage with the broader ecosystem. This involvement is crucial for the DASCP to serve not just as a set of guidelines but as a dynamic catalyst that drives the conversation forward. DTCC, Clearstream, and Euroclear are committed to advising and supporting this work as it continues. BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 5 Key Takeaways Comprehensive Framework Development: Undertook the collaborative development of the Digital Asset Securities Control Principles (DASCP), providing a robust framework to support the evolving digital asset ecosystem. This initiative underscores the commitment of DTCC, Clearstream, and Euroclear to shaping the future of finance through innovative technologies. 1 Foundational Principles for Industry Standardization: Establishes critical principles for the successful adoption of DAS, with the DASCP noted for its asset class",
+    "entities": [
+      "DAS",
+      "the Digital Asset Securities Control Principles (",
+      "DASCP",
+      "Euroclear"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.291
+  },
+  {
+    "section": "and technology agnosticism, making them universally applicable. This neutrality is crucial for facilitating",
+    "chunk_id": "AND TECHNOLOGY AGNOSTICISM, MAKING THEM UNIVERSALLY APPLICABLE. THIS NEUTRALITY IS CRUCIAL FOR FACILITATING_0",
+    "content": "a balanced and inclusive dialogue around standards. By serving as a foundational document, the DASCP aims to spark industry-wide discussions that will help shape robust, comprehensive standards for the digital asset marketplace. 2 Identifying Risks and Establishing Controls: Presents a detailed analysis of the potential risks associated with the adoption of DAS and offers a comprehensive set of controls to mitigate these risks. This proactive risk management is intended to safeguard the integrity and stability of the DAS market. 3 Encouraging Active Industry Participation: Invites all stakeholders to actively participate in the evolution of the DASCP, contributing to a collective effort that shapes the future of digital finance. 4 Future-Proofing Financial Markets: Serves as a blueprint for a common and resilient digital asset securities ecosystem, illustrating how the adoption of these principles can help future-proof financial markets against technological disruptions and regulatory changes. 5 Transition to Industry-Wide Engagement: Highlights the pivotal next step of transitioning the stewardship of the DASCP to an industry association. This move is aimed at fostering broader engagement and ensuring the framework’s",
+    "entities": [
+      "DAS",
+      "Future-Proofing Financial Markets",
+      "DASCP"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.245
+  },
+  {
+    "section": "relevance and dynamism in response to an evolving market and technology landscape.",
+    "chunk_id": "RELEVANCE AND DYNAMISM IN RESPONSE TO AN EVOLVING MARKET AND TECHNOLOGY LANDSCAPE._0",
+    "content": "6 Contents",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.003
+  },
+  {
+    "section": "Introduction: Transforming",
+    "chunk_id": "INTRODUCTION: TRANSFORMING_0",
+    "content": "Capital Markets through Digital Asset Securities The scope of this paper encompasses digital asset securities (subsequently referred to as “DAS”) as defined by GFMA. Specifically, it includes securities that utilize DLT to represent or embody rights similar to those of traditional securities, whether these are issued directly on a blockchain (i.e., native security tokens) or are digital representations (i.e., digital twins) of existing securities (e.g., all forms of equity, debt, derivatives, etc.). These digital assets might provide dividends, voting rights, interest payments, or other rights associated with traditional securities. Excluded from this scope are money or money-like digital assets, such as cryptocurrencies, stablecoins, and central bank digital currencies (CBDCs), which function primarily as means of payment or stores of value. GFMA - Global Financial Markets Association:",
+    "entities": [
+      "DAS",
+      "Capital Markets",
+      "Digital Asset Securities",
+      "GFMA - Global Financial Markets Association",
+      "GFMA",
+      "DLT"
+    ],
+    "tags": [
+      "governance"
+    ],
+    "importance_score": 0.197
+  },
+  {
+    "section": "Impact of Distributed Ledger Technology",
+    "chunk_id": "IMPACT OF DISTRIBUTED LEDGER TECHNOLOGY_0",
+    "content": "in Global Capital Markets, 2023 DAS introduce new capabilities in financial services, re-envisioning existing processes and creating trust in real time. Programmability, self-executing automation, and instantaneous reconciliation are key features that have the potential to transform the industry. Central to this transformation is DLT, which enables nearly immediate transaction settlement and creates immutable transaction records. Asset tokenization leverages DLT to create reusable processes that can be quickly adapted to develop new DAS and manage their life cycles, enhancing operational scalability. With these advantages, financial institutions are increasingly investing in DAS to unlock these transformative benefits. Overall, propelled by smart contracts and automated processes in different areas, annual global infrastructure operational cost savings of ~$15-20 billion have been estimated.1 Furthermore, due to shortened settlement cycles, DLT impacts on collateral management could release ~$100+ billion annually in freed financial resources.2 By 2030, the tokenization of global illiquid assets is projected to be a $16 trillion business opportunity,3 significantly increasing asset liquidity and expanding market participation. This shift not only promises enhanced efficiency and transparency but also democratizes access to investment opportunities, reshaping the financial landscape for a more inclusive future.",
+    "entities": [
+      "annually",
+      "~$15-20 billion",
+      "DAS",
+      "annual",
+      "2030",
+      "$16 trillion",
+      "DLT",
+      "Global Capital Markets",
+      "business opportunity,3"
+    ],
+    "tags": [
+      "performance"
+    ],
+    "importance_score": 0.279
+  },
+  {
+    "section": "1, 2Impact of Distributed Ledger Technology in Global Capital Markets, GFMA, May 2023",
+    "chunk_id": "1, 2IMPACT OF DISTRIBUTED LEDGER TECHNOLOGY IN GLOBAL CAPITAL MARKETS, GFMA, MAY 2023_0",
+    "content": "3Relevance of on-chain asset tokenization in crypto winter, BCG, and ADDX, May 2022 BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 6 Contents Despite these potential benefits, widespread DLT adoption faces challenges. According to ISSA’s recent survey, only 37% of the industry is live with DLT.4 The full benefits of DAS cannot be realized without more concerted and integrated efforts toward collaboration. In this context, FMIs have a crucial role to play. Historically the linchpins of the financial system, facilitating clearing, settlement, and recordkeeping, FMIs are now supporting the integration of DAS into the conventional financial fabric. In building upon the foundation laid by our previous collaborative publication, Advancing the Digital Asset Era, Together,5 this white paper delineates our journey toward adopting Digital Assets. It recognizes the collaborative efforts needed from FMIs, regulatory bodies, and the broader financial community, advocating for a united approach to address challenges, drive innovation, and seize the opportunities DAS offer. As highlighted by Valérie Urbain, CEO of Euroclear, FMIs are actively working “toward the co-creation of tomorrow’s financial system – one that’s open, inclusive, efficient, and resilient.”6 4DLT in the Real World Survey 2024 – Key Findings, International Securities Services Association, 2024 5DTCC, Clearstream, Euroclear, “Advancing the Digital Asset Era, Together”, Sept 2023 6Valérie Urbain, “Safety by design: Lessons in mainstreaming digital assets with resilience,” World Economic Forum, Apr 19, 2024 7Dr. Stephanie Eckerman, “Are digital infrastructures finally ready to scale?” Sibos 2023, Sept 2023 A Vision for Collaborative Advancement With this white paper, we are introducing the DASCP, which describes a DAS framework consisting of foundational principles for a secure and efficient ecosystem, risks arising from the implementation",
+    "entities": [
+      "only 37%",
+      "2024",
+      "19, 2024 7Dr",
+      "DLT",
+      "BCG",
+      "ISSA",
+      "the Digital Asset Era",
+      "DAS",
+      "winter",
+      "2023",
+      "Digital Assets",
+      "International Securities Services Association",
+      "Euroclear",
+      "DASCP",
+      "tomorrow",
+      "ADDX",
+      "May 2022",
+      "Sept 2023",
+      "Sept 2023 6Valérie"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.405
+  },
+  {
+    "section": "1, 2Impact of Distributed Ledger Technology in Global Capital Markets, GFMA, May 2023",
+    "chunk_id": "1, 2IMPACT OF DISTRIBUTED LEDGER TECHNOLOGY IN GLOBAL CAPITAL MARKETS, GFMA, MAY 2023_1",
+    "content": "the DASCP, which describes a DAS framework consisting of foundational principles for a secure and efficient ecosystem, risks arising from the implementation",
+    "entities": [
+      "DAS",
+      "DASCP"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.084
+  },
+  {
+    "section": "and the adoption of the new technology, and",
+    "chunk_id": "AND THE ADOPTION OF THE NEW TECHNOLOGY, AND_0",
+    "content": "controls to effectively mitigate these risks. During her interview at Sibos 2023, Dr. Stephanie Eckermann, CEO of Clearstream Banking AG, noted that “the digital disruption is there now and",
+    "entities": [
+      "Clearstream Banking AG"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.059
+  },
+  {
+    "section": "ready to scale.”7 The introduction of the DASCP",
+    "chunk_id": "READY TO SCALE.”7 THE INTRODUCTION OF THE DASCP_0",
+    "content": "responds to this pivotal realization, acknowledging that scaling DAS is essential for fostering a vibrant ecosystem. By establishing a comprehensive set of controls, the DASCP serves as an initial step toward catalyzing discussions on standardization. This approach positions the DASCP as a critical starting point that paves the way for future endeavors, ultimately helping to drive scale in DAS markets. BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 7 FMIs are actively working toward the co-creation of tomorrow’s financial system – one that’s open, inclusive, efficient, and resilient.” — Valérie Urbain CEO, Euroclear “ The digital disruption is there now and ready to scale.” — Dr. Stephanie Eckermann CEO, Clearstream Banking AG “ Contents Advancing the Digital Asset Securities Evolution We believe that the DASCP framework is a foundational starting point for promoting DAS adoption and provides a valuable baseline for the industry: Guiding the Market Toward Digital Asset Securities Adoption: With DAS set to transform securities trading and ownership, we are dedicated to clarifying the complexities surrounding these digital innovations and offering insights into how they can enhance the conventional securities markets. Addressing Challenges and Crafting Solutions for Digital Asset Securities: The transition to DAS introduces various challenges, from regulatory hurdles to issues of interoperability. Through the DASCP framework, we aim to offer a blueprint that addresses these challenges. Fostering Industry Collaboration for Digital Asset Securities Integration: The successful integration of DAS necessitates joint efforts across the financial ecosystem. We emphasize the importance of collaboration among regulators,",
+    "entities": [
+      "Fostering Industry Collaboration for Digital Asset Securities Integration:",
+      "DAS",
+      "Contents Advancing",
+      "Euroclear",
+      "Digital Asset Securities",
+      "DASCP",
+      "tomorrow",
+      "Clearstream Banking AG"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.348
+  },
+  {
+    "section": "technology providers, and financial institutions to establish a cohesive framework that supports the secure and efficient circulation of DAS.",
+    "chunk_id": "TECHNOLOGY PROVIDERS, AND FINANCIAL INSTITUTIONS TO ESTABLISH A COHESIVE FRAMEWORK THAT SUPPORTS THE SECURE AND EFFICIENT CIRCULATION OF DAS._0",
+    "content": "Setting the Stage for Digital Asset Securities Standardization and Interoperability: For DAS to fully realize their potential, establishing industry-wide standards and ensuring interoperability are vital. This includes engaging not only market participants but also policymakers and regulatory bodies to ensure that the standards align with both industry needs and regulatory frameworks. The DASCP",
+    "entities": [
+      "DAS",
+      "DASCP"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.093
+  },
+  {
+    "section": "lays the foundation for this comprehensive engagement, aiming to develop standards that facilitate both market growth and regulatory compliance. This",
+    "chunk_id": "LAYS THE FOUNDATION FOR THIS COMPREHENSIVE ENGAGEMENT, AIMING TO DEVELOP STANDARDS THAT FACILITATE BOTH MARKET GROWTH AND REGULATORY COMPLIANCE. THIS_0",
+    "content": "collaborative approach is crucial for ensuring the framework’s effectiveness and the long-term viability of digital asset securities in the global market. Inspiring Innovation and Future Exploration in Digital Asset Securities: Looking beyond immediate applications, we are eager to explore the broader possibilities that DAS offer for transforming securities markets and unlocking incremental value for the industry. BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 8 Contents Building Adoption and Overcoming Fragmentation",
+    "entities": [
+      "DAS",
+      "Digital Asset Securities"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.109
+  },
+  {
+    "section": "In speaking about the future of digital markets prior",
+    "chunk_id": "IN SPEAKING ABOUT THE FUTURE OF DIGITAL MARKETS PRIOR_0",
+    "content": "to the World Economic Forum in January 2024, Frank La Salla, CEO of DTCC, emphasized the critical need for foundational principles. He noted, “We have initiated a set of control principles that prepare the groundwork for ensuring the emerging tokenized securities market is as efficient and secure as today’s securities marketplace. These principles are crafted to lay the foundations, reducing risks by defining clear roles, responsibilities, and the controls necessary for a robust framework.”8 The DASCP is pivotal in this context, designed to address the digital asset landscape’s complexities before full standardization can be achieved. The DASCP enhances system resilience, safeguards customer assets, and facilitates seamless transactions through improved connectivity and interoperability, also emphasizing the importance of operational scalability. The DASCP framework comprehensively covers various value chain activities essential to the life cycle of DAS. These activities include: • Issuance: Involves pre-issuance workflows depending on asset type, registration with Central",
+    "entities": [
+      "DAS",
+      "Central",
+      "today",
+      "DASCP",
+      "the World Economic Forum",
+      "January 2024",
+      "DTCC"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.228
+  },
+  {
+    "section": "Securities Depositories (CSDs), and compliance",
+    "chunk_id": "SECURITIES DEPOSITORIES (CSDS), AND COMPLIANCE_0",
+    "content": "with relevant regulatory frameworks. • Clearing: Encompasses the calculation and request of margins, novation of centrally cleared trades, netting of obligations, and communication of net security / cash obligations. • Settlement: Covers the processes of sending and confirming cash payments, transferring ownership of securities, and ensuring proper reconciliation by involved parties. • Custody: Involves the maintenance, safekeeping, and reporting of ownership records, along with corporate action management on behalf of asset owners. • Asset Servicing: Entails services provided on behalf of the issuer (e.g., processing dividend payments, splits, rights issues, etc.). It is important to note that the current scope of the DASCP excludes secondary trading activities. The DASCP framework is designed to be asset class and",
+    "entities": [
+      "DASCP"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.161
+  },
+  {
+    "section": "technology neutral, not advocating for any particular",
+    "chunk_id": "TECHNOLOGY NEUTRAL, NOT ADVOCATING FOR ANY PARTICULAR_0",
+    "content": "DLT architecture – be it public, private, permissioned, or public permissioned. This ensures its applicability",
+    "entities": [
+      "DLT"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.06
+  },
+  {
+    "section": "third-party solutions. This technology and asset class",
+    "chunk_id": "THIRD-PARTY SOLUTIONS. THIS TECHNOLOGY AND ASSET CLASS_0",
+    "content": "agnosticism contributes to the framework’s adaptability, ensuring that the DASCP remains relevant and effective amid the rapidly evolving financial landscape. The DASCP has been methodically assembled and rigorously tested with over 20 market participants. Going forward, we invite all industry stakeholders to engage with and actively drive the evolution of this framework. 8Frank La Salla, “Why standards and controls are essential to the future of digital financial markets” World Economic Forum, Jan 16, 2024 BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 9 These principles are crafted to lay the foundations, reducing risks by defining clear roles, responsibilities, and the controls necessary for a robust framework.” — Frank La Salla CEO, DTCC “ Contents To achieve its objectives, the DASCP has been crafted using a structured, layered approach as depicted in the figure to the right and summarized below: • Principle Definition Established: Initially, the DASCP framework identified a set of foundational principles that function as overarching objectives guiding the entire framework. • Risk Identification Compilation: A comprehensive list of risks associated with each principle is compiled, incorporating traditional finance risks adapted for DAS and new risks unique to this sector. • Control Development Design: Controls for each identified risk are then designed, emphasizing flexibility to allow them to serve as adaptable guidelines rather than rigid rules. The DASCP was developed in multiple layers along foundational principles, risks, and controls.",
+    "entities": [
+      "DAS",
+      "DASCP",
+      "Jan 16, 2024",
+      "Control Development Design: Controls"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.315
+  },
+  {
+    "section": "At this juncture, the DASCP is not about creating fixed standards; rather, it is laying the necessary",
+    "chunk_id": "AT THIS JUNCTURE, THE DASCP IS NOT ABOUT CREATING FIXED STANDARDS; RATHER, IT IS LAYING THE NECESSARY_0",
+    "content": "groundwork that will inform the development of comprehensive industry standards in the future. Description Hover over the layers in the pyramid to find out more. BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 10 Control Development Risk Identification Principle Definition Contents Principles The rise in DLT initiatives signifies a shift in financial market infrastructure, reminiscent of the robust standards set forth by the Principles for Financial Market Infrastructures (pFMIs) issued by BIS and IOSCO. As tokenization becomes increasingly prevalent, the DASCP has been proactively established to address the challenges of widespread adoption. The DASCP is formulated with an understanding of the core objectives that pFMIs champion: integrity, stability, and confidence in the financial system. Click on the principles to the right",
+    "entities": [
+      "BIS",
+      "DASCP",
+      "Control Development Risk Identification Principle Definition Contents",
+      "the Principles for Financial Market Infrastructures",
+      "DLT",
+      "IOSCO"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.189
+  },
+  {
+    "section": "to find out more about each.",
+    "chunk_id": "TO FIND OUT MORE ABOUT EACH._0",
+    "content": "BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 11 The principles below are listed in order of priority, but all are vital to building a secure DAS ecosystem:",
+    "entities": [
+      "DAS"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.058
+  },
+  {
+    "section": "Ensuring operations comply with existing laws and regulations",
+    "chunk_id": "ENSURING OPERATIONS COMPLY WITH EXISTING LAWS AND REGULATIONS_0",
+    "content": "to maintain market integrity and investor confidence.",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.009
+  },
+  {
+    "section": "Regulatory Compliance:",
+    "chunk_id": "REGULATORY COMPLIANCE:_0",
+    "content": "Encouraging alignment with regulatory frameworks to build a foundation of trust and safety in digital asset markets. Resilience and Security: Developing robust infrastructure capable of resisting disruptions, while protecting sensitive data and ensuring the continuous operation of digital asset services. Safeguarding Customer Assets:",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.057
+  },
+  {
+    "section": "Implementing governance over smart contracts to manage and protect",
+    "chunk_id": "IMPLEMENTING GOVERNANCE OVER SMART CONTRACTS TO MANAGE AND PROTECT_0",
+    "content": "customer assets within the digital asset ecosystem securely. Connectivity and Interoperability: Facilitating transactions and flexible settlements across diverse networks to enable the seamless transfer and settlement of DAS. Operational Scalability: Striving for efficiency and cost-effectiveness through standardized roles and smart contract functions to accommodate market growth. Contents Risks Building on the foundational principles outlined above, it is crucial to systematically manage a wide range of risks. Adopting a risk-first approach ensures that emerging risks associated with DAS are proactively identified and effectively mitigated. This establishes a solid basis for safeguarding market integrity and building investor trust, which are critical for the adoption and growth of digital asset markets. These risks, spanning the entire value chain, were identified along with the outlined principles to ensure robustness and exhaustiveness of the framework. Some risks inherently impact multiple principles. For conciseness, they were assigned to the principle with the highest importance, as depicted in the figure below. Immediate priority Minimum requirements Subsequent priority Unlock full potential",
+    "entities": [
+      "DAS",
+      "Contents Risks Building"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.225
+  },
+  {
+    "section": "Noncompliance",
+    "chunk_id": "NONCOMPLIANCE_0",
+    "content": "Securities are noncompliant with varied and possibly conflicting",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.011
+  },
+  {
+    "section": "Legal Enforceability",
+    "chunk_id": "LEGAL ENFORCEABILITY_0",
+    "content": "R4 Unauthorized Investor Holdings R8 Dispute Resolution R10 Network Integrity R30 Interoperability Risk R32 Inability to Scale R34 Reputational Risk R35 Market Inefficiency R33 Digital Asset Liquidity R26 Asset Misappropriation R27 Unauthorized Smart Contract Access R31 Network Utilization and Fragmentation R28 Insufficient Smart Contract Control R29 Financial Institution Insolvency R36 Inadequate Stakeholder / Client Understanding of Digital Asset Securities R19 Network Outage R22 Operational Errors R24 Immutable Transactions R25 Inadequate Managerial Oversight R23 Asset Mismanagement R14 Poisoned Oracle R15 Private Data Leakage R20 Smart Contract Defects R11 Network Traffic Attack R18 Interoperability Security Risks R21 Complexity of Change Management R13 Compromised Inter-Network Transfer R16 Exploited Consensus Algorithm R17 Quantum Computing Threat R12 Smart Contract Integrity R9 Market Abuse R5 Money Laundering and Terrorist Financing Risks R6 DLT Network Suitability / Adaptability R7 Digital Asset Regulatory",
+    "entities": [
+      "R4 Unauthorized Investor Holdings R8 Dispute Resolution R10 Network Integrity R30 Interoperability Risk R32 Inability",
+      "Scale R34 Reputational Risk R35 Market Inefficiency R33 Digital Asset Liquidity R26 Asset",
+      "Digital Asset Securities"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.193
+  },
+  {
+    "section": "Legal",
+    "chunk_id": "LEGAL_0",
+    "content": "Certainty Regulatory",
+    "entities": [
+      "Certainty Regulatory"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.303
+  },
+  {
+    "section": "Compliance",
+    "chunk_id": "COMPLIANCE_0",
+    "content": "Safeguarding Customer Assets Connectivity & Interoperability Operational Scalability Resilience and Security BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 12 Contents Controls The comprehensive risk inventory establishes a foundation for developing targeted controls essential for managing identified risks, thereby supporting the transition toward a DAS ecosystem aligned with our foundational principles. These controls are designed to be adaptable, serving as a broad framework. Thus, they function more as guidelines rather than rigid controls and are crafted to address multiple risks, offering flexibility to adjust to different technologies and products. These controls are also dynamic, allowing for iterative updates to keep pace with the changing risk landscape and emerging technological advancements. The following controls have been derived and mapped to the risks they are mitigating. Each control mitigates at least one risk, with many controls addressing multiple risks. A secondary layer of control categorization organizes controls into four distinct groups, each distinguished by a unique suffix appended to the control number:",
+    "entities": [
+      "DAS"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.214
+  },
+  {
+    "section": "S Smart Contract Governance:",
+    "chunk_id": "S SMART CONTRACT GOVERNANCE:_0",
+    "content": "Ensures the accuracy, authorization, and performance of smart contracts. R Resilience and Data Protection: Protects systems against disruptions and secures sensitive information. N Network Settlement: Fosters reliable and timely transaction processing within the DLT network. BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 13 Contents",
+    "entities": [
+      "THE DIGITAL ASSET SECURITIES",
+      "N Network Settlement: Fosters",
+      "DLT",
+      "Resilience and Data Protection"
+    ],
+    "tags": [
+      "compliance",
+      "performance"
+    ],
+    "importance_score": 0.113
+  },
+  {
+    "section": "As illustrated in the figure below, controls also have been organized into a taxonomy comprised of four categories – Legal, Smart Contract Governance, Resiliency and Data Protection,",
+    "chunk_id": "AS ILLUSTRATED IN THE FIGURE BELOW, CONTROLS ALSO HAVE BEEN ORGANIZED INTO A TAXONOMY COMPRISED OF FOUR CATEGORIES – LEGAL, SMART CONTRACT GOVERNANCE, RESILIENCY AND DATA PROTECTION,_0",
+    "content": "and Network Settlement – each categorized according to its required mitigating measures to enhance clarity. The specific risk that the control mitigates is listed below the control.",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.036
+  },
+  {
+    "section": "Smart Contract Governance",
+    "chunk_id": "SMART CONTRACT GOVERNANCE_0",
+    "content": "Resilience & Data Protection Network Settlement C1-L Participation Guidelines",
+    "entities": [
+      "Resilience & Data Protection Network Settlement"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.079
+  },
+  {
+    "section": "C7-L Governance",
+    "chunk_id": "C7-L GOVERNANCE_0",
+    "content": "C14-S Certification C24-S Functions / Behaviors C25-S Bookkeeping C26-S Account Structure C28-S Smart Contract Roles C37-R Backups C39-R Recovery Testing C46-N Data Lineage C48-N Settlement Proofs C49-N Fail to Settle Process C42-R Identity Verification C29-S Emergency Stop C30-S Account Pause C31-S Token Pause C23-S Data / Properties C32-R Audit Trail C18-S Code Auditing C11-LPolicies and Procedures C8-L Rule Enforcement and Arrangements C13-S Smart Contract Auditing Guidelines C17-S Dispute Resolution Mechanism C27-S Key Life Cycle Management C33-R Data Life Cycle Management C40-R Private Data Segregation C47-N Encumbrance Mechanism C53-N Continuous Management Education C55-N Third-Party Integration Guidelines C57-N Liquidity Management Strategies C50-N Transaction Sequencing",
+    "entities": [
+      "Settle Process C42-R Identity Verification C29-S Emergency Stop C30-S Account Pause C31-S Token Pause C23-S Data / Properties C32-R Audit",
+      "C14-S Certification C24-S Functions / Behaviors C25-S Bookkeeping C26-S Account Structure C28-S Smart Contract Roles C37-R Backups C39-R Recovery Testing C46-N Data Lineage C48-N Settlement Proofs C49-N Fail"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.148
+  },
+  {
+    "section": "C52-N Compliance and",
+    "chunk_id": "C52-N COMPLIANCE AND_0",
+    "content": "Policy Management C54-N Legacy Infrastructure Integration C56-N Community Engagement Framework C51-N Cross-Ledger Data and Inventory Balances C41-R Anonymization and Pseudonymization C43-R Geographical Distribution C44-R Feature Deployment Process C45-R Data Integrity Correction C34-R Data Subject Access Rights Enforcement C36-R Redundancy and Concurrency C38-R Failure Prevention, Detection, and Recovery C35-R Event Monitoring and Alerts C19-S Smart Contract Entitlements C21-S Intraoperability between DLT Networks C22-S Token Specification Model C20-S Quantum-Resistant Signature Algorithms",
+    "entities": [
+      "C54-N Legacy Infrastructure Integration C56-N Community",
+      "DLT Networks C22-S Token Specification Model C20-S Quantum-Resistant Signature Algorithms",
+      "Recovery C35-R Event Monitoring",
+      "Inventory Balances C41-R Anonymization and Pseudonymization C43-R Geographical Distribution C44-R Feature Deployment Process C45-R Data Integrity Correction C34-R Data Subject Access Rights Enforcement C36-R Redundancy and Concurrency C38-R Failure Prevention, Detection",
+      "Alerts C19-S Smart Contract Entitlements C21-S Intraoperability"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.135
+  },
+  {
+    "section": "C15-S Investor Compliance",
+    "chunk_id": "C15-S INVESTOR COMPLIANCE_0",
+    "content": "and Access Control Resilience and Security R23 Asset Mismanagement C19-S Smart Contract Entitlements Operational Scalability R32 Inability to Scale C24-S Functions / Behaviors Safeguarding Customer Assets R28 Insufficient Smart Contract Control C28-S Smart Contract Roles C29-S Emergency Stop C31-S Token Pause",
+    "entities": [
+      "Scale C24-S Functions / Behaviors Safeguarding Customer Assets R28 Insufficient",
+      "Access Control Resilience"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.084
+  },
+  {
+    "section": "100 regulations and engaged with more than",
+    "chunk_id": "100 REGULATIONS AND ENGAGED WITH MORE THAN_0",
+    "content": "20 key market participants to ensure alignment with both existing and emerging global regulatory frameworks. This clarity in regulation is critical for the advancement of DAS. • Providing a Blueprint for Industry-Wide Alignment: Developing the capabilities to form an aligned perspective on controls is essential for subsequent industry-wide alignment processes. The principles act as a guiding force in the subsequent phases of DAS adoption, ensuring that standards reflect the collective insights of the entire industry. BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 15 Contents Case Study: Translating Principles into Practice The DASCP framework serves as a pragmatic approach",
+    "entities": [
+      "DAS",
+      "DASCP"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.142
+  },
+  {
+    "section": "for streamlining compliance in DAS transactions. Far",
+    "chunk_id": "FOR STREAMLINING COMPLIANCE IN DAS TRANSACTIONS. FAR_0",
+    "content": "from theoretical, these controls are derived from real- world applications, demonstrating efficiency and adherence to regulatory standards. These controls ensure",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.027
+  },
+  {
+    "section": "offer interoperability across platforms but also provide",
+    "chunk_id": "OFFER INTEROPERABILITY ACROSS PLATFORMS BUT ALSO PROVIDE_0",
+    "content": "robust risk management, reflecting their adaptability and comprehensiveness amid global regulatory diversity. This case study showcases the framework’s application in a scenario involving token issuance, transfer, and lending, where the risk management controls are seamlessly integrated into the digital asset transaction flow. This example presents the automation of numerous processes using digital assets, ensuring accurate controls, and reducing manual oversight. In translating these principles into practice, the figure on page 17 maps the controls applied at each transactional junction, demonstrating how specific risks are addressed through tailored controls. The central role of smart contracts is evident throughout the process, offering a robust means to automate intricate transaction sequences, ensure regulatory adherence, and protect the integrity of the loan’s data and functions. The DASCP framework is designed for flexibility, allowing organizations to adapt high-level controls to their specific operational needs. This case study highlights how the framework supports customization to meet diverse organizational requirements effectively. It exemplifies how a regulatory aligned framework can be a powerful catalyst for operational efficiency, ultimately contributing to the maturation and growth of the DAS market. BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 16 Contents Custodian / Tokenization Agent Private Network Asset Manager (Private Equity Fund) * Based on ERC 4626 tokenized vault standard Custodian / Tokenization Agent Asset Manager (Money Market Fund) Public-Permissioned Network Lending Pool Securities Lending Smart Contract * C19-S C24-S C28-S C29-S C31-S C21-S Investor (Borrower) Distributor C15-S Principle Risk Control Connectivity and Interoperability R30 Interoperability Risk C21-S Intraoperability between DLT Networks",
+    "entities": [
+      "ERC",
+      "DAS",
+      "DASCP",
+      "DLT Networks",
+      "4626",
+      "Private Equity Fund",
+      "Custodian / Tokenization",
+      "Contents Custodian / Tokenization",
+      "Distributor C15-S Principle Risk Control Connectivity"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.354
+  },
+  {
+    "section": "Regulatory Compliance",
+    "chunk_id": "REGULATORY COMPLIANCE_0",
+    "content": "R4 Unauthorized Investor Holdings:",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.005
+  },
+  {
+    "section": "Case Study Overview",
+    "chunk_id": "CASE STUDY OVERVIEW_0",
+    "content": "The following pages provide more detail on the major steps and controls. BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 17 Major steps: Asset Tokenization 1 Token Transfer 2 KYC Enforcement 3 Money Market Fund (MMF) Issuance 4 MMF Tokenization for Lending 5 Collateral Deposit 6 Lending Pool Transactions 7 Automated Lending Operations 8 1 2 3 4 5 6 7 8 Contents BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 18 Description of major steps: Asset Tokenization: An asset manager issues a private security, such as a private equity fund, which is then tokenized on a private blockchain by a custodian. 1 Token Transfer: The custodian moves the newly created PE (Private Equity) tokens from the private ledger to a public-permissioned ledger for wider distribution. 2 KYC Enforcement:",
+    "entities": [
+      "8 1 2 3 4 5",
+      "Asset Tokenization 1 Token Transfer 2",
+      "MMF",
+      "Private Equity",
+      "PE"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.191
+  },
+  {
+    "section": "As tokens are distributed, KYC compliance checks are performed to ensure all investors meet regulatory standards, despite the change in blockchain.",
+    "chunk_id": "AS TOKENS ARE DISTRIBUTED, KYC COMPLIANCE CHECKS ARE PERFORMED TO ENSURE ALL INVESTORS MEET REGULATORY STANDARDS, DESPITE THE CHANGE IN BLOCKCHAIN._0",
+    "content": "3 Money Market Fund (MMF) Issuance: In parallel, an asset manager issues a Money Market Fund. 4 MMF Tokenization for Lending: The custodian tokenizes the MMF shares and makes them available for lending in the Securities Lending Market. 5 Collateral Deposit: Investors with tokenized PE fund shares deposit these tokens into the lending pool to serve as collateral. 6 Lending Pool Transactions: Using the collateral provided, investors borrow more liquid assets (e.g., MMF shares) from the lending pool. 7 Automated Lending Operations: The lending process, powered by smart contracts, automates the workflow, including the deposit, loan issuance, and approval, and upon maturity, manages repayment and interest distribution and returns the securities to their original owners. 8 Contents The chart below presents a detailed illustration of the DASCP controls in action, delineating the specific methods used for its implementation. While these examples highlight the controls’ functionality and the potential for smart contracts to reinforce the robustness of the DAS market, they are intended to serve as illustrations of what can be achieved. They are not prescriptive; organizations are encouraged to interpret and adapt controls to fit their unique",
+    "entities": [
+      "Collateral Deposit",
+      "DAS",
+      "MMF",
+      "the Securities Lending Market",
+      "MMF Tokenization for Lending: The",
+      "DASCP",
+      "PE"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.272
+  },
+  {
+    "section": "environments, strategies, and compliance needs. This illustrative approach reaffirms the DASCP framework’s commitment to flexibility and its capacity to",
+    "chunk_id": "ENVIRONMENTS, STRATEGIES, AND COMPLIANCE NEEDS. THIS ILLUSTRATIVE APPROACH REAFFIRMS THE DASCP FRAMEWORK’S COMMITMENT TO FLEXIBILITY AND ITS CAPACITY TO_0",
+    "content": "accommodate a diverse range of technologies and operational scenarios, ensuring its broad applicability and relevance across the financial industry. Principle Risk Control Smart Contract Control Activities Connectivity and Interoperability R30 Interoperability Risk: The risk pertains to the complexities of integrating digital assets with traditional financial systems and, potentially, multiple blockchain architectures (e.g., public, public-permissioned, and private) to ensure seamless transactions across the entire financial spectrum. C21-S Intraoperability Between DLT Networks: Adhere to industry-accepted cross-network communication protocols specifically designed for blockchain interoperability. This includes standardized protocols for asset representation, transaction formats, and data exchange between different blockchain networks, ensuring seamless and secure interactions",
+    "entities": [
+      "C21-S"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.142
+  },
+  {
+    "section": "across diverse blockchain platforms.",
+    "chunk_id": "ACROSS DIVERSE BLOCKCHAIN PLATFORMS._0",
+    "content": "Specific smart contracts and token standards, along with cross-chain interoperability protocols (lock / mint), ensure token transferability from one chain to another, adhering to both",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.033
+  },
+  {
+    "section": "internal compliance and industry-",
+    "chunk_id": "INTERNAL COMPLIANCE AND INDUSTRY-_0",
+    "content": "accepted cross-network communication protocols for asset representation, transaction formats, and data exchange.",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.016
+  },
+  {
+    "section": "Potential for regulatory noncompliance",
+    "chunk_id": "POTENTIAL FOR REGULATORY NONCOMPLIANCE_0",
+    "content": "and financial repercussions if a non- compliant or unauthorized investor holds or transfers a digital asset security. This includes breaches of investor accreditation, investment caps, or other regulatory standards not related to AML or CTF.",
+    "entities": [
+      "CTF",
+      "AML"
+    ],
+    "tags": [
+      "compliance",
+      "performance"
+    ],
+    "importance_score": 0.081
+  },
+  {
+    "section": "C15-S Investor Compliance and Access",
+    "chunk_id": "C15-S INVESTOR COMPLIANCE AND ACCESS_0",
+    "content": "Control: Implement mechanisms that only allow authorized investors that are",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.013
+  },
+  {
+    "section": "in good compliance standing (e.g., KYC,",
+    "chunk_id": "IN GOOD COMPLIANCE STANDING (E.G., KYC,_0",
+    "content": "sanctions, etc.) to hold registered securities while restricting others who are not, which could be facilitated by allow-lists, verifiable credentials, or other relevant protocols. Smart contract checks the client’s wallet for required credentials and completes the transfer only if the investor is compliant with the fund terms. BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 19 Contents Principle Risk Control Smart Contract Control Activities Resilience and Security R23 Asset Mismanagement: Digital assets are at risk of being lost, stolen, or erroneously transferred due to breaches in operational controls, system vulnerabilities, or inadequate asset management protocols. C19-S Smart Contract Entitlements: Restrict access to smart contract data and functions based on standard roles using fine-grain entitlements. A smart contract, combined with a specific token standard, grants the lending decision to the lending pool, ensuring that only the lending pool can issue and approve a loan. This ensures immutability of roles, entitlement, and processes, thus eliminating the risk of unauthorized use or access to the loan’s data and functions. Operational Scalability R32 Inability to Scale: DLT networks may not efficiently manage or scale to accommodate surging transaction volumes, impacting critical functions such as post-trade capture and overall transaction throughput (including suitable customer support), potentially degrading system performance and reliability. C24-S Functions / Behaviors: Conform to a common set of functions, behaviors, and service level agreements that support various security life cycle operations such as issuance and settlement. Smart contracts enable automation and atomic settlement of transactions, which provides scalability to perform large volumes of standardized yet complex operations in seconds. For example, for the lending transaction, the smart contract performed six functions in one step (deposit, issuance, approval, deposit, hair-cutting, and pledging). Safeguarding Customer Assets R28 Insufficient Smart Contract Control: A custodian and/or relevant intermediary does not have the requisite control over the digital asset",
+    "entities": [
+      "DLT",
+      "C24-S Functions / Behaviors",
+      "Smart",
+      "Operational Scalability R32 Inability"
+    ],
+    "tags": [
+      "compliance",
+      "performance"
+    ],
+    "importance_score": 0.408
+  },
+  {
+    "section": "in good compliance standing (e.g., KYC,",
+    "chunk_id": "IN GOOD COMPLIANCE STANDING (E.G., KYC,_1",
+    "content": "yet complex operations in seconds. For example, for the lending transaction, the smart contract performed six functions in one step (deposit, issuance, approval, deposit, hair-cutting, and pledging). Safeguarding Customer Assets R28 Insufficient Smart Contract Control: A custodian and/or relevant intermediary does not have the requisite control over the digital asset securities / tokens or smart contracts functions. C28-S Smart Contract Roles: Define standard roles to determine who can access smart contract data and functions. C29-S Emergency Stop: Ensure that smart contracts have an embedded kill switch or process to halt all activity, which can be accessed by a role with elevated permissions. C31-S Token Pause: Ensure that a user can freeze or pause activity for all or some of the token inventory, controlled by either the agent of the investor or a role with elevated permissions. Token standard and smart contract configuration were used to bring off-",
+    "entities": [
+      "C29-S Emergency Stop: Ensure",
+      "C31-S Token Pause: Ensure"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.204
+  },
+  {
+    "section": "chain KYC compliance rules into on-",
+    "chunk_id": "CHAIN KYC COMPLIANCE RULES INTO ON-_0",
+    "content": "chain token configuration, enabling the operations to halt or pause any token activity when participants did not match KYC criteria (e.g., jurisdiction). This ensured that only a role with elevated permission",
+    "entities": [
+      "KYC"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.061
+  },
+  {
+    "section": "(compliance officer) could freeze or",
+    "chunk_id": "(COMPLIANCE OFFICER) COULD FREEZE OR_0",
+    "content": "unfreeze activity over the token factory. BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 20 Contents Next Steps in the Evolution of the DASCP To foster open dialogue and collective intelligence, we intend to engage the industry through a series of in-depth discussions involving key stakeholders from across the financial sector. These exchanges",
+    "entities": [
+      "Contents Next Steps",
+      "DASCP",
+      "THE DIGITAL ASSET SECURITIES ECOSYSTEM"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.103
+  },
+  {
+    "section": "will serve as a platform to share insights and best",
+    "chunk_id": "WILL SERVE AS A PLATFORM TO SHARE INSIGHTS AND BEST_0",
+    "content": "practices, as well as to collaboratively address the concerns and challenges faced by various players in implementing the control principles. Also, we plan to transition the stewardship of the DASCP to an industry association, ensuring its continuous",
+    "entities": [
+      "DASCP"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.066
+  },
+  {
+    "section": "enhancement and compliance with global regulations.",
+    "chunk_id": "ENHANCEMENT AND COMPLIANCE WITH GLOBAL REGULATIONS._0",
+    "content": "Industry associations play a pivotal role in uniting market participants around common goals. This strategic move not only guarantees continuous improvement and expansion of the DASCP but also empowers the association to leverage it as a foundational document. This will facilitate the integration of secondary trading risks and controls, and the development of additional standards to bolster interoperability, security, and",
+    "entities": [
+      "DASCP"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.09
+  },
+  {
+    "section": "compliance in the digital asset securities landscape.",
+    "chunk_id": "COMPLIANCE IN THE DIGITAL ASSET SECURITIES LANDSCAPE._0",
+    "content": "We will continue to shape the market effectively as we build upon the foundation of our previous collaborative efforts that call for pioneering cash on- chain initiatives and establishing new standards.9 We are committed to continuously sharing insights and supporting adaptations of the DASCP to meet",
+    "entities": [
+      "DASCP"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.074
+  },
+  {
+    "section": "specific regional requirements, technology stacks, and",
+    "chunk_id": "SPECIFIC REGIONAL REQUIREMENTS, TECHNOLOGY STACKS, AND_0",
+    "content": "operational environments. By disseminating these customizations within the community, we aim to accelerate the adoption and enhance the effectiveness of the DASCP across diverse financial ecosystems. 9DTCC, Clearstream, Euroclear, “Advancing the Digital Asset Era, Together,” Sept 2023 BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 21 Contents A United Path Forward: The Imperative for Collective Action It is important to recognize that the DASCP is just one of several critical components required for full-scale adoption. Ongoing developments in interoperability, cash on-chain initiatives, scalable solutions, and the formulation of strong business cases remain essential to achieving comprehensive integration and value realization. We extend our gratitude to all participants whose engagement has been helpful in shaping a framework that promises to be both foundational and transformative. Integrating these principles into future standards will be vital for enhancing security, efficiency, and promoting broad- based innovation within the industry. We are committed to not just working together but to moving forward with a purpose. This is a call for industry-wide mobilization to support a vision. Let us unite in this endeavor to build a robust, integrated financial future. Together, we can advance the era of digital asset securities. BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 22 Contents Appendix BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 23 Contents Complete Risk and Control Taxonomy The detailed descriptions of risks and controls, as well as a view on which risks are mitigated by which controls, is shown below. Detailed Risk Description: To enhance the effectiveness of our framework, each risk is aligned with one of six principles, ranked from",
+    "entities": [
+      "9DTCC, Clearstream, Euroclear",
+      "DASCP",
+      "Sept 2023",
+      "The Imperative for Collective Action"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.353
+  },
+  {
+    "section": "specific regional requirements, technology stacks, and",
+    "chunk_id": "SPECIFIC REGIONAL REQUIREMENTS, TECHNOLOGY STACKS, AND_1",
+    "content": "aligned with one of six principles, ranked from",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.011
+  },
+  {
+    "section": "highest to lowest priority. (1) Legal Certainty is deemed",
+    "chunk_id": "HIGHEST TO LOWEST PRIORITY. (1) LEGAL CERTAINTY IS DEEMED_0",
+    "content": "the most urgent, while (6) Operational Scalability is considered the least. This ranking does not diminish the importance of any principle, as all are required to establish a vibrant DAS ecosystem. When a risk could be associated with multiple principles, it is assigned to the principle of highest priority. By doing so, we not only ensure a concise framework presentation but also prioritize the risk management process. Detailed Controls Description: Controls are mapped to the risks they are mitigating in a way that one control addresses either one or multiple risks. Download the Digital Asset Securities Control Principles. BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 24 Contents",
+    "entities": [
+      "the Digital Asset Securities Control Principles",
+      "DAS"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.153
+  },
+  {
+    "section": "L – Legal, S – Smart Contract Governance, R – Resilience and Data Protection, N – Network Settlement",
+    "chunk_id": "L – LEGAL, S – SMART CONTRACT GOVERNANCE, R – RESILIENCE AND DATA PROTECTION, N – NETWORK SETTLEMENT_0",
+    "content": "Risks R36 Inadequate Stakeholder / Client Understanding of Digital Asset Securities Risks associated with inadequate educational and training programs for stakeholders and clients. It emphasizes the essential need for comprehensive and effective training to ensure that all involved parties fully understand the technological frameworks, regulatory landscapes, and operational processes unique to digital asset securities. R35 Market Inefficiency The risk that structural issues or implementation frictions within the DLT ecosystem lead to significant disparities between the intrinsic value of digital assets and their market pricing, facilitating undue arbitrage opportunities. Controls C1-L Participation Guidelines: Establish fair and open but risk-based criteria (financial, jurisdictional, etc.) for user types and third- party service providers permitted to participate in a product, program, or service offering. Include advanced due diligence and",
+    "entities": [
+      "DLT",
+      "Digital Asset Securities Risks"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.176
+  },
+  {
+    "section": "with rapidly evolving global legal",
+    "chunk_id": "WITH RAPIDLY EVOLVING GLOBAL LEGAL_0",
+    "content": "standards governing digital assets. This includes challenges in adapting to diverse regulatory",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.016
+  },
+  {
+    "section": "environments, ensuring compliance",
+    "chunk_id": "ENVIRONMENTS, ENSURING COMPLIANCE_0",
+    "content": "across jurisdictions, and managing the complexities of integrating digital and conventional asset regulatory frameworks. Controls C1-L Participation Guidelines: Establish fair and open but risk-based criteria (financial, jurisdictional, etc.) for user types and third- party service providers permitted to participate in a product, program, or service offering. Include advanced due diligence and",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.068
+  },
+  {
+    "section": "continuous compliance monitoring tailored to digital asset markets, ensuring alignment with evolving jurisdictional regulations.",
+    "chunk_id": "CONTINUOUS COMPLIANCE MONITORING TAILORED TO DIGITAL ASSET MARKETS, ENSURING ALIGNMENT WITH EVOLVING JURISDICTIONAL REGULATIONS._0",
+    "content": "C2-L Product Eligibility: Identify clear standards and requirements for the product types (e.g., bonds) supported,",
+    "entities": [
+      "C2-L Product Eligibility: Identify"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.06
+  },
+  {
+    "section": "C3-L Network and Oracle Vetting: Conduct thorough checks on network and oracle alignment with DLT standards and governance",
+    "chunk_id": "C3-L NETWORK AND ORACLE VETTING: CONDUCT THOROUGH CHECKS ON NETWORK AND ORACLE ALIGNMENT WITH DLT STANDARDS AND GOVERNANCE_0",
+    "content": "structures before integrating third-party tools. Validate reliability and security SLAs for all networks and oracles rigorously.",
+    "entities": [
+      "Validate"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.059
+  },
+  {
+    "section": "and obligations, integrating geographic and identity-specific nuances to align with legal and operational standards by jurisdiction.",
+    "chunk_id": "AND OBLIGATIONS, INTEGRATING GEOGRAPHIC AND IDENTITY-SPECIFIC NUANCES TO ALIGN WITH LEGAL AND OPERATIONAL STANDARDS BY JURISDICTION._0",
+    "content": "C10-L Asset Safeguarding and Segregation: Implement stringent controls to ensure customer assets are safeguarded and segregated from the custodian’s or broker-dealer’s own assets. This includes maintaining customer assets with a trusted, regulated custodian and establishing clear separation protocols to prevent asset commingling and misuse. C16-S Multiparty Transaction Validation: Implement collaborative transaction validation mechanism that requires approvals from multiple authorized parties to enhance transaction security. This mechanism includes provisions for",
+    "entities": [
+      "C10-L Asset Safeguarding and Segregation: Implement",
+      "C16-S Multiparty Transaction Validation:"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.109
+  },
+  {
+    "section": "and obligations of the service provider and cover both legal and operational aspects of a given service. Moreover,",
+    "chunk_id": "AND OBLIGATIONS OF THE SERVICE PROVIDER AND COVER BOTH LEGAL AND OPERATIONAL ASPECTS OF A GIVEN SERVICE. MOREOVER,_0",
+    "content": "provisions that describe limitations of liability for a given service provider must be clearly defined.",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.02
+  },
+  {
+    "section": "C6-L Terms and Conditions: Establish a legal basis for a service based on rules and/or contractual agreements that bind both the",
+    "chunk_id": "C6-L TERMS AND CONDITIONS: ESTABLISH A LEGAL BASIS FOR A SERVICE BASED ON RULES AND/OR CONTRACTUAL AGREEMENTS THAT BIND BOTH THE_0",
+    "content": "service provider and stakeholders. The terms of service should also establish the parameters for transfer, custody, control of assets",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.025
+  },
+  {
+    "section": "C7-L Governance: Define clear governance arrangements, detailing oversight and management of the service.",
+    "chunk_id": "C7-L GOVERNANCE: DEFINE CLEAR GOVERNANCE ARRANGEMENTS, DETAILING OVERSIGHT AND MANAGEMENT OF THE SERVICE._0",
+    "content": "C11-L Policies and Procedures: Document comprehensive policies and procedures that cover all aspects of business operations and IT functionalities, including protocols for blockchain management and smart contract deployment. Incorporate regular testing strategies",
+    "entities": [
+      "C11-L Policies"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.061
+  },
+  {
+    "section": "This figure shows the risks associated with the principle “Legal Certainty,” as well as the controls to mitigate these risks:",
+    "chunk_id": "THIS FIGURE SHOWS THE RISKS ASSOCIATED WITH THE PRINCIPLE “LEGAL CERTAINTY,” AS WELL AS THE CONTROLS TO MITIGATE THESE RISKS:_0",
+    "content": "BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 25 Contents Return to Principles",
+    "entities": [],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.015
+  },
+  {
+    "section": "Differences in the legal status,",
+    "chunk_id": "DIFFERENCES IN THE LEGAL STATUS,_0",
+    "content": "recognition, and enforceability of smart contracts in various jurisdictions, which could impact cross-border transactions and asset custody. Controls C32-R Audit Trail: Maintain a comprehensive record of digital asset events / transactions, both on-chain and relevant external activities, with precise synchronized time stamps. Enforce standards for synchronizing clocks across all DLT systems and external activity sources to ensure uniform time-stamping. The audit trail must support the full-system recovery and verification of the process for resilience purposes. C47-N Encumbrance Mechanism: Implement a process to encumber funds or securities, preventing double spending until the transaction is fully settled. C48-N Settlement Proofs: Provide verifiable proof or evidence that different transaction legs were finalized, including their precise time stamps across various networks. C49-N Fail to Settle Process: Implement procedures to reverse, cancel, or otherwise undo transactions and / or its economic impacts in the event of a settlement failure. C50-N Transaction Sequencing: Implement nonces and/or transaction sequencing models that ensure transactions are processed in the appropriate order and prevent replay attacks. C51-N Cross Ledger Data and Inventory Balances: Track shared data and reconcile or balance inventory across networks. C4-L Participant Roles, Responsibilities, and Obligations: Clearly define and document service participants’ roles, responsibilities,",
+    "entities": [
+      "C48-N Settlement Proofs",
+      "C49-N Fail",
+      "C51-N Cross Ledger Data",
+      "C50-N Transaction Sequencing: Implement",
+      "DLT",
+      "C47-N Encumbrance"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.281
+  },
+  {
+    "section": "of smart contracts to validate their ability to be enforced as per the terms set within them under applicable legal frameworks.",
+    "chunk_id": "OF SMART CONTRACTS TO VALIDATE THEIR ABILITY TO BE ENFORCED AS PER THE TERMS SET WITHIN THEM UNDER APPLICABLE LEGAL FRAMEWORKS._0",
+    "content": "C14-S Certification: Ensure that when smart contracts are deployed to networks that are governed by different parties, there are processes in place such that a trusted party can validate the integrity of a given smart contract.",
+    "entities": [
+      "C14-S Certification: Ensure"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.065
+  },
+  {
+    "section": "1. Legal Certainty (continued)",
+    "chunk_id": "1. LEGAL CERTAINTY (CONTINUED)_0",
+    "content": "BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 26 Contents Return to Principles",
+    "entities": [],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.015
+  },
+  {
+    "section": "compliance and financial",
+    "chunk_id": "COMPLIANCE AND FINANCIAL_0",
+    "content": "repercussions if a noncompliant or unauthorized investor holds or transfers a digital asset security. This includes breaches of investor accreditation, investment caps, or other regulatory standards not related to Anti-Money Laundering (AML) and Counter- Terrorist Financing (CTF). R5 Money Laundering and Terrorist Financing Risks",
+    "entities": [
+      "Counter- Terrorist Financing",
+      "Anti-Money Laundering (AML"
+    ],
+    "tags": [
+      "compliance",
+      "performance"
+    ],
+    "importance_score": 0.086
+  },
+  {
+    "section": "Potential for misuse of the platform",
+    "chunk_id": "POTENTIAL FOR MISUSE OF THE PLATFORM_0",
+    "content": "for obscuring illicit funds or funding terrorism, due to inadequate AML or CTF controls. This risk involves failure to implement effective KYC procedures, insufficient transaction",
+    "entities": [
+      "CTF",
+      "KYC",
+      "AML"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.105
+  },
+  {
+    "section": "monitoring, and noncompliance",
+    "chunk_id": "MONITORING, AND NONCOMPLIANCE_0",
+    "content": "with mandatory financial reporting standards, leading to",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.009
+  },
+  {
+    "section": "legal and reputational damage.",
+    "chunk_id": "LEGAL AND REPUTATIONAL DAMAGE._0",
+    "content": "Controls C10-L Asset Safeguarding and Segregation: Implement stringent controls to ensure customer assets are safeguarded and segregated from the custodian’s or broker-dealer’s own assets. This includes maintaining customer assets with a trusted, regulated custodian and establishing clear separation protocols to prevent asset commingling and misuse.",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.06
+  },
+  {
+    "section": "are in good compliance standing (e.g., KYC, Sanctions, etc.) to hold registered securities, while restricting others",
+    "chunk_id": "ARE IN GOOD COMPLIANCE STANDING (E.G., KYC, SANCTIONS, ETC.) TO HOLD REGISTERED SECURITIES, WHILE RESTRICTING OTHERS_0",
+    "content": "who are not, which could be facilitated by allow-lists, verifiable credentials, or other relevant protocols. C16-S Multiparty Transaction Validation: Implement collaborative transaction validation mechanism that requires approvals from multiple authorized parties to enhance transaction security. This mechanism includes provisions for",
+    "entities": [
+      "C16-S Multiparty Transaction Validation:"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.068
+  },
+  {
+    "section": "This figure shows the risks associated with the principle “Regulatory Compliance,” as well as the controls to mitigate these risks:",
+    "chunk_id": "THIS FIGURE SHOWS THE RISKS ASSOCIATED WITH THE PRINCIPLE “REGULATORY COMPLIANCE,” AS WELL AS THE CONTROLS TO MITIGATE THESE RISKS:_0",
+    "content": "BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 27 Contents Return to Principles",
+    "entities": [],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.015
+  },
+  {
+    "section": "standards and/or regulations required",
+    "chunk_id": "STANDARDS AND/OR REGULATIONS REQUIRED_0",
+    "content": "for managing digital asset securities (e.g., smart contracts may not be flexible enough to accommodate future regulatory changes, leading",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.025
+  },
+  {
+    "section": "to potential noncompliance and/",
+    "chunk_id": "TO POTENTIAL NONCOMPLIANCE AND/_0",
+    "content": "or and operational inefficiencies). R7 Digital Asset Regulatory",
+    "entities": [
+      "Digital Asset Regulatory"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.086
+  },
+  {
+    "section": "securities regulations (e.g., codes",
+    "chunk_id": "SECURITIES REGULATIONS (E.G., CODES_0",
+    "content": "of conduct, standards set by government bodies, or industry regulators) across disparate jurisdictions and asset classes. Controls",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.023
+  },
+  {
+    "section": "the financial and operational health of issuers to maintain regulatory compliance and inform stakeholders.",
+    "chunk_id": "THE FINANCIAL AND OPERATIONAL HEALTH OF ISSUERS TO MAINTAIN REGULATORY COMPLIANCE AND INFORM STAKEHOLDERS._0",
+    "content": "C11-L Policies and Procedures: Document comprehensive policies and procedures that cover all aspects of business operations and IT functionalities, including protocols for blockchain management and smart contract deployment. Incorporate regular testing strategies",
+    "entities": [
+      "C11-L Policies"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.061
+  },
+  {
+    "section": "such as simulations, stress tests, and security audits to ensure compliance with security standards and regulatory requirements.",
+    "chunk_id": "SUCH AS SIMULATIONS, STRESS TESTS, AND SECURITY AUDITS TO ENSURE COMPLIANCE WITH SECURITY STANDARDS AND REGULATORY REQUIREMENTS._0",
+    "content": "Regularly update these policies and testing methods to align with technological advancements and regulatory changes. C18-S Code Auditing: Ensure all smart contract code is tested for vulnerabilities, bugs, performance issues or defects by an independent third-party auditor. C12-L Education and Training for Stakeholders on Digital Asset Securities: Implement comprehensive education and training programs for all stakeholders involved with digital asset securities. These programs should cover the fundamental principles",
+    "entities": [
+      "C12-L Education",
+      "C18-S Code Auditing"
+    ],
+    "tags": [
+      "performance"
+    ],
+    "importance_score": 0.108
+  },
+  {
+    "section": "periodic updates to address emerging security challenges and maintain compliance with industry standards.",
+    "chunk_id": "PERIODIC UPDATES TO ADDRESS EMERGING SECURITY CHALLENGES AND MAINTAIN COMPLIANCE WITH INDUSTRY STANDARDS._0",
+    "content": "C19-S Smart Contract Entitlements: Restrict access to smart contract data and functions based on standard roles using fine-grain entitlements. C28-S Smart Contract Roles: Define standard roles to determine who can access smart contract data and functions. C29-S Emergency Stop: Ensure that smart contracts have an embedded kill switch or process to halt all activity, which can be accessed by a role with elevated permissions. C30-S Account Pause: Ensure that a user can freeze or pause activity for a given investor or wallet, controlled by either the agent of the investor or a role with elevated permissions. C31-S Token Pause: Ensure that a user can freeze or pause activity for all or some of the token inventory, controlled by either the agent of the investor or a role with elevated permissions.",
+    "entities": [
+      "C30-S Account Pause: Ensure",
+      "C29-S Emergency Stop: Ensure",
+      "C31-S Token Pause: Ensure",
+      "C19-S Smart Contract Entitlements: Restrict"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.192
+  },
+  {
+    "section": "2. Regulatory Compliance (continued)",
+    "chunk_id": "2. REGULATORY COMPLIANCE (CONTINUED)_0",
+    "content": "BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 29 Contents Return to Principles",
+    "entities": [],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.015
+  },
+  {
+    "section": "governance within DLT environments",
+    "chunk_id": "GOVERNANCE WITHIN DLT ENVIRONMENTS_0",
+    "content": "may hinder predictable dispute resolution across networks. R9 Market Abuse The risk of insufficient surveillance to prevent market manipulation, ensuring transparent and fair practices align with market integrity standards. Controls C4-L Participant Roles, Responsibilities, and Obligations: Clearly define and document service participants’ roles, responsibilities,",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.059
+  },
+  {
+    "section": "C36-R Redundancy and Concurrency: Ensure technology resilience capabilities are in place to guarantee continuity of service and",
+    "chunk_id": "C36-R REDUNDANCY AND CONCURRENCY: ENSURE TECHNOLOGY RESILIENCE CAPABILITIES ARE IN PLACE TO GUARANTEE CONTINUITY OF SERVICE AND_0",
+    "content": "that there isn’t a single point of failure due to a logical loss of a major DLT / network node or loss of all nodes in a geographic region. C37-R Backups: Regularly record and store copies of the ledger and service-related data to prevent loss of data integrity or availability due to destruction or corruption of data. C38-R Failure Prevention, Detection and Recovery: Implement processes and mechanisms for detecting failures and seamlessly transitioning to backup systems to prevent disruptions and maintain data integrity. These processes entail reporting, recovering, and resolving several different types of failures. C39-R Recovery Testing: Regularly simulate and validate recovery processes to ensure the system’s ability to restore data accurately and securely in the case of unexpected incidents, such as failures and crashes, to test the recovery performance of the system, including industry required performance testing.",
+    "entities": [
+      "C37-R Backups: Regularly",
+      "C39-R Recovery Testing: Regularly",
+      "DLT"
+    ],
+    "tags": [
+      "performance"
+    ],
+    "importance_score": 0.198
+  },
+  {
+    "section": "C36-R Redundancy and Concurrency: Establish a legal basis for a service based on rules and/or contractual agreements that bind",
+    "chunk_id": "C36-R REDUNDANCY AND CONCURRENCY: ESTABLISH A LEGAL BASIS FOR A SERVICE BASED ON RULES AND/OR CONTRACTUAL AGREEMENTS THAT BIND_0",
+    "content": "both the service provider and stakeholders. The terms of service should also establish the parameters for transfer, custody, control of",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.027
+  },
+  {
+    "section": "assets consistent with applicable laws, regulations and other regulatory requirements for the service provider and stakeholders.",
+    "chunk_id": "ASSETS CONSISTENT WITH APPLICABLE LAWS, REGULATIONS AND OTHER REGULATORY REQUIREMENTS FOR THE SERVICE PROVIDER AND STAKEHOLDERS._0",
+    "content": "C37-R Backups: Regularly record and store copies of the ledger and service-related data to prevent loss of data integrity or availability due to destruction or corruption of data. C38-R Failure Prevention, Detection and Recovery: Implement processes and mechanisms for detecting failures and seamlessly transitioning to backup systems to prevent disruptions and maintain data integrity. These processes entail reporting, recovering, and resolving several different types of failures. C46-N Data Lineage: Implement a comprehensive data lineage process for transactions and related data processes. This process must track the journey of data from its origin through all transformations and uses until its final state. BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 30 Contents Return to Principles",
+    "entities": [
+      "C46-N Data Lineage: Implement",
+      "C37-R Backups: Regularly"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.16
+  },
+  {
+    "section": "C42-R Identity Verification: Establish a system or process for verifying client identities and compliance status, which",
+    "chunk_id": "C42-R IDENTITY VERIFICATION: ESTABLISH A SYSTEM OR PROCESS FOR VERIFYING CLIENT IDENTITIES AND COMPLIANCE STATUS, WHICH_0",
+    "content": "may include internal mechanisms, third-party digital identity verification services, or other suitable methods. C46-N Data Lineage: Implement a comprehensive data lineage process for transactions and related data processes. This process must track the journey of data from its origin through all transformations and uses until its final state. C18-S Code Auditing: Ensure all smart contract code is tested for vulnerabilities, bugs, performance issues or defects by an independent third-party auditor. C19-S Smart Contract Entitlements: Restrict access to smart contract data and functions based on standard roles using fine-grain entitlements. C32-R Audit Trail: Maintain a comprehensive record of digital asset events / transactions, both on-chain and relevant external activities, with precise synchronized time stamps. Enforce standards for synchronizing clocks across all DLT systems and external activity sources to ensure uniform time-stamping. The audit trail must support the full-system recovery and verification of the process for resilience purposes. C35-R Event Monitoring and Alerts: Implement a system to monitor and audit operations in real time and automatically generate alerts. Ensure that alerts are triggered based on predefined thresholds of key metrics to promptly identify and respond to operational anomalies or deviations from standard procedures. C20-S Quantum-Resistant Signature Algorithms: Implement a quantum-resistant signature algorithm, and a periodic audit process for reviewing and documenting quantum-resistant algorithms utilized within the system to ensure ongoing security efficacy against quantum threats. R17 Quantum Computing Threat Quantum computing is able to break asymmetric encryption and back into a private key from a public key. 3. Resilience and Security (continued) Risks Controls BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 32 Contents Return to Principles",
+    "entities": [
+      "C46-N Data Lineage: Implement",
+      "DLT",
+      "C20",
+      "C18-S Code Auditing"
+    ],
+    "tags": [
+      "compliance",
+      "performance"
+    ],
+    "importance_score": 0.36
+  },
+  {
+    "section": "C42-R Identity Verification: Establish a system or process for verifying client identities and compliance status, which",
+    "chunk_id": "C42-R IDENTITY VERIFICATION: ESTABLISH A SYSTEM OR PROCESS FOR VERIFYING CLIENT IDENTITIES AND COMPLIANCE STATUS, WHICH_1",
+    "content": "Risks Controls BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 32 Contents Return to Principles",
+    "entities": [
+      "Risks Controls BUILDING"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.063
+  },
+  {
+    "section": "connecting the digital asset platform",
+    "chunk_id": "CONNECTING THE DIGITAL ASSET PLATFORM_0",
+    "content": "with other blockchain networks or traditional financial systems. R19 Network Outage A singular event, such as a natural disaster, a common failure point, or a pervasive network issue, could simultaneously incapacitate multiple critical components, nodes, or networks, resulting in extensive operational disruptions and systemic instability. C21-S Intraoperability Between DLT Networks: Adhere to industry-accepted cross-network communication protocols specifically designed for blockchain interoperability. This includes standardized protocols for asset representation, transaction formats, and data",
+    "entities": [
+      "R19 Network Outage",
+      "C21-S"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.113
+  },
+  {
+    "section": "exchange between different blockchain networks, ensuring seamless and secure interactions across diverse blockchain platforms.",
+    "chunk_id": "EXCHANGE BETWEEN DIFFERENT BLOCKCHAIN NETWORKS, ENSURING SEAMLESS AND SECURE INTERACTIONS ACROSS DIVERSE BLOCKCHAIN PLATFORMS._0",
+    "content": "C22-S Token Specification Model: Define smart contract requirements through a human readable markup language that models smart contract specifications and can be easily understood by business, operations, and IT personas. C23-S Data / Properties: Ensure data properties embedded into a smart contract conform to recognized nomenclature and conventions. Data must sufficiently identify and describe the security (e.g., standard security IDs) and incorporate or have access to the data required to process life cycle events. C24-S Functions / Behaviors: Conform to a common set of functions, behaviors and service level agreements that support various security life cycle operations such as issuance and settlement. C25-S Bookkeeping: Conform to an accounting model that supports both private (non-publicly traded) and public (publicly traded) securities. Adapt the accounting model to comply with international digital asset securities reporting standards. C26-S Account Structure: Conform to a common model to represent investor accounts that delineate what accounts are customer vs. proprietary and have the appropriate level of attribution. C28-S Smart Contract Roles: Define standard roles to determine who can access smart contract data and functions. C29-S Emergency Stop: Ensure that smart contracts have an embedded kill switch or process to halt all activity, which can be accessed by a role with elevated permissions. C30-S Account Pause: Ensure that a user can freeze or pause activity for a given investor or wallet, controlled by either the agent of the investor or a role with elevated permissions. C31-S Token Pause: Ensure that a user can freeze or pause activity for all or some of the token inventory, controlled by either the agent of the investor or a role with elevated permissions. C54-N Legacy Infrastructure Integration: Provide a method or abstraction layer that enables users to access their security holdings through either classic or new DLT infrastructure. 6. Operational Scalability This",
+    "entities": [
+      "C26-S Account Structure: Conform",
+      "C23-S Data / Properties: Ensure",
+      "C25-S Bookkeeping: Conform",
+      "C24-S Functions / Behaviors",
+      "C29-S Emergency Stop: Ensure",
+      "C22-S Token Specification Model: Define",
+      "C30-S Account Pause: Ensure",
+      "C54-N Legacy Infrastructure Integration: Provide",
+      "DLT",
+      "C31-S Token Pause: Ensure"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.42
+  },
+  {
+    "section": "exchange between different blockchain networks, ensuring seamless and secure interactions across diverse blockchain platforms.",
+    "chunk_id": "EXCHANGE BETWEEN DIFFERENT BLOCKCHAIN NETWORKS, ENSURING SEAMLESS AND SECURE INTERACTIONS ACROSS DIVERSE BLOCKCHAIN PLATFORMS._1",
+    "content": "all or some of the token inventory, controlled by either the agent of the investor or a role with elevated permissions. C54-N Legacy Infrastructure Integration: Provide a method or abstraction layer that enables users to access their security holdings through either classic or new DLT infrastructure. 6. Operational Scalability This figure shows the risks associated with the principle “Operational Scalability,” as well as the controls to mitigate these risks: BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 42 Contents Return to Principles",
+    "entities": [
+      "DLT",
+      "C54-N Legacy Infrastructure Integration: Provide"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.122
+  },
+  {
+    "section": "C36-R Redundancy and Concurrency: Ensure technology resilience capabilities are in place to guarantee continuity of service, and",
+    "chunk_id": "C36-R REDUNDANCY AND CONCURRENCY: ENSURE TECHNOLOGY RESILIENCE CAPABILITIES ARE IN PLACE TO GUARANTEE CONTINUITY OF SERVICE, AND_0",
+    "content": "there isn’t a single point of failure due to a logical loss of a major DLT / network node or loss of all nodes in a geographic region. C37-R Backups: Regularly record and store copies of the ledger and service-related data to prevent loss of data integrity or availability due to destruction or corruption of data. C38-R Failure Prevention, Detection and Recovery: Implement processes and mechanisms for detecting failures and seamlessly transitioning to backup systems to prevent disruptions and maintain data integrity. These processes entail reporting, recovering, and resolving several different types of failures. C39-R Recovery Testing: Regularly simulate and validate recovery processes to ensure the system’s ability to restore data accurately and securely in the case of unexpected incidents, such as failures and crashes, to test the recovery performance of the system, including industry required performance testing. C43-R Geographical Distribution: Strategically distribute data across diverse geographic locations, within regulatory boundaries, to minimize the impact of regional disruptions and ensure systems can be operationally rotated. 3. Resilience and Security (continued) Risks Controls BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 33 Contents Return to Principles",
+    "entities": [
+      "C37-R Backups: Regularly",
+      "C39-R Recovery Testing: Regularly",
+      "DLT"
+    ],
+    "tags": [
+      "compliance",
+      "performance"
+    ],
+    "importance_score": 0.254
+  },
+  {
+    "section": "platform’s ability to deploy new",
+    "chunk_id": "PLATFORM’S ABILITY TO DEPLOY NEW_0",
+    "content": "features, update smart contracts, or address vulnerabilities through software patches. The consensus requirement for changes introduces complexities in timely adaptation and innovation, making the management of software updates, enhancements, and security fixes inherently difficult. C18-S Code Auditing: Ensure all smart contract code is tested for vulnerabilities, bugs, performance issues or defects by an independent third-party auditor. C37-R Backups: Regularly record and store copies of the ledger and service-related data to prevent loss of data integrity or availability due to destruction or corruption of data. C38-R Failure Prevention, Detection, and Recovery: Implement processes and mechanisms for detecting failures and seamlessly transitioning to backup systems to prevent disruptions and maintain data integrity. These processes entail reporting, recovering, and resolving several different types of failures. C39-R Recovery Testing: Regularly simulate and validate recovery processes to ensure the system’s ability to restore data accurately and securely in the case of unexpected incidents, such as failures and crashes, to test the recovery performance of the system, including industry required performance testing. C44-R Feature Deployment Process: Establish processes for deploying new features or updates that minimize disruption and ensure network integrity. C46-N Data Lineage: Implement a comprehensive data lineage process for transactions and related data processes. This process must track the journey of data from its origin through all transformations and uses until its final state. 3. Resilience and Security (continued) Risks Controls BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 34 Contents Return to Principles",
+    "entities": [
+      "C39-R Recovery Testing: Regularly",
+      "C44-R Feature Deployment Process: Establish",
+      "C46-N Data Lineage: Implement",
+      "C37-R Backups: Regularly",
+      "C18-S Code Auditing"
+    ],
+    "tags": [
+      "compliance",
+      "performance"
+    ],
+    "importance_score": 0.33
+  },
+  {
+    "section": "or insufficient governance",
+    "chunk_id": "OR INSUFFICIENT GOVERNANCE_0",
+    "content": "structures, potentially leading to operational vulnerabilities and",
+    "entities": [],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.009
+  },
+  {
+    "section": "regulatory noncompliance.",
+    "chunk_id": "REGULATORY NONCOMPLIANCE._0",
+    "content": "C19-S Smart Contract Entitlements: Restrict access to smart contract data and functions based on standard roles using fine-grain entitlements. C32-R Audit Trail: Maintain a comprehensive record of digital asset events / transactions, both on-chain and relevant external activities, with precise synchronized time stamps. Enforce standards for synchronizing clocks across all DLT systems and external activity sources to ensure uniform time-stamping. The audit trail must support the full-system recovery and verification of the process for resilience purposes. C34-R Data Subject Access Rights Enforcement: Create privileged roles that have the right to access data, amend data, or respond to requests for a given person’s data to be erased, where appropriate. C4-L Participant Roles, Responsibilities, and Obligations: Clearly define and document service participants’ roles, responsibilities,",
+    "entities": [
+      "DLT",
+      "C19-S Smart Contract Entitlements: Restrict"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.173
+  },
+  {
+    "section": "security and regulatory compliance. Include fit and proper tests for management to strengthen oversight.",
+    "chunk_id": "SECURITY AND REGULATORY COMPLIANCE. INCLUDE FIT AND PROPER TESTS FOR MANAGEMENT TO STRENGTHEN OVERSIGHT._0",
+    "content": "3. Resilience and Security (continued) Risks Controls BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 37 Contents Return to Principles",
+    "entities": [],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.024
+  },
+  {
+    "section": "unauthorized access and are in full compliance with current regulatory standards for digital asset security. Additionally,",
+    "chunk_id": "UNAUTHORIZED ACCESS AND ARE IN FULL COMPLIANCE WITH CURRENT REGULATORY STANDARDS FOR DIGITAL ASSET SECURITY. ADDITIONALLY,_0",
+    "content": "incorporate regular reviews and updates to adapt to emerging security technologies and threats. C32-R Audit Trail: Maintain a comprehensive record of digital asset events / transactions, both on-chain and relevant external activities, with precise synchronized time stamps. Enforce standards for synchronizing clocks across all DLT systems and external activity sources to ensure uniform time-stamping. The audit trail must support the full-system recovery and verification of the process for resilience purposes. C46-N Data Lineage: Implement a comprehensive data lineage process for transactions and related data processes. This process must track the journey of data from its origin through all transformations and uses until its final state. 4. Safeguarding Customer Assets (continued) BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 39 Contents Return to Principles",
+    "entities": [
+      "C46-N Data Lineage: Implement",
+      "THE DIGITAL ASSET SECURITIES",
+      "DLT"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.176
+  },
+  {
+    "section": "consistent with applicable laws, regulations, and other regulatory requirements for the service provider and stakeholders.",
+    "chunk_id": "CONSISTENT WITH APPLICABLE LAWS, REGULATIONS, AND OTHER REGULATORY REQUIREMENTS FOR THE SERVICE PROVIDER AND STAKEHOLDERS._0",
+    "content": "C10-L Asset Safeguarding and Segregation: Implement stringent controls to ensure customer assets are safeguarded and segregated from the custodian’s or broker-dealer’s own assets. This includes maintaining customer assets with a trusted, regulated custodian and establishing clear separation protocols to prevent asset commingling and misuse. C25-S Bookkeeping: Conform to an accounting model that supports both private (non-publicly traded) and public (publicly traded) securities. Adapt the accounting model to comply with international digital asset securities reporting standards. C26-S Account Structure: Conform to a common model to represent investor accounts that delineate what accounts are customer vs. proprietary and have the appropriate level of attribution. 4. Safeguarding Customer Assets (continued) Risks Controls BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 40 Contents Return to Principles",
+    "entities": [
+      "C10-L Asset Safeguarding and Segregation: Implement",
+      "C25-S Bookkeeping: Conform",
+      "C26-S Account Structure: Conform"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.175
+  },
+  {
+    "section": "platform faces diminished",
+    "chunk_id": "PLATFORM FACES DIMINISHED_0",
+    "content": "operational viability and value due to low user engagement and transaction volume. Controls C21-S Intraoperability Between DLT Networks: Adhere to industry-accepted cross-network communication protocols specifically designed for blockchain interoperability. This includes standardized protocols for asset representation, transaction formats, and data",
+    "entities": [
+      "Controls C21-S"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.068
+  },
+  {
+    "section": "across interconnected platforms.",
+    "chunk_id": "ACROSS INTERCONNECTED PLATFORMS._0",
+    "content": "C56-N Community Engagement Framework: Ensure the existence of a stakeholder collaboration program that enhances risk",
+    "entities": [
+      "C56-N Community"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.06
+  },
+  {
+    "section": "management and platform security through active feedback and problem-solving channels. This program should provide specific",
+    "chunk_id": "MANAGEMENT AND PLATFORM SECURITY THROUGH ACTIVE FEEDBACK AND PROBLEM-SOLVING CHANNELS. THIS PROGRAM SHOULD PROVIDE SPECIFIC_0",
+    "content": "forums and channels for feedback, issue reporting, and collaborative problem-solving. Establish best practices and shared standards through active feedback and collaborative initiatives. 5. Connectivity and Interoperability This figure shows the risks associated with the principle “Connectivity and Interoperability,” as well as the controls to mitigate these risks: BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 41 Contents Return to Principles",
+    "entities": [],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.077
+  },
+  {
+    "section": "enhances risk management and platform security through active feedback and problem-solving channels. This",
+    "chunk_id": "ENHANCES RISK MANAGEMENT AND PLATFORM SECURITY THROUGH ACTIVE FEEDBACK AND PROBLEM-SOLVING CHANNELS. THIS_0",
+    "content": "program should provide specific forums and channels for feedback, issue reporting, and collaborative problem- solving. Establish best practices and shared standards through active feedback and collaborative initiatives. 6. Operational Scalability (continued) BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 43 Contents Return to Principles",
+    "entities": [
+      "THE DIGITAL ASSET SECURITIES",
+      "Operational Scalability"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.085
+  },
+  {
+    "section": "of digital assets, the associated technologies, regulatory compliance requirements, risk factors, and best practices.",
+    "chunk_id": "OF DIGITAL ASSETS, THE ASSOCIATED TECHNOLOGIES, REGULATORY COMPLIANCE REQUIREMENTS, RISK FACTORS, AND BEST PRACTICES._0",
+    "content": "6. Operational Scalability (continued) BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 44 Contents Return to Principles",
+    "entities": [
+      "THE DIGITAL ASSET SECURITIES",
+      "Operational Scalability"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.1
+  },
+  {
+    "section": "overview on page 11",
+    "chunk_id": "OVERVIEW ON PAGE 11_0",
+    "content": "Contributors This white paper is a synergistic collaboration between DTCC, Clearstream, and Euroclear, augmented by support from the Boston Consulting Group. The strategic direction and guidance originated from the Steering Committee, while the Working Group – consisting of industry experts and practitioners – drove the effort and provided oversight. In addition, the Steering Committee and Working Group would like to express",
+    "entities": [
+      "Working Group",
+      "Euroclear",
+      "the Boston Consulting Group",
+      "the Steering Committee",
+      "the Working Group"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.131
+  },
+  {
+    "section": "their gratitude to the contributing partners for their",
+    "chunk_id": "THEIR GRATITUDE TO THE CONTRIBUTING PARTNERS FOR THEIR_0",
+    "content": "expertise and for sharing their valuable perspectives during the development of the DASCP framework. Steering Committee: Nadine Chakar Managing Director and Global Head of DTCC Digital Assets Jens Hachmeister Managing Director and Head of Issuer Services and New Digital Markets at Clearstream Philippe Laurensy Managing Director and Head of Product Strategy and Innovation at Euroclear Kaj Burchardi Managing Director, BCG Platinion Netherlands BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 45 Contents Working Group Renée Berman Managing Director, DTCC Digital Assets Doug Meyers Director, CSS Strategy, DTCC Hitesh Goradia",
+    "entities": [
+      "CSS Strategy",
+      "Issuer Services",
+      "DASCP",
+      "Platinion Netherlands",
+      "Contents Working Group",
+      "DTCC Hitesh Goradia",
+      "New Digital Markets at",
+      "Steering Committee"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.171
+  },
+  {
+    "section": "Director, Technology Research and Innovation",
+    "chunk_id": "DIRECTOR, TECHNOLOGY RESEARCH AND INNOVATION_0",
+    "content": "Robert Lanni Analyst, DTCC Digital Assets Thilo Derenbach Head of Sales and Business Development Digital Securities Services, Clearstream Dr. Vic Arulchandran, Deutsche Börse Director, Deutsche Boerse | Head of Digital Product and Market Design, Clearstream Jorgen Ouaknine Global Head of Innovation and Digital Assets, Euroclear Stephanie Lheureux Head of Digital Assets Excellence Center at Euroclear Frédéric Brugère Managing Director and Partner Bernhard Kronfellner Partner and Associate Director Bob Baksa Associate Director Alexandre Lefoulon Principal IT Architect BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 46 Contents",
+    "entities": [
+      "Digital Product and Market Design, Clearstream Jorgen Ouaknine Global Head of Innovation",
+      "Deutsche Boerse",
+      "DTCC Digital Assets Thilo Derenbach Head of Sales and Business Development Digital Securities Services",
+      "Deutsche Börse",
+      "Digital Assets Excellence Center",
+      "Digital Assets"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.155
+  },
+  {
+    "section": "Contributing Partners",
+    "chunk_id": "CONTRIBUTING PARTNERS_0",
+    "content": "Inna Verdini Global Head of Digital Controls and",
+    "entities": [
+      "Digital Controls"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.086
+  },
+  {
+    "section": "Governance, State Street Digital",
+    "chunk_id": "GOVERNANCE, STATE STREET DIGITAL_0",
+    "content": "Sam ten Cate Managing Director, State Street Digital Justin McCormack Senior Vice President, Head",
+    "entities": [
+      "Cate",
+      "State"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.104
+  },
+  {
+    "section": "of State Street Digital Legal",
+    "chunk_id": "OF STATE STREET DIGITAL LEGAL_0",
+    "content": "and Senior Managing Counsel, State Street Digital Marianne Demarchi Chief Executive EMEA, Swift Maredith Hannon Head of Business Development, Digital Assets, Wisdom Tree Rohan Ranadive Head of Risk Management, Digital Assets, WisdomTree Siddharthan Rajagopalan Business Architect - Advanced",
+    "entities": [
+      "Senior Managing Counsel",
+      "Siddharthan Rajagopalan Business Architect - Advanced",
+      "Business Development",
+      "Digital Assets",
+      "State Street Digital Marianne Demarchi"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.13
+  },
+  {
+    "section": "Technologies, Chief Technology",
+    "chunk_id": "TECHNOLOGIES, CHIEF TECHNOLOGY_0",
+    "content": "Office, Barclays Janina Farr Head of Digital Strategy, BNY Mark Raynes Head of Solutions, Chainlink Labs Angie Walker Global Head of Banking and Capital Markets, Chainlink Labs Eric Saraniecki Digital Asset Varun Paul Senior Director for FMIs and Blockchains, Fireblocks John Hallahan Director of Business Solutions, Fireblocks Nathalie Poli Product Manager, Fnality Olivier Portenseigne Chief Executive Officer, FundsDLT Paolo Brignardello Chief Commercial Officer, FundsDLT Ami Ben-David Founder & CEO, Ownera Natasha Benson Chief Operating Officer, Ownera Milena Kohlhofer",
+    "entities": [
+      "Business Solutions",
+      "Barclays Janina Farr Head",
+      "Capital Markets",
+      "Digital Strategy"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.135
+  },
+  {
+    "section": "Head of Sales & Partnerships,",
+    "chunk_id": "HEAD OF SALES & PARTNERSHIPS,_0",
+    "content": "Americas, Ownera Nicole Lefevre Banking Sales Lead, R3 Marcus Van Abbé Head of Digital Market Infrastructures, R3 Alisa DiCaprio Chief Economist, R3 Derek Neo Head of Depository, SGX BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 47 Contents",
+    "entities": [
+      "Digital Market Infrastructures"
+    ],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.065
+  },
+  {
+    "section": "securities. Its digital post-trade platform D7 provides a fully digital alternative to conventional physical issuance and processing of securities. It also",
+    "chunk_id": "SECURITIES. ITS DIGITAL POST-TRADE PLATFORM D7 PROVIDES A FULLY DIGITAL ALTERNATIVE TO CONVENTIONAL PHYSICAL ISSUANCE AND PROCESSING OF SECURITIES. IT ALSO_0",
+    "content": "delivers premier fund execution, distribution, data, and reporting services, covering over 55 fund markets worldwide. Clearstream is part of the Deutsche Börse Group, an international exchange organization and provider of innovative market infrastructures. To learn more, visit us at clearstream.com. Euroclear group is the financial industry’s trusted provider of post-trade services. Guided by its purpose, Euroclear innovates to bring safety, efficiency, and connections to financial markets to sustain economic growth. Euroclear provides settlement and custody to domestic and cross-border securities for bonds, equities and derivatives, and investment funds. As a proven, resilient capital market infrastructure, Euroclear is committed to delivering risk-mitigation, automation, and efficiency at scale for its global client franchise. The Euroclear group comprises Euroclear Bank, the International CSD, as well as Euroclear Belgium, Euroclear Finland, Euroclear France, Euroclear Nederland, Euroclear Sweden, Euroclear UK and International and MFEX by Euroclear. To learn more, visit euroclear.com.",
+    "entities": [
+      "the Deutsche Börse Group",
+      "Euroclear",
+      "Euroclear Bank",
+      "Euroclear Finland",
+      "Euroclear Nederland",
+      "the International CSD",
+      "Euroclear France",
+      "Euroclear UK",
+      "International"
+    ],
+    "tags": [
+      "performance"
+    ],
+    "importance_score": 0.232
+  },
+  {
+    "section": "Boston Consulting Group is a global consulting firm that partners with leaders in business and society to tackle their most important",
+    "chunk_id": "BOSTON CONSULTING GROUP IS A GLOBAL CONSULTING FIRM THAT PARTNERS WITH LEADERS IN BUSINESS AND SOCIETY TO TACKLE THEIR MOST IMPORTANT_0",
+    "content": "challenges and capture their greatest opportunities. BCG’s success depends on a spirit of deep collaboration and a global community of diverse individuals determined to make the world and each other better every day. To learn more, visit bcg.com.",
+    "entities": [
+      "BCG"
+    ],
+    "tags": [
+      "general"
+    ],
+    "importance_score": 0.066
+  },
+  {
+    "section": "or entity. Recipients of this paper should obtain guidance and/or advice, based on their own circumstances, from their own legal, investment, tax, regulatory or accounting advisors. The authors and contributors make no, and",
+    "chunk_id": "OR ENTITY. RECIPIENTS OF THIS PAPER SHOULD OBTAIN GUIDANCE AND/OR ADVICE, BASED ON THEIR OWN CIRCUMSTANCES, FROM THEIR OWN LEGAL, INVESTMENT, TAX, REGULATORY OR ACCOUNTING ADVISORS. THE AUTHORS AND CONTRIBUTORS MAKE NO, AND_0",
+    "content": "specifically disclaim all, representations and warranties as to title, non-infringement, accuracy, completeness, usefulness, or fitness for a particular purpose. Recipients bear all risk associated with their use of the paper and the information contained herein. BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM 48 Contents",
+    "entities": [],
+    "tags": [
+      "compliance"
+    ],
+    "importance_score": 0.057
+  }
+]

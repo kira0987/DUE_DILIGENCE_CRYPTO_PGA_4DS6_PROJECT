@@ -1,0 +1,30 @@
+[
+  {
+    "user": "hii u ",
+    "assistant": "Hello! How can I assist you today?"
+  },
+  {
+    "user": "how old is cristiano ",
+    "assistant": "Cristiano Ronaldo was born on February 5, 1985, so he's currently 38 years old."
+  },
+  {
+    "user": "hola ",
+    "assistant": "Hola! \u00bfEn qu\u00e9 puedo ayudarte hoy? (Hello! How can I help you today?)"
+  },
+  {
+    "user": "yo",
+    "assistant": "What's up? Need some help with something?"
+  },
+  {
+    "user": "yo",
+    "assistant": "What's up? Need any help with something?"
+  },
+  {
+    "user": "hola",
+    "assistant": "\u00a1Hola! \u00bfEn qu\u00e9 puedo ayudarte hoy?"
+  },
+  {
+    "user": "hi",
+    "assistant": "Hi! It's nice to meet you. How can I help you today?"
+  }
+]

@@ -1,0 +1,22 @@
+1. Legal and Regulatory Compliance:
+Jurisdictional Analysis:
+In which jurisdictions is the digital assetlcryptocurrency operating?
+What are the applicable laws and regulations in those jurisdictions?
+(AMLIKYC, securities laws, tax laws_
+etc.)
+Has the project obtained all necessary licenses and registrations?
+Are there any pending or past regulatory investigations or enforcement
+actions?
+How does the project handle cross-border transactions and regulatory
+differences?
+Legal Structure:
+What is the legal structure of the entity behind the digital asset?
+Are there any legal agreements or contracts in place (e.g , smart contracts
+token sale agreements)?
+What are the legal rights and obligations of token holders?
+What is the legal classification of the digital asset (e.g., security, utility token,
+commodity)?
+Data Privacy:
+How does the project comply with data privacy regulations (e.g:, GDPR)?
+What data is collected from users , and how is it stored and protected?
+What is the project's policy on data breaches and incident response?

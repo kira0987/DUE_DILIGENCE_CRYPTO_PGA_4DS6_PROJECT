@@ -1,0 +1,19 @@
+Crypto Fund Due Diligence Report
+Tag: Legal & Entity Structure
+Q: - What is the legal entity of the company, and is it compliant with all applicable laws?
+A: This section provides insights on 'Legal & Entity Structure', offering detailed evaluation, compliance status, and
+procedural context. All evaluations are consistent with industry best practices and regulatory expectations.
+Q: Are there any changes in the legal structure over time?
+A: This section provides insights on 'Legal & Entity Structure', offering detailed evaluation, compliance status, and
+procedural context. All evaluations are consistent with industry best practices and regulatory expectations.
+Tag: Licensing & Regulation
+Q: Are all necessary licenses and permits in place?
+A: This section provides insights on 'Licensing & Regulation', offering detailed evaluation, compliance status, and
+procedural context. All evaluations are consistent with industry best practices and regulatory expectations.
+Q: Are there any sanctions restrictions or transaction monitoring requirements?
+A: This section provides insights on 'Licensing & Regulation', offering detailed evaluation, compliance status, and
+procedural context. All evaluations are consistent with industry best practices and regulatory expectations.
+Tag: Compliance & Risk
+Q: - Is the company compliant with relevant securities and commodities laws?
+A: This section provides insights on 'Compliance & Risk', offering detailed evaluation, compliance status, and procedural
+context. All evaluations are consistent with industry best practices and regulatory expectations.

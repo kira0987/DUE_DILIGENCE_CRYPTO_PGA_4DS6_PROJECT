@@ -1,0 +1,41 @@
+Quantum Digital Asset Management (QDAM) is a licensed investment manager incorporated in
+Luxembourg.
+It specializes in algorithmic trading strategies, staking yield optimization, and venture capital
+investments in early-stage blockchain infrastructure projects.
+QDAM operates as a Societe a Responsabilite Limitee (S.a r.l.), fully registered under the
+Commission
+de Surveillance du Secteur Financier (CSSF) and is MiFID II and AMLD5 compliant.
+Key Highlights
+- Regulatory Status: QDAM holds cross-border investment firm status, operating under passporting
+rights across the EU.
+- Custody and Wallet Infrastructure:
+- Cold storage solutions managed via Fireblocks.
+- Multi-signature wallets for operational accounts.
+- Institutional-grade custody partnerships with BitGo and Coinbase Institutional.
+- Security and Auditing:
+- Penetration tests performed semi-annually by Hacken.
+- Smart contracts audited by OpenZeppelin and Certora.
+- Internal systems utilize SOC2-compliant infrastructure and ISO/IEC 27001 certified providers.
+- Risk Management:
+- Portfolio drawdown threshold: 7% monthly.
+- Insurance coverage for digital asset theft up to $100M via Lloyds of London.
+- Licenses & Legal:
+- Fully registered under AIFMD and FATCA compliant.
+- Legal counsel provided by Linklaters LLP.Financial and Governance Structure
+- Assets Under Management (AUM): $320M (as of Q4 2024)
+- Revenue Streams:
+- Algorithmic trading: 45%
+- Validator staking: 30%
+- Venture capital returns: 25%
+- Governance:
+- Board includes executives from JPMorgan, Ledger, and MIT Media Lab.
+- Quarterly governance votes held transparently via on-chain polling with tokenized governance
+units.
+ESG & Community Involvement
+- Adheres to UN Principles for Responsible Investment (PRI).
+- Member of Crypto Climate Accord.
+- Provides quarterly ESG transparency reports.
+Strategic Roadmap 2025
+- Launch of tokenized fund shares (under Luxembourg RAIF structure).
+- Expansion to APAC via Singapore MAS license.
+- Strategic integration with LayerZero and EigenLayer for cross-chain yield strategies.
