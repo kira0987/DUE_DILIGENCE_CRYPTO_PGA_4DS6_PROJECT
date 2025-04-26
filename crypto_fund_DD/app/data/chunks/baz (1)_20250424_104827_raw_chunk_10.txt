@@ -1,0 +1,15 @@
+www.CryptoBazar.io  
+ 
+9 
+ 
+ 
+The Fund has an extensive international partner network for searching business projects and a set process for 
+project selection, shown below. Basic principles of investment policy at the venture fund CryptoBazar Fund. a) The Fund's main goal is to increase the total value of its investment portfolio. b) The total value of a portfolio is divided between all CryptoBazar Token (CBT) holders less the Fund's fee 
+(for details, see a dedicated section below). c) 100% of the capital invested through the Fund is invested into projects that are launching their ICOs. d) Investing in projects prior to their ICO (the stages "Project Selection", "Pre-ICO", and "Token Pre-Sale"). e) Exit terms – through the sale of tokens of various projects in the fund’s portfolio once these tokens 
+become liquid (get listed on crypto exchanges or there is demand on the OTC market). f) Deal cycle is 6-9 months with yearly capital turnover ratio at 1,5-2. g) Profitability calculation when assets become liquid or when exiting the project to receive liquid crypto-
+assets (Bitcoin, Ethereum, etc.): 
+a. In case the Fund holds tokens of a business project, the profitability is calculated when: 
+i. the tokens are sold for liquid crypto-assets (Bitcoin, Ethereum, etc.), 
+ii. the tokens appreciate (monitored by a quote parser operating at crypto-exchanges, or 
+manually when the project completes a stage in fundraising and the token price changes, 
+or when the Fund can no longer acquire project's assets at older prices).

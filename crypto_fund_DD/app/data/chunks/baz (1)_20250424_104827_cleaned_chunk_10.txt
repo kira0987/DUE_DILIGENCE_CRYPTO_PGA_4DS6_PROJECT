@@ -1,0 +1,18 @@
+The portfolio metrics in the co investor profile are shown after the deduction of the performance fee –
+thus co investors see the actual returns on their capital. Example of the Fund’s performance fee calculation
+
+D) Lock up period is 12 months. During the lock up period, the Fund undertakes no obligation to buy back CBT at
+the request of investors. At the same time, co investors can freely sell their CBT on a crypto exchange at any
+moment (for example, at the decentralized exchange based on the Waves wallet https://waveswallet.io, in the
+CryptoBazar / Bitcoin pair). After the lockup period, the Fund undertakes to buy back any СВТ assets at full price pursuant to a buy back
+request placed directly through the co investor profile account at www.CryptoBazar.io. The Fund has issued 100,000,000 CryptoBazar Tokens (CBT) on the Waves platform (www.wavesplatform.com). The tokens are held in a reserve account and transferred to co investors against crypto investments made to the
+Fund in Bitcoin. The number of tokens in the reserve accounts and traded on the market is reflected in the Fund's
+Each time a co investor makes a BTC transaction to the Fund, the Fund releases reserve CBT at a rate calculated
+daily at 12:00 PM GMT. Token price Fund's portfolio value / Tokens in circulation
+Investments Co investor's tokens / Token price – entry fee commission
+Once a co investor transfers CBT back to the CryptoBazar Fund, such CBTs a returned to the reserve account of
+the fund. Co investor receives BTC back to his wallet in return for the CBT at the CBT rate set for the date of the
+transaction a 12:00 PM GMT. Token price Fund's portfolio value / Tokens in circulation
+Investment Co investor's tokens / Token price (no fees on exit)
+Co investors can also buy or sell CBT on the free market, including the decentralized exchange inside the Waves
+wallet, in the CryptoBazar / Bitcoin pair.

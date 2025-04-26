@@ -1,0 +1,45 @@
+Ariana,Tunisia | LinkedIn: Oussema Bargougui | +216 23041369 | Ooussema.Bargougui@esprit.tn
+Github link : https://github.com/Oussema Bargougui
+ESPRIT (Ecole Supérieure Privée d’Ingénierie et de Technologies)
+Engineering cycle in Computer Science, Data Science option.
+IPEIN (Institut Préparatoire aux Etudes D’Ingénieurs de Nabeul)
+Diploma of success in the National Entrance Exam for Engineering Schools (Rank : 298/610)
+LPSB (Lycée Pilote Sidi Bouzid)
+Sidi Bouzid,Tunisia
+Baccalaureate in Technical Sciences (Grade : Very good)
+Sign Language Detection Model : Developed a CNN based model to detect and classify sign language
+gestures for 3 alphabets (A, B, L).
+Customer Churn Prediction : Predicted customer churn using many models such as XGBoost and
+Gradient Boosting, applying CRISP DM methodology.
+Crypto ema streamlit app : Learn how to connect to the Binance API using Python, analyze crypto data
+with EMAs, and build a fully interactive Streamlit app from scratch.
+REALTIME Cryptocurrency Prices with Python : I am pulling realtime cryptocurrency prices
+(Bitcoin, Ethereum,...) using the Binance websocket API.
+Web Scraper : Building Scraper AI , an AI powered web scraping solution to extract, analyze, and
+visualize web content effortlessly.
+Toxicity detection model : This project aims to create a tool that can automatically detect and classify
+toxic comments using deep learning techniques.
+Programming Languages: Proficient in Python, R, and SQL for data manipulation, analysis, and visualization.
+Data Analysis & Visualization: Skilled in using libraries such as Pandas, NumPy, Matplotlib, Seaborn, and
+ggplot2 to analyze and visualize data.
+Machine Learning: Experienced in building and deploying predictive models using Scikit learn, TensorFlow,
+Deep Learning: Knowledgeable in neural networks, convolutional neural networks (CNNs), and recurrent
+neural networks (RNNs) for advanced data modeling.
+Natural Language Processing (NLP): Experience with text analysis, sentiment analysis, and language
+AI Model Development: Experienced in designing, training, and deploying AI models for various
+applications, including classification, regression, and clustering tasks.
+Generative AI: Proficient in developing generative models such as Generative Adversarial Networks (GANs)
+and Variational Autoencoders (VAEs) for image, text, and data generation.
+Large Language Models (LLMs): Hands on experience with state of the art LLMs like GPT, BERT, and
+Transformer based architectures for natural language processing (NLP) tasks.
+AI Deployment: Knowledgeable in deploying AI models into production environments using frameworks like
+Web Scraping: Proficient in extracting data from websites using tools like BeautifulSoup and Scrap
+
+Member of the TPL IPEIN club (Tunisian Programming Lovers).
+Human Resources Manager at the DAR Blockchain INSAT club.
+Summer Internship (1.5 months) at AHWA Solutions :
+Worked on creating a management system for the company, allowing for efficient supervision of
+employees and interns.
+Machine Learning, Deep Learning & Generative AI Tutor at ACM Esprit Club :
+Responsible for tutoring students in advanced AI topics, providing guidance and support in Machine
+Learning, Deep Learning, and Generative AI.
