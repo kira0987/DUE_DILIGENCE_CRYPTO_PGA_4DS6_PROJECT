@@ -1,0 +1,163 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 750px;
+                 background-color: #222222;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "font": {"color": "white"}, "id": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_1.txt", "label": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_1.txt", "shape": "dot", "title": "its inception\u003cbr\u003esanctions\u003cbr\u003egesellschaft\u003cbr\u003eswiss\nfinma regulations\u003cbr\u003esecurities laws\u003cbr\u003ecrypto capital partners\u003cbr\u003etrail\u003cbr\u003esmart contract auditing tools\u003cbr\u003ethird party security firms\u003cbr\u003ethe fund complies\u003cbr\u003ethe firm\u003cbr\u003edigital assets\u003cbr\u003ehaftung\u003cbr\u003eips\u003cbr\u003eseveral ip assets\u003cbr\u003ecore infrastructure\u003cbr\u003eall ips\u003cbr\u003eanti money laundering (aml) policies\u003cbr\u003echainalysis\u003cbr\u003etrading\u003cbr\u003eall necessary licenses\u003cbr\u003esingapore\u003cbr\u003eregular transaction monitoring\u003cbr\u003ethe european union\u003cbr\u003e(kyc\u003cbr\u003eelliptic tools\u003cbr\u003eno ongoing ip infringement cases\u003cbr\u003eannually\u003cbr\u003egithub\u003cbr\u003escreening\u003cbr\u003e2018\u003cbr\u003ebits\u003cbr\u003egmbh\u003cbr\u003eswitzerland\u003cbr\u003ean independent compliance team\u003cbr\u003ea gmbh\u003cbr\u003emulti signature wallets\u003cbr\u003ekyc\u003cbr\u003ethird\u003cbr\u003ebeschr?nkter haftung\u003cbr\u003ea stable legal structure\u003cbr\u003emarket manipulation\u003cbr\u003ecertik\u003cbr\u003emultiple jurisdictions\u003cbr\u003eportfolio management\nalgorithms\u003cbr\u003epartially open source\u003cbr\u003eownership\u003cbr\u003ethe source code\u003cbr\u003emerkle\u003cbr\u003estrict compliance protocols\u003cbr\u003ethe united states\u003cbr\u003eanti money laundering (aml\u003cbr\u003ea secured digital asset custody system\u003cbr\u003ean mit license\u003cbr\u003efireblocks\u003cbr\u003ea regulated digital asset investment firm\u003cbr\u003eall internal systems\u003cbr\u003eswiss and eu intellectual property laws\u003cbr\u003etwo\u003cbr\u003ethe u.s. securities act\u003cbr\u003emifid ii\u003cbr\u003eswiss\u003cbr\u003eencryption\u003cbr\u003ethe company\u003cbr\u003emit\u003cbr\u003emerkle proof attestations\u003cbr\u003etwo factor authentication\u003cbr\u003echain\u003cbr\u003ecold wallets\u003cbr\u003eall custody solutions\u003cbr\u003ea combination\u003cbr\u003eautomated surveillance systems\u003cbr\u003edigital"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_2.txt", "label": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_2.txt", "shape": "dot", "title": "chain execution layers\u003cbr\u003efee slippage\u003cbr\u003ehigh volatility\u003cbr\u003eonboarding\u003cbr\u003ethe fund\u0027s reporting interface\u003cbr\u003eknown inefficiencies\u003cbr\u003euser feedback"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_3.txt", "label": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_3.txt", "shape": "dot", "title": "financial statements\u003cbr\u003epwc.\u003cbr\u003eregular cost audits\u003cbr\u003equarterly"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_4.txt", "label": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_4.txt", "shape": "dot", "title": "proof of work\u003cbr\u003ea16z\u003cbr\u003erevenue\u003cbr\u003emajor institutional investors\u003cbr\u003ework assets\u003cbr\u003eplans\u003cbr\u003eseries a\u003cbr\u003epantera capital\u003cbr\u003eenergy intensive proof\u003cbr\u003emarket making\u003cbr\u003eventure investments\u003cbr\u003ethe crypto climate accord\u003cbr\u003e$50m\u003cbr\u003ethe firm\u003cbr\u003ea\nenvironmental sustainability\u003cbr\u003egreen initiatives\u003cbr\u003ethe fund\u003cbr\u003ea priority"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_5.txt", "label": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_5.txt", "shape": "dot", "title": "law\u003cbr\u003etechnology sectors\u003cbr\u003efinance\u003cbr\u003eexperienced professionals\u003cbr\u003ethe board\u003cbr\u003egovernance decisions\u003cbr\u003edirectors\u003cbr\u003equarterly"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_6.txt", "label": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_6.txt", "shape": "dot", "title": "ethereum\u003cbr\u003ethe technology stack\u003cbr\u003echainlink\u003cbr\u003ethe graph\u003cbr\u003eavalanche integrations\u003cbr\u003esolana\u003cbr\u003eavalanche"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_7.txt", "label": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_7.txt", "shape": "dot", "title": "the firm\u0027s continuity plan\u003cbr\u003eactive partnerships\u003cbr\u003ecrypto capital partners\u003cbr\u003etax compliance\u003cbr\u003eaccredited investors\u003cbr\u003einsurance coverage\u003cbr\u003esmart contract\nvulnerabilities\u003cbr\u003eregulatory dialogues\u003cbr\u003esmart\u003cbr\u003eregular penetration tests\u003cbr\u003echainalysis\u003cbr\u003esource initiatives\u003cbr\u003eethical hackers\u003cbr\u003easia pacific\u003cbr\u003egeographic redundancy\u003cbr\u003ekudelski security\u003cbr\u003eannually\u003cbr\u003etraining\u003cbr\u003ethe eu\u003cbr\u003ecoinbase institutional\u003cbr\u003ebinance custody, chainalysis\u003cbr\u003ecoordination\u003cbr\u003ea bug bounty program\u003cbr\u003ecyber\n\ninsurance\u003cbr\u003ebinance custody\u003cbr\u003edisaster recovery protocols\u003cbr\u003eoperational risk management\u003cbr\u003ethe fund?s due diligence pack"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_8.txt", "label": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_8.txt", "shape": "dot", "title": "stakeholder communication\u003cbr\u003ethe un pri\u003cbr\u003equarterly townhalls\u003cbr\u003eesg progress reports\u003cbr\u003eesg\u003cbr\u003ea secure investor portal\u003cbr\u003equarterly"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_1.txt", "label": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_1.txt", "shape": "dot", "title": "its inception\u003cbr\u003esanctions\u003cbr\u003egesellschaft\u003cbr\u003eswiss\nfinma regulations\u003cbr\u003esecurities laws\u003cbr\u003ecrypto capital partners\u003cbr\u003ethe fund complies\u003cbr\u003ethe firm\u003cbr\u003ehaftung\u003cbr\u003eips\u003cbr\u003eseveral ip assets\u003cbr\u003eall ips\u003cbr\u003echainalysis\u003cbr\u003eall necessary licenses\u003cbr\u003esingapore\u003cbr\u003eregular transaction monitoring\u003cbr\u003ethe european union\u003cbr\u003e(kyc\u003cbr\u003eelliptic tools\u003cbr\u003eanti-money laundering (aml) policies\u003cbr\u003eannually\u003cbr\u003escreening\u003cbr\u003eno ongoing ip infringement cases\u003cbr\u003e2018\u003cbr\u003egmbh\u003cbr\u003eswitzerland\u003cbr\u003ean independent compliance team\u003cbr\u003ea gmbh\u003cbr\u003ekyc\u003cbr\u003ebeschr?nkter haftung\u003cbr\u003ea stable legal structure\u003cbr\u003elegal disputes\u003cbr\u003eanti-money laundering (aml\u003cbr\u003emultiple jurisdictions\u003cbr\u003eproprietary portfolio management\nalgorithms\u003cbr\u003ethe united states\u003cbr\u003ea secured digital asset custody system\u003cbr\u003ea regulated digital asset investment firm\u003cbr\u003eswiss and eu intellectual property laws\u003cbr\u003ethe u.s. securities act\u003cbr\u003emifid ii\u003cbr\u003eswiss"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_10.txt", "label": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_10.txt", "shape": "dot", "title": "stakeholder communication\u003cbr\u003ethe un pri\u003cbr\u003equarterly townhalls\u003cbr\u003eesg progress reports\u003cbr\u003eesg\u003cbr\u003ea secure investor portal\u003cbr\u003equarterly"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_2.txt", "label": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_2.txt", "shape": "dot", "title": "two-factor authentication\u003cbr\u003etrail\u003cbr\u003esmart contract auditing tools\u003cbr\u003edigital assets\u003cbr\u003ethird-party security firms\u003cbr\u003ecore infrastructure\u003cbr\u003etrading\u003cbr\u003ethe company\u003cbr\u003emulti-signature wallets\u003cbr\u003egithub\u003cbr\u003ebits\u003cbr\u003eopen-source\u003cbr\u003ethird\u003cbr\u003emarket manipulation\u003cbr\u003ecertik\u003cbr\u003eownership\u003cbr\u003ethe source code\u003cbr\u003emerkle\u003cbr\u003eend\u003cbr\u003estrict compliance protocols\u003cbr\u003ean mit license\u003cbr\u003efireblocks\u003cbr\u003eall internal systems\u003cbr\u003etwo\u003cbr\u003emit\u003cbr\u003emerkle proof attestations\u003cbr\u003echain\u003cbr\u003ecold wallets\u003cbr\u003eall custody solutions\u003cbr\u003ea combination\u003cbr\u003eautomated surveillance systems\u003cbr\u003edigital"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_3.txt", "label": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_3.txt", "shape": "dot", "title": "off-chain execution layers\u003cbr\u003efee slippage\u003cbr\u003ehigh volatility\u003cbr\u003eonboarding\u003cbr\u003ethe fund\u0027s reporting interface\u003cbr\u003eknown inefficiencies\u003cbr\u003euser feedback"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_4.txt", "label": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_4.txt", "shape": "dot", "title": "financial statements\u003cbr\u003epwc.\u003cbr\u003eregular cost audits\u003cbr\u003equarterly"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_5.txt", "label": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_5.txt", "shape": "dot", "title": "a16z\u003cbr\u003erevenue\u003cbr\u003emajor institutional investors\u003cbr\u003eb next year\u003cbr\u003eplans\u003cbr\u003eseries a\u003cbr\u003epantera capital\u003cbr\u003eventure investments\u003cbr\u003e$50m\u003cbr\u003emarket-making\u003cbr\u003ethe firm\u003cbr\u003ea\nseries b"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_6.txt", "label": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_6.txt", "shape": "dot", "title": "the crypto climate accord\u003cbr\u003eenvironmental sustainability\u003cbr\u003ework\u003cbr\u003egreen initiatives\u003cbr\u003ethe fund\u003cbr\u003ea priority"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_7.txt", "label": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_7.txt", "shape": "dot", "title": "law\u003cbr\u003etechnology sectors\u003cbr\u003efinance\u003cbr\u003eexperienced professionals\u003cbr\u003ethe board\u003cbr\u003egovernance decisions\u003cbr\u003edirectors\u003cbr\u003equarterly"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_8.txt", "label": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_8.txt", "shape": "dot", "title": "ethereum\u003cbr\u003ethe technology stack\u003cbr\u003echainlink\u003cbr\u003ethe graph\u003cbr\u003eavalanche integrations\u003cbr\u003esolana\u003cbr\u003eavalanche"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_9.txt", "label": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_9.txt", "shape": "dot", "title": "the firm\u0027s continuity plan\u003cbr\u003eactive partnerships\u003cbr\u003ecrypto capital partners\u003cbr\u003etax compliance\u003cbr\u003eaccredited investors\u003cbr\u003einsurance coverage\u003cbr\u003esmart contract\nvulnerabilities\u003cbr\u003eregulatory dialogues\u003cbr\u003esmart\u003cbr\u003eregular penetration tests\u003cbr\u003echainalysis\u003cbr\u003eethical hackers\u003cbr\u003egeographic redundancy\u003cbr\u003ekudelski security\u003cbr\u003eannually\u003cbr\u003etraining\u003cbr\u003ethe eu\u003cbr\u003ecoinbase institutional\u003cbr\u003ebinance custody, chainalysis\u003cbr\u003ecoordination\u003cbr\u003ea bug bounty program\u003cbr\u003eopen-source initiatives\u003cbr\u003easia-pacific\u003cbr\u003ecyber\n\ninsurance\u003cbr\u003ebinance custody\u003cbr\u003edisaster recovery protocols\u003cbr\u003eoperational risk management\u003cbr\u003ethe fund?s due diligence pack"}]);
+                  edges = new vis.DataSet([{"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_1.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_1.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_1.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_7.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_1.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_9.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_1.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_2.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_1.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_4.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_1.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_5.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_2.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_3.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_3.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_4.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_3.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_5.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_3.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_8.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_3.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_10.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_3.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_7.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_4.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_1.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_4.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_5.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_4.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_6.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_5.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_8.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_5.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_10.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_5.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_4.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_5.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_7.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_6.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_8.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_7.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_1.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_7.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_9.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_8.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_10.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_8.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_4.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_cleaned_chunk_8.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_7.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_1.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_9.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_1.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_5.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_10.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_4.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_10.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_7.txt"}, {"from": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_4.txt", "to": "crypto_fund_due_diligence_mock_20250426_125359_raw_chunk_7.txt"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "barnesHut": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.3,
+            "damping": 0.09,
+            "gravitationalConstant": -80000,
+            "springConstant": 0.001,
+            "springLength": 250
+        },
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

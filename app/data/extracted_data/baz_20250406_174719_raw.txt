@@ -1,0 +1,563 @@
+ 
+ 
+www.CryptoBazar.io  
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CryptoBazar Fund 
+White Paper 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Text: Oleg Ivanov, Andrey Yudin 
+ 
+
+ 
+ 
+www.CryptoBazar.io  
+ 
+2 
+CONTENTS 
+ 
+1. SUMMARY 
+2. TERMS AND DEFINITIONS 
+3. INTRODUCTION 
+4. CREATING A NEW CRYPTOCURRENCY 
+5. ICO INVESTMENT RISKS 
+6. OUR TEAM 
+7. CryptoBazar Fund INVESTMENT STRATEGY 
+8. INVESTMENT TERMS 
+9. TOKENS 
+10. TRUST & FUND’S RISKS 
+11. FUND LIQUIDATION 
+ 
+ 
+
+ 
+ 
+www.CryptoBazar.io  
+ 
+3 
+ 
+1. SUMMARY 
+ 
+Booming development of the blockchain technology and cryptocurrencies opens up great opportunities for 
+investors. The recent years saw growing volumes of capital flow into cryptocurrencies, both as a way to increase 
+wealth through speculation and as a way to safeguard assets from inflation in traditional economies, or as a 
+means to fund projects based on decentralized platforms. 
+For individual investors, the great variety of opportunities on the cryptocurrency market can be daunting, 
+which entails risks of losing assets or missing opportunities due to lack of access to undervalued assets. 
+Venture crypto fund CryptoBazar Fund was established as a solution. 
+ 
+2. TERMS AND DEFINITIONS 
+ 
+CryptoBazar Token (CBT) — the token of the CryptoBazar Fund in the form of digital code. 
+Pre-ICO — a preliminary round of raising capital, which allows projects to use the resulting funds for marketing 
+and completing project development. 
+Initial Coin Offering (ICO) — the process of issuing tokens. This process generates tokens that can eventually be 
+used to pay for services on their origin platform; in some cases, tokens can be considered a cryptocurrency. 
+Blockchain — a linear, decentralized chain of transaction blocks. 
+CryptoBazar — a platform that allows projects to attract investment through blockchain and issue 
+cryptocurrency; and allows investors to get access to strong projects and grow their investments 
+Managing Partners — individuals responsible for the Fund's investment strategy, project selection and other 
+matters of administration at the Fund. Resolutions to take on new Partners are passed by unanimous decision of 
+all Partners. 
+Co-investors — legal entities or individuals who, acting together with the Fund, invest in the projects that have 
+undergone selection. 
+Project — an investment project that is handled by the Fund, undergoes initial evaluation, extended due 
+diligence, acceleration, and subsequently receives funding. 
+Deal (entry) — funding of project implementation by buying its tokens. The transaction is made in accordance 
+with Article 807 of the Civil Code of the Russian Federation (Part II) as amended by Federal Law No. 14-FZ of 
+January 26, 1996 or through signing a SAFT (simple agreement for future tokens) agreement. 
+Deal (exit) — a stage in the investment process when the Fund takes action to recover the invested funds (by 
+selling tokens) and potentially receive profit as the case may be with the Project. 
+Token — digital code that, depending on the Project type, can be a form of digital currency, give voting rights, 
+entitle to commission fees, or serve as proof of being a shareholder. Token is defined in a project's white paper. 
+Hurdle rate – CBT price at which the Fund deducted its last performance fee 
+CryptoBazar Fund — a Fund that carries out screening and extended due diligence on blockchain-based projects 
+(a system based on a distributed database); then the Fund uses its own or raised capital to fund selected projects. 
+The Fund's address: 6/5 Barklaya St, Moscow (Barklay Plaza Business Center, Park Pobedy Metro Station), 
+121087, Russia 
+Website: www.cryptobazar.io 
+Contacts: info@cryptobazar.io, +7 499 372 3011 
+ 
+3. INTRODUCTION 
+ 
+The cryptocurrency market has been growing rapidly over the last two years. Some key developments and trends 
+that maintain and accelerate this growth include: 
+• 
+Legalization of Bitcoin and Etherium in Japan in April 2017; 
+• 
+Cryptocurrencies are a secure way to withdraw assets from highly volatile local stock markets, including 
+China; 
+• 
+Higher yields compared to standard financial instruments; 
+
+ 
+ 
+www.CryptoBazar.io  
+ 
+4 
+• 
+Growing popularity of cryptocurrencies that are used to make payments and hedge against inflation in 
+developing economies, including Venezuela and Argentina; 
+• 
+Regulation and clear rules are gradually emerging in this sector, which makes it increasingly appealing to a 
+larger number of investors, ranging from crypto evangelists to private and professional investors. 
+ 
+ 
+ 
+ 
+ 
+Notably, the bulk of growth is accounted for by alternative cryptocurrencies, or altcoins, whereas the Bitcoin's 
+share is dwindling. At the same time, the level of cryptocurrency penetration into the financial market is still very 
+low and the growth potential is enormous. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+www.CryptoBazar.io  
+ 
+5 
+ 
+ 
+ 
+ 
+4. CREATING A NEW CRYPTOCURRENCY 
+ 
+Looking at the traditional economy, it is evident that it is driven by the growing business. In other words, "value" 
+or "investment growth" is created due to business activity. Invested capital can grow only via business projects 
+growth. Any other source of growth is merely an intermediary stage in a transaction between the money owner 
+and the business that generates capital growth. 
+ 
+Let's take a couple of common investment cases: 
+a) Banks receive funds in the form of deposits made by individuals, companies, and other organizations; banks 
+then make money by lending these funds at a higher rate. Loans are granted mostly to businesses or individuals, 
+who have to confirm their creditworthiness by proof of employment (ultimately, banks receive money from 
+businesses in this case too). 
+b) Stock and commodity exchanges facilitate trade in shares, bonds and derivatives issued by companies to fund 
+growth (again — businesses). Securities can also be emitted by governments; these are paid off against future tax 
+
+ 
+ 
+www.CryptoBazar.io  
+ 
+6 
+revenues from companies (business) and individuals who pay personal income tax on money that they earn due 
+to businesses. 
+c) Real estate investment. With commercial real estate it is already in the name; businesses pay for rent. 
+Residential housing is paid for out of our income that, yet again, comes from having a job (yes, businesses). 
+ 
+That is why the highest profitability on capital within a traditional economy is in business. Other investment 
+vehicles present some form of trade off with lower ROI, but with higher comfort and risk diversification. 
+ 
+Cryptocurrency market is quite similar to a traditional economy in that business projects attract investment and in 
+return create value and capital growth. 
+- As with a traditional business, emission of crypto-tokens or coins is just like emission of shares by conventional 
+companies, except that tokens are traded on crypto-exchanges, and their valuation depends on the trajectory of 
+the project or market developments. 
+- As with a traditional economy, businesses may pay you for making a useful contribution to their operation (for 
+example, an hourly wage or, in case of crypto-projects, a reward for mining). 
+- Last but not least, as with a traditional business project, when companies do not have access to funding through 
+issuing shares or bonds (the latter are almost exclusively used to large businesses), startups and SMEs usually turn 
+to venture funds or crowdfunding / crowdinvesting vehicles for raising capital. 
+ 
+Blockchain technology and emergence of cryptocurrencies provide a good opportunity for business projects to 
+pursue their vision by combining crowdfunding and security market toolkits. Previously, a private investor funding 
+a venture project had to wait years before the project would break even and start generating profits to pay 
+investors. Now, investors get an opportunity to receive crypto-tokens in return for their funds, and then monitor 
+the token's appreciation on exchanges and selling these tokens at any desired time, thereby recovering the 
+investment at a profit. 
+ 
+Appealing to both investors and business projects, this idea gave rise to a new vehicle called ICO, or Initial Coin 
+Offerings, that is, emission of crypto-tokens or cryptocurrencies. Business projects come up with uses for their 
+tokens and offer tokens to private investors in exchange for crypto-investment, usually in Bitcoin or Ethereum. 
+The tokens are then listed on crypto-exchanges that facilitate transactions so that tokens can be sold more easily 
+than conventional venture investment assets. 
+ 
+5. ICO INVESTING: RISKS 
+ 
+Similarly to conventional venture investing, investing in ICOs can produce returns with high multiples. No other 
+investment vehicle — lending, stocks, trading, etc. — can generally match the ROI of venture investing that 
+literally multiplies the capital. Current ICOs demonstrate remarkable performance too, averaging at 30,000% ROI. 
+ 
+
+ 
+ 
+www.CryptoBazar.io  
+ 
+7 
+ 
+ 
+However, just like any investment, both conventional venture investing and investing in crypto-ventures entail 
+certain risks and have specific aspects, some of which are listed below. 
+• 
+A risk to miss out on a solid project because of a growing information overload, contradictory opinions 
+and project assessments before ICO launch, or simply due to lack of access to quality projects prior to ICO. 
+• 
+A risk to draw up a poorly structured deal even if the project is great, lose your capital or a sizable share 
+of returns. 
+• 
+Risk of having your assets frozen for a long time. 
+• 
+Risk of having to get involved into operations management if the project team is weak. 
+• 
+Risk of funding a substandard project and losing the entire investment. 
+ 
+Bottom line is that to make smart choices on the crypto-market, investors need access to a good selection of 
+quality projects, proper due diligence, well-structured deals, competent capital management and exiting projects 
+at the right time to secure returns. Venture crypto fund CryptoBazar Fund was established to let investors do 
+exactly that. 
+ 
+6. OUR TEAM 
+ 
+As investors, we have been involved in the InvestBazar since 2013 working on the markets of Russia, the CIS, and 
+over 40 other countries that have become our subscribers. The InvestBazar Fund, our conventional investment 
+fund, invests exclusively in SMEs in the real economy and currently manages over $15 mln USD. Over the years, 
+we have built an extensive partner network spanning Russia, the CIS, and Europe that brings us 1,500–2,000 
+investment applications per quarter. We have an effective selection system that allows us to identify the best 
+business projects and teams. Since 2013, we have been hosting open events where the strongest projects can 
+pitch to private investors of different specializations. 
+ 
+In 2017, we launched a crypto-division within InvestBazar — CryptoBazar that focuses on three major areas: 
+a) CryptoBazar ICO Accelerator — online acceleration for projects and preparing ICO launches; 
+b) CryptoBazar Events — events for promoting and developing the blockchain industry and presenting 
+upcoming ICOs to investors; 
+c) CryptoBazar Fund — investing in projects prior to ICO launch. 
+
+ 
+ 
+www.CryptoBazar.io  
+ 
+8 
+ 
+In 2017 we organized a series of CryptoBazar Demo Days and CryptoBazar Exclusives in Russia, Germany, Poland, 
+Cyprus, Dubai, Monaco, Switzerland, Singapore, Hong Kong and USA. The vision of CryptoBazar for the coming 1.5 
+years is to create the largest international partner infrastructure that will allow industry players to get access to 
+the most interesting and forward-looking cryptocurrency projects and get an opportunity to invest in these 
+projects at their earliest stages under the most lucrative terms. 
+ 
+A video-summary of our events is available at: 
+ 
+https://www.youtube.com/watch?v=TxY30RjCQZk (Russia)  
+https://www.youtube.com/watch?v=sUACvtbT_4g (Russia)  
+https://www.youtube.com/watch?v=PGf6zLh1nwQ (Dubai)  
+https://www.youtube.com/watch?v=YHGyOQGqtTE (Cyprus) 
+https://www.youtube.com/watch?v=DRZk5c9pRo0 (Monaco) 
+https://www.youtube.com/watch?v=ePJwAPfdsK4 (New York) 
+ 
+CryptoBazar Fund Managing Partners: Oleg Ivanov, Andrey Yudin, and Stanislav Sukhinin. 
+ 
+As the Fund's Managing Partners, we are responsible for: 
+• Making investment decisions; 
+• Ensuring efficient, transparent, and verifiable transactions; 
+• Security and prevention of unforeseen contingencies. 
+ 
+The Fund's team of experts and advisors is carefully selected and regularly refitted to ensure access to the latest 
+expertise in venture projects scoring, legal planning and support, blockchain technology developments, 
+conventional underwriting and trading, marketing and promotion tools, etc. The list of experts and advisors is 
+public and available at www.CryptoBazar.io. The list is regularly updated. 
+ 
+7. CryptoBazar Fund INVESTMENT STRATEGY 
+ 
+Most investors who look to invest in ICOs only make investments at the ICO stage itself, whereas the CryptoBazar 
+Fund enters projects BEFORE they launch ICOs.  
+ 
+This strategy has several advantages: 
+• 
+The best option in terms of return within any given project; 
+• 
+Possible preferential exit rights; 
+• 
+Means to increase investment in a project through favorable options for additional purchase of shares or 
+tokens at pre-ICO prices. 
+ 
+In the standard ICO launch process, it is clearly seen that investing at the earliest stages yields the highest returns. 
+ 
+
+ 
+ 
+www.CryptoBazar.io  
+ 
+9 
+ 
+ 
+The Fund has an extensive international partner network for searching business projects and a set process for 
+project selection, shown below. 
+ 
+ 
+ 
+Basic principles of investment policy at the venture fund CryptoBazar Fund. 
+a) The Fund's main goal is to increase the total value of its investment portfolio. 
+b) The total value of a portfolio is divided between all CryptoBazar Token (CBT) holders less the Fund's fee 
+(for details, see a dedicated section below). 
+c) 100% of the capital invested through the Fund is invested into projects that are launching their ICOs. 
+d) Investing in projects prior to their ICO (the stages "Project Selection", "Pre-ICO", and "Token Pre-Sale"). 
+e) Exit terms – through the sale of tokens of various projects in the fund’s portfolio once these tokens 
+become liquid (get listed on crypto exchanges or there is demand on the OTC market). 
+f) Deal cycle is 6-9 months with yearly capital turnover ratio at 1,5-2. 
+g) Profitability calculation when assets become liquid or when exiting the project to receive liquid crypto-
+assets (Bitcoin, Ethereum, etc.): 
+a. In case the Fund holds tokens of a business project, the profitability is calculated when: 
+i. the tokens are sold for liquid crypto-assets (Bitcoin, Ethereum, etc.), 
+ii. the tokens appreciate (monitored by a quote parser operating at crypto-exchanges, or 
+manually when the project completes a stage in fundraising and the token price changes, 
+or when the Fund can no longer acquire project's assets at older prices). 
+b. If the Fund holds a share in a business project, the profitability is calculated when the share is sold 
+and the Fund receives liquid crypto-assets to its wallets (Bitcoin, Ethereum, etc.). 
+h) Reports of the Fund: 
+
+ 
+ 
+www.CryptoBazar.io  
+ 
+10 
+a. The Fund keeps accounts in three currencies — USD, BTC and ETH, as the investments are made 
+in assets that use one of these three currencies. If the Fund acquires assets denominated in 
+another currency, these are converted into the three stated currencies; 
+b. Detailed and transparent fund’s portfolio valuation is done daily and is uploaded to co-investor 
+personal profile at www.CryptoBazar.io. 
+ 
+8. INVESTMENT TERMS 
+ 
+A) Entry fee. Any time when a buyer invests through the CryptoBazar Fund, 4% of issued tokens are withheld as a 
+Fund's fee that is used to finance the Fund's operation. 
+ 
+B) Exit fee is 0%. 
+ 
+C) The Fund's performance fee levied on all returns is 35% of portfolio growth. 
+ 
+Performance fee calculation: 
+1. The fund performance is calculated daily and depends on the performance of each asset in the fund’s 
+portfolio (price of tokens in the portfolio on crypto exchanges); 
+2. Performance fee of the fund is calculated together with the evaluation of the total fund performance on a 
+daily basis; the fee is withdrawn from the fund by the fund managers only during those days when the 
+CBT price is over the last CBT price when the fee was collected* (“hurdle rate” – CBT price at which the 
+last performance fee was withdrawn by the fund managers) 
+3. The Fund withdraws its 35% performance fee only and entirely from the fund’s profit and when the new 
+CBT price is higher than the last CBT price when the performance fee was collected (higher than the 
+hurdle rate) 
+4. Such daily mechanics makes the performance fee calculation and collection transparent and predictable 
+to every co-investor and allows to avoid considerable CBT price fluctuations due to the accumulated fee 
+withdrawals. This daily process also makes the profit distribution fare to every co-investor – from the 
+early co-investors to the recent ones. 
+5. The portfolio metrics in the co-investor profile are shown after the deduction of the performance fee – 
+thus co-investors see the actual returns on their capital.  
+ 
+Example of the Fund’s performance fee calculation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+www.CryptoBazar.io  
+ 
+11 
+D) Lock-up period is 12 months. During the lock-up period, the Fund undertakes no obligation to buy back CBT at 
+the request of investors. At the same time, co-investors can freely sell their CBT on a crypto-exchange at any 
+moment (for example, at the decentralized exchange based on the Waves wallet https://waveswallet.io, in the 
+CryptoBazar / Bitcoin pair). 
+ 
+ 
+ 
+After the lockup period, the Fund undertakes to buy back any СВТ assets at full price pursuant to a buy back 
+request placed directly through the co-investor profile account at www.CryptoBazar.io. 
+ 
+ 
+9. TOKENS 
+ 
+The Fund has issued 100,000,000 CryptoBazar Tokens (CBT) on the Waves platform (www.wavesplatform.com). 
+The tokens are held in a reserve account and transferred to co-investors against crypto-investments made to the 
+Fund in Bitcoin. The number of tokens in the reserve accounts and traded on the market is reflected in the Fund's 
+regular reporting. 
+ 
+Each time a co-investor makes a BTC transaction to the Fund, the Fund releases reserve CBT at a rate calculated 
+daily at 12:00 PM GMT. 
+ 
+Token price = Fund's portfolio value / Tokens in circulation 
+Investments = Co-investor's tokens / Token price – entry fee commission 
+ 
+Once a co-investor transfers CBT back to the CryptoBazar Fund, such CBTs a returned to the reserve account of 
+the fund. Co-investor receives BTC back to his wallet in return for the CBT at the CBT rate set for the date of the 
+transaction a 12:00 PM GMT. 
+ 
+Token price = Fund's portfolio value / Tokens in circulation 
+Investment = Co-investor's tokens / Token price (no fees on exit) 
+ 
+Co-investors can also buy or sell CBT on the free market, including the decentralized exchange inside the Waves 
+wallet, in the CryptoBazar / Bitcoin pair. 
+ 
+ 
+ 
+ 
+10. TRUST & FUND'S RISKS 
+ 
+
+ 
+ 
+www.CryptoBazar.io  
+ 
+12 
+10.1. Trust Management 
+ 
+Although blockchain technology allows for anonymity and confidentiality, the operation of the CryptoBazar Fund 
+is based on the principles of transparency and openness. 
+Trust management is carried out within the bounds of the jurisdiction applicable for investors. When 
+investors entrust tokens for asset management, this does not entail transfer of token ownership to Managing 
+Partners. 
+The Fund and the investor are aware that interactions between the parties are considered confidential 
+information and can be disclosed to third parties only in cases stipulated in the applicable legislation (except for 
+third parties that Managing Partners contract in order to fulfill their obligations under the contract with the 
+investor). Any publicly available information is not considered confidential. 
+The Fund, acting as an entity that handles personal data, carries out a set of administrative and technical 
+measures to protect personal data and ensure confidentiality of personal data. 
+Managing Partners handle personal data of Clients based on the Clients' consent to processing of their 
+personal data in the form of a signed Statement of Accession. 
+ 
+10.2. Risk Warning Notice 
+ 
+Co-investors acknowledge that investing in the blockchain technology and administration of a portfolio of 
+cryptocurrencies and tokens entails high risks, where risks are understood as occurrence of events that entail 
+losses for investors. Existing risks are determined by numerous parameters which cannot always be forecasted 
+and changes in which cannot always be controlled. The higher the expected return, the higher are the risks 
+intrinsic to investment portfolio management. 
+Co-investors understand and agree that all deals and transactions with assets are carried out by Managing 
+Partners without co-investors’ instruction, at own discretion of Managing Partners. Granting the right to make 
+transactions with the managed assets to Managing Partners, co-investors are aware that the assets may both 
+appreciate or depreciate. Accordingly, co-investors assume all risks relating to the Fund's investments. 
+Co-investors understand and agree that statements by Managing Partners, the Fund's staff, authorized 
+representatives or any other parties regarding future asset growth do not give rise to any obligations on the 
+Fund's part and can only be construed as suppositions. 
+Co-investors understand that the Fund's performance in the past does not determine the size of its profits 
+in the future. Any successful financial outcome for other parties does not guarantee similar outcomes for co-
+investors. 
+Co-investors assume risks related to actions of state bodies or trading platforms that regulate Russian and 
+international securities market. 
+Co-investors understand and agree that Managing Partners are not able to foresee all potential risks and 
+warn co-investors thereof.  
+Co-investors waive any liability on the Managing Partners' part in the event of emergence of such risks 
+except when stipulated in the applicable legislation. 
+Co-investors acknowledge receipt of information from Managing Partners regarding operations on the 
+markets of cryptocurrency and financial instruments and assume risks, including without limitation, those listed 
+below: 
+A. General risk — a risk related to social, political, and economic situation in a given country. This risk has no 
+specific connection to any investment vehicle. General risk cannot be reasonably influenced or controlled 
+by Managing Partners; this risk cannot be reduced or diversified against. This risk is influenced by: 
+• 
+changes in the political situation; 
+• 
+possibility of adverse legislative action; 
+• 
+sharp currency devaluation; 
+• 
+credit crisis, banking crisis, and currency crisis that develop as a direct or indirect consequence of 
+political and legislative risks. According to the Fund's interpretation, among general risks also are 
+events of force majeure, primarily those bearing manmade, natural, or geopolitical nature (external 
+hostilities). 
+
+ 
+ 
+www.CryptoBazar.io  
+ 
+13 
+B. Market (financial) risk — a risk with a higher probability of occurrence. This is a risk of incurring direct 
+losses or losing profits when making transactions on the cryptocurrency market due to the effects of 
+factors, such as: 
+• 
+currency risk; 
+• 
+liquidity risk; 
+• 
+price risk; 
+• 
+token issuer bankruptcy risk; 
+• 
+criminal risk; 
+• 
+legal risk; 
+• 
+operational risk (technical, technological, human). 
+Investing in CryptoBazar Fund classifies as a venture investment. Funds are provided for innovative 
+forward-looking projects that do not yet have access to the stock market. 
+This section enumerates risks not to dissuade from investing, but to aid co-investors in assessing risks 
+associated with this type of investment and allow them to make a more informed decision regarding cooperation 
+with the Fund. 
+ 
+11. FUND LIQUIDATION 
+ 
+Liquidation procedure can be initiated by the following events: 
+• A resolution by 2 Managing partners 
+• There is less than 1 surviving Manager 
+ 
+Liquidation is carried out as the following procedure: 
+• All disposable funds are exchanged for BTC within 8 weeks by a technical support team 
+• All BTC are divided between CBT holders proportionally to their shares in the CryptoBazar Fund 
+• All BTC are transferred to the registered co-investors' addresses 
+ 
+In case the Fund owns non-liquid assets, such assets are held by the Fund's managers or duly authorized 
+individuals until such assets can be converted into BTC and transferred to co-investors. 
+ 
+

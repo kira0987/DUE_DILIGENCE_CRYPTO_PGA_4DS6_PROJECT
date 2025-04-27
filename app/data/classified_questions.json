@@ -1,0 +1,777 @@
+[
+  {
+    "id": 1,
+    "question": "- What is the legal entity of the company, and is it compliant with all applicable laws?",
+    "tag": "Legal & Regulatory"
+  },
+  {
+    "id": 2,
+    "question": "Are there any changes in the legal structure over time?",
+    "tag": "Legal & Regulatory"
+  },
+  {
+    "id": 3,
+    "question": "Are all necessary licenses and permits in place?",
+    "tag": "Legal & Regulatory"
+  },
+  {
+    "id": 4,
+    "question": "- Is the company compliant with relevant securities and commodities laws?",
+    "tag": "Tokenomics & Trading Integrity"
+  },
+  {
+    "id": 5,
+    "question": "Are there any sanctions restrictions or transaction monitoring requirements?",
+    "tag": "Legal & Regulatory"
+  },
+  {
+    "id": 6,
+    "question": "How does the company handle AML policies and procedures?",
+    "tag": "AML / KYC"
+  },
+  {
+    "id": 7,
+    "question": "- What IP assets does the company own, and are they valid?",
+    "tag": "IP & Contracts"
+  },
+  {
+    "id": 8,
+    "question": "Are there any potential IP infringement issues?",
+    "tag": "IP & Contracts"
+  },
+  {
+    "id": 9,
+    "question": "How are IP rights allocated among stakeholders?",
+    "tag": "IP & Contracts"
+  },
+  {
+    "id": 10,
+    "question": "- Are there any ongoing or past legal disputes?",
+    "tag": "Legal & Regulatory"
+  },
+  {
+    "id": 11,
+    "question": "What are the potential financial exposures from these disputes?",
+    "tag": "Financial Health"
+  },
+  {
+    "id": 12,
+    "question": "- How are digital assets stored and secured?",
+    "tag": "Custody & Asset Security"
+  },
+  {
+    "id": 13,
+    "question": "Are multi-signature wallets used for custody?",
+    "tag": "Custody & Asset Security"
+  },
+  {
+    "id": 14,
+    "question": "What measures are in place to verify asset ownership?",
+    "tag": "Custody & Asset Security"
+  },
+  {
+    "id": 15,
+    "question": "- What are the procedures for buying and selling digital assets?",
+    "tag": "Custody & Asset Security"
+  },
+  {
+    "id": 16,
+    "question": "Are there any trade surveillance mechanisms to prevent market manipulation?",
+    "tag": "Tokenomics & Trading Integrity"
+  },
+  {
+    "id": 17,
+    "question": "- Are there any conflicts of interest among stakeholders?",
+    "tag": "Governance"
+  },
+  {
+    "id": 18,
+    "question": "How are these conflicts managed?",
+    "tag": "Risk Management"
+  },
+  {
+    "id": 19,
+    "question": "- What is the understanding of the current regulatory environment?",
+    "tag": "Legal & Regulatory"
+  },
+  {
+    "id": 20,
+    "question": "Are there any potential regulatory risks to the portfolio?",
+    "tag": "Risk Management"
+  },
+  {
+    "id": 21,
+    "question": "- What blockchain technology is used, and how secure is it?",
+    "tag": "Cybersecurity & Data Privacy"
+  },
+  {
+    "id": 22,
+    "question": "Are smart contracts audited for vulnerabilities?",
+    "tag": "IP & Contracts"
+  },
+  {
+    "id": 23,
+    "question": "- What cybersecurity measures are in place to protect against hacks?",
+    "tag": "Cybersecurity & Data Privacy"
+  },
+  {
+    "id": 24,
+    "question": "Are two-factor authentication and end-to-end encryption used?",
+    "tag": "Cybersecurity & Data Privacy"
+  },
+  {
+    "id": 25,
+    "question": "- Is the codebase open-source or proprietary?",
+    "tag": "Community & UX"
+  },
+  {
+    "id": 26,
+    "question": "Are there any known vulnerabilities or inefficiencies?",
+    "tag": "Risk Management"
+  },
+  {
+    "id": 27,
+    "question": "- How user-friendly is the platform or product?",
+    "tag": "Community & UX"
+  },
+  {
+    "id": 28,
+    "question": "Are there any pain points or areas for improvement?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 29,
+    "question": "- Are financial statements audited and transparent?",
+    "tag": "Financial Health"
+  },
+  {
+    "id": 30,
+    "question": "What is the financial health of the company?",
+    "tag": "Financial Health"
+  },
+  {
+    "id": 31,
+    "question": "- How are digital assets valued?",
+    "tag": "Custody & Asset Security"
+  },
+  {
+    "id": 32,
+    "question": "Are valuations consistent with market standards?",
+    "tag": "Tokenomics & Trading Integrity"
+  },
+  {
+    "id": 33,
+    "question": "- What are the primary funding sources?",
+    "tag": "Technology & Infrastructure"
+  },
+  {
+    "id": 34,
+    "question": "Are revenue s diversified and sustainable?",
+    "tag": "ESG & Sustainability"
+  },
+  {
+    "id": 35,
+    "question": "- What is the market position of the company?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 36,
+    "question": "Are there any competitors or market gaps?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 37,
+    "question": "- Is the digital strategy aligned with business goals?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 38,
+    "question": "Are there plans for future scalability and growth?",
+    "tag": "Technology & Infrastructure"
+  },
+  {
+    "id": 39,
+    "question": "- How active is the community around the project?",
+    "tag": "Community & UX"
+  },
+  {
+    "id": 40,
+    "question": "Are developers and stakeholders engaged?",
+    "tag": "Governance"
+  },
+  {
+    "id": 41,
+    "question": "- Does the project rely on energy-intensive mining methods?",
+    "tag": "Technology & Infrastructure"
+  },
+  {
+    "id": 42,
+    "question": "Are there initiatives to reduce energy consumption?",
+    "tag": "ESG & Sustainability"
+  },
+  {
+    "id": 43,
+    "question": "- Are there any sustainability practices or policies in place?",
+    "tag": "ESG & Sustainability"
+  },
+  {
+    "id": 44,
+    "question": "How does the company address environmental concerns?",
+    "tag": "ESG & Sustainability"
+  },
+  {
+    "id": 45,
+    "question": "- What is the governance structure of the project?",
+    "tag": "Governance"
+  },
+  {
+    "id": 46,
+    "question": "Who holds decision-making power?",
+    "tag": "Governance"
+  },
+  {
+    "id": 47,
+    "question": "- Who are the major stakeholders?",
+    "tag": "Governance"
+  },
+  {
+    "id": 48,
+    "question": "Is the project decentralized or centralized?",
+    "tag": "Technology & Infrastructure"
+  },
+  {
+    "id": 49,
+    "question": "- How does the company ensure compliance with international laws and regulations?",
+    "tag": "Legal & Regulatory"
+  },
+  {
+    "id": 50,
+    "question": "Are there any specific jurisdictions where operations are restricted?",
+    "tag": "Legal & Regulatory"
+  },
+  {
+    "id": 51,
+    "question": "- How does the company handle user data privacy?",
+    "tag": "Cybersecurity & Data Privacy"
+  },
+  {
+    "id": 52,
+    "question": "Are there any data protection policies in place?",
+    "tag": "Cybersecurity & Data Privacy"
+  },
+  {
+    "id": 53,
+    "question": "- What are the tax obligations of the company in different jurisdictions?",
+    "tag": "Legal & Regulatory"
+  },
+  {
+    "id": 54,
+    "question": "Are there any tax disputes or pending issues?",
+    "tag": "Financial Health"
+  },
+  {
+    "id": 55,
+    "question": "- Are all necessary regulatory filings up to date?",
+    "tag": "Legal & Regulatory"
+  },
+  {
+    "id": 56,
+    "question": "- What risk management strategies are in place for market volatility?",
+    "tag": "Risk Management"
+  },
+  {
+    "id": 57,
+    "question": "Are there any hedging strategies used?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 58,
+    "question": "- Does the company have insurance coverage for digital assets?",
+    "tag": "Custody & Asset Security"
+  },
+  {
+    "id": 59,
+    "question": "What are the terms and conditions of the insurance policy?",
+    "tag": "Legal & Regulatory"
+  },
+  {
+    "id": 60,
+    "question": "- Is there a business continuity plan in place for unexpected disruptions?",
+    "tag": "Risk Management"
+  },
+  {
+    "id": 61,
+    "question": "How does the company ensure operational resilience?",
+    "tag": "Risk Management"
+  },
+  {
+    "id": 62,
+    "question": "- Are background checks conducted on employees handling sensitive information?",
+    "tag": "Cybersecurity & Data Privacy"
+  },
+  {
+    "id": 63,
+    "question": "What are the criteria for hiring personnel in critical roles?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 64,
+    "question": "- What technologies are used in the development of the platform or product?",
+    "tag": "Technology & Infrastructure"
+  },
+  {
+    "id": 65,
+    "question": "Are these technologies scalable and secure?",
+    "tag": "Technology & Infrastructure"
+  },
+  {
+    "id": 66,
+    "question": "- How often is penetration testing conducted to identify vulnerabilities?",
+    "tag": "Cybersecurity & Data Privacy"
+  },
+  {
+    "id": 67,
+    "question": "Are the results of these tests publicly available or shared with stakeholders?",
+    "tag": "Cybersecurity & Data Privacy"
+  },
+  {
+    "id": 68,
+    "question": "- Does the company contribute to open-source projects?",
+    "tag": "IP & Contracts"
+  },
+  {
+    "id": 69,
+    "question": "How does this contribute to the overall ecosystem?",
+    "tag": "ESG & Sustainability"
+  },
+  {
+    "id": 70,
+    "question": "- Are APIs properly secured to prevent unauthorized access?",
+    "tag": "Cybersecurity & Data Privacy"
+  },
+  {
+    "id": 71,
+    "question": "Are there any documented API security protocols?",
+    "tag": "Cybersecurity & Data Privacy"
+  },
+  {
+    "id": 72,
+    "question": "- Are revenue s diversified across different markets or products?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 73,
+    "question": "How does the company manage revenue volatility?",
+    "tag": "Risk Management"
+  },
+  {
+    "id": 74,
+    "question": "- What are the major expense categories for the company?",
+    "tag": "Risk Management"
+  },
+  {
+    "id": 75,
+    "question": "Are there any cost-saving initiatives in place?",
+    "tag": "ESG & Sustainability"
+  },
+  {
+    "id": 76,
+    "question": "- What are the details of past funding rounds?",
+    "tag": "Governance"
+  },
+  {
+    "id": 77,
+    "question": "Are there any plans for future funding rounds?",
+    "tag": "Governance"
+  },
+  {
+    "id": 78,
+    "question": "- How frequently are financial reports published?",
+    "tag": "Financial Health"
+  },
+  {
+    "id": 79,
+    "question": "Are these reports audited by external firms?",
+    "tag": "Governance"
+  },
+  {
+    "id": 80,
+    "question": "- Who are the main competitors in the market?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 81,
+    "question": "How does the company differentiate itself from competitors?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 82,
+    "question": "- What market research methods are used to understand customer needs?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 83,
+    "question": "Are there any customer feedback mechanisms in place?",
+    "tag": "Community & UX"
+  },
+  {
+    "id": 84,
+    "question": "- What are the short-term and long-term growth strategies?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 85,
+    "question": "Are these strategies aligned with market trends?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 86,
+    "question": "- Are there any strategic partnerships or collaborations?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 87,
+    "question": "How do these partnerships contribute to the company's growth?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 88,
+    "question": "What is the carbon footprint of the company's operations?",
+    "tag": "ESG & Sustainability"
+  },
+  {
+    "id": 89,
+    "question": "Are there any initiatives to reduce this footprint?",
+    "tag": "ESG & Sustainability"
+  },
+  {
+    "id": 90,
+    "question": "- Are there any sustainable practices or policies in place for operations?",
+    "tag": "ESG & Sustainability"
+  },
+  {
+    "id": 91,
+    "question": "How does the company promote sustainability within its ecosystem?",
+    "tag": "ESG & Sustainability"
+  },
+  {
+    "id": 92,
+    "question": "- How does the company manage its supply chain to ensure sustainability?",
+    "tag": "ESG & Sustainability"
+  },
+  {
+    "id": 93,
+    "question": "Are there any audits conducted to ensure compliance with sustainability standards?",
+    "tag": "ESG & Sustainability"
+  },
+  {
+    "id": 94,
+    "question": "- Who are the members of the board of directors?",
+    "tag": "Governance"
+  },
+  {
+    "id": 95,
+    "question": "What are their backgrounds and expertise?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 96,
+    "question": "- How are major decisions made within the company?",
+    "tag": "Governance"
+  },
+  {
+    "id": 97,
+    "question": "Are there any checks and balances in place?",
+    "tag": "Governance"
+  },
+  {
+    "id": 98,
+    "question": "- Who are the major shareholders?",
+    "tag": "Governance"
+  },
+  {
+    "id": 99,
+    "question": "Are there any voting agreements or restrictions?",
+    "tag": "Governance"
+  },
+  {
+    "id": 100,
+    "question": "- How does the company engage with stakeholders, including investors and users?",
+    "tag": "Governance"
+  },
+  {
+    "id": 101,
+    "question": "Are there any mechanisms for feedback and communication?",
+    "tag": "Community & UX"
+  },
+  {
+    "id": 102,
+    "question": "Are there any restrictions on operations in certain countries?",
+    "tag": "Legal & Regulatory"
+  },
+  {
+    "id": 103,
+    "question": "- Have all necessary regulatory approvals been obtained?",
+    "tag": "Legal & Regulatory"
+  },
+  {
+    "id": 104,
+    "question": "Are there any pending applications or approvals?",
+    "tag": "Legal & Regulatory"
+  },
+  {
+    "id": 105,
+    "question": "- What are the key terms of major contracts with partners or suppliers?",
+    "tag": "IP & Contracts"
+  },
+  {
+    "id": 106,
+    "question": "Are there any potential liabilities from these contracts?",
+    "tag": "IP & Contracts"
+  },
+  {
+    "id": 107,
+    "question": "- How does the company handle disputes with customers or partners?",
+    "tag": "IP & Contracts"
+  },
+  {
+    "id": 108,
+    "question": "Are there any arbitration or mediation processes in place?",
+    "tag": "Legal & Regulatory"
+  },
+  {
+    "id": 109,
+    "question": "- What are the potential risks in the supply chain, and how are they mitigated?",
+    "tag": "Risk Management"
+  },
+  {
+    "id": 110,
+    "question": "Are there any contingency plans for supply chain disruptions?",
+    "tag": "Risk Management"
+  },
+  {
+    "id": 111,
+    "question": "- What training programs are in place for employees handling sensitive operations?",
+    "tag": "Risk Management"
+  },
+  {
+    "id": 112,
+    "question": "- What customer support mechanisms are in place?",
+    "tag": "Community & UX"
+  },
+  {
+    "id": 113,
+    "question": "How does the company measure customer satisfaction?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 114,
+    "question": "- Does the company have business interruption insurance?",
+    "tag": "Risk Management"
+  },
+  {
+    "id": 115,
+    "question": "What are the terms and conditions of this insurance?",
+    "tag": "Legal & Regulatory"
+  },
+  {
+    "id": 116,
+    "question": "- What measures are in place to secure the company's infrastructure?",
+    "tag": "Technology & Infrastructure"
+  },
+  {
+    "id": 117,
+    "question": "Are there any intrusion detection systems or firewalls?",
+    "tag": "Cybersecurity & Data Privacy"
+  },
+  {
+    "id": 118,
+    "question": "- How often are code reviews conducted to ensure quality and security?",
+    "tag": "Tokenomics & Trading Integrity"
+  },
+  {
+    "id": 119,
+    "question": "Are these reviews conducted by internal teams or external auditors?",
+    "tag": "Governance"
+  },
+  {
+    "id": 120,
+    "question": "- How scalable is the technology infrastructure?",
+    "tag": "Technology & Infrastructure"
+  },
+  {
+    "id": 121,
+    "question": "Are there plans for upgrading infrastructure to meet growing demand?",
+    "tag": "Technology & Infrastructure"
+  },
+  {
+    "id": 122,
+    "question": "- Are there data backup and recovery processes in place?",
+    "tag": "Cybersecurity & Data Privacy"
+  },
+  {
+    "id": 123,
+    "question": "How frequently are backups performed?",
+    "tag": "Risk Management"
+  },
+  {
+    "id": 124,
+    "question": "- How does the company manage cash flow?",
+    "tag": "Risk Management"
+  },
+  {
+    "id": 125,
+    "question": "Are there any cash flow projections available?",
+    "tag": "Financial Health"
+  },
+  {
+    "id": 126,
+    "question": "What are the company's financial planning strategies?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 127,
+    "question": "Are there any budgeting processes in place?",
+    "tag": "Governance"
+  },
+  {
+    "id": 128,
+    "question": "- Are there any tax planning strategies to minimize liabilities?",
+    "tag": "Risk Management"
+  },
+  {
+    "id": 129,
+    "question": "Are these strategies compliant with all applicable laws?",
+    "tag": "Legal & Regulatory"
+  },
+  {
+    "id": 130,
+    "question": "- Who are the company's auditors and accountants?",
+    "tag": "Governance"
+  },
+  {
+    "id": 131,
+    "question": "Are financial statements audited annually?",
+    "tag": "Financial Health"
+  },
+  {
+    "id": 132,
+    "question": "- What market analysis tools are used to understand customer needs?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 133,
+    "question": "Are there any market research reports available?",
+    "tag": "Risk Management"
+  },
+  {
+    "id": 134,
+    "question": "- How does the company analyze its competitors?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 135,
+    "question": "Are there any strategies to stay competitive in the market?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 136,
+    "question": "- What metrics are used to measure growth and success?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 137,
+    "question": "Are these metrics aligned with business ectives?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 138,
+    "question": "- Are there any exit strategies for investors or stakeholders?",
+    "tag": "Risk Management"
+  },
+  {
+    "id": 139,
+    "question": "What are the potential exit options (e.g., IPO, acquisition)?",
+    "tag": "IP & Contracts"
+  },
+  {
+    "id": 140,
+    "question": "- Does the company publish sustainability reports?",
+    "tag": "ESG & Sustainability"
+  },
+  {
+    "id": 141,
+    "question": "Are these reports audited or verified by external parties?",
+    "tag": "Cybersecurity & Data Privacy"
+  },
+  {
+    "id": 142,
+    "question": "- Has an environmental impact assessment been conducted?",
+    "tag": "ESG & Sustainability"
+  },
+  {
+    "id": 143,
+    "question": "Are there any plans to reduce environmental impact?",
+    "tag": "ESG & Sustainability"
+  },
+  {
+    "id": 144,
+    "question": "- How does the company engage stakeholders on sustainability issues?",
+    "tag": "ESG & Sustainability"
+  },
+  {
+    "id": 145,
+    "question": "Are there any feedback mechanisms for sustainability initiatives?",
+    "tag": "ESG & Sustainability"
+  },
+  {
+    "id": 146,
+    "question": "- Are there any sustainability standards for suppliers?",
+    "tag": "ESG & Sustainability"
+  },
+  {
+    "id": 147,
+    "question": "How does the company ensure compliance with these standards?",
+    "tag": "Tokenomics & Trading Integrity"
+  },
+  {
+    "id": 148,
+    "question": "- What are the governance policies for the board of directors?",
+    "tag": "Governance"
+  },
+  {
+    "id": 149,
+    "question": "Are there any independent directors on the board?",
+    "tag": "Governance"
+  },
+  {
+    "id": 150,
+    "question": "- Are there any shareholder agreements or voting trusts?",
+    "tag": "Governance"
+  },
+  {
+    "id": 151,
+    "question": "What are the terms of these agreements?",
+    "tag": "IP & Contracts"
+  },
+  {
+    "id": 152,
+    "question": "- What is the compensation structure for executives?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 153,
+    "question": "Are there any performance-based incentives?",
+    "tag": "Strategy & Competitive Positioning"
+  },
+  {
+    "id": 154,
+    "question": "- Is there a succession plan in place for key executives?",
+    "tag": "Governance"
+  },
+  {
+    "id": 155,
+    "question": "How does the company ensure continuity in leadership?",
+    "tag": "Governance"
+  }
+]
