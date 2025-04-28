@@ -1,0 +1,220 @@
+An official website of the United States government
+Here’s how you know
+Official websites use .govA.govwebsite belongs to an official government organization in the United States.
+Secure .gov websites use HTTPSAlock(LockA locked padlock)
+              orhttps://means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Search FilingsSearch FilingsFull Text SearchLatest FilingsMutual Fund SearchVariable Insurance Products SearchSIC CodesCIK LookupPublic Dissemination Service (PDS)Search Assistance
+Search Filings
+Full Text Search
+Latest Filings
+Mutual Fund Search
+Variable Insurance Products Search
+SIC Codes
+CIK Lookup
+Public Dissemination Service (PDS)
+Search Assistance
+Submit FilingsSubmit FilingsEDGAR Filer Management PortalEDGAR Filing PortalOnline Forms Management PortalEDGAR NextForms IndexTechnical SpecificationsFiler Support & Resources
+Submit Filings
+EDGAR Filer Management Portal
+EDGAR Filing Portal
+Online Forms Management Portal
+EDGAR Next
+Forms Index
+Technical Specifications
+Filer Support & Resources
+Data & ResearchData & ResearchSEC & Markets DataTaxonomiesData Visualizations
+Data & Research
+SEC & Markets Data
+Taxonomies
+Data Visualizations
+Rules, Enforcement, & ComplianceRules & RegulationsRulemaking ActivityStatutes & RegulationsStaff GuidanceNo-Action, Interpretive, and Exemptive LettersSelf-Regulatory Organization RulemakingPublic Petitions for RulemakingEnforcement & LitigationLitigation ReleasesAdministrative ProceedingsAdministrative Law Judge Orders and Initial DecisionsTrading SuspensionsDistributions to Harmed InvestorsReceivershipsComplianceExamination PrioritiesRisk AlertsCompliance Outreach ProgramProposed RulesWhat's NewWhistleblower Program
+Rules & RegulationsRulemaking ActivityStatutes & RegulationsStaff GuidanceNo-Action, Interpretive, and Exemptive LettersSelf-Regulatory Organization RulemakingPublic Petitions for Rulemaking
+Rules & Regulations
+Rulemaking Activity
+Statutes & Regulations
+Staff Guidance
+No-Action, Interpretive, and Exemptive Letters
+Self-Regulatory Organization Rulemaking
+Public Petitions for Rulemaking
+Enforcement & LitigationLitigation ReleasesAdministrative ProceedingsAdministrative Law Judge Orders and Initial DecisionsTrading SuspensionsDistributions to Harmed InvestorsReceiverships
+Enforcement & Litigation
+Litigation Releases
+Administrative Proceedings
+Administrative Law Judge Orders and Initial Decisions
+Trading Suspensions
+Distributions to Harmed Investors
+Receiverships
+ComplianceExamination PrioritiesRisk AlertsCompliance Outreach Program
+Compliance
+Examination Priorities
+Risk Alerts
+Compliance Outreach Program
+Proposed RulesWhat's NewWhistleblower Program
+Proposed Rules
+What's New
+Whistleblower Program
+Securities TopicsSecurities TopicsCybersecuritySaving and Investing for Military PersonnelMarket StructureSaving and Investing for Teachers
+Securities Topics
+Cybersecurity
+Saving and Investing for Military Personnel
+Market Structure
+Saving and Investing for Teachers
+AboutAboutMissionCrypto Task ForceCommissionersDivisions & OfficesDivision & Office DirectorsAdvisory CommitteesBudget & PerformanceReports & PublicationsCommission VotesContact the SECCareers
+About
+Mission
+Crypto Task Force
+Commissioners
+Divisions & Offices
+Division & Office Directors
+Advisory Committees
+Budget & Performance
+Reports & Publications
+Commission Votes
+Contact the SEC
+Careers
+Submit a Tip or Complaint
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+More in this Section
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+SEC Videos
+Social Media Directory
+What's New
+Home
+Newsroom
+Speeches and Statements
+Prepared Remarks At the Securities Enforcement Forum
+Prepared Remarks At the Securities Enforcement Forum
+Thank you for having me here today. As is customary, I’d like to note that my views are my own, and I’m not speaking on behalf of the Commission or SEC staff.
+In 1934, in his first speech as the SEC’s first Chair, Joseph Kennedy told the National Press Club, “The Commission will make war without quarter on any who sell securities by fraud or misrepresentation.”[1]
+Though much has changed since then — technology, financial products, and business models are always evolving — Kennedy’s words still ring true today.
+Enforcement is one of the fundamental pillars in achieving the SEC’s mission.
+One pillar is the policy framework — the laws set by Congress, and the rules enacted by the Commission.
+But you’ve also got to examine against those laws and rules, and enforce those rules. That oversight and enforcement are the other two critical pillars.
+Think about a football game without referees. Teams, without fear of penalties, start to break the rules. The game isn’t fair, and maybe after a few minutes, it isn’t fun to watch.
+Without examination against and enforcement of our rules and laws, we can’t instill the trust necessary for our markets to thrive. Stamping out fraud, manipulation, and abuse lowers risk in the system. It protects investors and reduces the cost of capital. The whole economy benefits from that.
+At the SEC, we follow the facts and the law, wherever they may lead, on behalf of investors and working families. That means holding individuals and companies accountable, without fear or favor, across the approximately $100 trillion capital markets we oversee.
+It is critical that our enforcement program have tremendous breadth, be nimble, and penalize bad actors so we discourage misconduct before it happens.
+That means bringing cases that matter to our three-part mission — whether deceptive conduct in the private funds space, offering frauds, accounting frauds, insider trading, market manipulation, Foreign Corrupt Practices Act cases, reporting violations, or fiduciary violations.
+Today, I’d like to discuss some principles I have asked our Enforcement Division to consider as they investigate misconduct and make recommendations to the Commission.
+Economic Realities
+The first principle is economic realities.
+Arbitrage has been a longtime feature of finance. Maybe we buy something in Paris and sell it for a profit in London. All too often, though, some folks try to arbitrage the rules and laws — between jurisdictions, within borders, across legal entities, or among technologies.
+Activities should be subject to consistent regulation, though, regardless of the entity, the technology, or the business model.
+If a driver is pulled over for speeding, it doesn’t really matter if she’s driving an electric vehicle or a gas-powered one.
+There’s an old saying: “When I see a bird that walks like a duck and swims like a duck and quacks like a duck, I call that bird a duck.”
+Sometimes, people focus on labels. For example, we hear terms like “decentralized finance” (DeFi), “currency,” or “peer-to-peer lending.” It can seem easy to take these words at face value.
+Make no mistake: regardless of the label or purported mission, we will be looking at the economic realities of a given product or arrangement to determine whether it complies with the securities laws.
+History tells us that when a group of people try to mask the underlying economic realities of a certain product or instrument, investors can get hurt. Further, their pain can spread from the financial system to the real economy.
+So if you’re asking a lawyer, accountant, or adviser if something is over the line, maybe it’s time to step back from the line. Remember that going right up to the edge of a rule or searching for some ambiguity in the text or a footnote may not be consistent with the law or its purpose.
+Again, think about the spirit of the law. It’s about protecting investors.
+Accountability
+The next principle is accountability.
+Accountability — whether individual or institutional — is an important part of the SEC’s enforcement agenda.
+We’ll use all of the tools in our toolkit to investigate wrongdoing and hold bad actors accountable — including administrative bars, penalties, injunctions, or undertakings, where appropriate. We’ll be prepared to litigate or seek a robust finding of facts if we settle. The public benefits, and justice benefits, from the robust finding of facts.
+It instills confidence in our financial markets when bad actors are held accountable. Moving efficiently and bringing bad actors to justice promotes confidence in our system.
+Remedies, such as penalties and admissions, need to be carefully calibrated to have a specific and general deterrent effect. We need to leverage prophylactic remedies — like bars and injunctions — that protect investors from future harm.
+When it comes to accountability, few acts rival admissions of misconduct by wrongdoers. When appropriate, and when the conduct warrants it, we may seek admissions in certain cases where heightened accountability and acceptance of responsibility are in the public interest.
+High-Impact Cases
+Next, I’ll turn to high-impact cases.
+Unfortunately, I’ve learned in my first six months here that there are all too many fraudsters, penny stock scammers, Ponzi scheme architects, and pump-and-dump cons taking advantage of investors. We have to protect the public from as many of these scams as possible.
+We will continue to pursue misconduct wherever we find it. That will include the hard cases, the novel cases, and, yes, the high-impact cases — whether in special purpose acquisition companies; cyber; crypto; or private funds; whether accounting fraud, insider trading, or recordkeeping violations. I know, recordkeeping violations might come as a surprise. While these may not grab the headlines, the underlying obligations are essential to market integrity, particularly given technological developments.
+A cop on the beat has to balance both the high-impact cases and the everyday fraudsters. A high-impact case pulls many other actors back from the line.
+This prompts legal alerts, client letters, and bulletins to go out. Compliance departments, lawyers, and accountants change internal procedures as well.
+Such high-impact cases are important. They change behavior. They send a message to the rest of the market, to participants of various sizes, that certain misconduct will not be permitted.
+Some market participants may call this “regulation by enforcement.”
+I just call it “enforcement.”
+Process
+Next, I wanted to share some thoughts on process.
+There are a few process matters I’ve emphasized to our Divisions of Enforcement and Examinations, which make up half of the remarkable SEC staff.
+Timeliness
+First, I think we should focus on bringing matters to resolution swiftly.
+As the old legal saying goes, justice delayed is justice denied.
+The defense bar often makes a strategic decision to burn clock. Memories fade; following evidentiary trails can get more difficult. I understand the bar’s incentives, but we at the SEC have a different mission to fulfill.
+Thus, I’ve asked staff to cut back on meetings with entities that want to discuss arguments in their Wells submissions.
+I believe it’s important for the people closest to these cases to be making decisions and eliminating unnecessary process. So if you request a meeting, please make it targeted.  Don’t expect multiple, repetitive meetings on the same issues.
+We’ve got precious resources, we need to move the docket, and we will be bringing cases expeditiously.
+With respect to our Examinations Division, we expect registrants to produce materials and respond to requests promptly. An examination is not an enforcement action. Thus, firms should not use lengthy privilege reviews to delay responding to routine document requests. This would speed up the examination process for everybody.
+Furthermore, responding to issues raised in an examination and curing any deficiencies is a good way to avoid possible enforcement action.
+Other Law Enforcement Agencies
+Next, I think we benefit from working in parallel with our fellow federal agencies, law enforcement authorities at the state level, international regulators, and self-regulatory organizations.
+For example, last week, Deputy Attorney General Lisa Monacoannouncedchanges to several Department of Justice (DOJ) policies regarding corporate criminal enforcement.[2]
+Among the changes, DOJ has instructed prosecutors to consider a corporation’s entire history of misconduct in making determinations about criminal charges and resolutions.
+The agency also strengthened prior guidance that, to qualify for cooperation credit, corporations must provide the Department with all relevant facts relating to individuals responsible for the misconduct.
+In addition, DOJ is considering whether resolutions such as non-prosecution and deferred-prosecution agreements are appropriate for certain recidivist companies.
+While our organizations are independent, and our enforcement tools, authorities, and missions are distinct, these changes are broadly consistent with my view of how to handle corporate offenders.
+Sourcing of Cases
+Those other law enforcement agencies and self-regulatory organizations are a valuable source of cases for us.
+Of course, our Enforcement staff themselves are a great source of cases. They’re the ones closest to the market. They might read a news story, find something curious, and open up a case. They’re the real cops on the beat. I can’t thank them enough for their dedication to the public.
+There are also internal referrals from across our whole agency to the Enforcement Division. When it comes to enforcement referrals, I’ve asked Acting Director Dan Kahl of the Examinations Division and Director Gurbir Grewal of the Enforcement Division to evaluate existing practices and see how we can make improvements.
+Moreover, we benefit greatly from the tips, complaints, and referrals of our robust whistleblower program. The program this year exceeded $1 billion in payouts since the passage of the Dodd-Frank Act in 2010.
+Another source of cases is self-reporting. Look, if you mess up, and people do mess up sometimes, please, come talk to us. All things being equal, if you work cooperatively to bring wrongdoing to light, you fare better than if you try to mask it.
+Cooperation — at least the type that gets credit — means more than meeting your legal requirements, such as responding to lawful subpoenas or making witnesses available for lawfully-compelled testimony. It means doing more than the bare minimum, like conducting a self-serving, independent investigation. It means taking steps that enhance our investigation, allow us to move quickly, and, if appropriate, help us to identify additional misconduct.
+Positions of Trust
+Before I close, I’d like to address the audience directly — those of you who are lawyers, auditors, accountants, bankers, and investment advisers. You all play an important role in our capital markets. Market participants rely on you for advice and counsel on a daily basis.
+Within our securities laws, you are entrusted with certain responsibilities and take on certain obligations as well.
+Thus, you occupy positions of trust. Though you represent your clients, you also have an important role in upholding the law, which protects investors and our markets.
+You can often be the first lines of defense. That’s particularly true when a client is getting close to crossing the line. I ask you to think about the economic realities, to think of the duck test, and not to help paper over the cracks.
+In opening my remarks, I quoted Joseph Kennedy. But three months earlier, William O. Douglas, the future SEC Chair (and later a Supreme Court Justice), spoke to a roomful of lawyers, just like this one. (Well, maybe they were in person.)
+Times were different. We were in the depths of the Great Depression. The ’34 Act establishing the SEC had not yet been signed into law.
+Douglas told the audience, “Service to the client has been the slogan of our profession. And it has been observed so religiously that service to the public interest has been sadly neglected.”[3]
+As with Kennedy, I find myself thinking that what Douglas said still rings so true.
+You all have our own clients, to be sure. Working in a field such as finance that touches so many lives, though, you also have another responsibility: a responsibility to the public.
+The public is the SEC’s client. They’re the ones I think of every morning when I go to work. I hope you do, too.
+Thank you.
+[1]Seehttps://www.sec.gov/news/speech/1934/072534kennedy.pdf.
+[2]Seehttps://www.justice.gov/opa/speech/deputy-attorney-general-lisa-o-monaco-gives-keynote-address-abas-36th-national-institute.
+[3]Seehttps://www.sec.gov/news/speech/1934/042234douglas.pdf.
+Last Reviewed or Updated:Nov. 4, 2021
+About the SECBudget & PerformanceCareersCommission VotesContactContracts
+About the SEC
+Budget & Performance
+Careers
+Commission Votes
+Contact
+Contracts
+TransparencyAccessibility & DisabilityArtificial IntelligenceCummings NoticeFOIAInspector GeneralNo FEAR Act & EEO DataOmbudsSEC Excess Personal Property Guidance
+Transparency
+Accessibility & Disability
+Artificial Intelligence
+Cummings Notice
+FOIA
+Inspector General
+No FEAR Act & EEO Data
+Ombuds
+SEC Excess Personal Property Guidance
+WebsitesInvestor.govRelated SitesUSA.gov
+Websites
+Investor.gov
+Related Sites
+USA.gov
+Site InformationPlain WritingPrivacy & SecuritySite Map
+Site Information
+Plain Writing
+Privacy & Security
+Site Map
+Stay connected. Sign up for email updates.
+X
+Facebook
+Instagram
+RSS
+YouTube
+Email Updates

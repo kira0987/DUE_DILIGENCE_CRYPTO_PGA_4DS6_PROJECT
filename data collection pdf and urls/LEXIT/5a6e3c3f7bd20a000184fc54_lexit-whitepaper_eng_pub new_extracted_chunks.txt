@@ -1,0 +1,823 @@
+A Distributed Intellectual Property and
+Company Mergers & Acquisitions Marketplace Amir Kaltak1, Wajid Ali Khilji2, Maija Majamäki3 January 2018
+1 Important Notice
+This document and information contained herein may not be sent and or addressed
+wholly or in part, directly or indirectly, to any person in the United States or Sin-
+gapore, or any other jurisdiction in which it would be impermissible or otherwise
+restricted to oﬀer, distribute, purchase, sell or retain cryptographic tokens.  PLEASE READ ALL PARTS OF THIS NOTICE CAREFULLY. THIS WHITEPAPER IS TO BE
+READ IN CONJUNCTION WITH THE TOKEN SALE AGREEMENT AND ITS TERMS AND
+CONDITIONS TO BE SUPPLIED. All deﬁnitions contained in this notice shall bear the same meaning as provided in
+the Whitepaper unless stated otherwise. The LEXIT Token (LXT) is not intended to constitute:
+1. securities in any jurisdiction,
+2. currency of any kind,
+3. stocks, shares or debentures,
+4. units in a collective investment scheme or business trust,
+5. equity in an investment fund.  Any regulation or legislation applicable to securities or to any of (1 to 5) above will
+not be applicable to this Whitepaper and the LXT ITO.
+
+This Whitepaper does not
+constitute a prospectus or oﬀer document, nor is it an oﬀer of securities or an at- tempted solicitation for investment in securities in any jurisdiction. This Whitepaper
+and the LXT ITO have not been approved by any regulatory body in any jurisdiction. It should not be assumed that the Whitepaper and the LXT Token Oﬀering comply
+with any laws, regulation or legislation of any jurisdiction.  The purchase of the LXT and participation in the LXT token oﬀering is inherently
+risky. No warranty, guarantee or undertaking is made by LEXIT and/or the distrib-
+utors of the LXT regarding:
+1. the performance of the LXT,
+2. the performance of the assets underlying the LEXIT business or the LXT token
+purchase,
+3. the accuracy of the information contained in this Whitepaper,
+4. the accuracy of the ﬁnancial or other projections contained in this Whitepaper.
+2
+The law and regulation of token oﬀerings is in the process of development and re-
+view in most jurisdictions. This lack of clarity surrounding the law and regulation
+further increases the risk associated with the LXT purchase.
+
+As a potential pur-
+chaser, it is assumed that you have familiarized yourself with the underlying tech-
+nology and workings of token purchases, blockchain technology, digital wallets and
+cryptocurrency. It is assumed that, as a potential purchaser, you have knowledge
+and understanding of the foregoing and that you have familiarized yourself with
+the risks associated therewith. Any agreement between you and LEXIT and/or any distributor, in relation to the
+sale and purchase of the LXT will be governed by a separate Token Sale Agreement
+setting out the terms and conditions of such agreement. In the event of any in-
+consistencies between the Token Sale Agreement and this Whitepaper, the Token
+Sale Agreement shall prevail. To the maximum extent permitted by the applicable
+laws, regulations and rules, LEXIT and/or any distributor shall not be liable for any
+indirect, special, incidental, consequential or other losses of any kind, in tort, con-
+tract or otherwise (including but not limited to loss of revenue, income, personal
+savings or proﬁts, and loss of use or data), arising out of or in connection with any
+
+acceptance of or reliance on this Whitepaper or any part thereof by you and any
+purchase of the LXT tokens by you .  As a potential purchaser of the LXT you agree and acknowledge that:
+1. You are recognized as an Accredited/Sophisticated/High Net Worth Individu-
+al/Investor in your home jurisdiction.
+2. The purchase of LXT is inherently risky.  3. The law and regulation in relation to token oﬀerings, cryptocurrency, digital
+wallets and  blockchain is in the process of being developed and reviewed in
+most jurisdictions.  4. LEXIT and/or any distributor give no representations, warranties or undertak-
+ings regarding the success of the LXT token oﬀering, the underlying LEXIT busi-
+ness, the accuracy of the information and accuracy of the ﬁnancial and other
+projections contained in this Whitepaper.
+5.
+
+To the full extent permitted by the applicable laws, regulations and rules, LEXIT
+and/or any distributor shall not be liable for any indirect, special, incidental,
+consequential or other losses of any kind, in tort, contract or otherwise (in-
+cluding but not limited to loss of revenue, income, personal savings or proﬁts,
+and loss of use or data), arising out of or in connection with any acceptance of
+or reliance on this Whitepaper or any part thereof by you and any purchase
+of the LXT tokens by you. LEXIT is committed to providing a safe, compliant and reputable service to our cus-
+tomers. For this reason, LEXIT insists on a comprehensive and thorough Know Your
+3
+Customer (KYC) and anti-money laundering (AML) / combating the ﬁnance of terror-
+ism (CFT) compliance implementation. This includes the monitoring of suspicious
+transactions and obligatory reporting to local regulators and other compliance bod-
+ies. Our policies in this regard diﬀer depending on the country of origin of which
+our clients are located. The speciﬁc AML/CFT and KYC policies as per regional juris-
+diction are located in the terms and conditions of the Token Sale Agreement.
+
+Our
+compliance framework ensures that regulatory requirements are being adhered
+to at both a local and global level, instilling a level of trust and ensuring LEXIT will
+continue operate uninterrupted. LEXIT reserves the right to refuse to oﬀer LXT to
+persons from or in jurisdictions that do not meet international AML/CFT standards
+or could be considered as a Politically Exposed Person.
+Executive Summary Mergers and Acquisitions (M&A) is a complicated ﬁeld.  With millions of businesses
+forming and disintegrating annually, buyers and sellers have a hard time ﬁnding
+each other and negotiating fairly. Involving batteries of corporate lawyers, invest-
+ment bankers, ﬁnancial advisors and appraisers, the selling of a company or its
+assets entails very high costs, even before the ﬁrst potential buyer is contacted. These enormous barriers to entry have until now prevented the emergence of on-
+line M&A marketplaces, akin to those existing for other kinds of property. LEXIT aims to become the ﬁrst such marketplace. Utilizing a platform approach, blockchain
+technologies, and an international network of business partners, LEXIT aims to in-
+crease the eﬃciency and liquidity of the corporate asset market in the same way
+eBay did for peer-to-peer commerce and Airbnb did for short-term renting. 
+
+To achieve this aim, LEXIT combines blockchain-based token economics and best
+practices developed by the platform-marketplace industry. Both are heavily reliant
+on the Law of Big Numbers: the larger the pool of buyers and sellers, the more
+reliable price discovery is and the faster optimal, win-win deals can be achieved.  On LEXIT’s marketplace, buyers and sellers meet directly en masse allowing market
+forces and network dynamics to render corporate assets such as patents, trade-
+marks, technology, specialized departments and entire companies into highly liquid
+assets that can be traded at ease, rented and licensed. We are convinced and able
+to demonstrate that this increased liquidity and market-eﬃciency will prove itself
+highly beneﬁcial in terms of promoting innovation and supporting growth, while
+reducing overhead costs and risk.  As demonstrated further in this Whitepaper, the LEXIT Solution allows for M&A
+processes to be concluded faster and at about a quarter of traditional costs. En-
+trepreneurs are empowered to discover the true value of their assets on a vibrant
+4
+and highly liquid marketplace, without having to bear excessive fees.
+
+And most im-
+portantly - for the ﬁrst time - an eﬃcient market for IP and patents is established,
+allowing companies to trade IP assets as conveniently as one would buy, sell or rent
+a car or real estate. 1 Introduction Mergers and Acquisitions comprise a massive and global industry. For example,
+company growth may be only possible by taking over competitors. Other motives
+for M&A activity are outsourcing research and development by buying highly spe-
+cialized companies. Some commercial actors buy companies just to sell them at a
+higher price in the future.  Besides companies, the M&A market also includes intellectual property like patents,
+licenses, trademarks and source code (open and closed source code). If a company becomes insolvent and is liquidated, it is not unusual to split it oﬀand
+sell the valuable components independently. In general, the M&A market ranges from small companies of only local importance,
+to innovative start-ups with potential buyers from all over the world and large cor-
+porate transactions with established companies that involve billions of dollars.
+
+While the large-scale M&A market is only accessible to buyers with necessary funds,
+thus narrowing down the number of possible acquisition targets, the situation is
+completely diﬀerent in the mid-range M&A space which had a total volume of US
+$3.63 trillion with 49’078 transactions in 20164.  In spite of its importance, this market is far from being perfect. Signiﬁcant prob-
+lems include price discovery, valuation of assets (especially patents), exposure of
+assets and availability of trustworthy and competent experts. As a result, parties
+producing or owning intellectual property may be unable to sell or otherwise realise
+its worth, leading to a waste of the resources initially appropriated to the develop-
+ment and production of the item.  This Whitepaper argues that the Coasian transaction costs involved in searching for
+potential buyers (seller’s perspective) or ﬁnding patents, technology, soft assets and
+company branches (buyer’s perspective) can be reduced by applying a platform ap-
+proach. In the following sections of this Whitepaper, challenges, opportunities, po-
+tential for innovation and an approach for technical realization will be explored.  4Bothwick , J., Leibowitz, H., Cutler, W. Hale, P., and Dorr LLP (2017, 1.6). 2017 M&A Report.
+
+Retrieved
+from https://corpgov.law.harvard.edu/2017/06/01/2017-ma-report/
+5
+2 Industry Overview
+Today, controlling knowledge and technology is strategically more important than
+controlling resources and hence frictionless technology and knowledge transfer is
+required for companies to develop their businesses. Patents are a reiﬁcation of
+intellectual property making such property tradeable and transferable on IP mar-
+kets. It is often easier to obtain a license, a patent or source code from outside the
+company than performing research and development inside the company
+The objective of patent systems is to protect invention by granting the inventor
+remedies for enforcing the patent. Ideally, this increased legal security encourages
+the inventor to license other market participants who are interested in using the
+patented knowledge or technology. This way the inventor has an incentive to share
+his ﬁndings, based upon which others can innovate further. Nevertheless, there is an asymmetry between small companies (SMEs) and individ-
+ual inventors and large corporations as regards the legal expertise and ﬁnancial
+resources that are needed to enforce patents. Another issue with the IP market is the interplay between eﬃciency, transparency
+and liquidity:  • Eﬃciency: describes the IP market’s ability to ﬁnd prices that reﬂect the value
+of an IP item.
+
+Imprecise patents make it hard to estimate their value.  • Transparency: the market becomes more transparent the more market par-
+ticipants’ individual views of the market overlap and intersect. Market partic-
+ipants are discouraged from economic activity if prices for like IP items vary
+too much.  • Liquidity: the easier it is to transfer an IP item, the more liquid it is. Liquidity
+of an IP item is hindered if its value cannot be determined and if it is unknown
+which prices were paid for similar items (transparency).
+Another characteristic of today’s IP markets is the presence of IP service providers,
+e.g., Non Practicing Entities. These entities are supposed to act as middlemen in the
+market. Nevertheless, low quality work by these entities discourages companies
+from outsourcing IP services which in turn retards market activity. 2.1 Unused IP At present, large amounts of IP remain unused. SMEs, individual inventors and uni-
+versities often lack the culture, legal expertise and ﬁnancial resources to engage
+in the IP market. In a market which is non-transparent regarding IP and IP service
+6
+prices, these actors prefer to focus on research and development of their technolo-
+gies.
+
+They also prefer to avoid the risk of litigation since large corporations are often
+in a monopoly position with their extended legal expertise and ﬁnancial resources. Since large parts of IP are held by smaller IP market participants, resources are
+wasted when IP items from this group remain unused—not to mention the missing
+positive eﬀect on society in general.  Another reason why IP remains unused is an ineﬃcient IP market that fails to bring
+awareness of appropriate IP to market participants who need it. Even if appropriate
+IP can be found, it is often the case that the IP owner cannot be located. 2.2 Challenges of IP Valuation Valuation of IP is a challenging task. It includes estimating its future relevance in
+general and eﬃciency gains in particular. A patent describing a very eﬃcient tech-
+nology that was open sourced has reduced value as has a patent that correctly
+predicts a trend in a certain ﬁeld but fails to provide applicable innovation.  Ideally, patents describe worthwhile innovation. Nevertheless, it is not uncommon
+that patents are applied for, which lack innovation and quality in description. Both
+cases require expertise on patents in general and on the technology described in
+particular.
+
+An equally severe problem comprises patents that meet formal require-
+ments for issuance but lack precise technical description of the patented technol-
+ogy. This leads to non-reproducibility of the described technology, making it impos-
+sible to assess its value.  2.3 Localized Experience
+A problem with considerable negative eﬀects in midrange M&A is the lack of expe-
+rience and knowledge of sellers. Often, these persons are not aware of the value of
+their research results. Another issue is an understanding of how the M&A process
+usually works and how steps are sequenced: trust is established step-by-step and
+conﬁdential information is not disclosed at the beginning. This is also related to
+legal aspects that govern the process. Sometimes slight variations in wording can
+make a considerable semantic diﬀerence with equally drastic outcomes. The chal-
+lenge here is to provide sellers with experts to help them discover the true value of
+their assets and to guide them through the process of selling so that they do not
+end up in an adverse situation.  7
+3 Industry Gaps and LEXIT Opportunities
+
+In this section, we illustrate the IP market’s lack of eﬃciency, transparency and liq-
+uidity by discussing more concrete issues and pointing out the opportunities that
+arise from them. • Low patent quality: imprecise technology descriptions in patents and non-
+reproducibility of the described technology create ﬁnancial and legal risks for
+SMEs and individual inventors. This creates an opportunity for connecting
+them to experts who possess the knowledge for accurately assessing the patent.  • Finding the most suitable IP: for a company requiring IP it is hard to ﬁnd that
+which helps it best to achieve its business goals. The same applies to IP owners
+who cannot ﬁnd enough potential buyers which in turn reduces the probability
+of selling at the highest price. Solving this issue requires a system with low
+entry barriers where sellers and potential buyers are exposed to each other. This system should also facilitate advanced ﬁlter and search mechanisms so
+that potential buyers can actually ﬁnd the most suitable IP, in case it exists.
+• No monitoring of IP ownership: even if a company can ﬁnd suitable patents
+does not mean that it can be transferred.
+
+Since there is no obligation to track
+ownership, the potential buyer might not be able to locate the current owner. This creates a situation adverse for the patent owner, who misses an opportu-
+nity for revenue, and equally for the potential buyer, whose business growth
+is impaired.  • Finding expertise: ﬁnding experts for evaluating patents is not the only step
+where expertise is required. Transferring IP also includes negotiation and
+drafting a purchase agreement or contract. This requires legal expertise ac-
+cording to the jurisdiction that applies for the IP item transferred. The oppor-
+tunity here is to create a system where experts can build a tamper-proof track
+record that fosters trust among IP market participants.  • Reluctance to disclose IP ownership: not knowing the owner of an IP item
+prevents others to invent on top of it. On the other hand, disclosing ownership
+creates an opportunity for revenue by licensing IP users. • Liquidation after insolvency: selling a whole company after it became insol-
+vent requires a buyer who can make use of all of the company’s assets. Nev-
+ertheless, it is far more common to split the company into parts which are
+sold separately.  8 4
+
+LEXIT’s Process Innovation  The aforementioned issues are all symptoms of an imperfect market. By applying
+a platform approach, LEXIT seeks to improve the process steps that are connected
+to these issues. 4.1 Deﬁning Platforms A platform consists of producers, consumers, providers and the platform owner.  Producers create value items that consumers require and are willing to reimburse
+for—in money and tokens but also attention and up votes. Providers are the in-
+terfaces that allow for accessing the platform—usually network capable electronic
+devices. The owner is the entity that is in control of the platform’s IP.  Example: the android system with its Smartphone apps and App Store. App devel-
+opers produce apps, that are consumed by Smartphone users. The Smartphone is
+the interface to the platform that provides the user with means necessary for in-
+teracting with the platform. Which apps get listed in the App Store, its design and
+the android operating system are controlled by the platform owner—in this case,
+Google. The value items are apps that are exchanged in the platform’s core inter-
+action between producer and consumer (downloading the app from the appstore
+to the Smartphone). 
+
+Compared to local and personal networks with limited reach, platforms can connect
+users from virtually any location. The platform’s value stems from value creating
+interactions between its users. Although important as a facilitator, technologies
+like Smartphones or the internet are not the focal point of platforms. Android’s
+app store is valuable to its user not because of its underlying code but because of
+the apps that are oﬀered on it. The more users the platform has, the bigger the
+incentive for developers to produce apps. The richer the app store, the larger the
+probability for an individual user to ﬁnd an app to meets his requirements. This self-
+amplifying feedback phenomenon is known as network eﬀects. Creating a platform
+always contains a paradox the platform owners need to solve. If no consumers
+(android users) exist, producers (app developers) have no incentive to create value
+items (apps). On the other hand, if a platform has no value items to oﬀer, users will
+see no value in becoming consumers of the platform.  This paradox can be solved by bootstrapping the platform with producers that are
+subsidized with funding raised by the platform owner.
+9
+4.2
+
+A Platform for IP and M&A
+LEXIT will create a platform facilitating M&A and IP transactions. Industry experts
+and market participants will be able to assume various roles in value creating in-
+teractions. The primary goal of this platform is to pool actors with only local reach
+in order to drastically increase the number of possible interaction partners. In this
+way, for example, a patent sales opportunity is not only seen by three potential
+buyers but three thousand. The platform approach fulﬁls two functions:  • Marketplace: The platform will be a marketplace where IP, company branches
+and startups can be sold. A sophisticated search mechanism will help buyers
+to ﬁlter out appropriate items from a wide range of diﬀerent items. • Ecosystem: In order to make the marketplace functional , the platform will cre-
+ate incentives for experts to come to the platform. They are required for eval-
+uating IP and companies oﬀered on the marketplace and to provide legal as-
+sistance for preparing and committing M&A or IP transactions.  4.2.1 Roles and Actors on the LEXIT Platform
+A platform user is not restricted to a single role.
+
+On the android platform, it is very
+likely that app developers use apps for checking repositories and getting in touch
+with other developers and the community using their app. In the same way, an app
+user can come to the conclusion that no app exists oﬀering a certain functionality,
+motivating this user to develop it himself. As in the example of the android platform,
+users of the LEXIT platform are not restricted to a single role. The following roles
+are anticipated to occur on the platform:  • Sellers: are users who own a company or IP and want to sell it—these could be
+companies with a rich patent portfolio as well as professors managing the IP
+of their research institute. This role includes providing suﬃcient information
+for the items they want to get listed on the platform but also interaction with
+buyers and assessors to help estimate the value of the item they oﬀer.
+• Buyers : these users are companies looking for IP, assets or startups in order to
+grow their businesses. They request information from sellers of items listed
+on the platform in order to make more informed decisions.
+
+• Assessors: are experts that provide sellers and buyers with expertise equally.  Highly specialized experts from a speciﬁc ﬁeld like crystal growth can help de-
+termining the value of patents (e.g. by verifying the reproducibility of the tech-
+nology described). Accountants can help perform due diligence by looking at
+the books of companies to be sold. Lawyers can assist with drafting purchase
+10
+agreements and adhering to legal requirements in speciﬁc jurisdictions, and
+ensure the legal transfer of title.
+4.2.2 Value Creating Interactions The most valuable asset of every platform is the community of users connected by
+and interacting through the platform. Nevertheless, a large number of users is in
+itself not suﬃcient for a platform to create value for its users—it is value creating
+interactions, facilitated by the platform’s tools and rules that create value. Inter-
+actions create value if they make the steps of existing, well-established processes
+more eﬃcient, more secure, less costly or reduce friction.  Example: a platform like Moodle for scheduling meetings reduces the friction of
+conventional communication via phone or email.
+
+Instead of keeping track of who is
+available at which date by going through countless emails, all information is stored
+and updated in one place—all potential participants have a shared view of the over-
+all process state. It is also the value creating transactions that stimulate the growth of a platforms
+user base and not merely the number of already registered users. Consider the
+case where an old-timer car addict needs to source a very speciﬁc spare part. On a
+small platform, it is unlikely, that a user will exist who can oﬀer this part. On a plat-
+form with a large community, spare parts of old-timer cars might not be interesting
+for the majority of platform users. Nevertheless, the large user base increases the
+probability that someone oﬀers this very speciﬁc spare part. The platform’s abil-
+ity to successfully facilitate this transaction gives rise to subsequent interactions
+where unique items are oﬀered and bought. This creates a feedback loop which
+keeps the platform and its community active.
+
+This self-amplifying phenomenon is
+called network eﬀects.
+4.3 The Conventional Process of Selling IP and Companies
+An M&A transaction is a process where intellectual property, assets, a company or
+a company branch is transferred from the owner—the seller—to a buyer.  The conventional process encompasses the following steps:
+1. The seller uses contacts and networks to ﬁnd potential buyers or contracts a
+law ﬁrm for this task.  2. Potential buyers place buy oﬀers.  3. Eventually one of the oﬀers is chosen by the seller.  11 4. Both parties sign non-disclosure agreement, go through due diligence and
+draft a purchase agreement.  5. After the transaction details are negotiated, the purchase agreement is signed
+and the transaction committed.
+Example: after the insolvency of a company, its patents are to be sold. First, the
+liquidator seeks to ﬁnd potential buyers, e.g. a law ﬁrm. The lawyers will use their
+contacts and network to ﬁnd buyers. In order to evaluate the oﬀered patents, a
+potential buyer needs to ﬁnd experts who can verify the patent’s claims and the
+prospective economic value for the buyer. 4.4 The Process of Selling IP and Companies on the LEXIT Platform
+
+The process on the LEXIT platform consists of the same steps in the same sequence
+as described above—yet there is a diﬀerence in how the steps are executed.  1. The seller uses the platform’s web interface to create a listing of the asset
+he looks to sell which is published on the platform after a basic check by the
+platform owner (LEXIT).  2. Potential buyers can use the web interface to search for the assets, IP or com-
+pany branches they need for the development and growth of their business.  3. The seller sees several buy oﬀers and can check a potential buyer’s history on
+the platform.  4. The web interface guides both parties through the necessary steps for closing
+the deal. Each of them can use the platform to ﬁnd experts they need to sup-
+port them during the whole process, including due diligence and estimation
+of value of the asset to be transferred.  5. Closing the deal on the platform will create data entries that help building a
+track record for each party involved including the experts.  Observe that a platform is used for listing and searching for items instead of private
+networks or those of M&A ﬁrms.
+
+Another aspect is the track record that is built by
+each assessor/expert whose expertise is used. In this way, trust can be established
+between users who have not yet interacted with each other before.  By employing a platform approach, aforementioned industry gaps and market inef-
+ﬁciencies can be remedied. As a result, friction and costs are considerably reduced
+for the end user, while the circle of potential participants in the global M&A market
+is widened to include buyers and sellers that were until now excluded due to high
+barriers to entry.  12
+AVERAGE M&A  TRANSACTION COST
+PROCESS DURATION
+PRICE ESTIMATION PROCESS
+SELLING INDIVIDUAL ASSETS (IP, 
+PATENTS, CODE, PROTOTYPES, ETC)
+RETAINER FEE
+BARRIERS TO ENTRY
+FINDING A BUYER
+SUCCESS FEE
+UNSUCCESSFUL TRANSACTION FEE
+LICENSING TECHNOLOGY INSTEAD OF 
+SELLING IP RIGHTS
+CRYPTO PAYMENTS
+TRANSACTION PROGRESS TRACKING
+PROCESS FACILITATION
+TRADITIONAL M&A
+UP TO 12% + FEES
+HIGH PRE-PAYMENTS
+
+UP TO 2 YEARS
+(DEPENDS ON THE TRANSACTION)
+MANUAL, OFFLINE 
+HEADHUNTING
+OFFLINE, MANUAL
+COMPLICATED, UNFAMILIAR,
+LOTS OF ROOM FOR MISTAKES
+UP TO 2-8%
+LOW, REASONABLE LISTING FEE
+GLOBAL ONLINE EXPOSURE &
+LEXIT’S MATCHMAKING NETWORK
+ONLINE, AUTOMATED
+STEP BY STEP GUIDANCE, 
+USER ORIENTED, FOOLPROOF UX/UI
+TIME-CONSUMING, MANUAL 
+MARKET RESEARCH  AND APPRAISEMENT
+INSTANT NETWORK & AUCTION 
+BASED PRICE DISCOVERY
+UP TO 6 MONTHS
+(DEPENDS ON THE TRANSACTION)
+5 The LEXIT Solution  In this section we discuss the marketplace and its search mechanism as well as
+rating mechanism for assessor and describe the platform’s workﬂow.
+5.1 Marketplace Aspect
+Creating a marketplace for IP, soft assets and M&A in order to increase exposure
+and reach is not suﬃcient to improve market eﬃciency. It would merely result in
+an increase in “noise” where it is very diﬃcult to ﬁnd appropriate items. Therefore,
+the search mechanism is a vital component of the platform. Besides making listings accessible to conventional search techniques by indexing,
+LEXIT will establish a system based on weighted tags. Tags are common keywords
+describing key features of the listing. For example:
+13
+• A startup producing wooden keyboards with tags like, Mahogany, USB or ex-
+ternal device.
+
+A wood processing company might be interested in acquiring a
+branch that produces saleable goods. • A patent for an electric car engine. Besides electric car, electric car engine or
+compatible battery technologies, the geographic location can be a tag as well. In this way, electrical engineering companies in the same location could ﬁnd
+this patent and decide to get licensed in order to produce these engines, cre-
+ate a supply chain or initiate a local research partnership (which implies access
+to the technology described in the patent).
+• For a bioengineering technique, Polymerase Chain Reaction or thermocycler could
+be tags, but also the year of discovery, involved researchers or the name of a
+ﬁeld where it is applied. Tags can be up- and down-voted by users in order to reduce “noise” and obtain a clear signal—which becomes more important, the larger the platform becomes . Instead of LEXIT predetermining categories, the wisdom of the crowd is employed. These weighted tags can also be used to discover trends in the platform and provide
+visualizations by applying cluster algorithms. 5.2 Governance One of the crucial parts of every platform is governance.
+
+This is required to curate
+users and listings in order to avoid interactions that create low quality value items
+on the platform and users being driven out by unsatisfactory search results.
+Part of the role of assessors is to provide assessments for new listings. Their com-
+pensation will depend on who appointed them and the accuracy of their assess-
+ment. A seller who is convinced of the value of his IP could pay an assessor with a proven
+track record up front in order to increase credibility of his oﬀer. Vice versa, an
+assessor can ask the seller of a new item to use him as an expert. A third way is
+that buyers ask experts to help with due diligence before they place a bid.  The utilization of experts to maintain quality by independent assessment of listings
+leads to the question of rating assessors. Expertise is only useful if users can trust
+the expert’s track record.  5.2.1 Rating Based on Auction Estimates
+There are three data points that can be used to rate the quality of an assessment:
+the seller’s estimate, the assessor’s estimate and the exit value (actual price paid on
+14
+the platform).
+
+The more accurate the assessor’s estimate, the higher the quality of
+his assessment. Example:
+• Low estimate by seller, high estimate by assessor, even higher exit value. The
+assessor helped the seller to discover the true value of his assets, IP or com-
+pany and sell at a higher price. • High estimate by seller, low estimate by assessor, exit value of zero (i.e. no
+buy oﬀers). The assessors made the non-existent value explicit, thus reducing
+noise on the platform and maintaining overall quality of listings. Conversely, inaccurate estimates by assessors will become part of their track record
+as well.
+5.2.2 Ratings Based on Individual Token Payments
+In the context of an auction, there is a second rating mechanism which is the paying
+of an assessor in LXT for his valuable insights at any stage of the auction process. Since the marketplace depends on accurate information, providing such informa-
+tion should be incentivized regardless of the outcome of the auction. This is espe-
+cially true in cases where assessors save potential buyers from wasting money or,
+alternatively, help a seller to exit at a much higher price. 
+
+An LXT payment is a more profound sign of appreciation than a ﬁve-star rating since
+it amounts to true monetary value spent by a seller or buyer. Because of the mon-
+etary value (LXT) being used, the use of LXT can also be perceived as a spam pro-
+tection fee for avoiding inﬂationary use of ﬁve star or 100% ratings. Five-star or
+100% ratings become more and more meaningless as an information source for
+rating assessors the more inﬂationary they are used, making it harder identifying
+an assessor’s unique skills.  5.2.3 Data Points Usable for Track Records
+Experts ﬁlling the assessor role have diﬀerent strengths and approaches. By look-
+ing at the track record, users can ﬁnd the experts on the platform that are most
+suitable.
+
+Assessors can be rated based on the following information:
+• seller’s approval/disapproval with provided evaluation of his auction,
+• number of assessments,
+• diﬀerence between a startup’s value estimated by its seller, the assessor’s
+evaluation and the actual exit value,
+• number and volume of closed deals,
+15
+• business area and geographic location of assessed auctions.
+LEXIT’s focus is not on drawing conclusions from this information but rather on
+making it accessible to the community and participants who use their own judge-
+ment. A potential buyer might need an assessor who has a track record of success-
+fully handling high volume deals. Or consider a case where a startup discovered a more robust method for growing crystals . For evaluating its true value, a potential
+buyer could decide to appoint an assessor who just graduated in crystal growth.  Because of the lack of a long track record, the potential buyer doesn’t have to pay a
+high compensation but the inexperienced assessor gets a chance to demonstrate
+his knowledge and get rewarded for it. He may be the only expert in the ﬁeld —
+choosing him is eventually the only way for the potential buyer to take the business
+opportunity.
+
+5.3 Dealﬂow
+SELLERS
+(KYC)
+BUYERS (KYC)
+SERVICES
+SERVICES
+LIST YOUR
+PROJECT
+BROWSE
+MARKETPLACE
+COLLECT
+OFFERS
+PLACE
+OFFERS
+EVALUATE
+ASSESSORS
+(KYC)
+GET
+VERIFIED
+NDA
+NDA
+TRANSFERS
+LEXIT ESCROW
+SERVICES
+SERVICES
+SERVICES
+SERVICES
+DUE DILIGENCE & 
+NEGOTIATION
+VIRTUAL DEAL ROOM
+DONE DEAL
+AUDIT
+(KYC)
+LEGAL
+SUPPORT
+(KYC)
+AUDIT
+(KYC)
+LEGAL
+SUPPORT
+(KYC)
+AUCTION
+ENDS
+Figure 1: Transaction ﬂow from start to done deal.
+Before business activity ensues, buyers and seller have to pass the KYC process. Their identity is not revealed to other platform users while care is taken by LEXIT to
+prevent malicious actors from entering the community. The deal ﬂow consists of two consecutive phases.  1. In the marketplace phase, sellers create listings, assessors verify listings and
+buyers place bids on listings and eventually request support from assessors. A seller makes the ﬁnal decision which buy oﬀer to accept. 16
+2. When a buy oﬀer from a potential buyer is chosen by a seller, the dealroom
+phase follows. Both parties sign non disclosure agreements and exchange
+documents required for due diligence. Experts can be onboarded to assist
+with due diligence, audits, in-depth evaluation and negotiating contract terms.
+
+Agreed upon contract terms are ﬁxed in a purchase agreement which is signed
+at the end of the deal ﬂow. 6 The LEXIT Token—Why Tokenization? Since the LEXIT marketplace is heavily dependent on network features such as list-
+ing fees, anti-spam payments, monetarily-backed ratings, and revenue-sharing among
+network participants, the introduction of an internal, cryptographic vehicle of value
+is essential. Additionally, features such as payment-escrow, rapid settlements, and the facili-
+tation of trust among parties in diﬀerent jurisdictions, require the employment of
+smart contract technology in order to accommodate for the high transaction vol-
+ume anticipated.
+6.1 Introducing a Native Token  The reason for launching a native token is to avoid ﬂuctuation in price and tech-
+nology with established cryptocurrencies. Since LXT is used as quantitative rating
+method for assessors and as a commission for deals, high ﬂuctuation would de-
+crease the transparency of the platform. Consider, for example, two transactions
+with the same volume in USD that follow each other brieﬂy but with a considerable
+LXT price diﬀerence. For new users of the platform, the impression could arise that
+both transactions had diﬀerent volumes. 6.2 Token Utility The LXT token powers the LEXIT platform and its services.
+
+LXT will be charged for:
+• Rating users and their work, e.g., assessors and their evaluation of IP, soft
+assets or companies.
+• Pay experts in LXT if they did exceptional good work—this is a display of trust
+and quality that makes it easier for platform users to ﬁnd good experts. It can
+also be interpreted as a spam protection fee to avoid inﬂationary use of ﬁve
+star or 100% ratings. 17 • Categorization of listed items: to prevent tag vandalism, a small amount of
+LXT will be charged. Users who applied helpful and accurate tags can receive
+LXT based on the number of up votes of their tags.
+• Paying the commission to LEXIT upon successful completion of a transaction.
+6.3 Token Flow
+SELLERS
+(KYC)
+BUYERS
+(KYC)
+LXT
+LXT
+LXT
+LXT
+LXT
+LXT
+LXT
+LXT
+LXT
+SERVICES
+SERVICES
+LIST YOUR
+PROJECT
+PREMIUM
+FEATURES
+PREMIUM
+FEATURES
+BROWSE
+MARKETPLACE
+EVALUATE
+ASSESSORS
+(KYC)
+GET
+VERIFIED
+ASSESSORS
+(KYC)
+COMMUNITY
+WALLET
+Figure 2: LXT within the LEXIT system.
+When creating a new listing a fee is charged by LEXIT in LXT which is collected in
+LEXIT’s community wallet.
+
+Premium features, e.g. increasing visibility of the own
+listing or getting early access to new listings, are charged for the same way. During
+the launch phase of the platform, evaluation will be subsidized by LEXIT: experts are
+attracted by the opportunity to be recompensed for their special knowledge, sellers  beneﬁt from getting evaluations of their listings faster and cheaper and potential
+buyers see a more transparent market since listings are evaluated by experts.
+18
+6.4 Distribution
+Allocation of raised funds:
+• 50% token sale
+• 15% rewards pool
+• 5% advisors
+• 10% partners
+• 10% company
+• 10% founders
+7 Technical Approach
+The implementation of the LEXIT platform will incorporate established technology
+like databases, web development frameworks and Smartphone apps but also up-
+coming technology like blockchains with smart contracting capabilities. Although
+using diﬀerent technology, they are intended to achieve a common goal: help to
+establish trust among interacting parties throughout all layers of the platform. On
+the one hand, the platform helps to neutralize the fact that users sit in diﬀerent loca-
+tions by extending the reach of information. On the other hand, trust and credibility
+must be maintained.
+
+LEXIT PLATFORM
+SMART CONTRACT 
+ENABLED BLOCKCHAIN
+SMART CONTRACT
+• RECORD EVALUATIONS
+• RECORD BETS
+WEB SERVICE
+(WEBSITE, APP)
+LISTINGS /
+AUCTIONS
+DEAL FLOW
+DEAL ROOM
+(PROCESS AWARE DATAROOM)
+PROVIDE ACCESS/DOCUMENTS
+SMART CONTRACT
+• TRACE NEGOTIATION 
+PROCESS
+• RECORD COMPLETION 
+OF TRANSACTION
+SELLER
+S
+SELLER
+ASSESSOR
+EXPERT
+SELLER
+S
+POTENTIAL
+BUYERS
+BUYER/
+SELLER
+• 
+CREATE LISTINGS
+• 
+ACCEPT/ REJECT BUY OFFERS
+• 
+PRIVIDE INFORMATION
+• 
+VERIFY & EVALUATE LISTINGS
+• 
+SPECIAL KNOWLEDGE
+• 
+LEGAL EXPERTISE
+•
+EXCHANGE INFORMATION
+•
+DRAFT PURCHASE AGREEMENT
+•
+COMMIT TRANSACTION
+•
+BROWSE MARKETPLACE
+•
+PLACE BUY OFFERS
+•
+REQUEST INFORMATION
+Figure 3: LEXIT platform schematics.
+19 Users assuming various roles can interact through a webservice that acts as front
+end for the platform and will use common technology like webservers, databases
+and web development frameworks.  Buyers can browse the marketplace and place bids, sellers can create listings and
+manage buy oﬀers—this requires a repository of currently active listings but also
+a sophisticated search engine that not only ﬁnds items that are appropriate but
+also all of them; that is, not leaving appropriate items out. This requires database
+servers including query languages and also code containing the logic for creating
+accurate database query requests.
+
+Besides making information accessible and usable to the platform users, it must
+be suﬃciently secured. Since the deal room will hold conﬁdential documents con-
+taining trade secrets, robust and stable frameworks need to be used, as well as
+software development techniques aiming at risk reduction and application of se-
+curity patterns. To achieve market transparency, placed bids, value estimates and
+transaction volumes will be recorded tamper proof on a smart contracts enabled
+blockchain. This way, platform users participating in the market can build a rep-
+utation and track record that can be trusted. The use of smart contracts allows
+for an architecture with better coherence and consistency between the blockchain
+component, the webservice and the business logic.  8 Partnerships
+LEXIT’s value proposition as a platform marketplace is heavily reliant on the es-
+tablishment of massive network dynamics. The larger the pool of buyers and sell-
+ers, the more reliable price discovery is, the faster high-quality, mutually-beneﬁcial
+deals can be achieved.  As discussed in section 4.1 Deﬁning Platforms, this state of aﬀairs leads naturally
+towards the so called Platform Paradox. If a platform is underpopulated in terms
+of one of its value-creating agents (buyers, sellers, assessors)
+
+, other players have
+diminished incentives and capacities to create value, leading to a negative feedback
+loop and suboptimal network growth. To remedy this situation, LEXIT introduces an international network of partners with
+both the aptitude as well as the incentive to massively onboard value-creating par-
+ticipants to the LEXIT platform. The LEXIT Global Partner Program  LEXIT’s Global Partners (GPs) are highly connected players in the IT/High-Tech in-
+dustry, such as VC funds, Technology Hubs, and Accelerators. LEXIT GPs utilize their
+20
+vast networks and in-depth knowledge of the industry to on-board potential buyers,
+sellers, and assessors to the LEXIT platform.  
+To widen the scope of this operation, LEXIT GPs can recruit Sub-Partners, perme-
+ating the depths of global industry-connections even further. While LEXIT GPs are
+institutional players, screened and contracted with LEXIT, Sub-Partners are smaller
+entities or individuals in trust relationships with their appointing GP. Incentives
+LEXIT GPs and Sub-Partners are incentivized to participate in the LEXIT network by
+direct incentives provided by LEXIT’s compensation plans, as well as by indirect in-
+centives resulting from their own business-related interests.  LEXIT designates 50% of its commission revenue to GPs involved in transactions
+creating said revenue.
+
+Where a Sub-Partner was involved in facilitating a successful
+transaction, they will receive 25% of LEXIT’s net commission revenue of the respec-
+tive transaction, while the GP aﬃliated with the Sub Partner receives an additional
+5%. Secondary Motivations  The aforementioned compensation plan poses an estimated incentive of several
+hundred-thousand USD per facilitated deal, resulting in a potential annual revenue
+of millions of USD for GPs. Beside this direct monetary incentive, the inherent busi-
+ness interests of agents acting as GPs provide additional, secondary motivations to
+list buyers, sellers, as well as assessors on the LEXIT platform.  Venture Capital Firms, Accelerators, and Technology Hubs, have a vested interest
+to promote fast and cost-eﬃcient trade of corporate assets of companies aﬃliated
+with them. According to GEM estimates5, 96% of attempted incorporations fail dur-
+ing their ﬁrst two years. This ﬁgure also reﬂects the fail rate of startups comprising
+the portfolio of VCs and other potential LEXIT GPs.  In becoming a GP, Venture Capital Firms, Accelerators, and Technology Hubs can
+expedite the liquidation of companies they are invested in or aﬃliated with, while
+minimizing losses and eventually creating a revenue stream.
+
+VCs, Accelerators, and
+Angel-Investors may also direct their creations towards LEXIT to acquire needed
+technology or IP, while beneﬁting directly as well as indirectly from the resulting
+transaction. 5http://www.gemconsortium.org/report
+21 9 A Glimpse Into LEXIT’s Future Given the general increase in cost-eﬃciency discussed throughout this paper, it can
+be postulated that the growth of LEXIT’s market share is essentially not limited by
+foreseeable market dynamics. Building on this assumption, LEXIT strives to posi-
+tion itself as the default venue for the trade of corporate assets across all industries
+and business scales. With the growth of LEXIT’s transaction volume, the LEXIT platform will be further
+developed to accommodate the needs of a growing user base with diverse interests
+and behaviors. Third Party API
+LEXIT will provide a third-party API (Application Program Interface) to allow direct
+listings onto LEXIT by General Partners, Sub Partners and other external specialized
+actors and marketplaces, without having to use the LEXIT web-interface. These ex-
+ternal entities will beneﬁt from LEXIT’s global reach, while LEXIT in return increases
+its  transaction volume and reach even further. LEXIT Market Predictive Artiﬁcial Intelligence (MPAi) 
+
+By facilitating large numbers of business interactions and processing the respective
+metadata, LEXIT ﬁnds itself in the privileged position of possessing exclusive access
+to valuable, deidentiﬁed Big Data. This information, in combination with various additional sources such as stock ex-
+changes, patent oﬃces, scientiﬁc, business and social media, LEXIT’s MPAi will be
+able to deduce trends and other insights from given market behaviors. These in-
+sights can then be utilized to inform the decisions of LEXIT users, or be sold on-
+demand to third parties.  22
+10 Roadmap
+KYC ID VERIFICATION
+LEXIT CRYPTO ESCROW SERVICE
+CRYPRO PAYMENTS
+LEXIT WALLET
+LEGAL SERVICES POWERED BY AI
+ENCRYPTED DEAL ROOM
+ANTI-FRAUD DEPARTMENT
+2018
+Q1
+Q2
+LEXIT
+PLATFORM
+PUBLIC
+LAUNCH
+EUROPE & RUSSIA
+TIMELINE
+LOCALIZATION
+LEXIT PREMIUM MODEL
+IOS APP
+ANDROID APP
+2018
+Q3
+Q4
+USA & ASIA
+3RD PARTY API
+LICENSING FEATURE
+SAAS FEATURE
+LEGAL DEPARTMENT
+2019
+Q1
+Q2
+AUSTRALIA & LATIN AMERICA
+DATA MINING & AI SECTOR
+R&D DEPARTMENT
+(ENGINEERING DEPARTMENT)
+2019
+Q4
+AFRICA
+Q3
+AUDIT/LEGAL SUPPORT, ASSESSOR NETWORK AND PARTNER PROGRAMM GLOBAL EXPANSION
+11 Closing Remarks
+With the LEXIT platform, IP, soft assets and company branches can be exposed to a
+much wider audience than before.
+
+We do not focus on only one side of the market
+but both—sellers and buyers. For example, startup founders and researchers can
+put their company or technological innovation on the platform. At the same time,
+a search mechanism is provided that helps buyers to ﬁnd adequate oﬀers.  Liquidation of insolvent companies will be facilitated by the Platform. All assets can
+be managed in one place. This is especially helpful with a larger number of assets
+and an increased number of interested parties. Transparency of the market will be allowed for by blockchain technology. Transac-
+tions are stored tamper proof in decentralized system of nodes. The LEXIT solution
+will be powered by the LEXIT token (LXT) for accessing the platform and its services
+as well as transacting value on it. Because of the platform nature of the LEXIT solution, informative data will be ac-
+cumulated over time that can be harnessed with the help of big data techniques
+to gain deeper insights in the current state of the market and its future develop-
+ment. 23  Contact Details SINGAPORE
+LEXIT Pte Ltd
+
+150 Beach Road
+#35-28
+Gateway West
+Singapore, 189720
+Company Number: 20173617R
+ESTONIA
+LEXIT Technologies OÜ
+Fr. R. Kreutzwaldi 10-10
+10124 Tallinn
+Estonia
+Registry Code: 14401889
+info@lexit.co
+24 

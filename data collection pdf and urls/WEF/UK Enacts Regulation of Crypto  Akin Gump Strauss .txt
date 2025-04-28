@@ -1,0 +1,99 @@
+What We Do
+Who We Are
+Insights
+Join Us
+About Akin
+Leadership
+Client Value
+Awards & Accolades
+All Locations
+North America
+Boston
+Dallas
+Fort Worth
+Houston
+Irvine
+Los Angeles
+New York
+Philadelphia
+San Antonio
+San Francisco
+Washington, D.C.
+Asia
+Hong Kong
+Singapore
+Europe
+Geneva
+London
+Middle East
+Abu Dhabi
+Dubai
+What We Do
+Who We Are
+Insights
+Join Us
+Opportunity & Inclusion
+Environmental Sustainability
+Pro Bono
+About Us
+Alumni
+Locations
+Subscribe
+Follow us
+Insights
+Publications
+Alerts
+UK Enacts Legislation to Bring Cryptoassets Within Scope of Existing Financial Services Regulatory Regime
+September 19, 2023
+Jump to
+By:Helen Marshall,Justin Williams,Ezra Zahabi,Jenny Arlington,Peter I. Altman,Rebecca McNeill (Trainee Solicitor)
+In a move with significant implications for the crypto sector, the UK has enacted legislation to bring cryptoassets within the scope of the existing financial services regulatory regime. The relevant provisions of the Financial Services and Markets Act 2023 (FSMA 2023) came into force on 29 August 2023 and they regulate the management or arrangement of deals in cryptoassets in the UK and financial promotions that are capable of having an effect in the UK. This follows the introduction of European Union (EU) regulation of the sector through the Markets in Crypto-Assets (MiCA) Regulation (see our alerthere) and the progress of two bipartisan bills through US Congressional Committees that would codify federal oversight of the digital asset industry.
+Although both MiCA and the relevant new provisions of FSMA 2023 have similar aims, they differ in their requirements for compliance and in their scope. For example, FSMA 2023 does not include the issuance of cryptoassets in its regulatory scope, unlike MiCA. Yet, FSMA 2023 has the scope to regulate activities related to non-fungible tokens (NFTs), which MiCA excludes. Stakeholders will need to navigate the applicable regimes with care. Overall, the new UK rules, in their final form, have been welcomed by participants in the cryptoasset industry in light of their potential to foster responsible innovation against the background of legal clarity.
+What Are the Key Changes Introduced by FSMA 2023 for Cryptoassets?
+1. Recognition of Cryptoassets as an Investment Within FSMA’s Scope
+FSMA 2023 brings cryptoassets within the scope of the existing regulatory regime under Financial Services and Markets Act 2000 (FSMA 2000) in respect of “regulated activities” and “restrictions on financial promotions”. It has done so through amending the definition of "investment" for the purposes of financial promotions and regulated activity so that it now includes cryptoassets. “Cryptoasset” is defined as “any cryptographically secured digital representation of value or contractual rights that – (a) can be transferred stored or traded electronically, and (b) that uses technology supporting the recording or storage of data (which may include distributed ledger technology)”. This definition is similar to how cryptoassets are defined under MiCA. In order to preserve flexibility in this rapidly developing area, HM Treasury has been granted the power to amend this definition.
+A. Cryptoassets Within the Scope of "Regulated Activities"
+Cryptoassets will now be within the scope of regulations on “regulated activities” which include managing investments, issuing electronic money and arranging deals in investments in the UK. Such regulated activities are subject to the general prohibition in FSMA 2000, that is that they must not be carried out by a person unless that person is either authorised by the Financial Conduct Authority (FCA) or is otherwise exempt under FSMA 2000.
+B. Cryptoassets Within the Scope of "Restrictions on Financial Promotions"
+Promotion of cryptoassets will now fall under the regulatory scope of restrictions on financial promotion. This restriction prohibits a person from communicating an invitation or inducement to engage in investment activity capable of having an effect in the UK unless that person is either authorised by the FCA, receives approval of the communication by a person authorised by the FCA to provide such approval or is covered by an exemption.
+As of 8 October 2023, new FCA rules governing the promotion of crypto assets, including certain exemptions which are available, will come into force. These rules have been made by the FCA under the Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) Order 2023 (the “Order”) which amends The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (FPO) (on which, see our earlier alerthere). Predominantly, the Order introduces a new exemption which will allow for relevant persons, including cryptoasset exchange providers and custodian wallet providers, who are not authorised persons under the FCA but are registered for anti-money laundering purposes, to be exempt from financial promotion restrictions in relation to “qualifying cryptoassets”. The Order defines “qualifying cryptoassets” as any cryptoasset which is “fungible” and “transferable” but carves out electronic money, fiat currency and any certain other cryptoassets that can only be used in a limited way.
+2. Designated Activities Regime
+FSMA 2023 amends FSMA 2000 to introduce Designated Activities Regime (DAR), a regulatory regime for those activities which do not require the person carrying on those activities to be subject to prior regulatory authorisation, but which nevertheless constitute activities subject to regulatory requirements, for example, reporting, trade-related restrictions or public disclosure (see our alerthere). HM Treasury has been given the power to determine which activities will constitute “designated activities” and thus need to be carried out in accordance with the associated designated activity regulations. No activities have been designated as of this date, yet it is expected that the regime will be used to regulate activities currently set out in retained EU law, such as short selling and issuing an instrument that references a benchmark. HM Treasury has also been given the power to introduce regulations to restrict or prohibit “designated activities”, or otherwise authorise the FCA to make such rules.
+The new regime applies to activities relating to “financial investments”, which under FSMA 2023 specifically include cryptoassets, therefore any designated activities are likely to impact cryptoassets. This follows the UK government’s consultation in February 2023 where the intention to create new designated activities tailored to the cryptoasset market was expressed (see our alerthere).
+3. Regulation of DSAs, Including Stablecoins
+FSMA 2023 introduces provisions to increase regulatory control of Digital Settlement Assets (DSAs), which are defined by the legislation as “a digital representation of value or rights, whether or not cryptographically secured, that – (a) can be used for the settlement of payment obligations, (b) can be transferred, stored or traded electronically, and (c) uses technology supporting the recording or storage of data (which may include distributed ledger technology)”. Primarily, this will cover and be used to regulate stablecoins which reference their value in relation to fiat currencies (see our alerthere).
+FSMA 2023’s new regulatory control of DSAs is twofold. First, it amends the Banking Act 2009 to bring DSAs into the scope of payment systems over which the Bank of England has statutory oversight. Second, it gives HM Treasury broad powers to introduce future regulation of DSAs, including as to their service providers and payment systems. These changes follow a government consultation on DSAs in May 2022, which may indicate that the intention is to use these powers to bring stablecoin firms under the scope of a special administration regime. This would be to reduce the risk posed to the public by the possible failure of such firms, in particular those acting as a systemic payment system, operators of such systems or those who are service providers of systemic importance, such as the issuer of a stablecoin, a wallet or a third-party service provider.
+4. Powers to Introduce an FMI Sandbox
+FSMA 2023 grants HM Treasury to establish financial market infrastructure (FMI) sandboxes through statutory instrument and eventually implement their arrangement. Such sandboxes can allow for the testing and assessment of new technologies and practices which would affect "the efficiency or effectiveness of the carrying on of FMI activities in a particular way."
+HM Treasury held a consultation on the framework for its first FMI sandbox, the Digital Securities Sandbox (DSS). The DSS will facilitate the testing and adoption of digital securities across financial markets through setting up FMIs that utilise digital asset technology.
+What Does This Mean for…?
+1. Persons Engaging in Cryptoasset Related Activities
+Persons that engage in cryptoasset related activities, such as managing, arranging deals in, and promoting cryptoassets, will need to investigate whether such assets fall under the new statutory definition of "cryptoassets". If so, there will be certain consequences, including the following. First, the activity which they engage in could be deemed a “regulated activity” under FSMA 2000. Such person will need to determine whether it needs to become an authorised or exempt person, or can rely on an exclusion, in order to avoid being prohibited from carrying out the regulated activity.
+Second, such person will need to determine whether its activities fall under the restrictions on financial promotion and if so, whether it may utilise an exemption under the amended FPO. If that is not the case, compliance with those restrictions will be required. This will entail, among other steps, adopting stricter procedures on communications in respect of marketing cryptoassets.
+Regarding other key changes, interested parties will be well advised to keep abreast of regulatory updates from HM Treasury and the FCA, given their broad statutory powers to regulate in the cryptoasset space.
+2. Consumers and Users of Cryptoassets and Related Services
+Consumers of cryptoasset services may wish to investigate whether the relevant persons, including cryptoasset exchange providers and custodian wallet providers, are compliant with the new legislation. This is of particular importance in the cryptoasset space as non-compliance, and the related possibility of penalties and negative market sentiment, may significantly affect the value of customers’ assets.
+Share This Insight
+Authors
+Helen Marshall
+Senior Counsel
+Send Email
+View Biography
+Justin Williams
+Partner
+Send Email
+View Biography
+Ezra Zahabi
+Partner
+Send Email
+View Biography
+Jenny Arlington
+Senior Counsel
+Send Email
+View Biography
+Peter I. Altman
+Partner
+Send Email
+View Biography
+Related Services, Sectors, and Regions
+©2025Akin Gump Strauss Hauer & Feld LLP

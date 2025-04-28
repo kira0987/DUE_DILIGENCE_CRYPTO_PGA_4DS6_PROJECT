@@ -1,0 +1,1219 @@
+I. Legal and Regulatory Compliance: 
+​1.Jurisdictional Analysis: 
+​ In which jurisdictions is the digital asset/cryptocurrency operating? 
+​ What are the applicable laws and regulations in those jurisdictions? 
+2.AML/KYC, securities laws, tax laws, etc. 
+​ Has the project obtained all necessary licenses and registrations? 
+​ Are there any pending or past regulatory investigations or enforcement actions? 
+​ How does the project handle cross-​border transactions and regulatory differences? 
+3.Legal Structure: 
+​ What is the legal structure of the entity behind the digital asset? 
+​ Are there any legal agreements or contracts in place (e.g., smart contracts, token sale agreements)? 
+​ What are the legal rights and obligations of token holders? 
+​ What is the legal classification of the digital asset (e.g., security, utility token, commodity)? 
+4.Data Privacy: 
+​ How does the project comply with data privacy regulations (e.g., GDPR)? 
+​ What data is collected from users, and how is it stored and protected? 
+​ What is the project's policy on data breaches and incident response? 
+
+II. Financial Due Diligence: 
+​1.Financial Statements: 
+​ Are audited financial statements available? 
+​ What is the project's revenue model and financial performance? 
+​ What are the project's expenses and burn rate? 
+​ What are the project's sources of funding? 
+​2.Tokenomics: 
+​ What is the token distribution and allocation? 
+​ What is the token's utility and value proposition? 
+​ What is the token's supply and demand dynamics? 
+​ Are there any risks of inflation or deflation? 
+​ what are the trading volumes and liquidity of the token? 
+​3.Risk Assessment: 
+​ What are the key financial risks associated with the digital asset? 
+​ How does the project manage volatility and market fluctuations? 
+​ What are the potential risks of fraud or market manipulation? 
+
+III. Technical Due Diligence: 
+​1.Blockchain Technology: 
+​ What blockchain technology is used?  
+​ What is the consensus mechanism? 
+​ What is the security of the blockchain network? 
+​ Has the blockchain been audited for vulnerabilities? 
+​2.Smart Contracts: 
+​ Are smart contracts used? 
+​ Have the smart contracts been audited for security and functionality? 
+​ What is the risk of smart contract bugs or exploits? 
+​3.Cybersecurity: 
+​ What cybersecurity measures are in place to protect the digital asset and user data? 
+​ Has the project undergone penetration testing and security audits? 
+​ What is the project's incident response plan? 
+​4.Custody: 
+​ How are the digital assets custodied? 
+​ Are the private keys stored safely? 
+​ What are the procedures for recovering lost or stolen keys? 
+
+IV. Operational Due Diligence: 
+​1.Team and Management: 
+​ What is the experience and expertise of the team? 
+​ What is the team's track record? 
+​ Are there any conflicts of interest? 
+​2.Operational Security: 
+​ What are the project's operational procedures and controls? 
+​ What are the project's business continuity and disaster recovery plans? 
+​3.Community and Reputation: 
+​ What is the project's community engagement and reputation? 
+​ Are there any negative reviews or controversies? 
+​ what is the level of decentralization of the project? 
+​4.Exchanges and Platforms: 
+​ Which exchanges and platforms are the digital assets listed on? 
+​ What is the due diligence process for those exchanges and platforms? 
+
+I. Legal and Regulatory Compliance 
+​Is the cryptocurrency or digital asset compliant with local and international regulations? 
+​Has the project obtained necessary licenses or approvals from regulatory bodies? 
+​Are there any ongoing legal disputes or regulatory investigations involving the asset or its team? 
+​Does the project comply with Anti-​Money Laundering (AML) and Know Your Customer (KYC) requirements? 
+​Are there any restrictions or bans on the asset in specific jurisdictions? 
+​How does the project handle data privacy and protection (e.g., GDPR compliance)? 
+​Are there clear terms of service, disclaimers, and risk disclosures for users? 
+​Does the project have a legal opinion or whitepaper addressing its regulatory status?  
+
+II. Team and Background 
+​ Who are the founders, developers, and key team members? What is their professional background? 
+​ Have the team members been involved in previous successful projects or any controversies? 
+​ Is the team publicly identifiable, and do they have a verifiable track record? 
+​ Are there any advisors or partners associated with the project? What is their reputation? 
+​ Does the team have the necessary technical and industry expertise to deliver on their promises? 
+​ Is the team actively engaged with the community, and do they respond to concerns transparently?  
+
+III. Technology and Security 
+​ What blockchain or technology does the asset use? Is it proprietary or built on an existing platform? 
+​ Is the codebase open-​source? Has it been audited by third-​party security firms? 
+​ Are there any known vulnerabilities or past security breaches? 
+​ How does the project handle smart contract risks (if applicable)? 
+​ What consensus mechanism does the blockchain use (e.g., Proof of Work, Proof of Stake)? 
+​ How scalable is the technology, and what are the transaction speeds and costs? 
+​ Are there mechanisms in place to prevent double-​spending, 51% attacks, or other exploits? 
+​ Does the project have a disaster recovery plan or contingency measures for technical failures?  
+
+IV. Tokenomics and Financial Viability 
+​ What is the total supply of the cryptocurrency or token? Is it fixed or inflationary? 
+​ How are tokens distributed (e.g., team, investors, community, reserves)? 
+​ Is there a vesting schedule for team and investor tokens to prevent market dumping? 
+​ What is the utility of the token? Does it have a clear use case within the ecosystem? 
+​ How does the project generate revenue, and what is its business model? 
+​ Are there any staking, yield farming, or other earning mechanisms? How sustainable are they? 
+​ What is the market capitalization, liquidity, and trading volume of the asset? 
+​ Are there any significant token holders or whales who could manipulate the market?  
+
+V. Market and Competitive Analysis 
+​ What problem does the cryptocurrency or digital asset aim to solve? 
+​ Who are the main competitors, and how does the project differentiate itself? 
+​ What is the size of the target market, and what is the growth potential? 
+​ Are there any partnerships or collaborations that enhance the project’s credibility? 
+​ How does the project plan to attract and retain users or investors? 
+​ What is the current adoption rate, and are there any real-​world use cases? 
+​ How does the project perform during market downturns or periods of high volatility?  
+
+VI. Roadmap and Development Progress 
+​ Does the project have a clear and realistic roadmap? Are milestones being met on time? 
+​ What are the short-​term and long-​term goals of the project? 
+​ How active is the development team? Are there regular updates and code commits? 
+​ Are there any delays or setbacks in the project’s development? 
+​ How does the project handle community feedback and feature requests?  
+
+VII. Community and Ecosystem 
+​ How large and active is the community (e.g., social media, forums, Discord, Telegram)? 
+​ Is the community engaged and supportive of the project? 
+​ Are there any signs of manipulation or fake accounts inflating community metrics? 
+​ Does the project have a governance model that allows community participation? 
+​ Are there any grants, incentives, or developer programs to grow the ecosystem? 
+
+VIII. Risks and Red Flags 
+​ Are there any signs of a pump-and​-dump scheme or market manipulation? 
+​ Does the project make unrealistic promises or guarantees of returns? 
+​ Are there any conflicts of interest among team members or advisors? 
+​ Has the project been involved in any scams, hacks, or controversies? 
+​ Are there any signs of plagiarism in the whitepaper, code, or branding? 
+​ How transparent is the project about its finances and operations?  
+
+IX. Financial Audits and Transparency 
+​ Has the project undergone a financial audit? Are the results publicly available? 
+​ Are the project’s treasury and funds managed transparently? 
+​ How are funds raised through token sales or investments being allocated? 
+​ Are there any concerns about the project’s financial sustainability or runway? 
+
+X. Exit Strategy and Liquidity 
+​ What are the liquidity options for the asset (e.g., listed on major exchanges)? 
+​ Are there any lock-​up periods or restrictions on selling tokens? 
+​ How does the project plan to ensure long-​term liquidity and market stability? 
+​ What is the exit strategy for investors or users if the project fails? 
+
+XI. Environmental, Social, and Governance (ESG) Considerations 
+​ What is the environmental impact of the cryptocurrency (e.g., energy consumption)? 
+​ Does the project promote social good or inclusivity? 
+​ Are there governance mechanisms in place to ensure fair decision-​making? 
+​ How does the project address ethical concerns related to its operations? 
+
+XII. External Reviews and Reputation 
+​ What do independent analysts, influencers, and experts say about the project? 
+​ Are there any credible reviews or ratings from industry platforms (e.g., CoinMarketCap, CoinGecko)? 
+​ Has the project been featured in reputable media outlets or conferences? 
+​ What is the sentiment of the broader crypto community toward the project? 
+
+I. Legal and Regulatory Due Diligence 
+1.Company Structure and Legal Standing: 
+​ What is the legal entity of the company, and is it compliant with all applicable laws? 
+​ Are there any changes in the legal structure over time? 
+​ Are all necessary licenses and permits in place? 
+2. Regulatory Compliance: 
+​ Is the company compliant with relevant securities and commodities laws? 
+​ Are there any sanctions restrictions or transaction monitoring requirements? 
+​ How does the company handle AML/KYC policies and procedures? 
+3. Intellectual Property (IP): 
+​ What IP assets does the company own, and are they valid? 
+​ Are there any potential IP infringement issues? ​
+​ How are IP rights allocated among stakeholders? 
+4. Litigation and Disputes: 
+​ Are there any ongoing or past legal disputes? 
+​ What are the potential financial exposures from these disputes? 
+
+II. Operational Due Diligence 
+1. Custody and Asset Verification: 
+​ How are digital assets stored and secured? 
+​ Are multi-​signature wallets used for custody?
+​ What measures are in place to verify asset ownership? 
+2. Trade Processes: 
+​ What are the procedures for buying and selling digital assets? 
+​ Are there any trade surveillance mechanisms to prevent market manipulation? 
+3. Conflicts of Interest: 
+​ Are there any conflicts of interest among stakeholders? 
+​ How are these conflicts managed? 
+4. Regulatory Risk: ​
+​ What is the understanding of the current regulatory environment? 
+​ Are there any potential regulatory risks to the portfolio? 
+
+III.Technical Due Diligence 
+1. Blockchain and Smart Contracts: 
+​ What blockchain technology is used, and how secure is it? 
+​ Are smart contracts audited for vulnerabilities? 
+2. Cybersecurity Measures: 
+​ What cybersecurity measures are in place to protect against hacks? 
+​ Are two-​factor authentication and end-​to-​end encryption used? 
+3. Code Audit: 
+​ Is the codebase open-​source or proprietary? 
+​ Are there any known vulnerabilities or inefficiencies? 
+4. UX/UI Audit: 
+​ How user-​friendly is the platform or product? 
+​ Are there any pain points or areas for improvement? 
+
+IV. Financial Due Diligence 
+1. Financial Statements: 
+​ Are financial statements audited and transparent? 
+​ What is the financial health of the company? 
+2. Valuation: 
+​ How are digital assets valued? 
+​ Are valuations consistent with market standards? 
+3. Funding and Revenue Streams: 
+​ What are the primary funding sources? 
+​ Are revenue streams diversified and sustainable? 
+
+V. Market and Strategy Due Diligence 
+1. Market Position: 
+​ What is the market position of the company? 
+​ Are there any competitors or market gaps?
+2. Strategy Alignment: 
+​ Is the digital strategy aligned with business goals? 
+​ Are there plans for future scalability and growth?
+3. Community Engagement: 
+​ How active is the community around the project? 
+​ Are developers and stakeholders engaged? 
+ 
+V. Environmental and Sustainability Due Diligence 
+1. Energy Consumption: 
+​ Does the project rely on energy-​intensive mining methods? 
+​ Are there initiatives to reduce energy consumption? 
+2. Sustainability Practices: 
+​ Are there any sustainability practices or policies in place? 
+​ How does the company address environmental concerns? 
+
+VI. Governance and Ownership Due Diligence 
+1. Governance Structure: 
+​ What is the governance structure of the project? 
+​ Who holds decision-​making power? 
+2. Ownership Structure: 
+​ Who are the major stakeholders? 
+​ Is the project decentralized or centralized? 
+ 
+I. Legal and Regulatory Compliance 
+​1.Licensing and Registration 
+​ Is the entity or project registered with any regulatory bodies? 
+​ Does the entity hold any required licenses for operating in the cryptocurrency space (e.g., money transmitter licenses, securities licenses)? 
+​ In which jurisdictions does the project operate, and what is the regulatory stance in those regions? 
+2.Compliance Framework 
+​ Does the project comply with KYC (Know Your Customer) and AML (Anti-​Money Laundering) regulations? 
+​ How does the entity ensure GDPR or other data privacy compliance for its users? 
+​ Are there any pending legal actions, investigations, or disputes involving the project or its founders? 
+​3.Intellectual Property 
+​ Are trademarks, copyrights, and patents secured for the technology or branding? 
+​ Is there a clear ownership structure for the project’s intellectual property? 
+ 
+II. Technical Due Diligence 
+​1.Blockchain Infrastructure 
+​ Which blockchain technology or protocol is used, and why was it chosen? 
+​ Is the blockchain platform decentralized, or is it permissioned? 
+​ What consensus mechanism is employed (e.g., Proof of Work, Proof of Stake, etc.)? 
+​2.Code and Security 
+​ Has the smart contract or platform code been audited by third-​party security firms? 
+​ What security measures are in place to prevent hacks or breaches? 
+​ Are there bug bounty programs to encourage reporting vulnerabilities? 
+​3.Scalability and Performance 
+​ What is the current throughput (transactions per second)? 
+​ How does the platform handle scalability issues during periods of high usage? 
+​ What are the plans for upgrades or improvements to the technical stack? 
+ 
+III. Financial Health and Tokenomics 
+​1.Token Distribution 
+​ What is the initial distribution of tokens (e.g., private sales, public sales, team allocation)? 
+​ Are there any vesting schedules or lock-​up periods for team and investor tokens? 
+​ How many tokens are in circulation, and what is the total supply? 
+​2.Revenue Model 
+​ How does the project generate revenue, and what are its primary sources of income? 
+​ Are there any existing partnerships or business agreements driving revenue? 
+​3.Fund Management 
+​ How are raised funds stored (e.g., cold wallets, multi-​signature wallets)? 
+​ Are there independent audits or attestations for the project’s treasury or reserves? 
+​ What is the burn or inflation rate of the token? 
+ 
+IV. Governance and Team 
+​1.Founders and Leadership 
+​ Who are the key members of the team, and what are their backgrounds? 
+​ Have the founders been involved in any previous crypto projects? If so, what was their track record? 
+​2.Governance Model 
+​ Does the project employ decentralized governance? If so, how is it implemented? 
+​ What role does the community play in decision-​making processes? 
+​ How are governance proposals submitted, voted on, and executed? 
+​3.Transparency 
+​ Are meeting minutes, development updates, and key financial information shared publicly? 
+​ Does the team maintain open communication with the community and stakeholders? 
+ 
+V. Market and Competitive Analysis 
+​1.Market Position 
+​ What is the unique selling point (USP) of the project compared to competitors? 
+​ What is the current market share of the platform or token? 
+​2.Adoption Metrics 
+​ How many active users or wallets are there on the platform? 
+​ What is the current trading volume and liquidity of the token? 
+​ What partnerships or collaborations have been secured to drive adoption? 
+​3.Competitor Analysis 
+​ Who are the main competitors, and what are their strengths and weaknesses? 
+​ How does the project differentiate itself in terms of technology, user experience, or business model? 
+ 
+VI. Risk Assessment 
+​1.Regulatory Risks 
+​ Are there any known or anticipated regulatory changes that could impact the project? 
+​ How does the project handle cross-​border compliance challenges? 
+​2.Technology Risks 
+​ Is there any reliance on third-​party technology that could pose a risk? 
+​ Are there backup and disaster recovery plans in case of critical system failures? 
+​3.Market Risks 
+​ What are the potential risks of market manipulation or token price volatility? 
+​ How dependent is the project on the price of its native token? 
+ 
+VII. Community and Ecosystem 
+​1.Community Engagement 
+​ What is the size and activity level of the project’s community (e.g., Telegram, Discord, Twitter)? 
+​ Does the project have any known community advocates or influencers? 
+​2.Ecosystem Development 
+​ Are there any developers or businesses actively building on top of the platform? 
+​ What incentives are in place for ecosystem participants, such as validators, developers, or liquidity providers? 
+ 
+VIII. Exit and Liquidity 
+​1.Token Liquidity 
+​ On which exchanges is the token listed? 
+​ Are there any restrictions on selling or trading the token? 
+​2.Exit Strategy 
+​ What is the project’s long-​term plan, and how does it aim to achieve sustainability? 
+​ Are there clear provisions for handling project shutdowns or fund redistribution? 
+ 
+I. Legal and Regulatory Compliance 
+​1.Taxation and Reporting 
+​ What are the tax implications of investing in this digital asset within your jurisdiction? 
+​ Does the project provide guidance or support for tax reporting? 
+​2.Intellectual Property Rights 
+​ Are there any existing patents or intellectual property claims that could affect the project's operations? 
+
+II. Technical Due Diligence 
+​1.Smart Contract Functionality 
+​ Have the smart contracts been audited by reputable third parties? 
+​ Are the audit reports publicly accessible for review? 
+​2.Open Source Code 
+​ Is the project's codebase open source, allowing for community review and contributions? 
+​ How active is the development community in maintaining and improving the code? 
+
+III. Financial Health and Tokenomics 
+​1.Revenue Streams 
+​ What are the project's current and projected revenue streams? 
+​ How does the project plan to achieve financial sustainability? 
+​2.Token Utility 
+​ What are the primary use cases for the token within the project's ecosystem? 
+​ Is there a clear demand for the token that supports its value proposition? 
+
+IV. Governance and Team 
+​1.Advisors and Partnerships 
+​ Who are the project's advisors, and what relevant experience do they bring? 
+​ Are there established partnerships with other reputable organizations or projects? 
+​2.Team Transparency 
+​ Does the team have a history of delivering on their project milestones? 
+​ Are team members' identities and qualifications verifiable? 
+
+V. Market and Competitive Analysis 
+​1.Market Demand 
+​ What problem is the project aiming to solve, and how significant is this issue in the current market? 
+​ Is there evidence of user adoption or interest in the project's solution? 
+​2.Competitive Advantage 
+​ What differentiates the project from its competitors? 
+​ Does the project have any proprietary technology or unique features that provide a competitive edge? 
+
+VI. Risk Assessment 
+​1.Operational Risks 
+​ What are the potential operational challenges the project might face? 
+​ Does the project have contingency plans for critical risks? 
+​2.Market Volatility 
+​ How susceptible is the token's value to market fluctuations? 
+​ Are there mechanisms in place to mitigate extreme volatility? 
+
+VII. Community and Ecosystem 
+​1.Developer Engagement 
+​ Is there an active developer community contributing to the project's growth? 
+​ Are there incentives for developers to build on or integrate with the project's platform? 
+​2.User Feedback 
+​ What is the general sentiment of the community towards the project? 
+​ Are there channels for users to provide feedback, and how is it addressed? 
+
+VIII. Exit and Liquidity 
+​1.Token Accessibility 
+​ Is the token listed on major, reputable exchanges? 
+​ Are there sufficient trading volumes to ensure liquidity? 
+​2.Lock-​Up Periods 
+​ Are there any lock-​up periods or restrictions for early investors or team members? 
+​ How might these affect token supply and price dynamics? 
+ 
+ 
+I. Legal and Regulatory Compliance 
+​ Does the project have a clear legal structure (e.g., foundation, corporation, DAO)? 
+​ Are there any tax implications for holding or transacting with the asset? 
+​ How does the project handle cross-​border transactions and regulatory differences? 
+​ Are there any restrictions on the transfer or ownership of the asset? 
+​ Does the project have a compliance officer or legal team to monitor regulatory changes? 
+​ Are there any pending or potential legislative changes that could impact the asset? 
+​ How does the project handle sanctions or restrictions from governments or financial institutions? 
+ 
+II. Team and Background 
+​ Are the team members doxxed (publicly identifiable), or do they operate anonymously? 
+​ Have any team members been involved in failed or fraudulent projects in the past? 
+​ Does the team have experience in blockchain development, cryptography, or fintech? 
+​ Are there any gaps in the team’s expertise (e.g., lack of marketing, legal, or financial experts)? 
+​ How does the team handle conflicts of interest, especially if members are involved in multiple projects? 
+​ Is the team actively involved in the crypto community or industry events? 
+​ Are there any succession plans in place for key team members? 
+ 
+III. Technology and Security 
+​ Does the project use a permissioned or permissionless blockchain? 
+​ How does the project handle upgrades or forks (e.g., hard forks, soft forks)? 
+​ Are there any dependencies on third-​party technologies or platforms? 
+​ How does the project ensure interoperability with other blockchains or systems? 
+​ What is the process for reporting and resolving bugs or vulnerabilities? 
+​ Are there any mechanisms for decentralized governance of the protocol? 
+​ How does the project handle key management and wallet security for users? 
+​ Are there any plans to migrate to a new blockchain or upgrade the underlying technology? 
+ 
+IV. Tokenomics and Financial Viability 
+​ What percentage of tokens are held by the team, advisors, and early investors? 
+​ Are there any mechanisms to burn or reduce the token supply over time? 
+​ How does the project manage inflation or deflation of the token? 
+​ Are there any buyback or token-​burning mechanisms to support price stability? 
+​ What is the vesting schedule for team and investor tokens? 
+​ How does the project fund its operations (e.g., token sales, venture capital, grants)? 
+​ Are there any risks of centralization in token ownership or control? 
+​ How does the project plan to incentivize long-​term holding of the token? 
+ 
+V. Market and Competitive Analysis 
+​ What is the project’s unique value proposition (UVP) compared to competitors? 
+​ Are there any barriers to entry for new competitors in this space? 
+​ How does the project plan to capture market share from established players? 
+​ Are there any emerging trends or technologies that could disrupt the project? 
+​ How does the project plan to expand into new markets or regions? 
+​ Are there any risks of substitution (e.g., another project solving the same problem better)? 
+​ What is the project’s strategy for dealing with market volatility or downturns? 
+ 
+VI. Roadmap and Development Progress 
+​ How does the project prioritize features or milestones on its roadmap? 
+​ Are there any dependencies on external factors to achieve roadmap goals? 
+​ How transparent is the project about delays or changes to the roadmap? 
+​ Are there any plans for post-​launch development or continuous improvement? 
+​ How does the project measure success against its roadmap goals? 
+​ Are there any risks of scope creep or feature bloat? 
+ 
+VII. Community and Ecosystem 
+​ How does the project handle community disputes or disagreements? 
+​ Are there any incentives for developers to build on the platform? 
+​ How does the project onboard new users or developers? 
+​ Are there any educational resources or documentation for the community? 
+​ How does the project handle negative feedback or criticism from the community? 
+​ Are there any plans to expand the community globally or target specific demographics? 
+ 
+VIII. Risks and Red Flags 
+​ Are there any signs of insider trading or market manipulation? 
+​ Does the project rely heavily on hype or marketing rather than substance? 
+​ Are there any concerns about the project’s long-​term viability or sustainability? 
+​ Does the project have a history of missed deadlines or broken promises? 
+​ Are there any signs of plagiarism or lack of originality in the project? 
+​ How does the project handle negative press or public relations crises? 
+ 
+IX. Financial Audits and Transparency   
+​ Are there regular financial reports or updates for investors? 
+​ How does the project manage its treasury or reserve funds? 
+​ Are there any concerns about misallocation or misuse of funds? 
+​ Does the project have a clear budget or financial plan for the next 1-​3 years? 
+​ Are there any risks of insolvency or running out of funds? 
+ 
+X. Exit Strategy and Liquidity   
+​ What happens to the asset if the project fails or shuts down? 
+​ Are there any mechanisms for token holders to recover value in case of failure? 
+​ How does the project plan to maintain liquidity during market downturns? 
+​ Are there any plans to list the asset on decentralized exchanges (DEXs) or centralized exchanges (CEXs)? 
+​ How does the project handle delisting from exchanges? 
+ 
+XI. Environmental, Social, and Governance (ESG) Considerations   
+​ Does the project have a sustainability plan to reduce its environmental impact? 
+​ How does the project contribute to social causes or communities? 
+​ Are there any concerns about the project’s governance model or decision-​making process? 
+​ How does the project ensure diversity and inclusion within its team and community? 
+​ Are there any ethical concerns related to the project’s operations or goals? 
+ 
+XII. External Reviews and Reputation   
+​ Are there any independent audits or reviews of the project’s technology or finances? 
+​ How does the project respond to criticism or negative reviews? 
+​ Are there any awards or recognitions the project has received? 
+​ What is the sentiment of institutional investors or large stakeholders toward the project? 
+​ Are there any concerns about the project’s reputation in the broader crypto community? 
+ 
+XIII. Use Case and Adoption   
+​ What are the real-​world applications of the cryptocurrency or digital asset? 
+​ Are there any pilot programs or case studies demonstrating its use? 
+​ How does the project plan to drive adoption among businesses and consumers? 
+​ Are there any partnerships with established companies or institutions? 
+​ How does the project measure user engagement or adoption rates? 
+ 
+XIV. Governance and Decentralization   
+​ How decentralized is the project’s governance model? 
+​ Are there any risks of centralization in decision-​making or control? 
+​ How are governance proposals submitted, voted on, and implemented? 
+​ Are there any mechanisms to prevent governance attacks or manipulation? 
+​ How does the project ensure transparency in governance decisions? 
+ 
+XV. Innovation and Technology Differentiation   
+​ What innovative features or technologies does the project introduce? 
+​ How does the project stay ahead of technological advancements in the industry? 
+​ Are there any patents or intellectual property associated with the project? 
+​ How does the project handle competition from newer or more advanced technologies? 
+​ Are there any plans to integrate with emerging technologies (e.g., AI, IoT)?
+ 
+I. Legal and Regulatory Compliance   : 
+​1.Specific Regulatory Scrutiny: 
+​ Are there any specific regulatory "red flags" associated with the project's chosen jurisdiction(s)? 
+​ How does the project anticipate and adapt to potential future regulatory changes? 
+​ Has the project received any formal or informal inquiries from regulatory bodies? 
+​2.Intellectual Property: 
+​ Who owns the intellectual property (IP) related to the project's technology? 
+​ Are there any potential IP disputes or infringement risks? 
+​ How is the project's IP protected? 
+​1.Sanctions and AML/CFT: 
+​ What are the project's procedures for screening transactions for sanctions compliance? 
+​ How does the project handle politically exposed persons (PEPs) and high-​risk customers? 
+​ What are the on chain analysis tools that they utilize to track illicit funds? 
+​2.Decentralized Autonomous Organizations(DAO) specific legal questions: 
+​ If the project is a DAO, what is the legal standing of the DAO in relevant jurisdictions? 
+​ How are liabilities handled within the DAO structure? 
+​ What are the legal implications of the DAO's governance model? 
+
+II. Financial Due Diligence   : 
+​1.Tokenomics Deep Dive: 
+​ What is the vesting schedule for team and investor tokens? 
+​ Are there any mechanisms for burning or repurchasing tokens? 
+​ What is the token's velocity and circulation? 
+​ How are the funds raised during token sales being used? 
+​ What are the on chain metrics for the token, and how do they compare to similar projects? 
+​2.Financial Risk Modeling: 
+​ What stress testing has been conducted on the project's financial model? 
+​ What are the potential impacts of black swan events on the project's finances? 
+​ What is the projects treasury management strategy? 
+​3.Accounting and Auditing: 
+​ Which accounting standards are being used? 
+​ Who are the auditors, and what is their reputation in the digital asset space? 
+​ Are there regular proof of reserve audits? 
+
+III. Technical Due Diligence   : 
+​1.Blockchain Security: 
+​ What specific cryptographic algorithms are used? 
+​ What is the project's approach to key management and security? 
+​ Are there any known vulnerabilities in the underlying blockchain protocol? 
+​ What is the process for updating and patching the blockchain? 
+​2.Smart Contract Security: 
+​ What formal verification methods are used to ensure smart contract correctness? 
+​ What is the project's bug bounty program? 
+​ Has there been any previous exploits of the smart contract? 
+​3.Open-Source Analysis: 
+​ If the project is open-​source, what is the quality and activity of the code repository? 
+​ Are there any signs of malicious code or backdoors? 
+​ What is the communities involvement in the open source project? 
+​4.Interoperability: 
+​ If the project is designed to be interoperable with other blockchains, what are the associated risks? 
+​ What cross chain bridges are being used, and what are their security track records? 
+
+IV. Operational Due Diligence   : 
+​1.Team and Governance: 
+​ What are the backgrounds and reputations of the project's advisors? 
+​ What is the project's governance structure, and how are decisions made? 
+​ What is the level of transparency in the projects governance? 
+​2.Community and Social Media: 
+​ Is the project's community organic or artificially inflated? 
+​ What is the sentiment analysis of social media discussions about the project? 
+​ Are there any signs of coordinated disinformation campaigns? 
+​3.Contingency Planning: 
+​ What are the project's plans for handling a major security breach or regulatory crackdown? 
+​ What are the project's plans for scaling operations? 
+​ What is the plan for a bear market, or crypto winter? 
+​4.Third-​Party Risks: 
+​ What are the risks associated with the project's reliance on third-party vendors and partners? 
+​ What due diligence has been conducted on those third parties? 
+ 
+I. Legal and Regulatory Due Diligence 
+1. Compliance with International Laws: 
+​ How does the company ensure compliance with international laws and regulations? 
+​ Are there any specific jurisdictions where operations are restricted? 
+2. Data Privacy: 
+​ How does the company handle user data privacy? 
+​ Are there any data protection policies in place? 
+3. Tax Obligations: 
+​ What are the tax obligations of the company in different jurisdictions? 
+​ Are there any tax disputes or pending issues? 
+4. Regulatory Filings: 
+​ Are all necessary regulatory filings up to date? 
+​ Are there any pending or anticipated regulatory changes that could impact operations? 
+
+II. Operational Due Diligence 
+1. Risk Management: 
+​ What risk management strategies are in place for market volatility? 
+​ Are there any hedging strategies used? 
+2. Insurance Coverage: 
+​ Does the company have insurance coverage for digital assets? 
+​ What are the terms and conditions of the insurance policy? 
+3. Business Continuity Plan: 
+​ Is there a business continuity plan in place for unexpected disruptions? 
+​ How does the company ensure operational resilience? 
+4. Employee Background Checks: 
+​ Are background checks conducted on employees handling sensitive information? 
+​ What are the criteria for hiring personnel in critical roles? 
+
+III. Technical Due Diligence 
+1. Technology Stack: 
+​ What technologies are used in the development of the platform or product? 
+​ Are these technologies scalable and secure? 
+2. Penetration Testing: 
+​ How often is penetration testing conducted to identify vulnerabilities? 
+​ Are the results of these tests publicly available or shared with stakeholders? 
+3. Open-​Source Contributions: 
+​ Does the company contribute to open-source projects? 
+​ How does this contribute to the overall ecosystem? 
+4. API Security: 
+​ Are APIs properly secured to prevent unauthorized access? 
+​ Are there any documented API security protocols? 
+IV. Financial Due Diligence 
+1. Revenue Streams Diversification: 
+​ Are revenue streams diversified across different markets or products? 
+​ How does the company manage revenue volatility? 
+2. Expense Management: 
+​ What are the major expense categories for the company? 
+​ Are there any cost-​saving initiatives in place? 
+3. Funding Rounds: 
+​ What are the details of past funding rounds? 
+​ Are there any plans for future funding rounds? 
+4. Financial Reporting: 
+​ How frequently are financial reports published? 
+​ Are these reports audited by external firms? 
+
+V. Market and Strategy Due Diligence 
+1. Competitive Landscape: ​
+​ Who are the main competitors in the market? 
+​ How does the company differentiate itself from competitors? 
+2. Market Research: 
+​ What market research methods are used to understand customer needs? 
+​ Are there any customer feedback mechanisms in place? 
+3. Growth Strategy: 
+​ What are the short-​term and long-​term growth strategies? 
+​ Are these strategies aligned with market trends? 
+4. Partnerships and Collaborations: 
+​ Are there any strategic partnerships or collaborations? 
+​ How do these partnerships contribute to the company's growth? 
+
+VI. Environmental and Sustainability Due Diligence 
+1. Carbon Footprint: 
+​ What is the carbon footprint of the company's operations? 
+​ Are there any initiatives to reduce this footprint? 
+2. Sustainable Practices:​
+​ Are there any sustainable practices or policies in place for operations? 
+​ How does the company promote sustainability within its ecosystem? 
+3. Supply Chain Management: 
+​ How does the company manage its supply chain to ensure sustainability? 
+​ Are there any audits conducted to ensure compliance with sustainability standards? 
+
+VII. Governance and Ownership Due Diligence  
+1. Board Composition: 
+​ Who are the members of the board of directors? 
+​ What are their backgrounds and expertise? 
+2. Decision-​Making Processes: 
+​ How are major decisions made within the company? 
+​ Are there any checks and balances in place? 
+3. Shareholder Structure: 
+​ Who are the major shareholders? 
+​ Are there any voting agreements or restrictions? 
+4. Stakeholder Engagement: 
+​ How does the company engage with stakeholders, including investors and users? 
+​ Are there any mechanisms for feedback and communication? 
+
+I. Legal and Regulatory Compliance 
+​1.jurisdiction and asset classification 
+​ Does the project have a legal opinion regarding its classification as a utility token, security, or other asset type? 
+​ In how many jurisdictions has the project ensured regulatory compliance? 
+​ Are there export controls or restrictions for certain countries? 
+​2.Intellectual Property Disputes 
+​ Has the project faced any legal challenges over intellectual property (IP) claims? 
+​ Are IP rights secured in major markets where the project intends to operate? 
+​3.Contracts and Agreements 
+​ Are partnership agreements with exchanges, payment processors, or third-​party providers formalized and enforceable? 
+​ Are there terms and conditions that protect the platform and users in case of disputes? 
+ 
+II. Technical Due Diligence 
+​1.Infrastructure and Hosting 
+​ Where are the servers or nodes for the platform hosted (e.g., on-​premise, cloud-​based, decentralized)? 
+​ How is the network protected against Distributed Denial of Service (DDoS) attacks? 
+​2.Interoperability 
+​ Does the project support interoperability with other blockchains or technologies (e.g., bridges, cross-​chain functionality)? 
+​ Are there plans to integrate with upcoming blockchain standards (e.g., Polkadot, Cosmos)? 
+​3.Development Process 
+​ What development methodology does the team follow (e.g., Agile, DevOps)? 
+​ Are there regular updates to the codebase, and is there a public roadmap? 
+​4.Reliability 
+​ What is the project's uptime percentage over the past year? 
+​ Are there automated systems for monitoring and recovering from outages? 
+
+III. Financial Health and Tokenomics 
+​1.Funding Sources 
+​ What were the sources of funding (e.g., ICO, private sales, venture capital)? 
+​ Are there large stakeholders or institutional investors holding a significant share of the tokens? 
+​2.Treasury Management 
+​ How are funds in the project’s treasury allocated (e.g., development, marketing, reserve)? 
+​ What safeguards are in place to prevent misuse of funds? 
+​3.Token Buyback or Burn Policies 
+​ Are there any mechanisms for token buybacks or burns to regulate supply? 
+​ How transparent are these policies, and how often are they executed? 
+
+IV. Governance and Team 
+​1.Team Dynamics 
+​ Are key team members committed full-​time or part-​time to the project? 
+​ Is there a clear succession plan if a founding member departs? 
+​2.Governance Participation 
+​ What percentage of token holders actively participate in governance votes? 
+​ Are governance decisions binding, or are they advisory in nature? 
+​3.Conflict of Interest 
+​ Are team members involved in any competing projects? 
+​ Are there transparent disclosures about personal holdings of the token by team members? 
+ 
+V. Market and Competitive Analysis 
+​1.Adoption Metrics 
+​ What percentage of the target market has adopted the platform? 
+​ Are there use cases where the platform has demonstrated measurable ROI for users? 
+​2.Market Barriers 
+​ What are the barriers to entry for competitors? 
+​ Does the project face significant barriers in expanding to new markets? 
+​3.Community Size and Growth 
+​ What is the growth rate of the community across platforms (e.g., Telegram, Twitter, Discord)? 
+​ Are there metrics showing user retention and engagement over time? 
+ 
+VI. Risk Assessment 
+​1.Token Concentration 
+​ Are a large number of tokens held by a small group of wallets? If so, who are they? 
+​ What safeguards are in place to prevent market manipulation by large holders? 
+​2.Reputation Risks 
+​ Are there any past controversies or scandals associated with the project or its team? 
+​ How is the project mitigating risks related to misinformation or bad press? 
+​3.Regulatory Uncertainty 
+​ How does the project plan to adapt to potential regulatory changes? 
+​ What happens if the token is reclassified as a security or other regulated asset? 
+ 
+VII. Community and Ecosystem 
+​1.Ambassadors and Advocates 
+​ Are there influential figures or ambassadors actively promoting the project? 
+​ What incentives are in place for advocates to remain engaged? 
+​2.Ecosystem Incentives 
+​ Are there rewards for validators, miners, or liquidity providers? 
+​ How sustainable are these rewards over the long term? 
+​3.User Education 
+​ Are there clear guides or resources to onboard new users or developers? 
+​ How does the project handle technical support for users? 
+ 
+VIII. Exit and Liquidity 
+​1.Market Maker Activity 
+​ Are there market makers involved to ensure token liquidity on exchanges? 
+​ What are the terms of agreements with these market makers? 
+​2.Exit Risk 
+​ What is the risk of a "rug pull" or project abandonment by the team? 
+​ How are investor funds protected in the event of a project failure? 
+​3.Secondary Market 
+​ How active is the secondary market for the token? 
+​ Are there peer-​to-​peer platforms for trading outside of centralized exchanges? 
+ 
+IX. Environmental and Social Impact 
+​1.Energy Consumption 
+​ What is the energy footprint of the blockchain used by the project? 
+​ Are there any initiatives to reduce environmental impact (e.g., moving to Proof of Stake)? 
+​2.Social Responsibility 
+​ Is the project involved in any corporate social responsibility (CSR) initiatives? 
+​ Does the project have a positive or negative perception in the crypto community? 
+ 
+X. Future Roadmap 
+​1.Scalability Plans 
+​ How does the project plan to handle increasing user and transaction volumes? 
+​ Are there defined timelines for planned upgrades or releases? 
+​2.Technology Evolution 
+​ Is the project exploring innovative solutions such as zero-knowledge proofs, layer-2 scaling, or AI integration? 
+​ What is the project’s stance on adopting emerging standards (e.g., DID for decentralized identity)? 
+​3.Partnership Development 
+​ Are there any upcoming partnerships or integrations that could significantly impact the project’s value? 
+​ How are new partners onboarded, and what criteria must they meet? 
+ 
+I. Legal and Regulatory Compliance  
+​ Does the project have a clear stance on securities law compliance (e.g., Howey Test)? 
+​ Are there any restrictions on the asset’s use in decentralized finance (DeFi) applications? 
+​ How does the project handle compliance with evolving regulations like MiCA (Markets in Crypto-​Assets) in the EU? 
+​ Are there any risks of the asset being classified as a security, commodity, or currency in key jurisdictions? 
+​ Does the project have a plan to adapt to future regulatory changes? 
+​ Are there any concerns about the project’s compliance with sanctions or embargoes? 
+​ How does the project handle intellectual property rights related to its technology or branding? 
+ 
+II. Team and Background  
+​ Are there any ghost founders or anonymous contributors to the project? 
+​ How does the project handle team turnover or departures? 
+​ Are there any non-​compete or confidentiality agreements in place for team members? 
+​ Does the team have experience in scaling projects or managing rapid growth? 
+​ Are there any cultural or language barriers within the team that could impact operations? 
+​ How does the project handle conflicts between team members or advisors? 
+​ Are there any plans to expand the team, and how will new members be onboarded? 
+
+III. Technology and Security  
+​ Does the project use zero-knowledge proofs, sharding, or other advanced cryptographic techniques? 
+​ How does the project handle quantum computing risks to its cryptographic algorithms? 
+​ Are there any plans to integrate with Layer 2 solutions (e.g., rollups, sidechains)? 
+​ How does the project ensure data integrity and immutability on its blockchain? 
+​ Are there any risks of network congestion or high gas fees during peak usage? 
+​ How does the project handle oracle reliability and data feeds for smart contracts? 
+​ Are there any plans to implement privacy features (e.g., zk-​SNARKs, confidential transactions)? 
+ 
+IV. Tokenomics and Financial Viability  
+​ Are there any mechanisms to prevent token concentration among a few holders? 
+​ How does the project handle token dilution or inflation over time? 
+​ Are there any risks of token utility being reduced by competing projects or technologies? 
+​ How does the project plan to maintain token value during bear markets? 
+​ Are there any risks of the token being delisted from major exchanges? 
+​ How does the project handle token burns, and what is the economic rationale behind them? 
+​ Are there any risks of the token being used for illicit activities (e.g., money laundering)? 
+ 
+V. Market and Competitive Analysis  
+​ How does the project plan to differentiate itself from forks or copycat projects? 
+​ Are there any risks of the project being overshadowed by larger, more established players? 
+​ How does the project plan to attract institutional investors or traditional financial players? 
+​ Are there any risks of the project being disrupted by new technologies or innovations? 
+​ How does the project plan to expand into emerging markets or underserved regions? 
+​ Are there any risks of the project being impacted by macroeconomic factors (e.g., inflation, recession)? 
+ 
+VI. Roadmap and Development Progress   
+​ How does the project prioritize user feedback in its development process? 
+​ Are there any risks of the project losing momentum or focus over time? 
+​ How does the project handle delays or setbacks in its roadmap? 
+​ Are there any plans to pivot or change direction based on market conditions? 
+​ How does the project measure progress against its roadmap goals? 
+​ Are there any risks of the project becoming obsolete due to technological advancements? 
+ 
+VII. Community and Ecosystem  
+​ How does the project handle community governance or decision-​making? 
+​ Are there any risks of community fragmentation or infighting? 
+​ How does the project plan to grow its ecosystem of developers and users? 
+​ Are there any risks of the community losing trust in the project? 
+​ How does the project handle negative sentiment or FUD (fear, uncertainty, doubt)? 
+​ Are there any plans to incentivize community contributions or participation? 
+ 
+VIII. Risks and Red Flags  
+​ Are there any signs of the project being a “rug pull” or exit scam? 
+​ Does the project rely heavily on influencers or paid promotions for marketing? 
+​ Are there any concerns about the project’s transparency or accountability? 
+​ Does the project have a history of overpromising and underdelivering? 
+​ Are there any signs of insider trading or market manipulation? 
+​ How does the project handle security breaches or hacks? 
+ 
+IX. Financial Audits and Transparency  
+​ Are there any concerns about the project’s financial reporting or accounting practices? 
+​ How does the project handle investor relations or communication? 
+​ Are there any risks of the project running out of funding or going bankrupt? 
+​ How does the project plan to allocate funds raised from token sales or investments? 
+​ Are there any concerns about the project’s financial sustainability or profitability? 
+ 
+X. Exit Strategy and Liquidity  
+​ What happens to the asset if the project is acquired or merges with another entity? 
+​ Are there any mechanisms for token holders to exit their positions during a crisis? 
+​ How does the project plan to maintain liquidity during periods of low trading volume? 
+​ Are there any risks of the asset being delisted from major exchanges? 
+​ How does the project handle market-​making or liquidity provision? 
+ 
+XI. Environmental, Social, and Governance (ESG) Considerations 
+ 
+​ Does the project have a plan to offset its carbon footprint or environmental impact? 
+​ How does the project contribute to social causes or charitable initiatives? 
+​ Are there any concerns about the project’s governance model or decision-​making process? 
+​ How does the project ensure diversity and inclusion within its team and community? 
+​ Are there any ethical concerns related to the project’s operations or goals? 
+ 
+XII. External Reviews and Reputation  
+​ Are there any independent audits or reviews of the project’s technology or finances? 
+​ How does the project respond to criticism or negative reviews? 
+​ Are there any awards or recognitions the project has received? 
+​ What is the sentiment of institutional investors or large stakeholders toward the project? 
+​ Are there any concerns about the project’s reputation in the broader crypto community? 
+ 
+XIII. Use Case and Adoption  
+​ What are the real-​world applications of the cryptocurrency or digital asset? 
+​ Are there any pilot programs or case studies demonstrating its use? 
+​ How does the project plan to drive adoption among businesses and consumers? 
+​ Are there any partnerships with established companies or institutions? 
+​ How does the project measure user engagement or adoption rates? 
+ 
+XIV. Governance and Decentralization  
+​ How decentralized is the project’s governance model? 
+​ Are there any risks of centralization in decision-​making or control? 
+​ How are governance proposals submitted, voted on, and implemented? 
+​ Are there any mechanisms to prevent governance attacks or manipulation? 
+​ How does the project ensure transparency in governance decisions? 
+ 
+XV. Innovation and Technology Differentiation  
+​ What innovative features or technologies does the project introduce? 
+​ How does the project stay ahead of technological advancements in the industry? 
+​ Are there any patents or intellectual property associated with the project? 
+​ How does the project handle competition from newer or more advanced technologies? 
+​ Are there any plans to integrate with emerging technologies (e.g., AI, IoT)? 
+ 
+XVI. Partnerships and Collaborations  
+​ Are there any strategic partnerships with other blockchain projects or traditional companies? 
+​ How does the project vet and select its partners or collaborators? 
+​ Are there any risks of partnerships falling through or failing to deliver? 
+​ How does the project leverage partnerships to drive adoption or growth? 
+​ Are there any exclusive or long-​term agreements with partners? 
+ 
+XVII. Marketing and Branding  
+​ How does the project plan to build and maintain its brand reputation? 
+​ Are there any risks of negative publicity or PR crises? 
+​ How does the project handle influencer marketing or paid promotions? 
+​ Are there any plans to expand into new markets or regions? 
+​ How does the project measure the effectiveness of its marketing campaigns? 
+ 
+XVIII. Risk Management and Contingency Planning  
+​ Does the project have a risk management framework in place? 
+​ How does the project handle potential threats or vulnerabilities? 
+​ Are there any contingency plans for technical failures or market crashes? 
+​ How does the project ensure business continuity during crises? 
+​ Are there any insurance policies or safeguards in place for user funds? 
+ 
+I. Legal and Regulatory Compliance (Advanced): 
+​1.Decentralized Finance (DeFi) Specifics: 
+​ If a DeFi protocol, how does it handle regulatory ambiguities surrounding lending, borrowing, and yield farming? 
+​ What are the legal implications of automated governance and protocol upgrades? 
+​ How does the protocol address the risks of impermanent loss and liquidation? 
+​2.Non-Fungible Tokens (NFTs) and Digital Collectibles: 
+​ What are the copyright and intellectual property rights associated with the NFTs? 
+​ How does the project address the risks of counterfeit NFTs? 
+​ What are the legal implications of fractionalized NFTs? 
+​3.Tax Implications: 
+​ How does the project handle tax reporting for token holders in various jurisdictions? 
+​ What are the potential tax implications of airdrops, staking rewards, and other forms of token distribution? 
+​ How will the upcoming MiCA regulations affect the project. 
+​4.Litigation Risks: 
+​ Are there any records of legal threats against the project, or the team members? 
+​ What legal precedent exists, that could negatively impact the projects legality. 
+
+II. Financial Due Diligence (Advanced): 
+​1.On-​Chain Analytics: 
+​ What on-​chain metrics are used to assess the health of the project's network? 
+​ Are there any signs of wash trading or other forms of market manipulation? 
+​ What are the distribution metrics of the tokens, and is there a large concentration of wealth? 
+​2.DeFi Financial Risks: 
+​ What are the risks of cascading liquidations in the protocol? 
+​ How does the protocol manage its treasury and reserves? 
+​ What are the risks of oracle failures? 
+​3.Stablecoin Risks: 
+​ If the project utilizes stablecoins, what are the risks associated with those stablecoins? 
+​ Are the stablecoins fully backed by reserves, and are those reserves audited? 
+​ What are the de-pegging risks? 
+​4.Valuation Models: 
+​ What valuation models are being used to assess the project's worth? 
+​ Are those valuation models appropriate for the unique characteristics of digital assets? 
+
+III. Technical Due Diligence (Advanced): 
+​1.Formal Verification:  
+​ What formal verification tools and techniques are used to ensure the correctness of the code? 
+​ What is the scope and depth of the formal verification process? 
+2.Security Audits: 
+​ Who are the security auditors, and what is their reputation? 
+​ What are the findings of the security audits, and how have they been addressed? 
+​ Are the security audits publicly available? 
+​3.Decentralized Identity (DID) and Privacy: 
+​ If the project uses DID, how is user privacy protected? 
+​ What are the risks associated with the project's privacy-preserving technologies? 
+​4.Quantum Computing Risks: 
+​ What are the potential risks of quantum computing attacks on the project's cryptography? 
+​ What measures are being taken to mitigate those risks? 
+
+IV. Operational Due Diligence (Advanced): 
+​1.Governance Vulnerabilities: 
+​ Are there any vulnerabilities in the project's governance model? 
+​ What are the risks of governance attacks or collusion? 
+​ What is the voting participation percentage within the DAO? 
+​2.Social Engineering Risks: 
+​ What measures are in place to protect against social engineering attacks targeting the team and community? 
+​ What is the security awarness training that is provided to the team? 
+​3.Supply Chain Risks: 
+​ If the project relies on hardware or software from third-​party vendors, what are the supply chain risks? 
+​4.Rug Pull Risk: 
+​ What measures are in place to prevent a "rug pull" or other forms of exit scam? 
+​ What are the on chain indicators, that would indicate a potential rug pull. 
+ 
+I. Legal and Regulatory Compliance 
+​1.KYC/AML Compliance 
+​ Does the project comply with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations in all operating jurisdictions? 
+​ How robust are the project’s KYC/AML processes? Are they audited regularly? 
+​2.Regulatory Risks 
+​ Are there any ongoing investigations or lawsuits against the project or its team members? 
+​ How does the project handle regulatory inquiries or subpoenas?  
+​3.Intellectual Property Ownership 
+​ Are all project assets, such as logos, trademarks, and patents, properly registered? 
+​ Are there potential infringement risks due to similarities with other projects? 
+
+II. Technical Due Diligence 
+​1.Security Measures 
+​ What encryption methods are used to secure transactions and data? 
+​ How does the project protect against Sybil attacks, 51% attacks, or re-entrancy vulnerabilities? 
+​2.Scalability Testing 
+​ Has the project undergone stress testing for high-​volume transactions or user activity? 
+​ What are the project’s plans to handle scaling challenges, such as network congestion? 
+​3.Bug Bounty Programs 
+​ Does the project have an active bug bounty program to identify and fix vulnerabilities? 
+​ What incentives are offered to ethical hackers or auditors? 
+​4.Interoperability 
+​ Can the token be used on multiple blockchain networks (e.g., via wrapped tokens)? 
+​ Are there plans to expand interoperability with other DeFi ecosystems? 
+ 
+III. Financial Health and Tokenomics 
+​1.Revenue Model 
+​ How does the project generate revenue outside of token sales? 
+​ Are there clear projections for future revenue growth? 
+​2.Economic Stability 
+​ How does the project manage inflation or deflation of its token supply? 
+​ Are there mechanisms for ensuring token stability during periods of high volatility? 
+​3.Allocation Transparency 
+​ How are pre-​mined or reserved tokens allocated? Is this information publicly disclosed? 
+​ Are vesting schedules for team members and investors strictly enforced? 
+​4.Liquidity Pools 
+​ Does the project provide liquidity pools on decentralized exchanges (DEXs)? 
+​ What are the annual percentage yields (APYs) for liquidity providers? 
+ 
+IV. Governance and Team 
+​1.Decentralized Governance 
+​ How decentralized is governance? Are decisions dominated by a few large token holders? 
+​ Are governance proposals documented, voted on, and implemented transparently? 
+​2.Founder Reputation 
+​ Have the founders been involved in any failed projects or scandals in the crypto space? 
+​ What public endorsements or criticisms have key team members received? 
+​3.Team Skills and Growth 
+​ Are the team members actively pursuing upskilling or certifications in blockchain and cryptocurrency? 
+​ Is the team geographically distributed, and how does this affect collaboration and execution? 
+ 
+V. Market and Competitive Analysis 
+​1.User Personas 
+​ What types of users (retail, institutional, developers) are most actively engaging with the platform? 
+​ How does the project plan to onboard more non-​crypto-​native users? 
+​2.Competitor Responses 
+​ Have competitors publicly commented on or copied elements of the project? 
+​ Are there plans to counter or adapt to competitor advancements? 
+​3.Brand Recognition 
+​ How recognizable is the project’s brand in both crypto and mainstream markets? 
+​ Are there any partnerships with well-​known brands or influencers? 
+ 
+VI. Risk Assessment 
+​1.Technical Debt 
+​ Are there unresolved bugs or issues in the codebase that could cause long-​term risks? 
+​ Does the project maintain clear documentation for future developers? 
+​2.Regulatory Enforcement 
+​ What is the worst-​case scenario if regulators classify the token as a security? 
+​ Does the project have a strategy for relaunching or rebranding if regulatory pressures escalate? 
+​3.Custody and Storage Risks 
+​ Are tokens held in multisignature wallets or other secure storage solutions? 
+​ Are users educated on safe storage practices for their assets? 
+4.Economic Downturn 
+​ How would a market-​wide cryptocurrency crash affect the project's operations and financial health? 
+​ What measures are in place to mitigate risks from prolonged bear markets? 
+ 
+VII. Community and Ecosystem 
+​1.Community Support 
+​ Are there active forums or support channels where users can ask questions and get help? 
+​ How responsive is the team to user feedback and concerns? 
+2.Decentralization Metrics 
+​ How distributed is the network? Are there risks of centralization in node operations or governance? 
+​ What percentage of validators or miners are controlled by the team or affiliated entities? 
+​3.Developer Ecosystem 
+​ How many third-​party developers are actively building on the platform? 
+​ Are there incentives or grants for developers to contribute to the ecosystem? 
+ 
+VIII. Exit and Liquidity 
+​1.Exit Scenarios 
+​ What are the terms for early investors or contributors to liquidate their holdings? 
+​ Does the project have a clear liquidation strategy for dissolving operations if needed? 
+​2.Exchange Liquidity 
+​ How often does the token experience low liquidity on exchanges? 
+​ Are there market-​making strategies to ensure liquidity during volatile periods? 
+ 
+IX. Environmental and Social Impact 
+​1.Sustainability Efforts 
+​ Does the project contribute to carbon offset initiatives for its energy consumption? 
+​ Are there partnerships with environmentally conscious organizations? 
+​2.Social Inclusion 
+​ Does the project make efforts to include underrepresented communities in its ecosystem? 
+​ Are there educational initiatives to improve accessibility for non-​technical users?  
+
+X. Future Roadmap 
+​1.Expansion Plans 
+​ Are there plans to expand the project to new geographic regions or industries? 
+​ How will the project handle regulatory differences in these new markets? 
+​2.Partnerships and Integrations 
+​ What future partnerships are in development, and how critical are they to the project’s success? 
+​ Are there plans to integrate with emerging technologies (e.g., AI, IoT)? 
+​3.Ecosystem Growth 
+​ What percentage of the roadmap is dedicated to user acquisition versus platform improvements? 
+​ Are there milestones that are contingent on external factors (e.g., partnerships, funding)? 
+
+XI. Miscellaneous Questions 
+​1.Reputation Analysis 
+​ What is the general sentiment in crypto forums, Reddit, and Twitter about the project? 
+​ Are there notable endorsements or criticisms from prominent figures in the space? 
+​2.Insurance and Safety 
+​ Does the project offer insurance against hacks, smart contract failures, or network outages? 
+​ Are there partnerships with insurers or custody providers like Nexus Mutual or BitGo? 
+​3.Auditing and Transparency 
+​ How frequently are audits conducted, and are past audit results published? 
+​ Are there third-​party reports verifying the project’s claims (e.g., energy usage, decentralization)? 
+ 
+I. Legal and Regulatory Due Diligence 
+1. Jurisdictional Compliance: 
+​ In which jurisdictions does the company operate, and are there any specific compliance requirements? 
+​ Are there any restrictions on operations in certain countries? 
+2. Regulatory Approvals: 
+​ Have all necessary regulatory approvals been obtained? 
+​ Are there any pending applications or approvals? 
+3. Contractual Obligations: 
+​ What are the key terms of major contracts with partners or suppliers? 
+​ Are there any potential liabilities from these contracts? 
+4. Dispute Resolution: 
+​ How does the company handle disputes with customers or partners? 
+​ Are there any arbitration or mediation processes in place? 
+
+II. Operational Due Diligence  
+1. Supply Chain Risks: 
+​ What are the potential risks in the supply chain, and how are they mitigated? 
+​ Are there any contingency plans for supply chain disruptions? 
+2. Employee Training: 
+​ What training programs are in place for employees handling sensitive operations? 
+​ Are there any ongoing education initiatives to keep employees updated on best practices? 
+3. Customer Support: 
+​ What customer support mechanisms are in place? 
+​ How does the company measure customer satisfaction? 
+4. Business Interruption Insurance: 
+​ Does the company have business interruption insurance? 
+​ What are the terms and conditions of this insurance? 
+
+III. Technical Due Diligence 
+1. Infrastructure Security: 
+​ What measures are in place to secure the company's infrastructure? 
+​ Are there any intrusion detection systems or firewalls? 
+2. Code Reviews: 
+​ How often are code reviews conducted to ensure quality and security? 
+​ Are these reviews conducted by internal teams or external auditors? 
+3. Scalability: 
+​ How scalable is the technology infrastructure? 
+​ Are there plans for upgrading infrastructure to meet growing demand? 
+4. Data Backup and Recovery: 
+​ Are there data backup and recovery processes in place? 
+​ How frequently are backups performed? 
+
+IV. Financial Due Diligence 
+1. Cash Flow Management: 
+​ How does the company manage cash flow? 
+​ Are there any cash flow projections available? 
+2. Financial Planning: 
+​ What are the company's financial planning strategies? 
+​ Are there any budgeting processes in place? 
+3. Tax Planning: 
+​ Are there any tax planning strategies to minimize liabilities? 
+​ Are these strategies compliant with all applicable laws? 
+4. Auditing and Accounting: 
+​ Who are the company's auditors and accountants? 
+​ Are financial statements audited annually? 
+
+V. Market and Strategy Due Diligence 
+1. Market Analysis: 
+​ What market analysis tools are used to understand customer needs? 
+​ Are there any market research reports available? 
+2. Competitor Analysis: 
+​ How does the company analyze its competitors? 
+​ Are there any strategies to stay competitive in the market? 
+3. Growth Metrics: 
+​ What metrics are used to measure growth and success? 
+​ Are these metrics aligned with business objectives? 
+4. Exit Strategies: 
+​ Are there any exit strategies for investors or stakeholders? 
+​ What are the potential exit options (e.g., IPO, acquisition)? 
+
+VI. Environmental and Sustainability Due Diligence 
+1. Sustainability Reporting: 
+​ Does the company publish sustainability reports? ​
+​ Are these reports audited or verified by external parties? 
+2. Environmental Impact Assessment: 
+​ Has an environmental impact assessment been conducted? 
+​ Are there any plans to reduce environmental impact? 
+3. Stakeholder Engagement on Sustainability: 
+​ How does the company engage stakeholders on sustainability issues? 
+​ Are there any feedback mechanisms for sustainability initiatives? 
+4. Supply Chain Sustainability: 
+​ Are there any sustainability standards for suppliers? 
+​ How does the company ensure compliance with these standards? 
+
+V. Governance and Ownership Due Diligence  
+1. Board Governance: 
+​ What are the governance policies for the board of directors? 
+​ Are there any independent directors on the board? 
+2. Shareholder Agreements: 
+​ Are there any shareholder agreements or voting trusts? 
+​ What are the terms of these agreements? 
+3. Executive Compensation: 
+​ What is the compensation structure for executives? 
+​ Are there any performance-​based incentives? 
+4. Succession Planning: 
+​ Is there a succession plan in place for key executives? 
+​ How does the company ensure continuity in leadership? 

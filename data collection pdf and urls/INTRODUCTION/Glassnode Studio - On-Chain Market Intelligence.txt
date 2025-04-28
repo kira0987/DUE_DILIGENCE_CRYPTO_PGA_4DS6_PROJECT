@@ -1,0 +1,52 @@
+/
+Home
+Charts
+Dashboards
+Insights
+Resources
+Upgrade
+Log in
+BTC
+ETH
+SOL
+USDT
+USDC
+XRP
+TRX
+BNB
+DOGE
+TON
+More Assets
+T1
+BTC: Market Cap
+Resolution: 
+1 Day
+SMA 
+0 Days
+Scale 
+Mixed
+Chart Style: 
+Line
+Recent Data
+3m
+6m
+1y
+YTD
+All
+BTC: Market Cap
+BTC: Price
+Download JSON
+Download CSV
+API Documentation
+Metrics details
+BTC: Market Cap
+The market capitalization (or network value) is defined as the product of the current supply by the current USD price.
+Assets
+BTC, ETH, SOL, USDT, USDC, XRP, TRX, BNB, DOGE, TON, $CWIF, $MICHI, 00, 0X0, 1000SATS, 10SET, 1EX... (show more)
+Resolutions
+1 Month, 1 Week, 1 Day, 1 Hour, 10 Minutes
+Currencies
+native
+BTC: Price
+HomePricingCatalogInsightsAffiliateDocumentationChangelogSupportCareersContactPrivacy NoticeTerms & ConditionsImpressumTrust Center
+© 2025 Glassnode. All Rights Reserved.

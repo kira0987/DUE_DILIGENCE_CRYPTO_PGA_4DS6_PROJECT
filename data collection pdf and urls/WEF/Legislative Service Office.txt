@@ -1,0 +1,206 @@
+skip to main content
+STATE STATUTES & CONSTITUTION
+STATE FINANCES
+PUBLICATIONS & RESEARCH
+CITIZEN ENGAGEMENT
+MEDIA
+Legislation - 2023
+Home
+Legislation
+2023
+SF0076
+SF0076 - Wyoming digital asset registration act.
+Bill Text
+Status
+Amendments
+Fiscal Note
+Votes
+Digest
+Summary
+The current version of the bill text is displayed below. To view all versions of the bill with page and line numbers, use the PDF documents located to the right, under "Bill Versions & Resources."
+    ORIGINAL SENATE ENGROSSED
+FILE NO. SF0076
+ ENROLLED ACT NO. 95, SENATE
+ SIXTY-SEVENTH LEGISLATURE OF THE STATE OF WYOMING
+2023 GENERAL SESSION
+    AN ACT relating to digital assets; providing for the registration of digital assets with the secretary of state as specified; providing a definition; amending jurisdictional requirements; requiring rulemaking; providing appropriations; and providing for effective dates.
+ Be It Enacted by the Legislature of the State of Wyoming:
+ Section 1.  W.S. 34‑29‑201 through 34‑29‑209 are created to read:
+ ARTICLE 2
+REGISTERED DIGITAL ASSETS
+ 34‑29‑201.  Definitions.
+ (a)  For purposes of this article:
+ (i)  "Secretary" means the secretary of state.
+ 34‑29‑202.  Registered digital assets; limitations; certificate.
+ (a)  The lawful owner of any digital asset or the lawful owner's agent may register the digital asset with the secretary in accordance with this article. Digital assets registered with the secretary shall be deemed to be located within the state for purposes of all laws and regulations of this state, or any applicable federal laws not in conflict with this article, which may impact ownership rights of the digital asset or require transfer of the digital asset.
+ (b)  Following approval of an application for registration of a digital asset, the secretary shall provide a registration certificate cryptographically signed by the secretary for each registered digital asset that may be attached to or otherwise associated with the digital asset.
+ (c)  Nothing in this article shall be construed to confer any ownership, property or other rights related to digital assets beyond those specifically granted in this article.
+ 34‑29‑203.  Application for registration; filing fee; limitations.
+ (a)  Subject to the limitations set forth in this article, any person may submit an application to the secretary in the form and containing information as prescribed by the secretary, for registration of a digital asset. The application shall contain, at minimum, the following information:
+ (i)  The name and address of the person applying for registration;
+ (ii)  The nature of the digital asset and sufficient information to identify the digital asset;
+ (iii)  A statement that the applicant is the lawful owner of the digital asset or the lawful owner's agent and that to the knowledge of the applicant no other person has a current, valid registration of the digital asset either in this state or in any other jurisdiction;
+ (iv)  Cryptographic proof that the lawful owner has control of the digital asset at the time of application.
+ (b)  The application shall be signed and verified by oath, affirmation or declaration subject to perjury laws by the applicant.
+ (c)  The application for registration shall be accompanied by a registration fee set in accordance with W.S. 34‑29‑209, which registration fee shall not exceed five hundred dollars ($500.00) and shall be payable to the secretary.
+ (d)  The applicant shall be:
+ (i)  A resident of the state of Wyoming if the applicant is a natural person;
+ (ii)  Incorporated or organized in the state of Wyoming if the applicant is a business entity.
+ 34‑29‑204.  Examination of application; amendment of application.
+ (a)  Upon the filing of a complete application for registration and payment of the registration fee, the application shall be deemed approved and the digital asset registered pursuant to this article unless the secretary, at his discretion, causes the application to be examined for conformity with this article subject to the following:
+ (i)  The applicant shall provide any additional information requested by the secretary and may make or authorize the secretary to make necessary amendments to the application as may be reasonably requested by the secretary or deemed by the applicant to be advisable to respond to any rejection or objection to the application;
+ (ii)  The secretary may revise the application with agreement of the applicant or may require the applicant to submit a revised application;
+ (iii)  If the applicant is found not to meet the registration requirements, the secretary shall advise the applicant of the reasons.  The applicant shall have a reasonable period of time specified by the secretary in which to reply or to amend the application, in which event the application shall be reexamined.  This procedure may be repeated until:
+ (A)  The secretary finally refuses registration of the digital asset; or
+ (B)  The applicant fails to reply or amend within the specified period, whereupon the application shall be deemed to have been abandoned.
+ 34‑29‑205.  Term of registration; renewals.
+ (a)  Registration of a digital asset is effective for a term of five (5) years from the date of registration. Upon application filed within six (6) months prior to the expiration of the registration term and in a manner complying with the requirements of the secretary, the registration may be renewed for a term of five (5) years from the end of the expiring term. The renewal fee shall be set in accordance with W.S. 34‑29‑209, but shall not exceed two hundred fifty dollars ($250.00) and shall be submitted with the application for renewal of the registration.
+ (b)  A digital asset registration may be renewed for successive periods of five (5) years under this section.
+ 34‑29‑206.  Public record of digital assets.
+ The secretary shall keep for public examination a record of all registered digital assets under this article.
+ 34‑29‑207.  Cancellation of registration.
+ (a)  A digital asset shall no longer be deemed registered and the secretary shall cancel from the register:
+ (i)  Any registration upon a voluntary request for cancellation thereof from the lawful owner of the digital asset or his agent and payment of a fee set in accordance with W.S. 34‑29‑209, but not to exceed thirty dollars ($30.00);
+ (ii)  Any registration that is not renewed under this article;
+ (iii)  Any registration if a court of competent jurisdiction finds:
+ (A)  That the registration was granted improperly;
+ (B)  That the registration was obtained fraudulently.
+ (iv)  Any registration when a court of competent jurisdiction orders cancellation of a registration on any ground.
+ 34‑29‑208.  False or fraudulent representations or declarations; liability for damages sustained.
+ Any person who for himself, or on behalf of any other person, files or registers any digital asset in the office of the secretary under the provisions of this article by knowingly making any false or fraudulent representation or declaration, orally or in writing, or by any other means, shall be liable to pay all damages sustained in consequence of the filing or registration, to be recovered by or on behalf of the injured party in any court of competent jurisdiction.
+ 34‑29‑209.  Powers of secretary of state; filing and other fees.
+ (a)  The secretary has all powers reasonably necessary to perform the duties required by this article including the promulgation of rules and regulations necessary to carry out the purposes of this article.
+ (b)  The secretary shall set and collect registration, service and copying fees to recover the costs of providing these services and administering this act.  Fees shall not exceed the costs of providing these services and administering this act.
+ Section 2.  W.S. 5‑13‑115(b) by creating a new paragraph (xvii) is amended to read:
+ 5‑13‑115.  Purpose and jurisdiction.
+ (b)  The chancery court shall have jurisdiction to hear and decide actions for equitable or declaratory relief and for actions where the prayer for money recovery is an amount exceeding fifty thousand dollars ($50,000.00), exclusive of claims for punitive or exemplary damages, prejudgment or post judgment interest, costs and attorney fees provided the cause of action arises from at least one (1) of the following:
+ (xvii)  A dispute concerning a digital asset registered under W.S. 34‑29‑201 through 34‑29‑209.
+ Section 3.  The secretary of state shall promulgate any rules necessary to implement this act not later than October 1, 2023.
+ Section 4.
+ (a)  There is appropriated one hundred fifty thousand dollars ($150,000.00) from the general fund to the secretary of state's office for the purpose of administering the registration of digital assets as authorized by this act. This appropriation shall be for the period beginning with the effective date of this act and ending June 30, 2025. This appropriation shall not be transferred or expended for any other purpose and any unexpended, unobligated funds remaining from this appropriation shall revert as provided by law on June 30, 2025. It is the intent of the legislature that this appropriation not be included in the secretary of state's office standard budget for the immediately succeeding fiscal biennium.
+ (b)  There is appropriated twenty thousand dollars ($20,000.00) from the general fund to the secretary of state's office for the purpose of administering this act. This appropriation shall be for the period beginning with the effective date of this act and ending June 30, 2025. This appropriation shall not be transferred or expended for any other purpose and any unexpended, unobligated funds remaining from this appropriation shall revert as provided by law on June 30, 2025.
+ Section 5.  
+ (a)  Except as provided in subsection (b) of this section, this act is effective December 1, 2023.
+ (b)  Sections 3, 4 and 5 of this act are effective immediately upon completion of all acts necessary for a bill to become law as provided by Article 4, Section 8 of the Wyoming Constitution.
+ (END)
+          Speaker of the House
+    President of the Senate
+         Governor
+          TIME APPROVED: _________
+          DATE APPROVED: _________
+   I hereby certify that this act originated in the Senate.
+     Chief Clerk
+   1
+   Sponsor:
+BlockChain/Technology
+Co-Sponsor:
+
+Bill Versions and Resources:
+Introduced
+Version initially introduced on the floor for debate.
+Engrossed
+Version that includes adopted amendments from first chamber.
+Enrolled
+Version passed in both chambers with all adopted amendments.
+Fiscal note
+Estimate of the fiscal and personnel impact to the state for the bill.
+Digest
+A summary of proceedings for the bill as it moves through the process.
+Concurrence
+Concurrence Message.
+Summary
+A high level synopsis of the bill once it is signed into law.
+Last Action:
+Assigned Chapter Number 174
+Last Action Date:
+03/09/2023
+Scheduled Committee Meetings
+No Meetings Currently Scheduled
+Scheduled Floor Sessions
+No Floor Sessions Currently Scheduled
+Session Laws Chapter Number:
+CH0174
+Adopted: 3/9/2023
+Effective: 12/1/2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CALENDARS
+Legislative Meetings
+Session Schedule
+Prior Session Calendars
+Special Events
+COMMITTEES
+Joint & Standing
+Select & Task Forces
+Councils & Commissions
+About Committees
+LEGISLATION
+2025 General Session Bills
+Search Bills
+Committee Bills
+Session Information
+LEGISLATORS
+Senators
+Representatives
+Find My Legislator
+Former Members
+HOME
+ABOUT THE LEGISLATURE
+LEGISLATIVE SERVICE OFFICE
+CONTACT US
+DISCLAIMER
+PRIVACY POLICY
+Sign up to receive the latest updates from the Wyoming Legislature.
+No Thanks Remind Me Later

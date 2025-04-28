@@ -1,0 +1,10 @@
+FUND LIQUIDATION
+Liquidation procedure can be initiated by the following events:
+A resolution by 2 Managing partners
+There is less than 1 surviving Manager
+Liquidation is carried out as the following procedure:
+All disposable funds are exchanged for BTC within 8 weeks by a technical support team
+All BTC are divided between CBT holders proportionally to their shares in the CryptoBazar Fund
+All BTC are transferred to the registered co investors' addresses
+In case the Fund owns non liquid assets, such assets are held by the Fund's managers or duly authorized
+individuals until such assets can be converted into BTC and transferred to co investors.

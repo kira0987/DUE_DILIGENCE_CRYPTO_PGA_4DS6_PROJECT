@@ -1,0 +1,183 @@
+About ESMAToggle submenuGovernance StructureToggle submenuBoard of SupervisorsManagement BoardSenior ManagementJoint CommitteeCCP Supervisory CommitteeCCP Resolution CommitteeStanding CommitteesSMSGBoard of AppealEthics and Conflicts of interestInternal OrganisationToggle submenuStrategy and Work ProgrammeWorking MethodsDiversity, Equity and InclusionInternational CooperationLegal Notice and Data ProtectionTransparency and Access to DocumentsAgendaCareers
+Governance StructureToggle submenuBoard of SupervisorsManagement BoardSenior ManagementJoint CommitteeCCP Supervisory CommitteeCCP Resolution CommitteeStanding CommitteesSMSGBoard of AppealEthics and Conflicts of interest
+Board of Supervisors
+Management Board
+Senior Management
+Joint Committee
+CCP Supervisory Committee
+CCP Resolution Committee
+Standing Committees
+SMSG
+Board of Appeal
+Ethics and Conflicts of interest
+Internal OrganisationToggle submenuStrategy and Work ProgrammeWorking MethodsDiversity, Equity and Inclusion
+Strategy and Work Programme
+Working Methods
+Diversity, Equity and Inclusion
+International Cooperation
+Legal Notice and Data Protection
+Transparency and Access to Documents
+Agenda
+Careers
+ESMA's ActivitiesToggle submenuInvestors and IssuersToggle submenuBenchmark AdministratorsCredit Rating AgenciesExternal Reviewers of European Green BondsFund ManagementIssuer DisclosureInvestment Services and CrowdfundingMarkets and InfrastructureToggle submenuCentral CounterpartiesData Reporting Services ProvidersTradingConsolidated Tape ProvidersPost-tradingShortening the settlement cycle to T+1 in the EUMarket IntegrityShort SellingCentral Securities DepositoriesSecuritisationTrade RepositoriesRisk AnalysisToggle submenuRisk MonitoringTopical AnalysisSustainable FinanceToggle submenuClimate benchmarks and ESG disclosureCRAs and SustainabilityInvestment Services and Fund ManagementSustainability ReportingDigital Finance and InnovationToggle submenuDigital Operational Resilience Act (DORA)DLT Pilot RegimeMarkets in Crypto-Assets Regulation (MiCA)Supervision and ConvergenceToggle submenuInvestigations and InspectionsSupervisory Convergence ToolsSanctions and EnforcementEnforcement Convergence InitiativesBreach of Union LawNew supervisory and oversight mandatesDataToggle submenuData ReportingDatabases and RegistersStatistical InformationListing Act
+Investors and IssuersToggle submenuBenchmark AdministratorsCredit Rating AgenciesExternal Reviewers of European Green BondsFund ManagementIssuer DisclosureInvestment Services and Crowdfunding
+Benchmark Administrators
+Credit Rating Agencies
+External Reviewers of European Green Bonds
+Fund Management
+Issuer Disclosure
+Investment Services and Crowdfunding
+Markets and InfrastructureToggle submenuCentral CounterpartiesData Reporting Services ProvidersTradingConsolidated Tape ProvidersPost-tradingShortening the settlement cycle to T+1 in the EUMarket IntegrityShort SellingCentral Securities DepositoriesSecuritisationTrade Repositories
+Central Counterparties
+Data Reporting Services Providers
+Trading
+Consolidated Tape Providers
+Post-trading
+Shortening the settlement cycle to T+1 in the EU
+Market Integrity
+Short Selling
+Central Securities Depositories
+Securitisation
+Trade Repositories
+Risk AnalysisToggle submenuRisk MonitoringTopical Analysis
+Risk Monitoring
+Topical Analysis
+Sustainable FinanceToggle submenuClimate benchmarks and ESG disclosureCRAs and SustainabilityInvestment Services and Fund ManagementSustainability Reporting
+Climate benchmarks and ESG disclosure
+CRAs and Sustainability
+Investment Services and Fund Management
+Sustainability Reporting
+Digital Finance and InnovationToggle submenuDigital Operational Resilience Act (DORA)DLT Pilot RegimeMarkets in Crypto-Assets Regulation (MiCA)
+Digital Operational Resilience Act (DORA)
+DLT Pilot Regime
+Markets in Crypto-Assets Regulation (MiCA)
+Supervision and ConvergenceToggle submenuInvestigations and InspectionsSupervisory Convergence ToolsSanctions and EnforcementEnforcement Convergence InitiativesBreach of Union Law
+Investigations and Inspections
+Supervisory Convergence Tools
+Sanctions and Enforcement
+Enforcement Convergence Initiatives
+Breach of Union Law
+New supervisory and oversight mandates
+DataToggle submenuData ReportingDatabases and RegistersStatistical Information
+Data Reporting
+Databases and Registers
+Statistical Information
+Listing Act
+News & PublicationsToggle submenuNewsDocumentsSpeechesNewsletterInteractive Single RulebookGuidelines, Recommendations and Technical  StandardsPeer ReviewsRisk Monitoring and AnalysisQuestions and Answers
+News
+Documents
+Speeches
+Newsletter
+Interactive Single Rulebook
+Guidelines, Recommendations and Technical  Standards
+Peer Reviews
+Risk Monitoring and Analysis
+Questions and Answers
+Investor CornerToggle submenuIs the firm regulated?Get ready to investFrauds and Scams related to ESMA Logo and IDPublications for InvestorsProduct InterventionMake a complaintCost of Investment Products
+Is the firm regulated?
+Get ready to invest
+Frauds and Scams related to ESMA Logo and ID
+Publications for Investors
+Product Intervention
+Make a complaint
+Cost of Investment Products
+Interact With ESMAToggle submenuMedia CornerSpeaking RequestsStakeholder EngagementToggle submenuStakeholder RelationsConsultationsEventsProcurement OpportunitiesWhistleblowers
+Media Corner
+Speaking Requests
+Stakeholder EngagementToggle submenuStakeholder Relations
+Stakeholder Relations
+Consultations
+Events
+Procurement Opportunities
+Whistleblowers
+Contact & HelpToggle submenuContact InformationFAQsGlossary
+Contact Information
+FAQs
+Glossary
+Breadcrumb
+Home
+ESMA's Activities
+Digital Finance and Innovation
+Markets In Crypto-Assets Regulation (MiCA)
+Markets in Crypto-Assets Regulation (MiCA)
+The Markets in Crypto-Assets Regulation (MiCA) institutes uniform EU market rules for crypto-assets. The regulation covers crypto-assets that are not currently regulated by existing financial services legislation. Key provisions for those issuing and trading crypto-assets (including asset-reference tokens and e-money tokens) cover transparency, disclosure, authorisation and supervision of transactions. The new legal framework will support market integrity and financial stability by regulating public offers of crypto-assets and by ensuring consumers are better informed about their associated risks.
+MiCA Implementing Measures
+The Markets in Crypto Assets Regulation (MiCA) entered into force in June 2023. The regulation includes a substantial number of Level 2 and Level 3 measures that must be developed before the entry into application of the new regime (within a 12-to-18-month deadline depending on the mandate).
+During the implementation phase of MiCA, ESMA (in close cooperation with EBA, EIOPA, and the ECB) is consulting with the public on a range of technical standards that will be published sequentially in three packages. The aim is to deliver draft level 2 and 3 measures that incorporate feedback from the public as soon as possible. The date for the entry into application of the measures is subject to their adoption by the European Commission and approval by the European Parliament and the Council of the EU.
+Overview of MiCA Consultation Process
+ESMA is releasing the MiCA consultation packages in sequence starting with the Level 2 and Level 3 measures with the shortest deadlines. These include those related to authorisation, governance, conflicts of interest, and complaint handling procedures.
+The first package will be launched in July 2023. ESMA plans to publish the second package by October 2023. The third and final consultation package, which includes the MiCA mandates with an 18-month deadline, will be published (tentatively) in Q1 2024. A sequential approach will allow for better use of available resources (for ESMA, for NCAs, and for respondents).
+Details on the duration of each consultation will become available as they are published.
+Consultation Package 1
+The first consultation package will be published in July 2023. This package includes technical standards for the following mandates:
+Article 60(13): RTS on content of notification from selected entities to NCAs
+Article 60(14): ITS on forms and templates for notification from entities to NCAs
+Article 62(5): RTS on the content of the application for authorisation for CASPs
+Article 62(6): ITS on forms and templates for CASP authorisation application
+Article 71(5): RTS on complaint handling procedure
+Article 72(5): RTS on management and prevention, disclosure of conflict of interest
+Article 84(4): RTS on intended acquisition information requirements
+Consultation Package 2
+The second consultation package is expected to be published by October 2023. This package will likely cover all those remaining mandates with a 12-month deadline, including:
+Sustainability indicators
+Business continuity requirements
+Trade transparency data and order book record-keeping
+Record keeping requirements for CASPs
+Classification and templates and format of crypto-asset white papers
+Public disclosure of inside information
+Consultation Package 3
+The third and final consultation package is expected to be published in Q1 2024. This package will likely cover all those remaining mandates with an 18-month deadline, including:
+Qualification of crypto-assets as financial instruments
+Monitoring, detection, and notification of market abuse
+Investor protection:Reverse solicitationSuitability of advice and portfolio management services to the clientPolicies and procedures for crypto-asset transfer services, including clients' rights
+Reverse solicitation
+Suitability of advice and portfolio management services to the client
+Policies and procedures for crypto-asset transfer services, including clients' rights
+System resilience and security access protocols
+Useful reminders
+MiCA implementation timeline 🡫
+Supervisory Convergence in the MiCA Transitional Phase
+In parallel to the drafting of technical standards, ESMA is working with the national competent authorities (NCAs) on a convergent approach to authorisations of crypto-asset service providers (CASPs) during the transitional phase.
+The purpose of this supervisory convergence work is to ensure alignment on supervisory expectations related to entities offering crypto-asset services across EEA jurisdictions in the transitional period of MiCA and to promote, from the outset, consistent practices to be used after the entry into application of MiCA, starting with the authorisation regime.
+▸ List of grandfathering periods
+More background on MiCA transitional measures
+Member States will have the option of implementing ‘transitional measures’ (Article 143 of MiCA) that would allow entities or undertakings already providing crypto-asset services under applicable law in their jurisdictions to continue doing so during the transitional phase of MiCA (i.e., the period of 18-months after full application in December 2024). These transitional measures include:
+A ‘grand-fathering’ clause Art. 143 (3) – allowing entities providing crypto-asset services in accordance with national applicable laws before 30 December 2024 to continue to do so until 1 July 2026 or until they are granted or refused a MiCA authorisation.
+A simplified authorisation procedure Art. 143 (6) – for entities that were already authorised under national applicable law on 30 December 2024 to provide crypto-asset services.
+ESMA workplan
+During the transitional phase, a mix of regimes (e.g., MiCA or existing bespoke regimes) will coexist across Member States, which may result in disparate levels of protection for consumers of crypto-asset services. To overcome these challenges, ESMA is promoting supervisory convergence between Member States in three ways:
+Providing a forum where supervisors from the NCAs can exchange views on practical cases in their jurisdictions, as well as identifying best practices to promote convergence.
+Mapping the current landscape for entities providing crypto-asset services among Member States and surveying how each jurisdiction intends to approach the optional transitional measures.
+Engaging in ongoing consultations with the Commission to provide the basis for a common understanding (as early as possible) on MiCA provisions that might require further clarity.
+Information regarding notification requirements for Member States
+Interim MiCA Register
+Latest version
+White papers for crypto-assets other than ART and EMT
+Issuers of ART
+Issuers of EMT
+Crypto-asset service providers
+Non-compliant entities
+Last update: 24 March 2025
+About: Interim MiCA Register
+Articles 109 and 110 of the MiCA Regulation empower ESMA to publish a central register of crypto-asset white papers, authorised crypto-asset service providers, and non-compliant entities by 30 December 2024. The information displayed in the register is to be provided to ESMA by the relevant National Competent Authorities (NCAs) and the European Banking Authority (EBA).
+To meet the legal deadline, ESMA has prepared aninterim MiCA registerwhich will be updated and (re)published at regular intervals. The interim MiCA register will be available on this MiCA webpage (and on theDatabases and Registers webpage) as a collection of csv files until mid-2026 when it will be formally integrated into ESMA’s IT systems.
+The interim MiCA register consists of five csv files:
+White papers for crypto-assets other than asset-referenced tokens and e-money tokens (Title II);
+Issuers of asset-referenced tokens (Title III);
+Issuers of e-money tokens (Title IV);
+Authorised crypto-asset service providers (Title V);
+Non-compliant entities providing crypto-asset services.
+Update frequency
+Please note that ESMA will publish the latest version of the register on weekly intervals. As such, information that may be reported to ESMA by competent authorities or listed in a national register will not be immediately displayed.
+Information on the records displayed in the interim MiCA register
+Records displayed in each of the five interim MiCA register files reflect information received by the authorising (or notified) competent authority. In case an authorisation is withdrawn by the competent authority, this record will remain in the publication with the information on the date in which this withdrawal was effective. Further detail on how to interpret the information and formats for each field are available in the following file:
+Description of the fields in the interim MiCA register
+ESMA Links
+External Links
+Careers
+ESMA Documents
+Contact & Help
+Media Corner
+Cookie Policy
+Data Protection
+Social Media

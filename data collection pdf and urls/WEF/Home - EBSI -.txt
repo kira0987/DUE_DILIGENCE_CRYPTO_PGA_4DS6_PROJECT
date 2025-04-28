@@ -1,0 +1,442 @@
+Spaces
+Hit enter to search
+HelpOnline HelpKeyboard ShortcutsFeed BuilderWhat’s newAvailable GadgetsAbout Confluence
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Log in
+Pages
+Blog
+Page tree
+About usWhat is EBSILearn more about EBSI’s network,
+												infrastructure and
+												capabilitiesNewsRead the latest news about EBSIAbout usUnderstand how EBSI is managed, who is part
+												of the EBP
+												and the main achievements so farEventsFind out more about upcoming eventsLegalExplore the legal aspects governing the EBSI
+												ecosystemEBSI monitoringTrack essential KPIs and metrics about EBSI's progress and impactLearnEBSI ExplainedLearn about EBSI’s technology via
+												easy-to-understand
+												explanationsEBSI Verifiable CredentialsUnderstand how Verifiable Credentials work
+												and how to
+												implement themEBSI ProjectsLearn more about the ongoing EBSI
+												projectsExperience CentreExperience first-hand the future of
+												Web3Use EBSIChoose a walletDiscover all the conformant wallets and start using
+										EBSI’s
+										capabilitiesPilot with EBSIJoin the EBSI incubator to design, build and launch
+										your
+										(cross-border) pilot projectApply for grantsApply for grants and create innovate servicesDevelopersGuidelinesAccess comprehensive guidelines to help you
+												build your
+												EBSI solutionToolsExecute and test requests by using the EBSI
+												toolsVC FrameworkLearn about the Verifiable Credentials
+												frameworkTestsTest your conformance against EBSI
+												specificationsTechnical specificationsUse EBSI's APIs' to be part of the
+												ecosystemNode OperatorsBecome a Node OperatorLearn what is a Node Operator and how to join the
+										networkNetwork MapDiscover the interactive map of the EBSI Node networkNode Operator communityRestricted access for Node
+										OperatorsGet HelpHelp DeskReach out to our support office for
+										assistanceFAQFind answers to frequently asked questions about
+										EBSIGet HelpHelp DeskReach out to our support office for
+										assistanceFAQFind answers to frequently asked questions about
+										EBSI
+About usWhat is EBSILearn more about EBSI’s network,
+												infrastructure and
+												capabilitiesNewsRead the latest news about EBSIAbout usUnderstand how EBSI is managed, who is part
+												of the EBP
+												and the main achievements so farEventsFind out more about upcoming eventsLegalExplore the legal aspects governing the EBSI
+												ecosystemEBSI monitoringTrack essential KPIs and metrics about EBSI's progress and impact
+What is EBSILearn more about EBSI’s network,
+												infrastructure and
+												capabilities
+NewsRead the latest news about EBSI
+About usUnderstand how EBSI is managed, who is part
+												of the EBP
+												and the main achievements so far
+EventsFind out more about upcoming events
+LegalExplore the legal aspects governing the EBSI
+												ecosystem
+EBSI monitoringTrack essential KPIs and metrics about EBSI's progress and impact
+LearnEBSI ExplainedLearn about EBSI’s technology via
+												easy-to-understand
+												explanationsEBSI Verifiable CredentialsUnderstand how Verifiable Credentials work
+												and how to
+												implement themEBSI ProjectsLearn more about the ongoing EBSI
+												projectsExperience CentreExperience first-hand the future of
+												Web3
+EBSI ExplainedLearn about EBSI’s technology via
+												easy-to-understand
+												explanations
+EBSI Verifiable CredentialsUnderstand how Verifiable Credentials work
+												and how to
+												implement them
+EBSI ProjectsLearn more about the ongoing EBSI
+												projects
+Experience CentreExperience first-hand the future of
+												Web3
+Use EBSIChoose a walletDiscover all the conformant wallets and start using
+										EBSI’s
+										capabilitiesPilot with EBSIJoin the EBSI incubator to design, build and launch
+										your
+										(cross-border) pilot projectApply for grantsApply for grants and create innovate services
+Choose a walletDiscover all the conformant wallets and start using
+										EBSI’s
+										capabilities
+Pilot with EBSIJoin the EBSI incubator to design, build and launch
+										your
+										(cross-border) pilot project
+Apply for grantsApply for grants and create innovate services
+DevelopersGuidelinesAccess comprehensive guidelines to help you
+												build your
+												EBSI solutionToolsExecute and test requests by using the EBSI
+												toolsVC FrameworkLearn about the Verifiable Credentials
+												frameworkTestsTest your conformance against EBSI
+												specificationsTechnical specificationsUse EBSI's APIs' to be part of the
+												ecosystem
+GuidelinesAccess comprehensive guidelines to help you
+												build your
+												EBSI solution
+ToolsExecute and test requests by using the EBSI
+												tools
+VC FrameworkLearn about the Verifiable Credentials
+												framework
+TestsTest your conformance against EBSI
+												specifications
+Technical specificationsUse EBSI's APIs' to be part of the
+												ecosystem
+Node OperatorsBecome a Node OperatorLearn what is a Node Operator and how to join the
+										networkNetwork MapDiscover the interactive map of the EBSI Node networkNode Operator communityRestricted access for Node
+										Operators
+Become a Node OperatorLearn what is a Node Operator and how to join the
+										network
+Network MapDiscover the interactive map of the EBSI Node network
+Node Operator communityRestricted access for Node
+										Operators
+Get HelpHelp DeskReach out to our support office for
+										assistanceFAQFind answers to frequently asked questions about
+										EBSI
+Help DeskReach out to our support office for
+										assistance
+FAQFind answers to frequently asked questions about
+										EBSI
+Get HelpHelp DeskReach out to our support office for
+										assistanceFAQFind answers to frequently asked questions about
+										EBSI
+Help DeskReach out to our support office for
+										assistance
+FAQFind answers to frequently asked questions about
+										EBSI
+Attachments (99)Page HistoryPage InformationResolved commentsView in HierarchyView SourceExport to PDFExport to WordExport to PDFPage LabelsAttachment LabelsHide Inline Comments
+Attachments (99)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Export to PDF
+Page Labels
+Attachment Labels
+Hide Inline Comments
+Pages
+Jira links
+Home
+Created byVirginie MANGELINCK, last modified byChristos Chartomatsidisabout 6 hours ago
+Experience cross-border services with EBSI.The first public sector blockchain infrastructure in Europe
+By the European Commission and the European Blockchain Partnership
+Get started
+E
+Introducing EBSI
+TheEuropean Blockchain Services Infrastructure (EBSI)was born in 2018 when29 countries(all EU members states, Norway and Liechtenstein) and theEU Commissionjoined forces to create theEuropean Blockchain Partnership (EBP).
+The EBP’s vision is to leverage blockchain to create cross-border services for public administrations, businesses, citizens and their ecosystems to verify information and make services trustworthy. As EBSI continues to evolve, so does its governance. The EUROPEUM-EDIC, a new legal entity, is currently in the process of taking over EBSI's governance and preparing it to go into production.
+Discover and understand EBSI by having a look at our website and visiting theFAQs.
+What is EBSI?
+Get Started
+Discover
+Discover everything about EBSI’s ecosystem.
+Start
+Start using EBSI’s services.
+Learn
+Learn about EBSI's pilot projects and success stories.
+Build
+Build your own services using the technical documentation.
+EBSI Architecture
+Since 2018, the European Commission (EC) and the European Blockchain Partnership (EBP) have been building the European Blockchain Services Infrastructure (EBSI). The EBP and the EC develop and deploy EBSI througha network of distributed nodesacross Europe to support cross-border applications such as Track and Trace,Verifiable Credentials, Trusted Data Exchange and IP management across multiple domains.So far, the EBP has supported the developer of use cases in key domains such as SME Financing, Document Traceability, Self-sovereign Identity, Social Security, Diploma, Asylum Process Management and Trusted Data Sharing.
+Explore the What is EBSI pageand learn more about EBSI’s network, infrastructure and capabilities.
+What is EBSI?
+What can you do with EBSI
+EBSI’s capabilities are categorised into different families: Verifiable Credentials, Trusted Data Exchange and Track and Trace.  Each family is divided into subdomains that you can discover below.
+Digital wallets
+Wallets are applications that let you interact with the EBSI ecosystem. 
+It is a tool to let you manage your account and all your documents on the network. With your EBSI conformant wallet, you are able to store, verify and share information across Europe.
+Learn more
+Discover the EBSI ProjectsIn collaboration with European universities, cross-border
+              initiatives have been launched to address challenges in verifying
+              and securing information across Europe. These pioneering projects
+              demonstrate how blockchain technology can make information easier
+              to verify and nearly impossible to fake.Explore the groundbreaking projects that are transforming digital
+              trust across borders below.Learn more about the projectsVerification ofDocumentsAccess to digital public services/Public Administrations InteroperabilityAccessing citizen facilities between regional and
+                              national governments. (2023/2024)Read the full story/Municipality CredentialsStudent benefits using municipality credentials.
+                              (2021 / 2022)Read the full story/European Qualification Passport for RefugeesRefugee EQPR credentials for European University
+                              applications. (2021 / 2022)Read the full storyEducation and lifelong learning/Educational IdentificationShaping the simplicity and reliability of
+                              cross-border student eIDs throughout Europe.
+                              (2023/2024)Read the full story/University AlliancesOffer foreign university students seamless access
+                              to courses, workshops or services.Read the full story/Transcript of RecordsReceiving a master's diploma after receiving a
+                              transcript of records from Erasmus. (2021 / 2022)Read the full storyEducation and lifelong learning/Micro-credentialsHelping lifelong learners access recognised
+                                micro-credentials for their educational
+                                achievements (2023-2024)Read the full story/Micro-credentialsPhD student applications for specific courses in a
+                                foreign country. (2021/2022)Read the full story/Formal Accreditation and RecognitionFacilitating the use of digital student university
+                                certificates for cross-border use. (2023/2024)Read the full storyEducation and lifelong learning/Bachelor / Master DegreeApplying for a PhD with a bachelor/master's degree
+                                from a foreign country. (2021 / 2022)Read the full story/Vocational Education and TrainingAssisting European citizens with the use of
+                                vocational education and training certifications
+                                across Europe. (2023/2024)Read the full storyEmployment/Employment credentialsHelping labour force mobility across borders by
+                              facilitating the verification process of work
+                              certificates. (2023/2024)Read the full story/Licence to PracticeJob applications with a degree from another
+                              foreign country. (2021 / 2022)Read the full storyResumé Credentials ApplicationEstablishing a unified digital system across
+                              Europe for the storage and exchange of various
+                              educational and professional qualifications.Read the full storyEmploymentCertificate of Good ConductHelping organizations, associations, and employees
+                                deploy a seamless pre-employment screening process
+                                to create a safer work environment.Read the full storyTravelDigital Ferry Onboarding ExperienceImproving all aspects of traveling experience via
+                              ferry for EU students, by simplifying by
+                              simplifying the onboarding experience.Read the full storyIntellectual propertyOpen Rights Data ExchangeFraming data management practices in the creative
+                              industries to improve authoritative and updated
+                              information on rightsholders, terms and
+                              conditions, and licensing opportunities.Read the full storyVerification ofProductsIP Rights/ Creative industries/EBSI-ELSA (EUIPO)Increasing supply chain transparency to address EU
+                              counterfeiting of products.Read the full storyOpen Rights Data ExchangeFraming data management practices in the creative
+                              industries to improve authoritative and updated
+                              information on rightsholders, terms and
+                              conditions, and licensing opportunities.Read the full storyMetrologyRandom Red Ltd.Helping European national and private actors
+                              increase the reliability of scientific measurement
+                              and calibration processes across industries and
+                              borders.Read the full storyTax and customs/e-OriginHelping customs brokers, online sellers and
+                              marketplaces address VAT evasion.Read the full storyFood & beverageTRACE4EU Seafood TracingHelping the EU Fishing Industry to enhance product
+                              traceability, food safety, and combat illegal
+                              fishing.Read the full storyConstructionTrace4EU Battery Materials TraceabilityHelping European battery manufacturers enhance the
+                              reliability of information critical to the usage
+                              of product passports.Read the full storyVerification ofLegal EntitiesOnePass: SME FinancingEnabling cross-border investment within Europe by
+                              creating a trust framework between startups,
+                              investors, and trusted operators of services to
+                              startups.Read the full storyEBSI-VECTOR | Business RegistriesGetting legal entities verified to facilitate
+                              cross-border business transactions.Read the full story
+Discover the EBSI Projects
+In collaboration with European universities, cross-border
+              initiatives have been launched to address challenges in verifying
+              and securing information across Europe. These pioneering projects
+              demonstrate how blockchain technology can make information easier
+              to verify and nearly impossible to fake.
+Explore the groundbreaking projects that are transforming digital
+              trust across borders below.
+Learn more about the projects
+Verification ofDocuments
+Access to digital public services
+Public Administrations Interoperability
+Accessing citizen facilities between regional and
+                              national governments. (2023/2024)
+Read the full story
+Municipality Credentials
+Student benefits using municipality credentials.
+                              (2021 / 2022)
+Read the full story
+European Qualification Passport for Refugees
+Refugee EQPR credentials for European University
+                              applications. (2021 / 2022)
+Read the full story
+Education and lifelong learning
+Educational Identification
+Shaping the simplicity and reliability of
+                              cross-border student eIDs throughout Europe.
+                              (2023/2024)
+Read the full story
+University Alliances
+Offer foreign university students seamless access
+                              to courses, workshops or services.
+Read the full story
+Transcript of Records
+Receiving a master's diploma after receiving a
+                              transcript of records from Erasmus. (2021 / 2022)
+Read the full story
+Education and lifelong learning
+Micro-credentials
+Helping lifelong learners access recognised
+                                micro-credentials for their educational
+                                achievements (2023-2024)
+Read the full story
+Micro-credentials
+PhD student applications for specific courses in a
+                                foreign country. (2021/2022)
+Read the full story
+Formal Accreditation and Recognition
+Facilitating the use of digital student university
+                                certificates for cross-border use. (2023/2024)
+Read the full story
+Education and lifelong learning
+Bachelor / Master Degree
+Applying for a PhD with a bachelor/master's degree
+                                from a foreign country. (2021 / 2022)
+Read the full story
+Vocational Education and Training
+Assisting European citizens with the use of
+                                vocational education and training certifications
+                                across Europe. (2023/2024)
+Read the full story
+Employment
+Employment credentials
+Helping labour force mobility across borders by
+                              facilitating the verification process of work
+                              certificates. (2023/2024)
+Read the full story
+Licence to Practice
+Job applications with a degree from another
+                              foreign country. (2021 / 2022)
+Read the full story
+Resumé Credentials Application
+Establishing a unified digital system across
+                              Europe for the storage and exchange of various
+                              educational and professional qualifications.
+Read the full story
+Employment
+Certificate of Good Conduct
+Helping organizations, associations, and employees
+                                deploy a seamless pre-employment screening process
+                                to create a safer work environment.
+Read the full story
+Travel
+Digital Ferry Onboarding Experience
+Improving all aspects of traveling experience via
+                              ferry for EU students, by simplifying by
+                              simplifying the onboarding experience.
+Read the full story
+Intellectual property
+Open Rights Data Exchange
+Framing data management practices in the creative
+                              industries to improve authoritative and updated
+                              information on rightsholders, terms and
+                              conditions, and licensing opportunities.
+Read the full story
+Verification ofProducts
+IP Rights/ Creative industries
+EBSI-ELSA (EUIPO)
+Increasing supply chain transparency to address EU
+                              counterfeiting of products.
+Read the full story
+Open Rights Data Exchange
+Framing data management practices in the creative
+                              industries to improve authoritative and updated
+                              information on rightsholders, terms and
+                              conditions, and licensing opportunities.
+Read the full story
+Metrology
+Random Red Ltd.
+Helping European national and private actors
+                              increase the reliability of scientific measurement
+                              and calibration processes across industries and
+                              borders.
+Read the full story
+Tax and customs
+e-Origin
+Helping customs brokers, online sellers and
+                              marketplaces address VAT evasion.
+Read the full story
+Food & beverage
+TRACE4EU Seafood Tracing
+Helping the EU Fishing Industry to enhance product
+                              traceability, food safety, and combat illegal
+                              fishing.
+Read the full story
+Construction
+Trace4EU Battery Materials Traceability
+Helping European battery manufacturers enhance the
+                              reliability of information critical to the usage
+                              of product passports.
+Read the full story
+Verification ofLegal Entities
+OnePass: SME Financing
+Enabling cross-border investment within Europe by
+                              creating a trust framework between startups,
+                              investors, and trusted operators of services to
+                              startups.
+Read the full story
+EBSI-VECTOR | Business Registries
+Getting legal entities verified to facilitate
+                              cross-border business transactions.
+Read the full story
+In the spotlight
+EBSI FAQ
+What is the European Blockchain Partnership?
+The European Blockchain Partnership (EBP) was created in April 2018 by a Joint Declaration and includes all EU Member States and members of the European Economic Area (Norway and Liechtenstein). The signatories of this Joint Declaration commit to working together towards realising the potential of blockchain-based services for the benefit of citizens, society and the economy. As part of this commitment, the Partnership is building a European Blockchain Services Infrastructure (EBSI), which will deliver EU-wide cross-border public services using blockchain technology. In 2020, EBSI will deploy a network of distributed blockchain nodes across Europe, supporting applications focused on selected use-cases.
+Why Blockchain and EBSI?
+As we build the European regulatory framework, in the transition from paper to digital, a key question arises: how to share official documents, called ‘evidences’ or ‘credentials’ in a way that can be trusted?
+
+Blockchain changes the traditional pattern of data sharing due to its distributed nature, as opposed to a centralised information exchange protocol. Blockchain can act as a point of truth that supports the verification of the entities involved in the transaction and the authenticity of information without requiring real-time access to the source of the information.
+
+EBSI's objective is leveraging on blockchain to accelerate the creation of cross-border services for public administrations and their ecosystems to verify information and to make services more trustworthy.
+What is the technology behind EBSI?
+The European Blockchain Services Infrastructure (EBSI) is a network of distributed blockchain nodes across Europe. It is the first EU-wide blockchain infrastructure, driven by the public sector, in full respect of European values and regulations.
+
+The EBSI nodes composing the network support multiple protocols (pluggable protocols) and a full set of APIs. The main protocols supported at the moment are Hyperledger Besu (with IBFT 2.0 consensus) and Fabric.
+See all FAQs
+Subscribe to our Newsflash
+Receive the latest news, invitations to our webinars and remain updated about the European Blockchain Services Infrastructure .
+Sign up(opens in a new tab)
+CloseRegister your interestInterested to pilot and/or implement an EBSI use case?Leave us your email to find out how to take part in the development of the EBSI ecosystem.Company or organisationrequiredEmail addressrequiredOur EBSI Early adopter programme is growing, and new tracks are added to the verifiable credential’s family, please let us know what you would be interested in?requiredPiloting a new credential in the education domainPiloting a new credential in the social security domainImplementing credentials successfully piloted in the education domainProposing a new use case in a specific domain where verifiable credentials are relevantOtherPlease specify which credentialrequiredPlease specify which credentialrequiredPlease specify which credentialrequiredPlease specifyrequiredPlease specify, which domain, use case and verifiable credentialrequiredPlease specify which rolerequiredTAOIssuerHolderVerifierWallet and/or software providerPlease specify which rolerequiredTAOIssuerHolderVerifierWallet and/or software providerPlease specify which rolerequiredTAOIssuerHolderVerifierWallet and/or software providerIf you would like to receive information about the possibility to pilot, implement, or propose a use case, please tick the first box in the section below.In compliance with the data protection recordsDPR-EC-01011(opens in a new tab)andDPR-EC-03928(opens in a new tab)and the privacy statementavailable here, I accept that the European Commission use the information I have provided in order to:Please selectManage my subscription to receive information about the possibility to pilot and/or implement an EBSI use case.Manage my subscription to the EBSI newsflash, in order to receive the latest news about the programme.
+Close
+Register your interest
+Interested to pilot and/or implement an EBSI use case?Leave us your email to find out how to take part in the development of the EBSI ecosystem.
+If you would like to receive information about the possibility to pilot, implement, or propose a use case, please tick the first box in the section below.
+In compliance with the data protection recordsDPR-EC-01011(opens in a new tab)andDPR-EC-03928(opens in a new tab)and the privacy statementavailable here, I accept that the European Commission use the information I have provided in order to:
+No labels
+EBSI is a Partnership of all EU Member States, Norway and
+			Liechtenstein and the European Commission, building a European
+			Blockchain Services Infrastructure (EBSI).Subscribe to our NewsflashReceive the latest news, invitations to our webinars and remain
+			updated about the European Blockchain Services Infrastructure.Sign Up(opens in a new tab)About usWhat is EBSIAbout usLegalNewsEventsLearnExplained SeriesEBSI Verifiable CredentialsExperience CentreGlossaryUse EBSIChoose a walletPilot with EBSIApply for grantsFor developersStart a ProjectVC FrameworkTechnical SpecificationToolsTestNodesBecome a Node OperatorNode Operators communityEnterpriseLegal notice(opens in a new tab)Cookies(opens in a new tab)Compliance documentsAccessibility statementStakeholder's brand guidelinesVulnerability management policy(opens in a new tab)AdministrationAccess Help Desk(opens in a new tab)FAQ(opens in a new tab)You can find information on how your personal data will be
+				  processed in thisprivacy statement.
+EBSI is a Partnership of all EU Member States, Norway and
+			Liechtenstein and the European Commission, building a European
+			Blockchain Services Infrastructure (EBSI).
+Subscribe to our Newsflash
+Receive the latest news, invitations to our webinars and remain
+			updated about the European Blockchain Services Infrastructure.
+About us
+What is EBSI
+About us
+Legal
+News
+Events
+Learn
+Explained Series
+EBSI Verifiable Credentials
+Experience Centre
+Glossary
+Use EBSI
+Choose a wallet
+Pilot with EBSI
+Apply for grants
+For developers
+Start a Project
+VC Framework
+Technical Specification
+Tools
+Test
+Nodes
+Become a Node Operator
+Node Operators community
+Enterprise
+Legal notice(opens in a new tab)
+Cookies(opens in a new tab)
+Compliance documents
+Accessibility statement
+Stakeholder's brand guidelines
+Vulnerability management policy(opens in a new tab)
+Administration
+Access Help Desk(opens in a new tab)
+Access Help Desk(opens in a new tab)
+FAQ(opens in a new tab)
+FAQ(opens in a new tab)
+You can find information on how your personal data will be
+				  processed in thisprivacy statement.
+Powered by a freeAtlassian Confluence Open Source Project Licensegranted to EC DIGIT.Evaluate Confluence today.
+Powered byAtlassian Confluence8.5.14
+Printed by Atlassian Confluence 8.5.14
+Report a bug
+Atlassian News
