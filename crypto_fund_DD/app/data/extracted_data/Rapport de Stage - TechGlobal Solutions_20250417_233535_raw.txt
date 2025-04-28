@@ -1,0 +1,623 @@
+Logo Université
+Rapport de Stage
+TechGlobal Solutions
+Étudiant : [Nom Prénom]
+Année universitaire : 2024 - 2025
+28/03/2025 22:06
+Rapport de Stage - TechGlobal Solutions
+file:///C:/Users/MYPC/pfe-generator/pfe_report_04.html
+1/20
+
+Dédicace
+Nous dédions ce projet à notre équipe TechGlobal Solutions pour son soutien
+constant et sa motivation sans faille.
+Nous remercions également nos familles, amis et collègues qui nous ont encouragés
+tout au long de ce parcours.
+[ACKNOWLEDGMENTS]
+Je tiens à remercier vivement mes encadrants techniques M. Ayman Ben Naceur et
+Mme Yousra Louati pour leur accompagnement technique et humain.
+Je remercie également le personnel de TechGlobal Solutions, qui a contribué à la
+réussite de ce projet.
+[INTRODUCTION]
+L'objectif de ce rapport est de présenter le développement d'une plateforme web de
+gestion des demandes de congé. Cette application vise à numériser et simplifier tout
+le processus de gestion des congés pour les employés, les managers et les RH d'une
+entreprise.
+Cette plateforme permettra aux employés de faire des demandes de congé en ligne,
+aux managers de les valider, et aux RH de gérer l'ensemble de l'historique des
+congés.
+[CHAPTER_1]
+Présentation de l’entreprise TechGlobal Solutions :
+TechGlobal Solutions est une société qui propose des solutions informatiques pour
+améliorer la productivité et la gestion dans les entreprises. Nous avons choisi cette
+entreprise car elle nous offre un cadre idéal pour mettre en œuvre notre projet.
+Analyse du besoin :
+La gestion manuelle des congés est souvent fastidieuse, coûteuse et peu efficace.
+Les employés doivent remplir des formulaires papier ou électroniques, les managers
+doivent valider les demandes de manière manuelle, et les RH doivent gérer
+l'ensemble de l'historique. C'est pourquoi nous avons choisi de développer une
+28/03/2025 22:06
+Rapport de Stage - TechGlobal Solutions
+file:///C:/Users/MYPC/pfe-generator/pfe_report_04.html
+2/20
+
+plateforme web pour simplifier ce processus.
+Choix technologiques :
+Nous avons sélectionné React comme framework front-end, Node.js avec Express
+pour le back-end, MongoDB comme base de données et Figma pour la conception
+graphique. Nous avons également utilisé Git pour la gestion du code source.
+[CHAPTER_2]
+Spécifications fonctionnelles :
+* L'employé peut faire une demande de congé en ligne.
+* Le manager valide ou refuse la demande de congé.
+* Les RH gèrent l'historique des congés et les stats sur les demandes
+approuvées/refusées.
+Cas d'utilisation :
+L'utilisateur employé se connecte à la plateforme, renseigne les informations
+nécessaires (dates du congé, type de congé, raison) et soumet sa demande. Le
+manager reçoit une notification de nouvelle demande, valide ou refuse la demande
+en fonction des besoins de l'entreprise. Les RH gèrent l'historique des demandes de
+congé.
+Analyse UML :
+Nous avons utilisé UML pour représenter les classes et leurs interactions :
+* La classe `Employe` représente les informations de l'employé (nom, prenom, email).
+* La classe `Conge` représente la demande de congé (dates du congé, type de
+congé, raison).
+* La classe `Manager` représente le manager qui valide ou refuse la demande de
+congé.
+[CHAPTER_3]
+Architecture :
+L'architecture de notre plateforme est sous forme d'une application web complète
+avec les interfaces suivantes :
+* Interface utilisateur pour les employés (connexion, saisie des informations de la
+28/03/2025 22:06
+Rapport de Stage - TechGlobal Solutions
+file:///C:/Users/MYPC/pfe-generator/pfe_report_04.html
+3/20
+
+demande de congé).
+* Interface administrateur pour les managers (validation/refus des demandes de
+congé).
+* Interface RH pour les responsables RH (gestion de l'historique des demandes de
+congé).
+Conception :
+Nous avons utilisé Figma pour concevoir les interfaces utilisateur et administrateur.
+Nous avons également créé un prototype fonctionnel pour tester les fonctionnalités.
+[CHAPTER_4]
+Développement :
+Nous avons utilisé React pour le front-end, Node.js avec Express pour le back-end,
+MongoDB comme base de données et Git pour la gestion du code source.
+Tests :
+Nous avons réalisé des tests unitaires et d'intégration pour s'assurer que les
+fonctionnalités sont correctes.
+Résultats :
+La plateforme web de gestion des demandes de congé est maintenant
+opérationnelle. Les employés peuvent faire des demandes en ligne, les managers
+peuvent valider ou refuser les demandes et les RH peuvent gérer l'historique.
+[CONCLUSION]
+Ce projet a permis à notre équipe d'acquérir de nouvelles compétences techniques
+et de mettre en œuvre une solution efficace pour la gestion des congés. Nous
+sommes convaincus que cette plateforme peut améliorer la productivité et la gestion
+dans les entreprises.
+Bilan :
+La plateforme web de gestion des demandes de congé est maintenant
+opérationnelle. Les employés peuvent faire des demandes en ligne, les managers
+peuvent valider ou refuser les demandes et les RH peuvent gérer l'historique.
+Perspectives :
+28/03/2025 22:06
+Rapport de Stage - TechGlobal Solutions
+file:///C:/Users/MYPC/pfe-generator/pfe_report_04.html
+4/20
+
+Nous comptons continuer à améliorer la plateforme pour qu'elle soit encore plus
+efficace et intuitive pour les utilisateurs.
+Compétences :
+Ce projet a permis à notre équipe d'acquérir de nouvelles compétences techniques
+telles que :
+* Développement web complète avec React, Node.js, Express, MongoDB.
+* Conception graphique avec Figma.
+* Gestion du code source avec Git.
+Nous sommes convaincus que cette expérience nous a apporté un grand
+enrichissement en termes de compétences techniques et d'expérience
+professionnelle.
+Remerciements
+Je tiens à remercier vivement mes encadrants techniques M. Ayman Ben Naceur et
+Mme Yousra Louati pour leur accompagnement technique et humain.
+Je remercie également le personnel de TechGlobal Solutions, qui a contribué à la
+réussite de ce projet.
+[INTRODUCTION]
+L'objectif de ce rapport est de présenter le développement d'une plateforme web de
+gestion des demandes de congé. Cette application vise à numériser et simplifier tout
+le processus de gestion des congés pour les employés, les managers et les RH d'une
+entreprise.
+Cette plateforme permettra aux employés de faire des demandes de congé en ligne,
+aux managers de les valider, et aux RH de gérer l'ensemble de l'historique des
+congés.
+[CHAPTER_1]
+Présentation de l’entreprise TechGlobal Solutions :
+TechGlobal Solutions est une société qui propose des solutions informatiques pour
+28/03/2025 22:06
+Rapport de Stage - TechGlobal Solutions
+file:///C:/Users/MYPC/pfe-generator/pfe_report_04.html
+5/20
+
+améliorer la productivité et la gestion dans les entreprises. Nous avons choisi cette
+entreprise car elle nous offre un cadre idéal pour mettre en œuvre notre projet.
+Analyse du besoin :
+La gestion manuelle des congés est souvent fastidieuse, coûteuse et peu efficace.
+Les employés doivent remplir des formulaires papier ou électroniques, les managers
+doivent valider les demandes de manière manuelle, et les RH doivent gérer
+l'ensemble de l'historique. C'est pourquoi nous avons choisi de développer une
+plateforme web pour simplifier ce processus.
+Choix technologiques :
+Nous avons sélectionné React comme framework front-end, Node.js avec Express
+pour le back-end, MongoDB comme base de données et Figma pour la conception
+graphique. Nous avons également utilisé Git pour la gestion du code source.
+[CHAPTER_2]
+Spécifications fonctionnelles :
+* L'employé peut faire une demande de congé en ligne.
+* Le manager valide ou refuse la demande de congé.
+* Les RH gèrent l'historique des congés et les stats sur les demandes
+approuvées/refusées.
+Cas d'utilisation :
+L'utilisateur employé se connecte à la plateforme, renseigne les informations
+nécessaires (dates du congé, type de congé, raison) et soumet sa demande. Le
+manager reçoit une notification de nouvelle demande, valide ou refuse la demande
+en fonction des besoins de l'entreprise. Les RH gèrent l'historique des demandes de
+congé.
+Analyse UML :
+Nous avons utilisé UML pour représenter les classes et leurs interactions :
+* La classe `Employe` représente les informations de l'employé (nom, prenom, email).
+* La classe `Conge` représente la demande de congé (dates du congé, type de
+congé, raison).
+* La classe `Manager` représente le manager qui valide ou refuse la demande de
+28/03/2025 22:06
+Rapport de Stage - TechGlobal Solutions
+file:///C:/Users/MYPC/pfe-generator/pfe_report_04.html
+6/20
+
+congé.
+[CHAPTER_3]
+Architecture :
+L'architecture de notre plateforme est sous forme d'une application web complète
+avec les interfaces suivantes :
+* Interface utilisateur pour les employés (connexion, saisie des informations de la
+demande de congé).
+* Interface administrateur pour les managers (validation/refus des demandes de
+congé).
+* Interface RH pour les responsables RH (gestion de l'historique des demandes de
+congé).
+Conception :
+Nous avons utilisé Figma pour concevoir les interfaces utilisateur et administrateur.
+Nous avons également créé un prototype fonctionnel pour tester les fonctionnalités.
+[CHAPTER_4]
+Développement :
+Nous avons utilisé React pour le front-end, Node.js avec Express pour le back-end,
+MongoDB comme base de données et Git pour la gestion du code source.
+Tests :
+Nous avons réalisé des tests unitaires et d'intégration pour s'assurer que les
+fonctionnalités sont correctes.
+Résultats :
+La plateforme web de gestion des demandes de congé est maintenant
+opérationnelle. Les employés peuvent faire des demandes en ligne, les managers
+peuvent valider ou refuser les demandes et les RH peuvent gérer l'historique.
+[CONCLUSION]
+Ce projet a permis à notre équipe d'acquérir de nouvelles compétences techniques
+et de mettre en œuvre une solution efficace pour la gestion des congés. Nous
+sommes convaincus que cette plateforme peut améliorer la productivité et la gestion
+28/03/2025 22:06
+Rapport de Stage - TechGlobal Solutions
+file:///C:/Users/MYPC/pfe-generator/pfe_report_04.html
+7/20
+
+dans les entreprises.
+Bilan :
+La plateforme web de gestion des demandes de congé est maintenant
+opérationnelle. Les employés peuvent faire des demandes en ligne, les managers
+peuvent valider ou refuser les demandes et les RH peuvent gérer l'historique.
+Perspectives :
+Nous comptons continuer à améliorer la plateforme pour qu'elle soit encore plus
+efficace et intuitive pour les utilisateurs.
+Compétences :
+Ce projet a permis à notre équipe d'acquérir de nouvelles compétences techniques
+telles que :
+* Développement web complète avec React, Node.js, Express, MongoDB.
+* Conception graphique avec Figma.
+* Gestion du code source avec Git.
+Nous sommes convaincus que cette expérience nous a apporté un grand
+enrichissement en termes de compétences techniques et d'expérience
+professionnelle.
+Introduction
+L'objectif de ce rapport est de présenter le développement d'une plateforme web de
+gestion des demandes de congé. Cette application vise à numériser et simplifier tout
+le processus de gestion des congés pour les employés, les managers et les RH d'une
+entreprise.
+Cette plateforme permettra aux employés de faire des demandes de congé en ligne,
+aux managers de les valider, et aux RH de gérer l'ensemble de l'historique des
+congés.
+[CHAPTER_1]
+28/03/2025 22:06
+Rapport de Stage - TechGlobal Solutions
+file:///C:/Users/MYPC/pfe-generator/pfe_report_04.html
+8/20
+
+Présentation de l’entreprise TechGlobal Solutions :
+TechGlobal Solutions est une société qui propose des solutions informatiques pour
+améliorer la productivité et la gestion dans les entreprises. Nous avons choisi cette
+entreprise car elle nous offre un cadre idéal pour mettre en œuvre notre projet.
+Analyse du besoin :
+La gestion manuelle des congés est souvent fastidieuse, coûteuse et peu efficace.
+Les employés doivent remplir des formulaires papier ou électroniques, les managers
+doivent valider les demandes de manière manuelle, et les RH doivent gérer
+l'ensemble de l'historique. C'est pourquoi nous avons choisi de développer une
+plateforme web pour simplifier ce processus.
+Choix technologiques :
+Nous avons sélectionné React comme framework front-end, Node.js avec Express
+pour le back-end, MongoDB comme base de données et Figma pour la conception
+graphique. Nous avons également utilisé Git pour la gestion du code source.
+[CHAPTER_2]
+Spécifications fonctionnelles :
+* L'employé peut faire une demande de congé en ligne.
+* Le manager valide ou refuse la demande de congé.
+* Les RH gèrent l'historique des congés et les stats sur les demandes
+approuvées/refusées.
+Cas d'utilisation :
+L'utilisateur employé se connecte à la plateforme, renseigne les informations
+nécessaires (dates du congé, type de congé, raison) et soumet sa demande. Le
+manager reçoit une notification de nouvelle demande, valide ou refuse la demande
+en fonction des besoins de l'entreprise. Les RH gèrent l'historique des demandes de
+congé.
+Analyse UML :
+Nous avons utilisé UML pour représenter les classes et leurs interactions :
+* La classe `Employe` représente les informations de l'employé (nom, prenom, email).
+* La classe `Conge` représente la demande de congé (dates du congé, type de
+28/03/2025 22:06
+Rapport de Stage - TechGlobal Solutions
+file:///C:/Users/MYPC/pfe-generator/pfe_report_04.html
+9/20
+
+congé, raison).
+* La classe `Manager` représente le manager qui valide ou refuse la demande de
+congé.
+[CHAPTER_3]
+Architecture :
+L'architecture de notre plateforme est sous forme d'une application web complète
+avec les interfaces suivantes :
+* Interface utilisateur pour les employés (connexion, saisie des informations de la
+demande de congé).
+* Interface administrateur pour les managers (validation/refus des demandes de
+congé).
+* Interface RH pour les responsables RH (gestion de l'historique des demandes de
+congé).
+Conception :
+Nous avons utilisé Figma pour concevoir les interfaces utilisateur et administrateur.
+Nous avons également créé un prototype fonctionnel pour tester les fonctionnalités.
+[CHAPTER_4]
+Développement :
+Nous avons utilisé React pour le front-end, Node.js avec Express pour le back-end,
+MongoDB comme base de données et Git pour la gestion du code source.
+Tests :
+Nous avons réalisé des tests unitaires et d'intégration pour s'assurer que les
+fonctionnalités sont correctes.
+Résultats :
+La plateforme web de gestion des demandes de congé est maintenant
+opérationnelle. Les employés peuvent faire des demandes en ligne, les managers
+peuvent valider ou refuser les demandes et les RH peuvent gérer l'historique.
+[CONCLUSION]
+Ce projet a permis à notre équipe d'acquérir de nouvelles compétences techniques
+28/03/2025 22:06
+Rapport de Stage - TechGlobal Solutions
+file:///C:/Users/MYPC/pfe-generator/pfe_report_04.html
+10/20
+
+et de mettre en œuvre une solution efficace pour la gestion des congés. Nous
+sommes convaincus que cette plateforme peut améliorer la productivité et la gestion
+dans les entreprises.
+Bilan :
+La plateforme web de gestion des demandes de congé est maintenant
+opérationnelle. Les employés peuvent faire des demandes en ligne, les managers
+peuvent valider ou refuser les demandes et les RH peuvent gérer l'historique.
+Perspectives :
+Nous comptons continuer à améliorer la plateforme pour qu'elle soit encore plus
+efficace et intuitive pour les utilisateurs.
+Compétences :
+Ce projet a permis à notre équipe d'acquérir de nouvelles compétences techniques
+telles que :
+* Développement web complète avec React, Node.js, Express, MongoDB.
+* Conception graphique avec Figma.
+* Gestion du code source avec Git.
+Nous sommes convaincus que cette expérience nous a apporté un grand
+enrichissement en termes de compétences techniques et d'expérience
+professionnelle.
+Chapitre 1 : Présentation de l’entreprise et du
+contexte
+Présentation de l’entreprise TechGlobal Solutions :
+TechGlobal Solutions est une société qui propose des solutions informatiques pour
+améliorer la productivité et la gestion dans les entreprises. Nous avons choisi cette
+entreprise car elle nous offre un cadre idéal pour mettre en œuvre notre projet.
+Analyse du besoin :
+28/03/2025 22:06
+Rapport de Stage - TechGlobal Solutions
+file:///C:/Users/MYPC/pfe-generator/pfe_report_04.html
+11/20
+
+La gestion manuelle des congés est souvent fastidieuse, coûteuse et peu efficace.
+Les employés doivent remplir des formulaires papier ou électroniques, les managers
+doivent valider les demandes de manière manuelle, et les RH doivent gérer
+l'ensemble de l'historique. C'est pourquoi nous avons choisi de développer une
+plateforme web pour simplifier ce processus.
+Choix technologiques :
+Nous avons sélectionné React comme framework front-end, Node.js avec Express
+pour le back-end, MongoDB comme base de données et Figma pour la conception
+graphique. Nous avons également utilisé Git pour la gestion du code source.
+[CHAPTER_2]
+Spécifications fonctionnelles :
+* L'employé peut faire une demande de congé en ligne.
+* Le manager valide ou refuse la demande de congé.
+* Les RH gèrent l'historique des congés et les stats sur les demandes
+approuvées/refusées.
+Cas d'utilisation :
+L'utilisateur employé se connecte à la plateforme, renseigne les informations
+nécessaires (dates du congé, type de congé, raison) et soumet sa demande. Le
+manager reçoit une notification de nouvelle demande, valide ou refuse la demande
+en fonction des besoins de l'entreprise. Les RH gèrent l'historique des demandes de
+congé.
+Analyse UML :
+Nous avons utilisé UML pour représenter les classes et leurs interactions :
+* La classe `Employe` représente les informations de l'employé (nom, prenom, email).
+* La classe `Conge` représente la demande de congé (dates du congé, type de
+congé, raison).
+* La classe `Manager` représente le manager qui valide ou refuse la demande de
+congé.
+[CHAPTER_3]
+Architecture :
+28/03/2025 22:06
+Rapport de Stage - TechGlobal Solutions
+file:///C:/Users/MYPC/pfe-generator/pfe_report_04.html
+12/20
+
+L'architecture de notre plateforme est sous forme d'une application web complète
+avec les interfaces suivantes :
+* Interface utilisateur pour les employés (connexion, saisie des informations de la
+demande de congé).
+* Interface administrateur pour les managers (validation/refus des demandes de
+congé).
+* Interface RH pour les responsables RH (gestion de l'historique des demandes de
+congé).
+Conception :
+Nous avons utilisé Figma pour concevoir les interfaces utilisateur et administrateur.
+Nous avons également créé un prototype fonctionnel pour tester les fonctionnalités.
+[CHAPTER_4]
+Développement :
+Nous avons utilisé React pour le front-end, Node.js avec Express pour le back-end,
+MongoDB comme base de données et Git pour la gestion du code source.
+Tests :
+Nous avons réalisé des tests unitaires et d'intégration pour s'assurer que les
+fonctionnalités sont correctes.
+Résultats :
+La plateforme web de gestion des demandes de congé est maintenant
+opérationnelle. Les employés peuvent faire des demandes en ligne, les managers
+peuvent valider ou refuser les demandes et les RH peuvent gérer l'historique.
+[CONCLUSION]
+Ce projet a permis à notre équipe d'acquérir de nouvelles compétences techniques
+et de mettre en œuvre une solution efficace pour la gestion des congés. Nous
+sommes convaincus que cette plateforme peut améliorer la productivité et la gestion
+dans les entreprises.
+Bilan :
+La plateforme web de gestion des demandes de congé est maintenant
+28/03/2025 22:06
+Rapport de Stage - TechGlobal Solutions
+file:///C:/Users/MYPC/pfe-generator/pfe_report_04.html
+13/20
+
+opérationnelle. Les employés peuvent faire des demandes en ligne, les managers
+peuvent valider ou refuser les demandes et les RH peuvent gérer l'historique.
+Perspectives :
+Nous comptons continuer à améliorer la plateforme pour qu'elle soit encore plus
+efficace et intuitive pour les utilisateurs.
+Compétences :
+Ce projet a permis à notre équipe d'acquérir de nouvelles compétences techniques
+telles que :
+* Développement web complète avec React, Node.js, Express, MongoDB.
+* Conception graphique avec Figma.
+* Gestion du code source avec Git.
+Nous sommes convaincus que cette expérience nous a apporté un grand
+enrichissement en termes de compétences techniques et d'expérience
+professionnelle.
+Chapitre 2 : Analyse et spécifications
+Spécifications fonctionnelles :
+* L'employé peut faire une demande de congé en ligne.
+* Le manager valide ou refuse la demande de congé.
+* Les RH gèrent l'historique des congés et les stats sur les demandes
+approuvées/refusées.
+Cas d'utilisation :
+L'utilisateur employé se connecte à la plateforme, renseigne les informations
+nécessaires (dates du congé, type de congé, raison) et soumet sa demande. Le
+manager reçoit une notification de nouvelle demande, valide ou refuse la demande
+en fonction des besoins de l'entreprise. Les RH gèrent l'historique des demandes de
+congé.
+28/03/2025 22:06
+Rapport de Stage - TechGlobal Solutions
+file:///C:/Users/MYPC/pfe-generator/pfe_report_04.html
+14/20
+
+Analyse UML :
+Nous avons utilisé UML pour représenter les classes et leurs interactions :
+* La classe `Employe` représente les informations de l'employé (nom, prenom, email).
+* La classe `Conge` représente la demande de congé (dates du congé, type de
+congé, raison).
+* La classe `Manager` représente le manager qui valide ou refuse la demande de
+congé.
+[CHAPTER_3]
+Architecture :
+L'architecture de notre plateforme est sous forme d'une application web complète
+avec les interfaces suivantes :
+* Interface utilisateur pour les employés (connexion, saisie des informations de la
+demande de congé).
+* Interface administrateur pour les managers (validation/refus des demandes de
+congé).
+* Interface RH pour les responsables RH (gestion de l'historique des demandes de
+congé).
+Conception :
+Nous avons utilisé Figma pour concevoir les interfaces utilisateur et administrateur.
+Nous avons également créé un prototype fonctionnel pour tester les fonctionnalités.
+[CHAPTER_4]
+Développement :
+Nous avons utilisé React pour le front-end, Node.js avec Express pour le back-end,
+MongoDB comme base de données et Git pour la gestion du code source.
+Tests :
+Nous avons réalisé des tests unitaires et d'intégration pour s'assurer que les
+fonctionnalités sont correctes.
+Résultats :
+La plateforme web de gestion des demandes de congé est maintenant
+28/03/2025 22:06
+Rapport de Stage - TechGlobal Solutions
+file:///C:/Users/MYPC/pfe-generator/pfe_report_04.html
+15/20
+
+opérationnelle. Les employés peuvent faire des demandes en ligne, les managers
+peuvent valider ou refuser les demandes et les RH peuvent gérer l'historique.
+[CONCLUSION]
+Ce projet a permis à notre équipe d'acquérir de nouvelles compétences techniques
+et de mettre en œuvre une solution efficace pour la gestion des congés. Nous
+sommes convaincus que cette plateforme peut améliorer la productivité et la gestion
+dans les entreprises.
+Bilan :
+La plateforme web de gestion des demandes de congé est maintenant
+opérationnelle. Les employés peuvent faire des demandes en ligne, les managers
+peuvent valider ou refuser les demandes et les RH peuvent gérer l'historique.
+Perspectives :
+Nous comptons continuer à améliorer la plateforme pour qu'elle soit encore plus
+efficace et intuitive pour les utilisateurs.
+Compétences :
+Ce projet a permis à notre équipe d'acquérir de nouvelles compétences techniques
+telles que :
+* Développement web complète avec React, Node.js, Express, MongoDB.
+* Conception graphique avec Figma.
+* Gestion du code source avec Git.
+Nous sommes convaincus que cette expérience nous a apporté un grand
+enrichissement en termes de compétences techniques et d'expérience
+professionnelle.
+Chapitre 3 : Conception technique
+Architecture :
+L'architecture de notre plateforme est sous forme d'une application web complète
+28/03/2025 22:06
+Rapport de Stage - TechGlobal Solutions
+file:///C:/Users/MYPC/pfe-generator/pfe_report_04.html
+16/20
+
+avec les interfaces suivantes :
+* Interface utilisateur pour les employés (connexion, saisie des informations de la
+demande de congé).
+* Interface administrateur pour les managers (validation/refus des demandes de
+congé).
+* Interface RH pour les responsables RH (gestion de l'historique des demandes de
+congé).
+Conception :
+Nous avons utilisé Figma pour concevoir les interfaces utilisateur et administrateur.
+Nous avons également créé un prototype fonctionnel pour tester les fonctionnalités.
+[CHAPTER_4]
+Développement :
+Nous avons utilisé React pour le front-end, Node.js avec Express pour le back-end,
+MongoDB comme base de données et Git pour la gestion du code source.
+Tests :
+Nous avons réalisé des tests unitaires et d'intégration pour s'assurer que les
+fonctionnalités sont correctes.
+Résultats :
+La plateforme web de gestion des demandes de congé est maintenant
+opérationnelle. Les employés peuvent faire des demandes en ligne, les managers
+peuvent valider ou refuser les demandes et les RH peuvent gérer l'historique.
+[CONCLUSION]
+Ce projet a permis à notre équipe d'acquérir de nouvelles compétences techniques
+et de mettre en œuvre une solution efficace pour la gestion des congés. Nous
+sommes convaincus que cette plateforme peut améliorer la productivité et la gestion
+dans les entreprises.
+Bilan :
+La plateforme web de gestion des demandes de congé est maintenant
+opérationnelle. Les employés peuvent faire des demandes en ligne, les managers
+28/03/2025 22:06
+Rapport de Stage - TechGlobal Solutions
+file:///C:/Users/MYPC/pfe-generator/pfe_report_04.html
+17/20
+
+peuvent valider ou refuser les demandes et les RH peuvent gérer l'historique.
+Perspectives :
+Nous comptons continuer à améliorer la plateforme pour qu'elle soit encore plus
+efficace et intuitive pour les utilisateurs.
+Compétences :
+Ce projet a permis à notre équipe d'acquérir de nouvelles compétences techniques
+telles que :
+* Développement web complète avec React, Node.js, Express, MongoDB.
+* Conception graphique avec Figma.
+* Gestion du code source avec Git.
+Nous sommes convaincus que cette expérience nous a apporté un grand
+enrichissement en termes de compétences techniques et d'expérience
+professionnelle.
+Chapitre 4 : Réalisation et tests
+Développement :
+Nous avons utilisé React pour le front-end, Node.js avec Express pour le back-end,
+MongoDB comme base de données et Git pour la gestion du code source.
+Tests :
+Nous avons réalisé des tests unitaires et d'intégration pour s'assurer que les
+fonctionnalités sont correctes.
+Résultats :
+La plateforme web de gestion des demandes de congé est maintenant
+opérationnelle. Les employés peuvent faire des demandes en ligne, les managers
+peuvent valider ou refuser les demandes et les RH peuvent gérer l'historique.
+[CONCLUSION]
+28/03/2025 22:06
+Rapport de Stage - TechGlobal Solutions
+file:///C:/Users/MYPC/pfe-generator/pfe_report_04.html
+18/20
+
+Ce projet a permis à notre équipe d'acquérir de nouvelles compétences techniques
+et de mettre en œuvre une solution efficace pour la gestion des congés. Nous
+sommes convaincus que cette plateforme peut améliorer la productivité et la gestion
+dans les entreprises.
+Bilan :
+La plateforme web de gestion des demandes de congé est maintenant
+opérationnelle. Les employés peuvent faire des demandes en ligne, les managers
+peuvent valider ou refuser les demandes et les RH peuvent gérer l'historique.
+Perspectives :
+Nous comptons continuer à améliorer la plateforme pour qu'elle soit encore plus
+efficace et intuitive pour les utilisateurs.
+Compétences :
+Ce projet a permis à notre équipe d'acquérir de nouvelles compétences techniques
+telles que :
+* Développement web complète avec React, Node.js, Express, MongoDB.
+* Conception graphique avec Figma.
+* Gestion du code source avec Git.
+Nous sommes convaincus que cette expérience nous a apporté un grand
+enrichissement en termes de compétences techniques et d'expérience
+professionnelle.
+Conclusion
+Ce projet a permis à notre équipe d'acquérir de nouvelles compétences techniques
+et de mettre en œuvre une solution efficace pour la gestion des congés. Nous
+sommes convaincus que cette plateforme peut améliorer la productivité et la gestion
+dans les entreprises.
+Bilan :
+28/03/2025 22:06
+Rapport de Stage - TechGlobal Solutions
+file:///C:/Users/MYPC/pfe-generator/pfe_report_04.html
+19/20
+
+La plateforme web de gestion des demandes de congé est maintenant
+opérationnelle. Les employés peuvent faire des demandes en ligne, les managers
+peuvent valider ou refuser les demandes et les RH peuvent gérer l'historique.
+Perspectives :
+Nous comptons continuer à améliorer la plateforme pour qu'elle soit encore plus
+efficace et intuitive pour les utilisateurs.
+Compétences :
+Ce projet a permis à notre équipe d'acquérir de nouvelles compétences techniques
+telles que :
+* Développement web complète avec React, Node.js, Express, MongoDB.
+* Conception graphique avec Figma.
+* Gestion du code source avec Git.
+Nous sommes convaincus que cette expérience nous a apporté un grand
+enrichissement en termes de compétences techniques et d'expérience
+professionnelle.
+28/03/2025 22:06
+Rapport de Stage - TechGlobal Solutions
+file:///C:/Users/MYPC/pfe-generator/pfe_report_04.html
+20/20
+

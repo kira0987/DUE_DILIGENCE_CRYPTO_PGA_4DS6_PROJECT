@@ -1,0 +1,114 @@
+Model Canvas – Crypto Fund 
+Due Diligence Automation
+Class: 4DS06
+
+Our Team
+Mariam Maammar
+Maram Mejri
+ChaimaMejri
+HoussemKhedher
+FirasBouguerra
+OussemaBargougui
+
+Customer Segments
+1
+Institutional Investors
+Hedge funds, VCs needing rapid due diligence.
+2
+Regulators
+Seeking transparent and standardized assessments.
+3
+Crypto Exchanges
+Verifying funds to protect users from fraud.
+4
+Banks
+Bridging traditional finance and crypto.
+1
+
+Value Proposition
+AI-Powered
+First fully automated AI crypto 
+due diligence.
+Speed
+From months to hours with 
+higher precision.
+Cost Savings
+Reduces overheads while increasing quality.
+2
+
+Distribution Channels
+SaaS Platform
+Intuitive self-service 
+dashboard.
+API Integrations
+Plug AI due diligence 
+into systems.
+On-Demand 
+Reports
+Pay-per-use for one-
+time assessments.
+3
+
+Customer Relationships
+AI Automation
+Fully self-service, removing bottlenecks.
+Premium Support
+Custom solutions for high-value clients.
+Training
+Webinars and AI compliance reports.
+4
+
+Revenue Streams
+1
+SaaS Subscriptions
+Monthly/annual institutional access.
+2
+Pay-Per-Use
+One-time AI due diligence reports.
+3
+API Licensing
+Direct integration of automation.
+4
+Custom Analytics
+Tailored solutions for institutions.
+5
+
+Key Activities
+AI Enhancement
+1
+Data Optimization
+2
+Partnerships
+3
+UX Refinement
+4
+6
+
+Key Resources
+1
+AI Models
+2
+Exclusive Data
+3
+Compliance
+4
+Cloud Infrastructure
+7
+
+Key Partners
+Data Providers
+Regulatory Agencies
+AI Providers
+8
+
+Cost Structure
+1
+AI Development
+2
+Cloud Infrastructure
+3
+Marketing
+4
+Compliance Research
+9
+
