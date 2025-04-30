@@ -1,0 +1,427 @@
+Case Study 1:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: Ultimately, we believe that industry collaboration is not 
+only the most expedient way – but also the most effective 
+way – to build a robust global digital assets ecosystem. 
+We invite you to join us in this exciting journey that 
+has the potential to redefine global finance, ensuring 
+that this digital transformation benefits the ecosystem 
+and contributes to sustainable economic growth. We 
+look forward to your support and engagement as 
+we collectively expand upon these principles, setting 
+...
+Risk Score: 6.901999999999999
+Categories: legal_regulatory, cyber_resilience, general_operational
+Entities: {'emails': [], 'companies': ['Clearstream \n', 'Clearstream', 'Euroclear', 'DLT', 'DTCC'], 'persons': ['Frank La Salla', 'Samuel Riley', 'Valérie Urbain'], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'assets'], 'crypto_terms': ['DeFi', 'blockchain', 'interoperability', 'DAS', 'token', 'DLT', 'distributed ledger'], 'risk_mentions': ['regulatory compliance', 'SEC', 'regulatory framework', 'SOC', 'RAT', 'operational risk'], 'mitigation_terms': [], 'latent_risks': [], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {'Frank La Salla': 'CEO', 'Samuel Riley': 'CEO', 'Valérie Urbain': 'CEO'}, 'sentiment': 'positive', 'sentiment_score': 0.9993, 'risk_score': {'raw_score': 34.51, 'scaled_score': 6.901999999999999}, 'missing_disclosures': [True, True], 'hype_count': 2}
+
+Case Study 2:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: Specifically, it includes securities 
+that utilize DLT to represent or embody rights 
+similar to those of traditional securities, whether 
+these are issued directly on a blockchain (i.e., native 
+security tokens) or are digital representations (i.e., 
+digital twins) of existing securities (e.g., all forms 
+of equity, debt, derivatives, etc.). These digital 
+assets might provide dividends, voting rights, 
+interest payments, or other rights associated 
+with traditional securities. Excluded from th...
+Risk Score: 8.105522854884
+Categories: legal_regulatory, cyber_resilience, operational_scale, interoperability, market_risk, esg_risk
+Entities: {'emails': [], 'companies': ['ISSA', 'BCG', 'GFMA -', 'Euroclear', 'ADDX'], 'persons': ['Valérie  Urbain'], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'assets', 'capital', 'collateral', 'investment', 'liquidity', 'clearing', 'short', 'scalability', 'equity', 'debt', 'settlement', 'leverage'], 'crypto_terms': ['on-chain', 'blockchain', 'smart contract', 'DAS', 'stablecoin', 'token', 'DLT', 'distributed ledger'], 'risk_mentions': ['SEC', 'SOC', 'RAT', 'scalability', 'integration', 'liquidity', 'transparency'], 'mitigation_terms': [], 'latent_risks': [], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': ['37%'], 'quantities': ['billion'], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': True}, 'team_roles': {'Valérie \nUrbain': 'CEO'}, 'sentiment': 'positive', 'sentiment_score': 0.6961999999999999, 'risk_score': {'raw_score': 40.527614274419996, 'scaled_score': 8.105522854884}, 'missing_disclosures': [True, True], 'hype_count': 1}
+
+Case Study 3:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: 4DLT in the Real World Survey 2024 – Key Findings, International Securities Services 
+Association, 2024
+5DTCC, Clearstream, Euroclear, “Advancing the Digital Asset Era, Together”, Sept 2023 6Valérie Urbain, “Safety by design: Lessons in mainstreaming digital assets with 
+resilience,” World Economic Forum, Apr 19, 2024
+7Dr . Stephanie Eckerman, “Are digital infrastructures finally ready to scale?” Sibos 
+2023, Sept 2023
+A Vision for Collaborative 
+Advancement  With this white paper, we are introd...
+Risk Score: 8.805999999999997
+Categories: legal_regulatory, cyber_resilience, interoperability, general_operational
+Entities: {'emails': [], 'companies': ['5DTCC', 'Sibos 2023', 'World Economic Forum', 'Clearstream Banking AG', 'Clearstream', 'International Securities Services \n', 'Vision for Collaborative \n', 'Euroclear', 'DASCP', 'Sibos'], 'persons': ['Valérie Urbain', 'Urbain', 'Stephanie Eckermann', 'Stephanie Eckerman', 'Stephanie  Eckermann'], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'assets', 'long'], 'crypto_terms': ['interoperability', 'DAS', 'DLT'], 'risk_mentions': ['regulatory compliance', 'SEC', 'regulatory framework', 'SOC', 'RAT', 'integration', 'disruption'], 'mitigation_terms': [], 'latent_risks': [], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {'Stephanie \n': 'CEO', 'Valérie Urbain': 'CEO', 'Stephanie Eckermann': 'CEO'}, 'sentiment': 'positive', 'sentiment_score': 0.6957, 'risk_score': {'raw_score': 44.029999999999994, 'scaled_score': 8.805999999999997}, 'missing_disclosures': [True, True], 'hype_count': 1}
+
+Case Study 4:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: Inspiring Innovation and Future Exploration in Digital Asset Securities: Looking beyond immediate applications, we are eager to explore the broader possibilities that DAS offer for 
+transforming securities markets and unlocking incremental value for the industry.  BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM
+8
+Contents
+Building Adoption 
+and Overcoming 
+Fragmentation
+In speaking about the future of digital markets prior 
+to the World Economic Forum in January 2024, 
+Frank La Salla, CEO of DTC...
+Risk Score: 7.853999999999999
+Categories: legal_regulatory, cyber_resilience, asset_safeguarding, operational_scale
+Entities: {'emails': [], 'companies': ['World Economic Forum', 'Central \nSecurities Depositories', 'DAS', 'DASCP', 'DLT', 'DTCC'], 'persons': ['Frank La Salla', 'La Salla'], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'assets', 'long', 'clearing', 'scalability', 'settlement'], 'crypto_terms': ['custody', 'DeFi', 'interoperability', 'DAS', 'connectivity', 'token', 'DLT'], 'risk_mentions': ['SEC', 'AML', 'regulatory framework', 'RAT', 'custody', 'scalability'], 'mitigation_terms': [], 'latent_risks': [], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {'Frank La Salla': 'CEO', '— Frank La Salla': 'CEO'}, 'sentiment': 'positive', 'sentiment_score': 0.998, 'risk_score': {'raw_score': 39.269999999999996, 'scaled_score': 7.853999999999999}, 'missing_disclosures': [True, True], 'hype_count': 0}
+
+Case Study 5:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: “
+Contents
+To achieve its objectives, the DASCP has been crafted 
+using a structured, layered approach as depicted in 
+the figure to the right and summarized below:  •	
+Principle Definition Established: Initially, the 
+DASCP framework identified a set of foundational 
+principles that function as overarching 
+objectives guiding the entire framework.  •	
+Risk Identification Compilation: A comprehensive 
+list of risks associated with each principle is compiled, 
+incorporating traditional finance ri...
+Risk Score: 10.0
+Categories: legal_regulatory, cyber_resilience, operational_scale, general_operational
+Entities: {'emails': [], 'companies': ['IOSCO', 'BIS', 'DASCP'], 'persons': [], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'assets', 'long', 'scalability', 'settlement'], 'crypto_terms': ['governance', 'DeFi', 'smart contract', 'interoperability', 'DAS', 'connectivity', 'token', 'DLT'], 'risk_mentions': ['regulatory compliance', 'SEC', 'AML', 'IRS', 'legal certainty', 'regulatory framework', 'SOC', 'RAT', 'scalability', 'disruption'], 'mitigation_terms': [], 'latent_risks': [('legal_regulatory', 0.5222176313400269)], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'positive', 'sentiment_score': 0.9984, 'risk_score': {'raw_score': 57.11999999999999, 'scaled_score': 10.0}, 'missing_disclosures': [True, True], 'hype_count': 0}
+
+Case Study 6:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: For conciseness, they were assigned to the principle with the highest importance, as depicted in the figure below. Immediate priority
+Minimum requirements Subsequent priority
+Unlock full potential
+R1 Digital Asset Legal 
+Noncompliance
+R3 Smart Contract 
+Legal Enforceability
+R4 Unauthorized 
+Investor Holdings
+R8 Dispute Resolution
+R10 Network Integrity
+R30 Interoperability Risk
+R32 Inability to Scale
+R34 Reputational Risk
+R35 Market Inefficiency
+R33 Digital Asset Liquidity
+R26 Asset 
+Misappropria...
+Risk Score: 10.0
+Categories: legal_regulatory, cyber_resilience, operational_scale, interoperability, market_risk, general_operational
+Entities: {'emails': [], 'companies': [], 'persons': [], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'assets', 'liquidity', 'scalability', 'settlement'], 'crypto_terms': ['governance', 'smart contract', 'interoperability', 'oracle', 'DAS', 'connectivity', 'consensus', 'DLT'], 'risk_mentions': ['SEC', 'CEA', 'dispute resolution', 'data protection', 'money laundering', 'terrorist financing', 'RAT', 'network outage', 'traffic attack', 'scalability', 'interoperability risk', 'liquidity', 'market inefficiency', 'error', 'mismanagement', 'oversight', 'disruption', 'reputational risk', 'insolvency'], 'mitigation_terms': [], 'latent_risks': [], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'positive', 'sentiment_score': 0.6779999999999999, 'risk_score': {'raw_score': 163.16522854884, 'scaled_score': 10.0}, 'missing_disclosures': [True, True], 'hype_count': 1}
+
+Case Study 7:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: Legal
+Smart Contract Governance
+Resilience & Data Protection
+Network Settlement
+C1-L Participation Guidelines
+C7-L Governance
+C14-S Certification
+C24-S Functions / Behaviors
+C25-S Bookkeeping
+C26-S Account Structure
+C28-S Smart Contract Roles
+C37-R Backups
+C39-R Recovery Testing
+C46-N Data Lineage
+C48-N Settlement Proofs
+C49-N Fail to Settle Process
+C42-R Identity Verification
+C29-S Emergency Stop
+C30-S Account Pause
+C31-S Token Pause
+C23-S Data / Properties
+C32-R Audit Trail
+C18-S Code Auditing...
+Risk Score: 10.0
+Categories: legal_regulatory, cyber_resilience, asset_safeguarding, interoperability, market_risk, general_operational
+Entities: {'emails': [], 'companies': ['BCG', 'Oracle Vetting\n'], 'persons': [], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'audit trail', 'liquidity', 'settlement', 'liability'], 'crypto_terms': ['token pause', 'governance', 'cross-ledger', 'smart contract', 'oracle', 'DAS', 'smart contract roles', 'token', 'emergency stop', 'DLT'], 'risk_mentions': ['SEC', 'dispute resolution', 'rule enforcement', 'regulatory framework', 'data protection', 'RAT', 'access control', 'integration', 'liquidity', 'oversight'], 'mitigation_terms': ['regulatory approval'], 'latent_risks': [], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': ['LP'], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'positive', 'sentiment_score': 0.6839, 'risk_score': {'raw_score': 79.965972133257, 'scaled_score': 10.0}, 'missing_disclosures': [True, True], 'hype_count': 0}
+
+Case Study 8:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: •	
+Providing a Blueprint for Industry-Wide Alignment: Developing the capabilities to form an aligned 
+perspective on controls is essential for subsequent 
+industry-wide alignment processes. The principles 
+act as a guiding force in the subsequent phases 
+of DAS adoption, ensuring that standards reflect 
+the collective insights of the entire industry.  BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM
+15
+Contents
+Case Study: Translating 
+Principles into Practice
+The DASCP framework serves as a prag...
+Risk Score: 10.0
+Categories: legal_regulatory, cyber_resilience, asset_safeguarding, operational_scale, interoperability, general_operational
+Entities: {'emails': [], 'companies': [], 'persons': [], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'assets', 'collateral', 'scalability', 'equity'], 'crypto_terms': ['token pause', 'smart contract', 'interoperability', 'DAS', 'connectivity', 'smart contract roles', 'token', 'emergency stop', 'DLT'], 'risk_mentions': ['regulatory compliance', 'SEC', 'AML', 'KYC', 'RAT', 'vault', 'access control', 'asset mismanagement', 'scalability', 'interoperability risk', 'mismanagement', 'oversight'], 'mitigation_terms': [], 'latent_risks': [('legal_regulatory', 0.5370192527770996)], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'positive', 'sentiment_score': 0.6983999999999999, 'risk_score': {'raw_score': 83.3, 'scaled_score': 10.0}, 'missing_disclosures': [True, True], 'hype_count': 1}
+
+Case Study 9:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: Asset Tokenization: 
+An asset manager issues a private security, such as a private equity fund, which is then tokenized on a private blockchain by a custodian.
+1 Token Transfer: The custodian moves the newly created PE (Private Equity) tokens from the private ledger to a public-permissioned ledger for wider distribution. 2 KYC Enforcement: 
+As tokens are distributed, KYC compliance checks are performed to ensure all investors meet regulatory standards, despite the change in blockchain. 3
+Money M...
+Risk Score: 6.901999999999999
+Categories: legal_regulatory, cyber_resilience, operational_scale, interoperability
+Entities: {'emails': [], 'companies': ['the Securities Lending Market', 'DASCP'], 'persons': [], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'assets', 'collateral', 'return', 'long', 'equity'], 'crypto_terms': ['blockchain', 'smart contract', 'interoperability', 'DAS', 'connectivity', 'digital asset security', 'token', 'exchange', 'cross-chain', 'DLT'], 'risk_mentions': ['regulatory compliance', 'SEC', 'AML', 'KYC', 'MITM', 'RAT', 'capacity', 'interoperability risk'], 'mitigation_terms': [], 'latent_risks': [], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'positive', 'sentiment_score': 0.6965000000000001, 'risk_score': {'raw_score': 34.51, 'scaled_score': 6.901999999999999}, 'missing_disclosures': [True, True], 'hype_count': 0}
+
+Case Study 10:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: This 
+includes breaches of investor accreditation, 
+investment caps, or other regulatory 
+standards not related to AML or CTF.
+C15-S Investor Compliance and Access 
+Control: Implement mechanisms that 
+only allow authorized investors that are 
+in good compliance standing (e.g., KYC, 
+sanctions, etc.) to hold registered securities 
+while restricting others who are not, which 
+could be facilitated by allow-lists, verifiable 
+credentials, or other relevant protocols.  Smart contract checks the clien...
+Risk Score: 10.0
+Categories: legal_regulatory, cyber_resilience, asset_safeguarding, operational_scale, general_operational
+Entities: {'emails': [], 'companies': ['KYC'], 'persons': [], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'assets', 'investment', 'scalability', 'settlement', 'liability'], 'crypto_terms': ['token pause', 'token standard', 'DeFi', 'smart contract', 'wallet', 'smart contract roles', 'token', 'emergency stop', 'DLT'], 'risk_mentions': ['compliance officer', 'SEC', 'AML', 'KYC', 'CTF', 'sanctions', 'RAT', 'asset mismanagement', 'scalability', 'mismanagement'], 'mitigation_terms': [], 'latent_risks': [('legal_regulatory', 0.5057727098464966), ('legal_regulatory', 0.5830584168434143), ('asset_safeguarding', 0.546196699142456)], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'positive', 'sentiment_score': 0.6878, 'risk_score': {'raw_score': 61.87999999999999, 'scaled_score': 10.0}, 'missing_disclosures': [True, True], 'hype_count': 0}
+
+Case Study 11:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM
+20
+Contents
+Next Steps in the 
+Evolution of the DASCP
+To foster open dialogue and collective intelligence, 
+we intend to engage the industry through a series 
+of in-depth discussions involving key stakeholders 
+from across the financial sector. These exchanges 
+will serve as a platform to share insights and best 
+practices, as well as to collaboratively address 
+the concerns and challenges faced by various 
+players in implementing the control princ...
+Risk Score: 7.14
+Categories: legal_regulatory, cyber_resilience, operational_scale, interoperability
+Entities: {'emails': [], 'companies': ['9DTCC', 'DASCP', 'Clearstream', 'Euroclear'], 'persons': [], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'scalability', 'leverage'], 'crypto_terms': ['on-chain', 'interoperability', 'DAS', 'exchange'], 'risk_mentions': ['SEC', 'legal certainty', 'SOC', 'RAT', 'scalability', 'integration'], 'mitigation_terms': [], 'latent_risks': [('legal_regulatory', 0.5427327156066895)], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'positive', 'sentiment_score': 0.6988000000000001, 'risk_score': {'raw_score': 35.699999999999996, 'scaled_score': 7.14}, 'missing_disclosures': [True, True], 'hype_count': 1}
+
+Case Study 12:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: This ranking does not diminish 
+the importance of any principle, as all are required to 
+establish a vibrant DAS ecosystem. When a risk could 
+be associated with multiple principles, it is assigned 
+to the principle of highest priority. By doing so, we 
+not only ensure a concise framework presentation 
+but also prioritize the risk management process. Detailed Controls Description:
+Controls are mapped to the risks they 
+are mitigating in a way that one control 
+addresses either one or multiple ri...
+Risk Score: 10.0
+Categories: legal_regulatory, cyber_resilience, asset_safeguarding, market_risk, general_operational, esg_risk
+Entities: {'emails': [], 'companies': [], 'persons': [], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'assets', 'settlement', 'liability'], 'crypto_terms': ['governance', 'custody', 'DeFi', 'smart contract', 'oracle', 'DAS', 'token', 'DLT'], 'risk_mentions': ['regulatory compliance', 'due diligence', 'compliance monitoring', 'SEC', 'rule enforcement', 'regulatory framework', 'data protection', 'SOC', 'RAT', 'custody', 'financial loss', 'oversight', 'transparency'], 'mitigation_terms': ['regulatory approval'], 'latent_risks': [('legal_regulatory', 0.5496861338615417)], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'positive', 'sentiment_score': 0.6977, 'risk_score': {'raw_score': 96.149972133257, 'scaled_score': 10.0}, 'missing_disclosures': [True, True], 'hype_count': 0}
+
+Case Study 13:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: C46-N Data Lineage: Implement a comprehensive data lineage process for transactions and related data processes. This process must track the journey of data from its origin through all transformations and uses until its final state. 1. Legal Certainty
+This figure shows the risks associated with the principle “Legal Certainty,” as well as the controls to mitigate these risks:
+BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM
+25
+Contents
+Return to Principles 
+overview on page 11
+L – Legal, S – Smart ...
+Risk Score: 6.878199999999999
+Categories: legal_regulatory, cyber_resilience, asset_safeguarding
+Entities: {'emails': [], 'companies': [], 'persons': [], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'return', 'audit trail', 'settlement'], 'crypto_terms': ['governance', 'custody', 'on-chain', 'DeFi', 'smart contract', 'digital asset security', 'smart contract audit', 'replay attack', 'DLT'], 'risk_mentions': ['SEC', 'CEA', 'legal certainty', 'data protection', 'SOC', 'RAT', 'custody'], 'mitigation_terms': ['smart contract audit'], 'latent_risks': [('cyber_resilience', 0.5147347450256348)], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'positive', 'sentiment_score': 0.9978, 'risk_score': {'raw_score': 34.39099999999999, 'scaled_score': 6.878199999999999}, 'missing_disclosures': [True, True], 'hype_count': 0}
+
+Case Study 14:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: This includes breaches of investor 
+accreditation, investment caps, 
+or other regulatory standards 
+not related to Anti-Money 
+Laundering (AML) and Counter-
+Terrorist Financing (CTF).
+R5 Money Laundering and 
+Terrorist Financing Risks
+Potential for misuse of the platform 
+for obscuring illicit funds or funding 
+terrorism, due to inadequate AML 
+or CTF controls. This risk involves 
+failure to implement effective KYC 
+procedures, insufficient transaction 
+monitoring, and noncompliance 
+with mandat...
+Risk Score: 10.0
+Categories: legal_regulatory, cyber_resilience, asset_safeguarding, general_operational
+Entities: {'emails': [], 'companies': ['KYC'], 'persons': [], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'assets', 'return', 'investment', 'funding', 'settlement'], 'crypto_terms': ['governance', 'DeFi', 'smart contract', 'token', 'DLT'], 'risk_mentions': ['regulatory compliance', 'SEC', 'AML', 'KYC', 'rule enforcement', 'regulatory change', 'data protection', 'CTF', 'sanctions', 'money laundering', 'terrorist financing', 'SOC', 'RAT', 'access control', 'error', 'oversight'], 'mitigation_terms': [], 'latent_risks': [('legal_regulatory', 0.5017138123512268), ('legal_regulatory', 0.5841033458709717), ('asset_safeguarding', 0.5416724681854248), ('asset_safeguarding', 0.5080452561378479)], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'positive', 'sentiment_score': 0.29429999999999995, 'risk_score': {'raw_score': 119.39899999999999, 'scaled_score': 10.0}, 'missing_disclosures': [True, True], 'hype_count': 2}
+
+Case Study 15:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: R7 Digital Asset 
+Regulatory 
+Noncompliance Securities are noncompliant with 
+varied and possibly conflicting 
+securities regulations (e.g., codes 
+of conduct, standards set by 
+government bodies, or industry 
+regulators) across disparate 
+jurisdictions and asset classes.
+Controls
+C3-L Network and Oracle Vetting: Conduct thorough checks on network and oracle alignment with DLT standards and governance 
+structures before integrating third-party tools. Validate reliability and security SLAs for al...
+Risk Score: 10.0
+Categories: legal_regulatory, cyber_resilience, market_risk, general_operational, esg_risk
+Entities: {'emails': [], 'companies': [], 'persons': [], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'assets', 'stress test', 'return', 'settlement', 'liability'], 'crypto_terms': ['governance', 'DeFi', 'blockchain', 'smart contract', 'oracle', 'token', 'DLT'], 'risk_mentions': ['regulatory compliance', 'due diligence', 'SEC', 'dispute resolution', 'rule enforcement', 'regulatory change', 'data protection', 'securities regulation', 'RAT', 'market manipulation', 'oversight', 'transparency'], 'mitigation_terms': [], 'latent_risks': [('legal_regulatory', 0.5040801167488098), ('legal_regulatory', 0.5019118189811707), ('legal_regulatory', 0.5180307626724243)], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'positive', 'sentiment_score': 0.6938, 'risk_score': {'raw_score': 114.30761427441998, 'scaled_score': 10.0}, 'missing_disclosures': [True, True], 'hype_count': 0}
+
+Case Study 16:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: Ensure that alerts are triggered based on predefined thresholds of key metrics to promptly identify and respond to operational 
+anomalies or deviations from standard procedures. 2. Regulatory Compliance (continued)
+BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM
+29
+Contents
+Return to Principles 
+overview on page 11
+L – Legal, S – Smart Contract Governance, R – Resilience and Data Protection, N – Network Settlement
+3. Resilience and Security
+This figure shows the risks associated with the princip...
+Risk Score: 10.0
+Categories: legal_regulatory, cyber_resilience, asset_safeguarding, general_operational
+Entities: {'emails': [], 'companies': [], 'persons': [], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'assets', 'return', 'settlement', 'liability'], 'crypto_terms': ['governance', 'custody', 'DeFi', 'smart contract', 'oracle', 'consensus', 'DLT'], 'risk_mentions': ['regulatory compliance', 'SEC', 'AML', 'data protection', 'corruption', 'denial of service', 'DDoS', 'SOC', 'DoS', 'RAT', 'traffic attack', 'custody', 'disruption'], 'mitigation_terms': [], 'latent_risks': [], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'negative', 'sentiment_score': -0.22299999999999998, 'risk_score': {'raw_score': 55.70747345831517, 'scaled_score': 10.0}, 'missing_disclosures': [True, True], 'hype_count': 0}
+
+Case Study 17:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: 3. Resilience and Security (continued)
+BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM
+31
+Contents
+Return to Principles 
+overview on page 11
+L – Legal, S – Smart Contract Governance, R – Resilience and Data Protection, N – Network Settlement
+R15 Private Data Leakage
+Customers’ personal data or 
+proprietary data is leaked or stolen.
+R16 Exploited 
+Consensus Algorithm
+Consensus mechanism is exploited 
+such that the network may 
+function inappropriately, leading 
+to unauthorized transfers of digita...
+Risk Score: 10.0
+Categories: legal_regulatory, cyber_resilience, asset_safeguarding, operational_scale, general_operational
+Entities: {'emails': [], 'companies': [], 'persons': [], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'assets', 'return', 'audit trail', 'settlement'], 'crypto_terms': ['double-spend', 'governance', 'on-chain', 'DeFi', 'smart contract', 'private key', 'consensus', 'public key', 'DLT'], 'risk_mentions': ['SEC', 'data protection', 'encryption', 'RAT', 'quantum threat', 'private key', 'operational disruption', 'disruption'], 'mitigation_terms': [], 'latent_risks': [('legal_regulatory', 0.5542776584625244), ('legal_regulatory', 0.5924238562583923), ('cyber_resilience', 0.5648074150085449)], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'positive', 'sentiment_score': 0.6842999999999999, 'risk_score': {'raw_score': 74.96999999999998, 'scaled_score': 10.0}, 'missing_disclosures': [True, True], 'hype_count': 1}
+
+Case Study 18:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: Interoperability 
+Security Risks
+Security vulnerabilities arising from 
+connecting the digital asset platform 
+with other blockchain networks 
+or traditional financial systems.
+R19 Network Outage
+A singular event, such as a natural 
+disaster, a common failure point, 
+or a pervasive network issue, 
+could simultaneously incapacitate 
+multiple critical components, 
+nodes, or networks, resulting in 
+extensive operational disruptions 
+and systemic instability.
+C21-S Intraoperability Between DLT Netwo...
+Risk Score: 10.0
+Categories: legal_regulatory, cyber_resilience, operational_scale, interoperability, general_operational
+Entities: {'emails': [], 'companies': [], 'persons': [], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'return', 'settlement'], 'crypto_terms': ['governance', 'DeFi', 'blockchain', 'smart contract', 'interoperability', 'exchange', 'DLT'], 'risk_mentions': ['SEC', 'AML', 'data protection', 'corruption', 'RAT', 'network outage', 'operational disruption', 'network issue', 'disruption'], 'mitigation_terms': [], 'latent_risks': [('interoperability', 0.5230318903923035), ('interoperability', 0.5266672372817993), ('interoperability', 0.5340890288352966)], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'positive', 'sentiment_score': 0.6118000000000001, 'risk_score': {'raw_score': 76.16, 'scaled_score': 10.0}, 'missing_disclosures': [True, True], 'hype_count': 0}
+
+Case Study 19:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: This risk particularly affects the 
+platform’s ability to deploy new 
+features, update smart contracts, 
+or address vulnerabilities through 
+software patches. The consensus 
+requirement for changes introduces 
+complexities in timely adaptation and 
+innovation, making the management 
+of software updates, enhancements, 
+and security fixes inherently difficult.
+C18-S Code Auditing: Ensure all smart contract code is tested for vulnerabilities, bugs, performance issues or defects 
+by an independent t...
+Risk Score: 10.0
+Categories: legal_regulatory, cyber_resilience, operational_scale, general_operational
+Entities: {'emails': [], 'companies': [], 'persons': [], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'return', 'settlement'], 'crypto_terms': ['governance', 'DeFi', 'blockchain', 'smart contract', 'interoperability', 'consensus', 'token', 'exchange', 'DLT'], 'risk_mentions': ['SEC', 'AML', 'data protection', 'corruption', 'RAT', 'bottleneck', 'error', 'disruption'], 'mitigation_terms': [], 'latent_risks': [], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'positive', 'sentiment_score': 0.6946000000000001, 'risk_score': {'raw_score': 54.74, 'scaled_score': 10.0}, 'missing_disclosures': [True, True], 'hype_count': 0}
+
+Case Study 20:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: C35-R Event Monitoring and Alerts: Implement a system to monitor and audit operations in real time and 
+automatically generate alerts. Ensure that alerts are triggered based on predefined thresholds of key metrics 
+to promptly identify and respond to operational anomalies or deviations from standard procedures. C45-R Data Integrity Correction: Create privileged roles that can edit and modify data to ensure the accuracy, 
+consistency, and reliability of financial records.  3. Resilience and Secur...
+Risk Score: 7.14
+Categories: legal_regulatory, cyber_resilience, general_operational
+Entities: {'emails': [], 'companies': [], 'persons': [], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'assets', 'return', 'audit trail', 'settlement', 'liability'], 'crypto_terms': ['governance', 'on-chain', 'DeFi', 'blockchain', 'smart contract', 'DLT'], 'risk_mentions': ['SEC', 'data protection', 'RAT', 'error', 'mismanagement', 'oversight'], 'mitigation_terms': [], 'latent_risks': [], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'positive', 'sentiment_score': 0.6975, 'risk_score': {'raw_score': 35.699999999999996, 'scaled_score': 7.14}, 'missing_disclosures': [True, True], 'hype_count': 1}
+
+Case Study 21:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: C34-R Data Subject Access Rights Enforcement: Create privileged roles that have the right to access data, amend data, or 
+respond to requests for a given person’s data to be erased, where appropriate. C4-L Participant Roles, Responsibilities, and Obligations: Clearly define and document service participants’ roles, responsibilities, 
+and obligations, integrating geographic and identity-specific nuances to align with legal and operational standards by jurisdiction.
+C10-L Asset Safeguarding and Se...
+Risk Score: 9.758
+Categories: legal_regulatory, cyber_resilience, general_operational
+Entities: {'emails': [], 'companies': [], 'persons': [], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'assets', 'return', 'audit trail', 'settlement'], 'crypto_terms': ['governance', 'on-chain', 'DeFi', 'smart contract', 'digital asset security', 'DLT'], 'risk_mentions': ['regulatory compliance', 'SEC', 'data protection', 'fraud', 'RAT', 'oversight'], 'mitigation_terms': [], 'latent_risks': [], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'positive', 'sentiment_score': 0.9981, 'risk_score': {'raw_score': 48.79, 'scaled_score': 9.758}, 'missing_disclosures': [True, True], 'hype_count': 0}
+
+Case Study 22:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: The audit trail must support the full-system recovery and verification of the process for resilience purposes. 4. Safeguarding Customer Assets
+This figure shows the risks associated with the principle “Safeguarding Customer Assets,” as well as the controls to mitigate these risks:  BUILDING THE DIGITAL ASSET SECURITIES ECOSYSTEM
+38
+Contents
+Return to Principles 
+overview on page 11
+L – Legal, S – Smart Contract Governance, R – Resilience and Data Protection, N – Network Settlement
+Risks
+R27 Unau...
+Risk Score: 10.0
+Categories: legal_regulatory, cyber_resilience, asset_safeguarding, general_operational
+Entities: {'emails': [], 'companies': [], 'persons': [], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'assets', 'return', 'audit trail', 'settlement'], 'crypto_terms': ['governance', 'on-chain', 'smart contract', 'digital asset security', 'token', 'DLT'], 'risk_mentions': ['SEC', 'data protection', 'data breach', 'SOC', 'RAT', 'access control', 'bankruptcy', 'insolvency'], 'mitigation_terms': [], 'latent_risks': [('legal_regulatory', 0.503463625907898), ('legal_regulatory', 0.5395437479019165), ('asset_safeguarding', 0.5196090936660767), ('asset_safeguarding', 0.5540483593940735)], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'positive', 'sentiment_score': 0.6991, 'risk_score': {'raw_score': 63.06999999999999, 'scaled_score': 10.0}, 'missing_disclosures': [True, True], 'hype_count': 0}
+
+Case Study 23:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: C19-S Smart Contract Entitlements: Restrict access to smart contract data and functions based on standard roles 
+using fine-grain entitlements.
+C28-S Smart Contract Roles: Define standard roles to determine who can access smart contract data and functions.
+C29-S Emergency Stop : Ensure that smart contracts have an embedded kill switch or process to halt all activity, 
+which can be accessed by a role with elevated permissions. C30-S Account Pause: Ensure that a user can freeze or pause activity f...
+Risk Score: 7.853999999999999
+Categories: legal_regulatory, cyber_resilience, asset_safeguarding, interoperability
+Entities: {'emails': [], 'companies': [], 'persons': [], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'assets', 'return', 'settlement'], 'crypto_terms': ['token pause', 'governance', 'custody', 'DeFi', 'blockchain', 'smart contract', 'interoperability', 'wallet', 'smart contract roles', 'token', 'exchange', 'emergency stop', 'DLT'], 'risk_mentions': ['SEC', 'AML', 'data protection', 'RAT', 'custody', 'interoperability risk'], 'mitigation_terms': [], 'latent_risks': [], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'positive', 'sentiment_score': 0.9959, 'risk_score': {'raw_score': 39.269999999999996, 'scaled_score': 7.853999999999999}, 'missing_disclosures': [True, True], 'hype_count': 0}
+
+Case Study 24:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: C30-S Account Pause: Ensure that a user can freeze or pause activity for a given investor or wallet, 
+controlled by either the agent of the investor or a role with elevated permissions.
+C31-S Token Pause: Ensure that a user can freeze or pause activity for all or some of the token inventory, 
+controlled by either the agent of the investor or a role with elevated permissions. C54-N Legacy Infrastructure Integration: Provide a method or abstraction layer that enables users 
+to access their securit...
+Risk Score: 10.0
+Categories: legal_regulatory, cyber_resilience, operational_scale, interoperability, market_risk, general_operational
+Entities: {'emails': [], 'companies': ['C56-N Community Engagement Framework', 'DLT'], 'persons': [], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'assets', 'return', 'liquidity', 'scalability', 'settlement'], 'crypto_terms': ['token pause', 'governance', 'DeFi', 'smart contract', 'wallet', 'token', 'DLT'], 'risk_mentions': ['SEC', 'data protection', 'SOC', 'RAT', 'scalability', 'integration', 'liquidity', 'reputational risk'], 'mitigation_terms': [], 'latent_risks': [], 'state_regulators': [], 'state_profile': [], 'region': ['Unknown'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'positive', 'sentiment_score': 0.6938, 'risk_score': {'raw_score': 57.18761427442, 'scaled_score': 10.0}, 'missing_disclosures': [True, True], 'hype_count': 1}
+
+Case Study 25:
+Source: C:/Users/msi/OneDrive - ESPRIT/Desktop/4DS6/semestre 2/Data science Project/validation 2/scrapping and architecture model/DATA/data collection pdf and urls/FTI\DASCPWhitePaper_extracted.txt
+Text: It 
+emphasizes the essential need 
+for comprehensive and effective 
+training to ensure that all 
+involved parties fully understand 
+the technological frameworks, 
+regulatory landscapes, and 
+operational processes unique 
+to digital asset securities.
+R35 Market Inefficiency
+The risk that structural issues 
+or implementation frictions 
+within the DLT ecosystem lead to 
+significant disparities between the 
+intrinsic value of digital assets and 
+their market pricing, facilitating 
+undue arbitrage op...
+Risk Score: 10.0
+Categories: legal_regulatory, cyber_resilience, operational_scale, market_risk, general_operational
+Entities: {'emails': [], 'companies': ['the Working Group', 'Technology Research and Innovation', 'BCG Platinion Netherlands', 'DTCC Digital Assets', 'Clearstream', 'CSS Strategy', 'the Steering \nCommittee', 'Working Group', 'the Boston Consulting Group', 'Euroclear', 'Digital Securities', 'DASCP', 'DTCC'], 'persons': ['Kaj Burchardi', 'Philippe Laurensy', 'Doug Meyers', 'Robert Lanni', 'Nadine Chakar', 'Renée Berman', 'Jens Hachmeister', 'Thilo Derenbach', 'Hitesh Goradia'], 'phone_numbers': [], 'addresses': [], 'urls': [], 'cik_numbers': [], 'financial_terms': ['securities', 'assets', 'stress test', 'return', 'scalability', 'liability'], 'crypto_terms': ['governance', 'DeFi', 'blockchain', 'smart contract', 'oracle', 'DAS', 'DLT'], 'risk_mentions': ['regulatory compliance', 'due diligence', 'compliance monitoring', 'SEC', 'regulatory change', 'SOC', 'RAT', 'scalability', 'market inefficiency', 'oversight'], 'mitigation_terms': [], 'latent_risks': [], 'state_regulators': [], 'state_profile': [], 'region': ['Netherlands'], 'registration_numbers': [], 'dates': [], 'percentages': [], 'quantities': [], 'legal_structures': [], 'tokenomics_flags': {'high_inflation': False, 'low_liquidity': False, 'vesting_schedule': False}, 'team_roles': {}, 'sentiment': 'positive', 'sentiment_score': 0.6988000000000001, 'risk_score': {'raw_score': 66.997869887875, 'scaled_score': 10.0}, 'missing_disclosures': [True, True], 'hype_count': 0}
+

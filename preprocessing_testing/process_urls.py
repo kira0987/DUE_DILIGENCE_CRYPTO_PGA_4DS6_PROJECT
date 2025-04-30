@@ -20,7 +20,6 @@ DOMAIN_AUTHORITY = {
 }
 
 def rank_url(url):
-    """Rank URLs based on domain authority."""
     score = 6
     for domain, weight in DOMAIN_AUTHORITY.items():
         if domain in url:
@@ -29,7 +28,6 @@ def rank_url(url):
     return score
 
 def setup_selenium():
-    """Initialize Selenium for dynamic content."""
     try:
         chrome_options = Options()
         chrome_options.add_argument("--headless")
@@ -42,7 +40,6 @@ def setup_selenium():
         return None
 
 def fetch_web_content(url, retries=3):
-    """Fetch web content asynchronously with relevance filtering."""
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     for attempt in range(retries):
         try:
@@ -62,7 +59,6 @@ def fetch_web_content(url, retries=3):
             text_elements = soup.find_all(['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li'])
             web_text = "\n".join(el.get_text(strip=True) for el in text_elements if el.get_text(strip=True))
 
-            # Filter low-value content
             if len(web_text.strip()) < 50 or not any(kw.lower() in web_text.lower() for kw in KEYWORDS):
                 logging.info(f"Low-value content at {url}. Attempting Selenium.")
                 driver = setup_selenium()
@@ -84,7 +80,6 @@ def fetch_web_content(url, retries=3):
             return None, {}
 
 def process_url(url, idx, output_dir, seen_titles):
-    """Process a single URL and chunk its content."""
     try:
         web_text, web_meta = fetch_web_content(url)
         if not web_text:
@@ -105,18 +100,17 @@ def process_url(url, idx, output_dir, seen_titles):
             logging.info(f"Deleted uninformative file: {full_txt}")
             return None, f"Removed {full_txt} (low value)"
         
-        # Semantic chunking
         from chunk_text import semantic_chunking
         chunks = semantic_chunking(web_text, max_chunk_size=500)
         url_data = []
         
-        for j, chunk_text in enumerate(chunks):
-            matched_keywords = [kw for kw in KEYWORDS if kw.lower() in chunk_text.lower()]
+        for j, chunk in enumerate(chunks):
+            chunk_text = chunk["text"]
             entities = extract_entities(chunk_text, source_type="web")
             sentiment_data = analyze_sentiment(chunk_text)
             
             metadata = {
-                "matched_keywords": matched_keywords,
+                "matched_keywords": [kw for kw in KEYWORDS if kw.lower() in chunk_text.lower()],
                 "sentiment": sentiment_data["sentiment"],
                 "sentiment_score": sentiment_data["sentiment_score"],
                 "risk_score": entities["risk_score"],
@@ -126,7 +120,8 @@ def process_url(url, idx, output_dir, seen_titles):
                 "source": url,
                 "region": entities["region"],
                 "content_type": "web",
-                "web_metadata": web_meta
+                "web_metadata": web_meta,
+                "section": chunk["section"]
             }
             
             url_data.append({
@@ -140,7 +135,6 @@ def process_url(url, idx, output_dir, seen_titles):
         return None, f"Error processing {url}: {str(e)}"
 
 def process_urls(txt_file, output_dir):
-    """Process all URLs from a text file using threading."""
     logging.info(f"Processing URLs from: {txt_file}")
     with open(txt_file, "r", encoding="utf-8") as f:
         text = f.read()

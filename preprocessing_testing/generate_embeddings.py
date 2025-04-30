@@ -12,11 +12,9 @@ from sklearn.ensemble import IsolationForest
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# Placeholder for a crypto-specific fine-tuned model
-model = SentenceTransformer('all-distilroberta-v1')  # Replace with fine-tuned model later
+model = SentenceTransformer('all-distilroberta-v1')
 
 def generate_risk_heatmap(json_data, output_prefix):
-    """Generate an interactive risk vs sentiment heatmap."""
     risk_scores = [entry["metadata"]["risk_score"] for entry in json_data]
     sentiment_scores = [entry["metadata"]["sentiment_score"] for entry in json_data]
     fig = px.imshow([risk_scores, sentiment_scores], 
@@ -28,7 +26,6 @@ def generate_risk_heatmap(json_data, output_prefix):
     logging.info(f"Interactive heatmap saved to: {output_prefix}_risk_heatmap.html")
 
 def generate_case_studies(json_data, output_prefix):
-    """Generate detailed case studies for all high-risk chunks."""
     high_risk = [entry for entry in json_data if entry["metadata"]["risk_score"] > 5]
     with open(f"{output_prefix}_case_studies.txt", "w", encoding="utf-8") as f:
         for i, entry in enumerate(high_risk, 1):
@@ -41,7 +38,6 @@ def generate_case_studies(json_data, output_prefix):
     logging.info(f"Case studies saved to: {output_prefix}_case_studies.txt")
 
 def post_process_embeddings(json_data, eps=5.0, min_samples=2):
-    """Refine embeddings with clustering and relaxed filtering."""
     embeddings = np.array([entry["embedding"] for entry in json_data])
     
     scaler = StandardScaler()
@@ -56,7 +52,6 @@ def post_process_embeddings(json_data, eps=5.0, min_samples=2):
         logging.warning("DBSCAN found no clusters; using all data")
         filtered_data = json_data
     
-    # Relaxed filtering to retain critical info
     refined_data = [entry for entry in filtered_data if 
                     entry["metadata"]["risk_score"] >= 0 or 
                     any(entry["metadata"]["categories"].values())]
@@ -65,7 +60,6 @@ def post_process_embeddings(json_data, eps=5.0, min_samples=2):
     return refined_data
 
 def generate_embeddings(chunk_data, output_prefix):
-    """Generate and save embeddings with anomaly detection."""
     if not chunk_data:
         logging.warning(f"No chunks to embed for {output_prefix}")
         return
@@ -74,7 +68,6 @@ def generate_embeddings(chunk_data, output_prefix):
     all_chunks = [entry["text"] for entry in chunk_data]
     embeddings = model.encode(all_chunks, show_progress_bar=True, batch_size=32)
     
-    # Detect anomalies in embeddings
     clf = IsolationForest(contamination=0.1, random_state=42)
     preds = clf.fit_predict(embeddings)
     anomalies = [i for i, pred in enumerate(preds) if pred == -1]
@@ -86,7 +79,7 @@ def generate_embeddings(chunk_data, output_prefix):
             "text": c,
             "metadata": m,
             "embedding": e.tolist(),
-            "anomaly": i in anomalies  # Flag anomalies
+            "anomaly": i in anomalies
         }
         raw_json_data.append(entry)
     

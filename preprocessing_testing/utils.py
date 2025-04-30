@@ -10,7 +10,7 @@ from email_validator import validate_email, EmailNotValidError
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import re
 from sentence_transformers import SentenceTransformer, util
-from sec_edgar_api import EdgarClient  # For SEC EDGAR integration
+from sec_edgar_api import EdgarClient
 from fuzzywuzzy import fuzz
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -549,7 +549,6 @@ def extract_cik_numbers(text):
 def extract_company_names(text):
     doc = nlp(text)
     companies = set(ent.text for ent in doc.ents if ent.label_ == "ORG")
-    # Validate with SEC EDGAR
     for cik in extract_cik_numbers(text):
         try:
             company_info = edgar_client.get_company_info(cik=cik)
@@ -573,62 +572,39 @@ def extract_financial_terms(text):
     }
 
 def calculate_risk_score(found_risks, sentiment_score, text_length, source_type="text", regions=None, text=""):
-    """Calculate risk score dynamically with term-specific weights and U.S.-centric focus."""
+    """Calculate raw risk score without 0-10 scaling."""
     raw_score = 0.0
     categories_hit = set()
     regulator_score = 0.0
     mitigation_factor = 1.0
 
-    # Base risk from term-specific weights
     for risk in found_risks:
         risk_lower = risk.lower()
         for cat, terms in RISK_CATEGORIES.items():
             if risk_lower in terms:
-                raw_score += terms[risk_lower]  # Use term-specific weight
+                raw_score += terms[risk_lower]
                 categories_hit.add(cat)
                 break
 
-    raw_score += len(categories_hit) * 1.5  # Bonus for multiple categories
-
-    # Sentiment adjustment: amplify negative, cap positive reduction
+    raw_score += len(categories_hit) * 1.5
     sentiment_factor = 1.0 + abs(sentiment_score) if sentiment_score < 0 else max(0.8, 1.0 - (sentiment_score * 0.2))
     raw_score *= sentiment_factor
-
-    # Source multiplier
     source_multiplier = 1.3 if source_type == "web" else 1.0
     raw_score *= source_multiplier
-
-    # Region adjustment: U.S.-centric
-    regions = regions or ["Unknown"]
-    us_regions = {"United States", "America", "New York", "California", "Texas", 
-                  "Florida", "Illinois", "Washington, D.C.", "Puerto Rico", "Guam", 
-                  "American Samoa", "Virgin Islands"}
-    region_weight = min(REGION_TERMS.get(r, 4.0) for r in regions)  # Default 4.0 for unknown
-    if not any(r in us_regions for r in regions):
-        region_weight = max(region_weight, 4.0)  # Non-U.S. minimum 4.0
+    region_weight = min(REGION_TERMS.get(r, 4.0) for r in regions or ["Unknown"])
     raw_score *= (1 + (region_weight / 10))
-
-    # State regulator adjustment
     text_lower = text.lower()
     for state, (agencies, weight) in STATE_REGULATORS.items():
         if any(agency.lower() in text_lower for agency in agencies):
             regulator_score += weight
     raw_score += regulator_score
-
-    # Mitigation adjustment
     mitigations = [m for m in MITIGATION_TERMS if m.lower() in text_lower]
     if mitigations:
         mitigation_factor = max(0.5, 1.0 - (len(mitigations) * 0.1))
-        raw_score *= mitigation_factor
-
-    # Normalize to 0-10 scale
-    max_possible = (max(max(w for w in terms.values()) for terms in RISK_CATEGORIES.values()) * len(RISK_CATEGORIES) +
-                    10 * 1.5 + max(REGION_TERMS.values()) + max(w for _, w in STATE_REGULATORS.values())) * 2
-    normalized_score = min((raw_score / max_possible) * 10, 10)
-    return normalized_score
+    raw_score *= mitigation_factor
+    return raw_score
 
 def analyze_sentiment(text):
-    """Context-aware sentiment analysis with crypto-specific adjustments."""
     scores = sentiment_analyzer.polarity_scores(text)
     compound_score = scores["compound"]
     text_lower = text.lower()
@@ -637,7 +613,6 @@ def analyze_sentiment(text):
     mitigation_count = sum(1 for w in text_lower.split() if w in MITIGATION_TERMS)
     positive_count = sum(1 for w in text_lower.split() if w in POSITIVE_TERMS)
     
-    # Adjust for false positivity or crypto jargon
     if positive_count > risk_count and compound_score > 0:
         compound_score -= 0.4
     if risk_count > mitigation_count and compound_score > 0:
@@ -646,69 +621,36 @@ def analyze_sentiment(text):
     sentiment = "positive" if compound_score >= 0.05 else "negative" if compound_score <= -0.05 else "neutral"
     return {"sentiment": sentiment, "sentiment_score": compound_score}
 
-
 def anonymize_sensitive_data(text):
-    """Anonymize emails, phone numbers, and addresses in the text."""
-    # Anonymize emails
     text = re.sub(r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b', '[EMAIL]', text)
-    # Anonymize phone numbers (basic pattern for U.S. numbers)
     text = re.sub(r'\b\d{3}[-.\s]?\d{3}[-.\s]?\d{4}\b', '[PHONE]', text)
-    # Anonymize addresses using pyap
     addresses = pyap.parse(text, country="US")
     for addr in addresses:
         text = text.replace(str(addr), '[ADDRESS]')
     return text
 
-
 def extract_region(text):
-    """Extract regions with typo tolerance using fuzzy matching."""
     text_lower = text.lower()
     doc = nlp(text)
-    
-    # Extract GPE entities from NER
     ner_regions = [ent.text for ent in doc.ents if ent.label_ == "GPE"]
-    
-    # Exact matching against REGION_TERMS
-    term_regions = []
-    for region in REGION_TERMS.keys():
-        if re.search(r'\b' + re.escape(region.lower()) + r'\b', text_lower):
-            term_regions.append(region)
-    
-    # Fuzzy matching for potential typos
+    term_regions = [region for region in REGION_TERMS.keys() if re.search(r'\b' + re.escape(region.lower()) + r'\b', text_lower)]
     fuzzy_regions = []
-    similarity_threshold = 85  # Adjust as needed (85% similarity)
+    similarity_threshold = 85
     for candidate in ner_regions:
-        if candidate.lower() not in text_lower:  # Skip if not in text
+        if candidate.lower() not in text_lower:
             continue
-        # Check if it's an exact match first
         if candidate in REGION_TERMS:
             fuzzy_regions.append(candidate)
         else:
-            # Fuzzy match against REGION_TERMS
             for valid_region in REGION_TERMS.keys():
                 similarity = fuzz.ratio(candidate.lower(), valid_region.lower())
                 if similarity >= similarity_threshold:
                     fuzzy_regions.append(valid_region)
-                    logging.debug(f"Matched typo '{candidate}' to '{valid_region}' with similarity {similarity}")
                     break
-    
-    # Combine exact and fuzzy matches, deduplicate
     combined_regions = list(set(term_regions + fuzzy_regions))
-    
-    # Filter to ensure only regions in REGION_TERMS are included
-    valid_regions = [region for region in combined_regions if region in REGION_TERMS]
-    
-    # Log for debugging
-    if valid_regions:
-        logging.debug(f"Extracted regions: {valid_regions}")
-    else:
-        logging.debug("No specific regions found, returning 'Unknown'")
-    
-    return valid_regions if valid_regions else ["Unknown"]
-
+    return combined_regions if combined_regions else ["Unknown"]
 
 def detect_state_risks(text):
-    """Detect state-specific regulatory risks."""
     text_lower = text.lower()
     detected = []
     for state, (agencies, weight) in STATE_REGULATORS.items():
@@ -727,8 +669,7 @@ def detect_mitigation_terms(text):
 
 risk_embeddings = {cat: model.encode(list(terms)) for cat, terms in RISK_CATEGORIES.items()}
 
-def infer_latent_risks(text, threshold=0.50):  # Lowered from assumed higher value
-    """Infer latent risks using embeddings with a lower threshold."""
+def infer_latent_risks(text, threshold=0.50):
     embedding = model.encode(text)
     detected = []
     for cat, examples in risk_embeddings.items():
@@ -739,7 +680,6 @@ def infer_latent_risks(text, threshold=0.50):  # Lowered from assumed higher val
     return detected
 
 def extract_entities(chunk_text, source_type="text"):
-    """Extract comprehensive entities with external validation."""
     doc = nlp(chunk_text)
     sentence = Sentence(chunk_text)
     flair_tagger.predict(sentence)
@@ -759,42 +699,26 @@ def extract_entities(chunk_text, source_type="text"):
         "latent_risks": infer_latent_risks(chunk_text),
         "state_regulators": [agency for _, agency in detect_state_risks(chunk_text)],
         "state_profile": detect_state_risks(chunk_text),
-        "region": extract_region(chunk_text)
+        "region": extract_region(chunk_text),
+        "registration_numbers": re.findall(r"(?:SEC|CFTC)?\s*#\d+[-\d]*", chunk_text),
+        "dates": re.findall(r"\d{4}-\d{2}-\d{2}", chunk_text),
+        "percentages": re.findall(r"\d+%", chunk_text),
+        "quantities": re.findall(r"\d+\s*(million|billion|tokens)", chunk_text),
+        "legal_structures": re.findall(r"(LP|LLC|DAO|SPV)", chunk_text)
     }
     
-    sentiment_data = analyze_sentiment(chunk_text)
-    entities["sentiment"] = sentiment_data["sentiment"]
-    entities["sentiment_score"] = sentiment_data["sentiment_score"]
-    entities["risk_score"] = calculate_risk_score(
-        entities["risk_mentions"], sentiment_data["sentiment_score"], 
-        len(chunk_text.split()), source_type, entities["region"], chunk_text
-    )
-    return entities
-
-
-def extract_entities(chunk_text, source_type="text"):
-    """Extract entities and return both entities and anonymized text."""
-    doc = nlp(chunk_text)
-    sentence = Sentence(chunk_text)
-    flair_tagger.predict(sentence)
+    # Role extraction
+    roles = {}
+    for ent in doc.ents:
+        if ent.label_ == "PERSON":
+            for token in ent.sent:
+                if token.text.lower() in {"ceo", "founder", "advisor", "cto"}:
+                    roles[ent.text] = token.text
+    entities["team_roles"] = roles
     
-    entities = {
-        "emails": extract_emails(chunk_text),
-        "companies": extract_company_names(chunk_text),
-        "persons": list(set(entity.text for entity in sentence.get_spans("ner") if entity.tag == "PER")),
-        "phone_numbers": extract_phone_numbers(chunk_text),
-        "addresses": extract_addresses(chunk_text),
-        "urls": extract_websites(chunk_text),
-        "cik_numbers": extract_cik_numbers(chunk_text),
-        "financial_terms": extract_financial_terms(chunk_text)["financial_terms"],
-        "crypto_terms": extract_financial_terms(chunk_text)["crypto_terms"],
-        "risk_mentions": extract_financial_terms(chunk_text)["risk_mentions"],
-        "mitigation_terms": detect_mitigation_terms(chunk_text),
-        "latent_risks": infer_latent_risks(chunk_text),
-        "state_regulators": [agency for _, agency in detect_state_risks(chunk_text)],
-        "state_profile": detect_state_risks(chunk_text),
-        "region": extract_region(chunk_text)
-    }
+    # Red flags
+    entities["missing_disclosures"] = ["KYC" not in chunk_text.lower(), "AML" not in chunk_text.lower()]
+    entities["hype_count"] = sum(chunk_text.lower().count(term) for term in POSITIVE_TERMS)
     
     sentiment_data = analyze_sentiment(chunk_text)
     entities["sentiment"] = sentiment_data["sentiment"]
@@ -804,6 +728,5 @@ def extract_entities(chunk_text, source_type="text"):
         len(chunk_text.split()), source_type, entities["region"], chunk_text
     )
     
-    # Anonymize the text after extracting entities
     anonymized_text = anonymize_sensitive_data(chunk_text)
     return entities, anonymized_text

@@ -2,39 +2,44 @@ import os
 import spacy
 from utils import extract_entities, analyze_sentiment, RISK_CATEGORIES, KEYWORDS, lemmatizer
 import logging
+import re
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-nlp = spacy.load("en_core_web_trf")  # Transformer-based model for better accuracy
+nlp = spacy.load("en_core_web_trf")
 
 def semantic_chunking(text, max_chunk_size=500):
-    """Chunk text semantically using NLP to detect topic shifts."""
     doc = nlp(text)
     chunks = []
     current_chunk = []
     current_length = 0
+    sections = {}
+    section_id = 0
     
     for sent in doc.sents:
         sent_text = sent.text.strip()
-        sent_length = len(sent_text.split())
-        if current_length + sent_length > max_chunk_size and current_chunk:
-            chunks.append(" ".join(current_chunk))
+        if re.match(r"^\d+\.\s+.+$", sent_text):  # Detect section headers
+            if current_chunk:
+                chunks.append((" ".join(current_chunk), f"Section {section_id}"))
+                section_id += 1
             current_chunk = [sent_text]
-            current_length = sent_length
+            current_length = len(sent_text.split())
+        elif current_length + len(sent_text.split()) > max_chunk_size and current_chunk:
+            chunks.append((" ".join(current_chunk), f"Section {section_id}"))
+            current_chunk = [sent_text]
+            current_length = len(sent_text.split())
         else:
             current_chunk.append(sent_text)
-            current_length += sent_length
+            current_length += len(sent_text.split())
     
     if current_chunk:
-        chunks.append(" ".join(current_chunk))
-    return chunks
+        chunks.append((" ".join(current_chunk), f"Section {section_id}"))
+    return [{"text": chunk, "section": section} for chunk, section in chunks]
 
 def chunk_text_by_words(txt_file, output_dir, word_limit=500):
-    """Chunk text file into segments using semantic chunking and enrich with metadata."""
     logging.info(f"Chunking text from: {txt_file}")
     with open(txt_file, "r", encoding="utf-8") as f:
         text = f.read()
     
-    # Adjust chunk size dynamically based on content length
     avg_sentence_length = len(text.split()) / len(text.split('.')) if '.' in text else word_limit
     adjusted_word_limit = min(max(int(avg_sentence_length * 5), 200), word_limit)
     chunks = semantic_chunking(text, max_chunk_size=adjusted_word_limit)
@@ -45,19 +50,16 @@ def chunk_text_by_words(txt_file, output_dir, word_limit=500):
     os.makedirs(output_dir, exist_ok=True)
     
     with open(output_file, "w", encoding="utf-8") as f:
-        for i, chunk_text in enumerate(chunks):
-            f.write(chunk_text)
+        for i, chunk in enumerate(chunks):
+            f.write(chunk["text"])
             if i < len(chunks) - 1:
                 f.write("\n\n")
             
-            # Extract entities and get anonymized text
-            entities, anonymized_chunk = extract_entities(chunk_text)
-            
-            matched_keywords = [kw for kw in KEYWORDS if kw.lower() in anonymized_chunk.lower()]
+            entities, anonymized_chunk = extract_entities(chunk["text"])
             sentiment_data = analyze_sentiment(anonymized_chunk)
             
             metadata = {
-                "matched_keywords": matched_keywords,
+                "matched_keywords": [kw for kw in KEYWORDS if kw.lower() in anonymized_chunk.lower()],
                 "sentiment": sentiment_data["sentiment"],
                 "sentiment_score": sentiment_data["sentiment_score"],
                 "risk_score": entities["risk_score"],
@@ -67,13 +69,14 @@ def chunk_text_by_words(txt_file, output_dir, word_limit=500):
                 "source": txt_file,
                 "region": entities["region"],
                 "content_type": "text",
-                "chunk_size": len(anonymized_chunk.split())
+                "chunk_size": len(anonymized_chunk.split()),
+                "section": chunk["section"]
             }
             
             chunk_data.append({
                 "chunk_id": i,
                 "title": f"Chunk {i + 1}",
-                "text": anonymized_chunk,  # Use anonymized text
+                "text": anonymized_chunk,
                 "metadata": metadata
             })
     

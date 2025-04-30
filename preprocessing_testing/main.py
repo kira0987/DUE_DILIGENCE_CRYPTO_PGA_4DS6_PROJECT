@@ -7,8 +7,8 @@ from extract_text import extract_text_to_txt
 from chunk_text import chunk_text_by_words
 from process_urls import process_urls
 from generate_embeddings import generate_embeddings
-import boto3  # For potential AWS Lambda integration
-import numpy as np  # Added for summary report statistics
+import boto3
+import numpy as np
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -21,15 +21,14 @@ def print_investor_pitch():
     print(pitch)
 
 def generate_summary_report(json_data, output_prefix):
-    """Generate a simplified summary report for investors."""
     if not json_data:
         logging.warning("No data to generate summary report.")
         return
     
     summary = {
         "total_chunks": len(json_data),
-        "average_risk_score": float(np.mean([entry["metadata"]["risk_score"] for entry in json_data])),  # Convert to float for JSON serialization
-        "average_sentiment_score": float(np.mean([entry["metadata"]["sentiment_score"] for entry in json_data])),  # Convert to float for JSON serialization
+        "average_risk_score": float(np.mean([entry["metadata"]["risk_score"] for entry in json_data])),
+        "average_sentiment_score": float(np.mean([entry["metadata"]["sentiment_score"] for entry in json_data])),
         "high_risk_chunks": sum(1 for entry in json_data if entry["metadata"]["risk_score"] > 5),
         "key_entities": {
             "companies": list(set([ent for entry in json_data for ent in entry["metadata"]["entities"]["companies"]])),
@@ -64,7 +63,6 @@ def main():
     
     issues = []
     
-    # Text Extraction
     try:
         txt_file = extract_text_to_txt(file_path, output_dir)
         if not txt_file:
@@ -72,26 +70,23 @@ def main():
     except Exception as e:
         issues.append(f"Error extracting text: {str(e)}")
     
-    # File Chunking and Embeddings
     try:
         file_chunk_data, file_chunk_file = chunk_text_by_words(txt_file, output_dir)
         file_prefix = os.path.join(output_dir, f"{os.path.splitext(os.path.basename(txt_file))[0]}_file")
         generate_embeddings(file_chunk_data, file_prefix)
-        generate_summary_report(file_chunk_data, file_prefix)  # Added call to generate summary report for file data
+        generate_summary_report(file_chunk_data, file_prefix)
     except Exception as e:
         issues.append(f"Error processing file chunks: {str(e)}")
     
-    # URL Processing and Embeddings
     try:
         url_chunk_data, url_prefix, url_issues = process_urls(txt_file, output_dir)
         issues.extend(url_issues)
         if url_chunk_data:
             generate_embeddings(url_chunk_data, url_prefix)
-            generate_summary_report(url_chunk_data, url_prefix)  # Added call to generate summary report for URL data
+            generate_summary_report(url_chunk_data, url_prefix)
     except Exception as e:
         issues.append(f"Error processing URLs: {str(e)}")
     
-    # Report Issues
     if issues:
         logging.info("\nIssues encountered:")
         for issue in issues:

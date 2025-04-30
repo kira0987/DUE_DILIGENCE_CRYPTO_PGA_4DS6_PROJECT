@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🚀 Crypto Fund Analyzer PRO</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary: #6c5ce7;
+            --secondary: #a29bfe;
+            --accent: #fd79a8;
+            --dark: #2d3436;
+            --light: #f5f6fa;
+            --success: #00b894;
+            --warning: #fdcb6e;
+            --danger: #d63031;
+            --info: #0984e3;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+            padding: 2rem;
+            color: var(--dark);
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 15px 40px rgba(0,0,0,0.12);
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+        
+        .container:hover {
+            box-shadow: 0 20px 50px rgba(0,0,0,0.15);
+        }
+        
+        header {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            padding: 2rem;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        header::after {
+            content: "";
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 5px;
+            background: linear-gradient(90deg, var(--accent), var(--warning));
+        }
+        
+        h1 {
+            font-size: 2.2rem;
+            margin-bottom: 0.5rem;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .subtitle {
+            opacity: 0.9;
+            font-weight: 300;
+            font-size: 1.1rem;
+        }
+        
+        .upload-area {
+            padding: 2.5rem;
+            text-align: center;
+            border-bottom: 1px solid rgba(0,0,0,0.05);
+        }
+        
+        .file-input {
+            display: none;
+        }
+        
+        .upload-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: var(--primary);
+            color: white;
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 1.1rem;
+            border: none;
+            margin: 1rem 0;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        .upload-btn:hover {
+            background: var(--secondary);
+            transform: translateY(-3px);
+            box-shadow: 0 7px 14px rgba(0,0,0,0.15);
+        }
+        
+        .file-info {
+            margin-top: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .file-name {
+            font-size: 1rem;
+            color: var(--dark);
+            background: var(--light);
+            padding: 0.5rem 1rem;
+            border-radius: 50px;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .file-type {
+            font-size: 0.8rem;
+            color: var(--info);
+            background: rgba(9, 132, 227, 0.1);
+            padding: 0.3rem 0.8rem;
+            border-radius: 50px;
+        }
+        
+        .analyze-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: var(--success);
+            color: white;
+            border: none;
+            padding: 1rem 2.5rem;
+            border-radius: 50px;
+            cursor: pointer;
+            font-size: 1.1rem;
+            transition: all 0.3s;
+            margin-top: 1.5rem;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        .analyze-btn:hover {
+            background: #00a884;
+            transform: translateY(-3px);
+            box-shadow: 0 7px 14px rgba(0,0,0,0.15);
+        }
+        
+        .analyze-btn:disabled {
+            background: #b2bec3;
+            cursor: not-allowed;
+            transform: none;
+            box-shadow: none;
+        }
+        
+        .result-area {
+            padding: 2.5rem;
+            display: none;
+            animation: fadeIn 0.5s ease;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .result-title {
+            display: flex;
+            align-items: center;
+            gap: 0.8rem;
+            margin-bottom: 1.5rem;
+            color: var(--primary);
+            font-size: 1.5rem;
+        }
+        
+        .result-content {
+            background: var(--light);
+            padding: 2rem;
+            border-radius: 15px;
+            white-space: pre-wrap;
+            line-height: 1.8;
+            font-size: 1.05rem;
+            border-left: 4px solid var(--primary);
+        }
+        
+        .loading {
+            display: none;
+            text-align: center;
+            padding: 3rem;
+        }
+        
+        .spinner {
+            width: 60px;
+            height: 60px;
+            border: 6px solid var(--secondary);
+            border-top: 6px solid var(--primary);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1.5rem;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .loading-text {
+            font-size: 1.1rem;
+            color: var(--dark);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+        }
+        
+        .error {
+            color: var(--danger);
+            background: rgba(214, 48, 49, 0.1);
+            padding: 1.5rem;
+            border-radius: 12px;
+            margin: 1.5rem;
+            display: none;
+            border-left: 4px solid var(--danger);
+            animation: shake 0.5s ease;
+        }
+        
+        @keyframes shake {
+            0%, 100% { transform: translateX(0); }
+            20%, 60% { transform: translateX(-5px); }
+            40%, 80% { transform: translateX(5px); }
+        }
+        
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            padding: 2rem;
+        }
+        
+        .feature {
+            text-align: center;
+            padding: 1.5rem;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+            transition: all 0.3s ease;
+        }
+        
+        .feature:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+        }
+        
+        .feature i {
+            font-size: 2.5rem;
+            color: var(--primary);
+            margin-bottom: 1rem;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        
+        .feature h3 {
+            margin-bottom: 0.5rem;
+            color: var(--dark);
+        }
+        
+        .feature p {
+            color: #636e72;
+            font-size: 0.9rem;
+        }
+        
+        .file-types {
+            display: flex;
+            justify-content: center;
+            gap: 0.5rem;
+            margin-top: 1rem;
+            flex-wrap: wrap;
+        }
+        
+        .file-type-badge {
+            background: rgba(155, 89, 182, 0.1);
+            color: #8e44ad;
+            padding: 0.3rem 0.8rem;
+            border-radius: 50px;
+            font-size: 0.8rem;
+            display: flex;
+            align-items: center;
+            gap: 0.3rem;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                border-radius: 10px;
+            }
+            
+            header {
+                padding: 1.5rem;
+            }
+            
+            h1 {
+                font-size: 1.8rem;
+            }
+            
+            .upload-area, .result-area {
+                padding: 1.5rem;
+            }
+            
+            .features {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-chart-line"></i> Crypto Fund Analyzer PRO</h1>
+            <p class="subtitle">Advanced AI-powered due diligence platform</p>
+        </header>
+        
+        <div class="upload-area">
+            <h2><i class="fas fa-file-import"></i> Upload Document</h2>
+            <p>Analyze crypto fund whitepapers and investment materials</p>
+            
+            <input type="file" id="fileInput" class="file-input" accept=".txt,.md,.json">
+            <label for="fileInput" class="upload-btn">
+                <i class="fas fa-cloud-upload-alt"></i> Choose File
+            </label>
+            
+            <div class="file-info">
+                <div class="file-name" id="fileName">
+                    <i class="fas fa-file-alt"></i> No file selected
+                </div>
+                <div class="file-type" id="fileType"></div>
+            </div>
+            
+            <div class="file-types">
+                <span class="file-type-badge"><i class="fas fa-file-alt"></i> .TXT</span>
+                <span class="file-type-badge"><i class="fas fa-file-code"></i> .MD</span>
+                <span class="file-type-badge"><i class="fas fa-file-export"></i> .JSON</span>
+            </div>
+            
+            <button class="analyze-btn" id="analyzeBtn" disabled>
+                <i class="fas fa-robot"></i> Analyze Document
+            </button>
+        </div>
+        
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p class="loading-text">
+                <i class="fas fa-cogs"></i> Analyzing document...
+            </p>
+        </div>
+        
+        <div class="error" id="error"></div>
+        
+        <div class="result-area" id="resultArea">
+            <h2 class="result-title">
+                <i class="fas fa-file-contract"></i> Analysis Report
+            </h2>
+            <div class="result-content" id="resultContent"></div>
+        </div>
+        
+        <div class="features">
+            <div class="feature">
+                <i class="fas fa-file-json"></i>
+                <h3>JSON Support</h3>
+                <p>Analyze structured fund data</p>
+            </div>
+            <div class="feature">
+                <i class="fas fa-bolt"></i>
+                <h3>Fast Processing</h3>
+                <p>Quick turnaround time</p>
+            </div>
+            <div class="feature">
+                <i class="fas fa-shield-alt"></i>
+                <h3>Risk Detection</h3>
+                <p>Comprehensive risk analysis</p>
+            </div>
+            <div class="feature">
+                <i class="fas fa-brain"></i>
+                <h3>AI Insights</h3>
+                <p>Advanced NLP technology</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const fileInput = document.getElementById('fileInput');
+        const analyzeBtn = document.getElementById('analyzeBtn');
+        const fileName = document.getElementById('fileName');
+        const fileType = document.getElementById('fileType');
+        const loading = document.getElementById('loading');
+        const resultArea = document.getElementById('resultArea');
+        const resultContent = document.getElementById('resultContent');
+        const errorDiv = document.getElementById('error');
+        
+        // File type icons mapping
+        const fileTypeIcons = {
+            'txt': 'fa-file-alt',
+            'md': 'fa-file-code',
+            'json': 'fa-file-export'
+        };
+        
+        fileInput.addEventListener('change', (e) => {
+            if (e.target.files.length > 0) {
+                const file = e.target.files[0];
+                const extension = file.name.split('.').pop().toLowerCase();
+                
+                // Update file name display
+                fileName.innerHTML = `<i class="fas ${fileTypeIcons[extension] || 'fa-file'}"></i> ${file.name}`;
+                
+                // Update file type badge
+                fileType.textContent = `.${extension.toUpperCase()}`;
+                fileType.style.display = 'block';
+                
+                analyzeBtn.disabled = false;
+            } else {
+                fileName.innerHTML = '<i class="fas fa-file-alt"></i> No file selected';
+                fileType.style.display = 'none';
+                analyzeBtn.disabled = true;
+            }
+            
+            // Reset UI
+            errorDiv.style.display = 'none';
+            resultArea.style.display = 'none';
+        });
+        
+        analyzeBtn.addEventListener('click', async () => {
+            const file = fileInput.files[0];
+            if (!file) return;
+            
+            // Show loading state
+            loading.style.display = 'block';
+            resultArea.style.display = 'none';
+            errorDiv.style.display = 'none';
+            analyzeBtn.disabled = true;
+            analyzeBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Processing...';
+            
+            try {
+                const formData = new FormData();
+                formData.append('file', file);
+                
+                const response = await fetch('http://localhost:8000/analyze_whitepaper', {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                if (!response.ok) {
+                    const error = await response.json();
+                    throw new Error(error.detail || 'Analysis failed');
+                }
+                
+                const result = await response.json();
+                
+                // Format the analysis result with better readability
+                const formattedAnalysis = result.analysis
+                    .replace(/\n\s*\n/g, '\n\n')  // Remove excess newlines
+                    .replace(/(\d+\.\s)/g, '\n$1') // Add space before numbered items
+                    .replace(/•/g, '\n•');         // Format bullet points
+                
+                resultContent.innerHTML = formattedAnalysis
+                    .replace(/\n/g, '<br>')
+                    .replace(/(🏆|🔍|💡|📊)/g, '<span style="font-size:1.3em;">$1</span>');
+                
+                resultArea.style.display = 'block';
+                
+                // Scroll to results
+                resultArea.scrollIntoView({ behavior: 'smooth' });
+                
+            } catch (err) {
+                errorDiv.innerHTML = `
+                    <div style="display:flex; gap:0.8rem; align-items:center;">
+                        <i class="fas fa-exclamation-triangle" style="font-size:1.5rem;"></i>
+                        <div>
+                            <strong>Error</strong><br>
+                            ${err.message}
+                        </div>
+                    </div>
+                `;
+                errorDiv.style.display = 'block';
+                
+                // Shake animation for error
+                errorDiv.style.animation = 'none';
+                setTimeout(() => {
+                    errorDiv.style.animation = 'shake 0.5s ease';
+                }, 10);
+                
+            } finally {
+                loading.style.display = 'none';
+                analyzeBtn.disabled = false;
+                analyzeBtn.innerHTML = '<i class="fas fa-robot"></i> Analyze Document';
+            }
+        });
+    </script>
+</body>
+</html>

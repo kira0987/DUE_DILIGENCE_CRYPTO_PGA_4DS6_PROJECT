@@ -533,7 +533,7 @@ CIK_PATTERN = re.compile(r'CIK\s*(\d{10})')
 
 # API Endpoints (Free, Unlimited or High-Limit)
 API_CONFIG = {
-    "news": "https://newsdata.io/api/1/news?apikey=&q=crypto+fund+risk&language=en",
+    "news": "https://newsdata.io/api/1/news?apikey=a33f4c6383a54645b629211ca635e08e&q=crypto+fund+risk&language=en",
     "sanctions": "https://api.opensanctions.org/search?query={query}&limit=50",
     "market": "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1",
     "sec_edgar": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&output=atom",
