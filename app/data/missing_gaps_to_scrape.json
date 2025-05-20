@@ -1,86 +1,15 @@
 [
   {
-    "Entity_Concerned": "Unknown Entity",
-    "Risk_Domain": "Compliance",
-    "Data_Needed": "AML policies and procedures",
-    "Suggested_Search_Query": "blockchain proof of history transparency trustlessness decentralized ledger",
-    "Best_Sources": [
-      "CoinDesk",
-      "Blockchain Magazine"
-    ],
-    "Scraper_Instruction": "Extract information on blockchain architecture, protocols, and security measures related to transparency and trustlessness.",
-    "Importance_Level": "High"
-  },
-  {
-    "Entity_Concerned": "Unknown Entity",
-    "Risk_Domain": "Compliance",
-    "Data_Needed": "KYC Compliance",
-    "Suggested_Search_Query": "blockchain architecture transparency trustlessness proof of history PoH nodes decentralized ledger financial statements auditing",
-    "Best_Sources": [
-      "CoinDesk: Blockchain and Cryptocurrency News, Information, Prices, and More",
-      "Blockchain.com: Learn About Blockchain Technology"
-    ],
-    "Scraper_Instruction": "Search for key terms related to blockchain architecture and transparency in the specified sources.",
-    "Importance_Level": "High"
-  },
-  {
-    "Entity_Concerned": "Unknown Entity",
-    "Risk_Domain": "Financial Health",
-    "Data_Needed": "Audited Financials",
-    "Suggested_Search_Query": "Proof of History blockchain system transparency and trustlessness",
-    "Best_Sources": [
-      "https://en.wikipedia.org/wiki/Blockchain",
-      "https://www.coindesk.com/what-is-blockchain/"
-    ],
-    "Scraper_Instruction": "Extract information about financial statement auditing and transparency in the provided text, if any.",
-    "Importance_Level": "High"
-  },
-  {
-    "Entity_Concerned": "Unknown Entity",
-    "Risk_Domain": "Technical Infrastructure",
-    "Data_Needed": "Custody of Assets",
-    "Suggested_Search_Query": "blockchain transparency auditing financial statements",
-    "Best_Sources": [
-      "Coindesk",
-      "Blockchain Council"
-    ],
-    "Scraper_Instruction": "search for articles discussing blockchain-based systems and their implications on financial statement transparency",
-    "Importance_Level": "High"
-  },
-  {
-    "Entity_Concerned": "Unknown Entity",
-    "Risk_Domain": "Governance",
-    "Data_Needed": "Fund Governance Structure",
-    "Suggested_Search_Query": "blockchain PoH transparency auditability",
-    "Best_Sources": [
-      "academic papers on blockchain architecture and security",
-      "blockchain technology forums and discussion groups"
-    ],
-    "Scraper_Instruction": "search for key phrases and keywords related to blockchain, PoH, transparency, and auditability",
-    "Importance_Level": "High"
-  },
-  {
-    "Entity_Concerned": "Unknown Entity",
-    "Risk_Domain": "Risk Management",
-    "Data_Needed": "Risk Management Framework",
-    "Suggested_Search_Query": "blockchain architecture proof of history nodes",
-    "Best_Sources": [
-      "Blockchain Wikipedia",
-      "Proof of History Whitepaper"
-    ],
-    "Scraper_Instruction": "Extract information on blockchain system's architecture, protocols, and security measures.",
-    "Importance_Level": "High"
-  },
-  {
-    "Entity_Concerned": "Unknown Entity",
+    "Entity_Concerned": "Crypto Capital",
     "Risk_Domain": "Investor Protection",
     "Data_Needed": "Investor Protection Measures",
-    "Suggested_Search_Query": "blockchain transparency proof of history nodes",
+    "Suggested_Search_Query": "Crypto Capital investor protection measures",
     "Best_Sources": [
-      "Coindesk",
-      "Cryptocurrency News"
+      "https://www.fincen.gov/resources/enforcement-actions/crypto-capital-partners-llc",
+      "https://www.swissfinma.ch/en/facts-figures/crypto-capital-partners-gmbh/",
+      "https://coindesk.com/news/2022/02/18/crypto-capital-partners-to-pay-56m-in-fine-settlement-with-us-regulators/"
     ],
-    "Scraper_Instruction": "Extract text related to transparency and auditing from blockchain articles",
+    "Scraper_Instruction": "Use advanced search operators to filter results and extract relevant information from official sites, regulatory bodies, and trusted crypto news outlets.",
     "Importance_Level": "High"
   }
 ]

@@ -1,0 +1,609 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/237622306
+The World of Funds of Funds
+Article in Investment Management and Financial Innovations · January 2008
+University of Duisburg Essen
+32 PUBLICATIONS 110 CITATIONS
+Texas Tech University
+322 PUBLICATIONS 5,153 CITATIONS
+Kedge Business School
+65 PUBLICATIONS 1,019 CITATIONS
+All content following this page was uploaded by Edward W. Sun on 24 August 2014.
+The user has requested enhancement of the downloaded file.
+
+The World of Funds of Funds
+Michael Stein, University of Karlsruhe & Credit Suisse Asset Management
+Svetlozar T. Rachev, University of Karlsruhe and KIT& University of Santa Barbara
+Wei Sun, University of Karlsruhe
+Michael Stein: Institute for Statistics and Mathematical Economics, University of
+Karlsruhe, Germany & Credit Suisse Asset Management, Frankfurt, Germany. //
+michael.stein@statistik.uni karlsruhe.de
+Prof. Svetlozar T. Rachev (Corresponding Author): Institute for Statistics and
+Mathematical Economics, University of Karlsruhe, Germany & Department of Statistics and
+Applied Probability, University of California, Santa Barbara, USA. // Chair of Econometrics,
+Statistics and Mathematical Finance, School of Economics and Business Engineering,
+University of Karlsruhe, Kollegium am Schloss, Bau II, 20.12, R210, Postfach 6980, D
+76128, Karlsruhe, Germany, svetlozar.rachev@statistik.uni karlsruhe.de, Chief Scientist,
+FinAnalytica, http://www.finanalytica.com
+Dr. Wei Sun: Institute for Statistics and Mathematical Economics, University of
+Karlsruhe, Germany. // wei.sun@statistik.uni karlsruhe.de
+
+In this paper we provide a review of developments in the fund of funds (FoF)
+industry as well as related academic research work. Since the genesis of this sort
+of financial product in the 1960s, huge capital inflows have generated a total of
+US $1,200 billion of worldwide FoF assets under management as of year end
+2007. Being portfolios built out of other portfolios and assets, FoFs are a special
+type of investments and therefore have distinct advantages and disadvantages in
+comparison with other investment vehicles. When reviewing both the academic
+research related to the unique, or at least distinct, features of FoFs and discussing
+market developments, we address a good number of interesting questions and
+challenges. Specifically, we find that classical methods of research and
+assessment may be insufficient to address these questions in both theoretical and
+quantitative aspects. The need for a distinct treatment of FoFs is even more
+evident when focusing on the dynamic nature of financial market developments
+and increasing global competitiveness. As past research work on FoFs is scarce,
+especially when being compared to the amount of research work on funds, we
+conclude that further investigation of this sort of financial asset is necessary.
+Keywords: Fund of Funds, FoF, Hedge Funds, Multi Manager Funds, Fund
+JEL Classifications:
+
+The fund of funds (FoF) concept has its origin in the 1960s, with the industry steadily
+growing since then. A FoF is a fund which invests in other funds and is sometimes referred to
+as a multi manager fund. There are many different types of FoF. They include fund of hedge
+funds, fund of private equity funds, fund of mutual funds, and fund of real estate funds. With
+FoF as of year end 2007 having about US $1,200 of assets under management, a closer look
+at the FoF industry is needed and we do so in Section 2 of this paper. In 2007, funds of hedge
+funds received about US $60 billion of net new assets under management, increasing the
+amount of global capital invested in this type of FoF to around US $800 billion.
+Investments in FoF can be advantageous for both retail and institutional investors due
+to the distinct features of this kind of financial product. However, as with any other
+investment product, disadvantages and sources of possible dissatisfaction exist as well.
+One out of several striking advantages of FoF concepts is the possibility for retail investors to
+get access to financial products in which they could not directly invest. Many funds ─ and
+especially hedge funds ─ are not accessible for most private, retail investors due to high
+minimum investments, prohibitive high transaction costs, lack of information or simply
+missing distribution channels.
+With FoFs, retail investors are able to get exposure to sectors, asset classes, markets,
+and products which otherwise would not have been included in their portfolios. Such
+structural aspects, albeit largely differing between countries, markets, and sectors, stem from
+the fact that business ties and related costs are crucial in determining the investment product
+universe. With most FoFs pooling money from large and diverse investor bases, they are able
+to invest in assets that demand high minimum investments or that offer discounts for
+management fees, costs or loads when investing amounts above specified marks. Investing in
+special share classes of funds, which are generally open for all kinds of investors with pre
+defined minimum investments and lower management fees, is another path to cost reduction.
+Because banks and fund management companies generally have their own trading
+infrastructure, accounting, and clearing offices and desks as well as special agreements with
+other market players and counterparties, absolute and relative operational costs also can be
+reduced significantly.
+
+However, on the con side, the double cost structure of FoFs caused debates in the past
+and is still subject to discussions both in the academic world and among practitioners.
+In addition to these organizational economies of scale, direct contracting between
+financial institutions may impose another beneficial factor when it comes to market access.
+With direct contracts between financial institutions, banks, endowments, management
+companies, and/or advisors, discounts to fund load fees for example may be agreed on, or the
+institution may be able to trade without paying issuance fees. Structural aspects and the
+effects of business ties in the fund industry have been the subject of numerous studies, which
+will be discussed in the fund (of fund) industry review in Section 2.
+Besides constraints at the cost of investment side or barriers to entry, retail investors
+face another problem when building portfolios out of a large variety of assets and financial
+products: The problem of information and overview. As the fund industry is offering a huge
+range of products, it is difficult for retail investors to get an overview concerning funds in
+which they are interested. Performing the task of market screening may be both time
+consuming and inefficient. Furthermore, even when having found a pool of investment
+possibilities, selecting the ones which suit the investor’s needs and preferences is a
+challenging task, sometimes even for experienced investors.
+As is the task to define an investment universe, the evaluation task is challenging,
+because based on the respective needs each single investor has, information building with
+respect to the quality of target funds is crucial. This stems from two interrelated facts. First,
+retail investors generally do not have access to sophisticated data systems or information
+systems. Second, even if such sources are at their disposal, retail investors may find it
+difficult to use such information properly.
+Being exposed to some kind of informational blinkers, the only way to remedy may
+be delegating investment decisions. This can happen in various ways, for example with
+investment advisors or wealth managers. Investing in pension funds or insurance plans could
+be a solution, too. However, none of the mentioned forms of investment decision delegation
+is free from shortcomings or disadvantages. Costs have to be incurred in any case, and one is
+always exposed to the classical problems of moral hazard, divergence of interests,
+uncertainty, and, once again, insufficient information. For FoFs, the same holds true of
+course, and one may argue that indirectly paying a FoF manager via management fees may
+result in the same problems as paying directly for investment consultancy or wealth
+
+However, the emergence of the industry in recent years and the steady path of growth
+that the branch has found, suggests another view. Seemingly, the FoF industry delivers
+products and investment possibilities that attract retail investors all over the world. If it would
+not pay in the most direct sense of the word, why should people put their money into FoFs? Is
+it the inexistence of better solutions, advertisement effects, or do FoFs really suit retail
+investors that well? These questions have yet to be answered, where attention should be
+drawn on the double cost structure imposed by FoFs and their management fees. This often
+emphasized double fee structure of FoFs is subject to the studies of (Brown et. al., 2004) and
+Many of the problems that retail investors face when making investment decisions do
+not arise for institutional investors in the same manner. As mentioned above, information
+flows are completely different for institutional investors such as pension plans, asset
+managers, wealth managers, endowments, or state owned investment funds than they are for
+private, retail investors. The same holds true for different cost burdens, resulting from the
+structures discussed above. Reconsidering the decision to choose between types of delegating
+investment decisions, questions concerning the value added by market professionals have to
+Naturally related to management fees and advisor compensation is the question of
+how well the services provided suit the investors. When deciding on the sector, asset class or
+country to invest in, the problem is not only to separate the ones which one wants to be
+exposed to, but to decide on how this can be achieved. Investing in index or basket
+certificates or exchange traded funds (ETFs), for example, are ways to gain exposure to
+specific markets, sectors, countries or strategies. Most index products are very transparent
+when it comes to underlying constituents, have very low management fees, and offer the
+ability to participate directly in the movements of the underlying index. If exposure is gained
+through index or asset tracking products, the investor receives a return profile with zero alpha
+(no excess returns over the benchmark or index) and a beta of one (the returns are exactly
+proportional to the underlying benchmark or index).
+Passively managed ─ or at least benchmark oriented ─ funds are another way to
+participate (almost) one by one, although some funds exist, which are marketed as actively
+managed ones, but are merely tracking their benchmark. In contrast to investing in index
+profiles, both retail and institutional investors are demanding excess returns from their
+investments, that is, they expect the managers to outperform their benchmark.
+
+Finding fund or portfolio managers which seem to possess superior ability to
+outperform the market and thereby keeping track of the imposed costs is also a strain of
+research of its own. Questions that arise when searching for alpha include ─ among many
+others ─ the following: Is past performance due to pure luck or ability? Are the returns
+achieved driven by timing, selectivity, superior strategies or are unobservable factors
+responsible? May the investors expect the past performance to persist over time? As even
+market professionals and academics may struggle to identify winners and losers, the quest for
+alpha is understood as being one of the most challenging. Selection problems, performance
+analyses, and efforts to identify winners and losers are the subject of Section 3. These
+problems arise on both sides of the FoF ─ investors are interested in selecting the best FoFs
+and in turn FoF managers are seeking to invest in the best funds.
+After discussing selectivity and identification problems that arise when deciding on
+investments, we lay out a problem that is very much a special FoF problem. FoF managers
+may choose among a large variety of funds depending on the branch they are investing in.
+Building portfolios out of funds may result in multiple exposures to one and the same asset or
+risk factor. For example, when investing in European real estate equity funds like the
+Henderson Horizon Pan European Property Equity Fund or the Morgan Stanley European
+Property Fund, one has significant exposure to the shares of Unibail Rodamco, a real estate
+company that makes up more than 10% of the European Public Real Estate Association
+(EPRA) Europe Index.
+One should be careful when selecting related funds in order to avoid the trap of
+ending up with a market representing portfolio of top holdings, while at the same time
+incurring higher costs than when investing in the related indices. From this, it should be clear
+that limits to diversification arise not only from the structure of the underlying assets but
+from the paralleling of holdings. Benefits of including additional funds therefore need to be
+weighed against the disadvantageous increased monitoring burden and the diversification
+drain. Of course, this problem is not limited in dimensions, as FoF Squared (fund of fund of
+funds) structures exist as well, for example when institutions decide between building
+portfolios out of funds or investing in FoFs. We will cover FoF specific portfolio construction
+problems in Section 4.
+2. The Fund (of Funds) Industry
+As noted earlier, many different FoF types exist. Although the variety is large and growing,
+hedge FoFs (HFoFs) have attracted the majority of capital invested in FoFs. Hedge Fund
+
+Research (HFR) reports net new assets of US $9.5 billion, $49.7 billion, and $59.2 billion
+invested in the HFoF industry in 2005, 2006, and 2007, respectively. According to HFR, by
+year end 2007 assets under management of HFoFs amounted to US $798.6 billion
+worldwide, with the expectation of further growth. Compared with the industry wide total of
+US $ 1,208 billion of assets under management of FoF as reported by Barclay Group, HFoFs
+represent about two thirds of total FoF global assets under management.
+The large fraction of HFoFs in the industry has a straightforward structural
+interpretation, as one crucial benefit from investing in this type of FoF is the possibility of
+investing in hedge funds at all. Generally, hedge funds are not accessible for most non
+institutional investors except high net worth individuals, and by pooling investors’ money the
+HFoFs open the door to this asset class for nearly everybody. Of course, minimum
+investments exist for HFoFs too, but especially when accessing investible hedge fund indices
+those are found to be lower.
+Diversification benefits are another source of attractiveness of all FoFs, especially
+when multiple hedge fund strategies such as Event Driven, Convertible Arbitrage, Distressed
+Securities or Global Macro for example are included in the HFoFs. Large and growing, the
+US $800 billion of worldwide hedge fund assets under management show a wide range of
+investment possibilities. Due to the fact that hedge funds are way less transparent than mutual
+funds and do not have the strong and strict reporting obligations that are imposed on mutual
+funds, the task of selection and identification in the investment process is especially tough
+when building portfolios that consist of or at least contain hedge funds. In this respect, HFoFs
+deliver a precious service to investors by screening the hedge fund market, performing due
+diligence processes, and selecting the most prospective investment possibilities.
+As with any other asset class, the layout of the investment process is crucial to the
+success of the investments made. Following the due diligence process and the manager
+selection, the HFoF asset allocation (bottom up or top down approach, diversification
+considerations, expectation building among others) is done, followed by continuously
+monitoring the risks and returns of the investments made. Investment processes’ setup and
+quality are the determining factors for the success or failure of HFoFs. For example, Standard
+& Poor’s defines fund rating criteria that are underlying their decisions such as investment
+culture, due diligence approach, portfolio monitoring systems and controls, operational risk
+assessment, experience of fund management teams, selected managers’ experience, and
+performance success.
+
+Private equity FoFs (PEFoFs) parallel many features and advantages of HFoFs
+outlined above. These invest in leveraged buyout (LBO) or venture capital (VC) funds and by
+doing so serve as investment channels to otherwise not accessible investment possibilities.
+PiperJaffray, who offers a variety of PEFoFs, published a special report – hereafter referred
+to as (PiperJaffray, 2003) – on this type of FoFs, which describes the distinct features of this
+sort of investment, some of which are explained in the following.
+LBO or VC funds invest directly in companies that are not traded publicly on stock
+exchanges and are not listed. While LBO funds make use of leverage after purchasing part of
+a target company, VC funds typically make serial equity investments without taking debt. Of
+course, both sub types of private equity try to identify companies that seem to be the most
+promising concerning actual and future returns. Due diligence and subsequent close
+monitoring enhance the possibility of high prospective returns on capital invested. Especially
+LBO funds when taking over whole firms are directing the path of the companies in which
+they are investing. The difference between VC and LBO funds can be roughly seen in the
+maturity of their target companies, with the former commonly investing in young immature
+companies and the latter targeting more mature firms with more or less stable cash flows.
+High capital amounts are demanded to perform this kind of business, and the pooling of
+money by PEFoFs serves as an appropriate way of raising those.
+In addition to the HFoFs and the PEFoFs, which make up most of the industry, many
+other FoF types have emerged in recent years. For example, FoFs that consist of stock funds
+and bond funds provide high diversification benefits due to the opposing movements that the
+fixed income and equity markets naturally take. Investors do not need to shift between bonds
+and stocks; the adjustments are made by the FoF managers, whose timing on the markets is
+crucial to the performance of this type of investment vehicle.
+Sector specific or industry mutual FoFs exist as well, being portfolios that comprise
+investments in a certain sector, country or class of investments. For example, some Real
+Estate FoFs invest in both open ended real estate funds (which are directly investing property
+funds with a bond like risk and return profile) and real estate equity funds. Depending on
+their market expectations, the fund management teams can quickly increase their real estate
+equity exposure or stick to the safe haven directly investing real estate funds.
+Not all FoF are limited to invest solely in other funds. Some have the possibility to
+invest certain fractions of the fund volume in shares of companies, corporate or government
+bonds, certificates or derivatives. While increasing the flexibility and enlarging the
+investment universe of these FoFs, these additional investment possibilities represent both
+
+opportunities and threats. Consider a fund manager who has a strong bullish view on one
+single company, to which he wants to get more exposure than is possible through the
+underlying fund holdings. By buying ordinary shares or derivatives on that company, the
+fund manager may tweak the exposure to that company to the desired level. Another strategy
+example would be to use derivatives or reverse index trackers to isolate underlying fund
+performances or alpha, or to reduce exposure to certain parts of the underlying funds while
+maintaining the remaining structure. Non fund investments may therefore be a tool to
+sophisticated FoF strategies, with hedge fund like strategies then being accessible by
+managers of long only funds. However, if FoF managers are able to discretionally invest in
+non fund assets, the FoF concept may loose its stability or the structure that was expected by
+investors. Put another way, the abilities of FoF managers need to be high enough to reap the
+benefits of non fund investment possibilities.
+Therefore, the skills of the management team are once again the crucial determinant
+of the success of investments. When it comes to performance measuring and attribution, a
+variety of questions and problems arises, such as comparability, factor selection, statistical or
+technical problems, measurement decisions and many more. To address these issues, the next
+section will be devoted to an overview concerning performance analysis and identification
+problems in the fund and fund of fund world.
+3. Performance Analysis and Identification Problems in
+Fund (of Funds) Management
+This Section highlights the problems of performance analysis, the search for alpha and
+identification problems inherent in FoF business. In doing so, we turn the focus on several
+problems which especially apply to FoF investments.
+When building FoFs, the product management and portfolio management teams are
+confronted with a large set of questions. First, one has to choose how the investment universe
+should be defined. Generally, FoFs are set up as products that focus on a certain industry, a
+country, a sector, or an asset class of financial products. Several possible types of FoFs have
+been discussed in section 1. After the “topic” of the FoF is selected, the next step is whether
+to constrain the investment universe further. For example, if a FoF is bond oriented, the
+question is whether the FoF should be able to invest in bond funds of any kind, or whether
+certain profiles or countries may be excluded or limited.
+
+In addition, some FoFs are allowed to allocate a certain fraction of their assets under
+management to non fund investments, such as single stock shares, bonds, derivatives or
+others. As mentioned in the introductory section, this may lead to two opposing outcomes.
+On the one hand, the profile of the FoF could be greatly improved. With FoF managers
+having the ability to (partly) hedge fractions of their investments, to gain or tweak exposures
+to preferred sectors or companies which may be underrepresented in the fund holdings, or to
+circumvent structural and institutional constraints, able managers may perform better than
+they would when being limited to fund only investment schemes.
+A very actual example is that of real estate company Unibail Rodamco. The EPRA
+(European Public Real Estate Association) Europe Index, which serves as the benchmark for
+most European real estate equity mutual funds, consists currently (February 2008) of about
+14% of Unibail Rodamco. As UCITS (Undertakings for the Collective Investment of
+Transferable Securities) regulation limits the single allocation of mutual funds in one
+company to 10% of the fund volume, this has led to all funds underweighting Unibail
+Rodamco relative to the benchmark. If the FoF management team is bullish on Unibail
+Rodamco, they may heal the expected underperformance of their regulated fund holdings by
+investing directly in Unibail Rodamco shares or derivatives. Another example would be if the
+FoF managers want to pursue a strategy of picking small companies for which they have
+promising information, but which are only small fractions in the target fund holdings due to
+their small role in the benchmark index.
+On the other hand, non fund investment allowances for FoF managers may lead to
+undesirable effects. If managers take the wrong steps and have a large amount of
+discretionary freedom, they may dis stabilize the FoF and introduce performance flaws. Put
+another way, the possibility of non fund investments is increasing both risk and uncertainty
+concerning future performance from the perspective of FoF shareholders. As the investment
+universe and therefore the allocation possibilities may be exploding due to non fund
+investments, the investor holding a FoF is confronted with increased problems concerning
+expectation building. Therefore, fund manager ability is the crucial factor dividing pro and
+con of non fund investment possibilities for FoFs.
+When it comes to ability and performance attribution as well as the identification of
+“better” funds and FoFs, i.e. investments that deliver “alpha”, we are in the favourable
+position of having a huge research work body concerning performance measurement at our
+disposal. While the several studies are differing largely in their very nature, the aim of the
+most is to conduct an analysis that may be useful for selecting funds, i.e. managers. Before
+
+the various approaches will be discussed and put in relation to the FoF world, some preceding
+One important aim of performance analyses and identification in the search for alpha
+should be comparability, that is, when trying to analyse various mangers’ skills and fund
+performances, the study needs to focus on the right factors and benchmarks. The classical
+model of portfolio selection and the single index model by (Markowitz, 1952 and 1959) as
+well as the Capital Asset Pricing Model (CAPM) that has been developed by (Sharpe, 1964)
+and (Lintner, 1965), use simple linear ordinary least squares regressions (OLS). The
+regression is run on the excess return of an asset on its benchmark’s (the market portfolio)
+excess return, with the excess return generally being defined as over a risk free rate. In these
+models, the higher the intercept that represents the alpha, the higher the risk adjusted return,
+while risk is measured as beta, relative to the benchmark.
+(Fama and French, 1992) in their seminal study augment the analysis with additional
+factors. They introduce two factors in addition to the benchmark or market portfolio, the
+excess return of small capitalisation stocks over large capitalisation stocks (small minus big,
+SMB) and the excess return of stocks with high ratios of book to market value over ones
+with low book to market value (high minus low, HML). Not representing the end of the
+factor model developments, the (Fama and French, 1992 and 1993) model had an invention
+by (Carhart, 1997), who introduced the momentum of one year stock returns as an additional
+characteristic component, after (Jegadeesh and Titman, 1993) having proposed the
+momentum factor. The resulting four factor model has been used extensively in the past and
+builds the baseline for many studies on performance analysis. The initial work on portfolio
+theory and benchmark oriented performance measurement has triggered a lot of following
+research work, such as the arbitrage pricing theory by (Ross, 1976), an alternative to the
+Before discussing the nature of performance analyses for selection processes, a few
+technical facts concerning the use of alpha and beta as a measure of superior fund (manager)
+quality are noteworthy. As alpha is simply the intercept of an OLS regression, it tells the
+analyst about the (excess) return that a fund would achieve if all the explaining factors (for
+example the SMB excess return) were set to zero. It is understood that the intercept is
+somehow a bin for all non random effects not caught up by the explaining factors and
+therefore may be the result of a large variety of effects, not only representing the superior
+ability of a funds’ manager. When it comes to beta, used as a measure of fund exposure to the
+explaining factors, the use of linear regression analyses may be inappropriate especially when
+
+analysing funds that show highly non linear dependencies, for example hedge funds and
+other vehicles that are subject to option like payoff structures. However, the non linear
+effects may be included even in linear regression analyses when using respective explaining
+Not criticizing the use of the four factor model or related setups, we stress that the
+four factor model is not suitable for all kinds of performance analyses, especially when
+constructing FoF portfolios. For example, if the universe of the funds under review is not
+restricted very much, that is, if fund managers may have invested in a large variety of stocks
+(for example a country oriented mutual fund), the four factor model lets conclude about the
+source of performance. Nevertheless, the alpha, the regressions’ intercept, is not measuring
+the ability of the fund manager.
+An intuitive example: A fraction of fund managers in a study sample overweighs
+small caps against large caps stronger than other fund managers. In a year where small caps
+subsequently perform better than their blue chip counterparts, the higher returns of the small
+cap biased funds are a result of their superior ability to forecast the small cap outperformance.
+In the four factor model, this ability is not identified as ability, but is “soaked up” by the
+SML term in the regression, leaving an alpha that neglects the good decision made by the
+fund managers overweighing small caps. If the aim of the study is to identify where the
+performance comes from, this is a favourable effect, if the study was to compare fund
+managers in a selection process, it is not. This problem is crucial to any performance analysis
+in the fund universe and calls for sensible selection of the factors in relation to which
+information is to be obtained, thereby carefully interpreting the results obtained.
+Especially when analysing funds in a FoF portfolio building process, the caveats of
+simply picking high Carhart alpha funds are clear cut. As FoFs should be well diversified
+portfolios build out of the most promising target funds, the misleading effects discussed
+above may introduce biases that lead to significant deviations from this goal. In the
+mentioned example, one would be underweighting funds that successfully chose the right
+strategy, possibly harming future performance. Therefore, it is key to use factor models such
+as the (Carhart, 1997) model in the right way. If the FoF management team is aiming at
+identifying the strategy or sector relations of target funds, the factor models may suit them
+well, for example when aiming at including a heterogeneous set of target funds. If they want
+to identify the ones that made the right investment decisions, they should change the
+
+In the fund selection process for a FoF, we propose a multi step use of the (Carhart,
+1997) model or similar factor models. First, the model should be used to identify by which of
+the observable and identifiable factors or characteristics a fund’s performance was driven, on
+a very aggregated level, for example indeed with the four factors proposed by the (Carhart,
+1997) model. Second, from the initial analysis, separate classes are built for which the
+analysis is re run, yielding a more reliable picture of the underlying funds’ quality. In the re
+run(s), the factors may be adjusted in relation to the class characteristics. For example after
+separating the small cap benefited funds, one could introduce further more dis aggregated
+sector benchmarks such as the S&P Technology or the Wilshire Micro Caps. Obviously, the
+use of the multi step procedure may better suit FoF selection processes due to the possibility
+of both finding different characteristic classes of funds and finding the ones which are the
+best performers in the respective classes. How deep the analyses are conducted, and in which
+order the analyses are performed, depends on the respective needs and the structures of the
+target funds under consideration.
+The arguments proposing a multi step approach to fund selection are broadly in line
+with (Daniel et. al., 1997), who favour characteristic benchmark portfolio models over the
+four factor model by (Carhart, 1997). However, even when using the proposed multi step
+analysis or benchmark portfolio building processes, the analyst may struggle to identify the
+funds which steadily perform in the way that is found in the analysis.
+As for any other investor, the search for performance persistence and the
+interpretation of past fund returns (and the projection of those into the future) is an important
+task in the FoF portfolio building process. Besides the problems discussed above, one has to
+take the analysis from the cross section to the intertemporal dimension. Work on this subject
+goes back to (Jensen, 1969) and (Beebower and Bergstrom, 1977), and it were (Grinblatt and
+Titman, 1989a, 1989b, 1992), (Brown and Goetzmann, 1995), (Hendricks et.al., 1993),
+(Malkiel, 1995), (Elton et. al., 1996), (Daniel et. al., 1997) and (Carhart, 1997) heavily
+influencing the work on performance persistence. The issue of survivorship bias in
+performance persistence studies is an often discussed problem, as are the problems of short
+history samples and non normally distributed alphas across the funds. The latter two
+problems have led to the use of Bayesian and bootstrap methods, see (Pastor and Stambaugh,
+2002a and 2002b) and (Kosowski et. al., 2006 and 2007) among others.
+Concerning FoF performance, (Rachlin and Castro, 2007) discuss hedge fund
+performance measuring for FoF managers and on the FoF layer, (Chiang et. al., 2008)
+investigate the performance of real estate mutual FoFs.
+
+As all of the studies above are related to analysing the performance of funds and/or
+assets, the question being addressed is how to identify winners and losers, and to identify
+which of them tend to be of the same type in the future. Following the performance analysis
+and identification problem, the process of fund of fund portfolio building necessitates an
+appropriate selection process in the task of picking the respective funds to include in the
+portfolio. This leads to a discussion of the problems concerning portfolio optimization and is
+covered in the next section.
+4. Building Fund of Funds
+When constructing portfolios of funds, it is critical to consider both the nature of any fund, as
+well as the common factors driving them. Diversification benefits stemming from low or
+even negative relationships among assets are important for the expected risk and return
+structure of the resulting portfolio. Since the seminal work of (Markowitz, 1952 and 1959),
+this topic has been among the most researched and discussed by both academics and
+practitioners, see (Steinbach, 2001) for an overview on mean variance optimization.
+(Black and Litterman, 1990 and 1992) have developed a framework that lets the
+investor include his subjective views, a setup being more robust to estimation errors.
+Extensions to the Black Litterman approach have been made by (Giacometti et. al., 2007)
+who use stable distributions and therefore propose models that do not suffer from the
+shortcomings caused by the normality assumption of the classical models. The use of stable
+Paretian distributions in financial and portfolio modelling has been studied in detail by
+(Mittnik and Rachev, 1993 and Rachev and Mittnik , 2000), (Samorodnitsky and Taqqu,
+1994), (Rachev and Han, 2000), and (Ortobelli et. al., 2002 and 2003).
+When it comes to FoFs, a few words concerning the distinctiveness of FoF portfolio
+optimization are due. In the FoF building process, one often has to choose one or several
+funds out of a family of funds with very similar exposures and/or strategies. This introduces
+the possibility of very high correlations among underlying funds, stemming from the fact that
+those may be invested in the same companies, assets, sectors or markets. It is therefore
+crucial to identify the holding structures or risk factors of target funds, as well as common
+factors that are influential to the funds’ performances. Only by doing so does the FoF
+management team avoid the risk of unnecessary and inefficient double or multiple exposures
+to the same companies, assets, sectors or markets. This may be done by either running factor
+analyses on the funds’ data or by investigating the reports of funds and/or taking into account
+information available on them. If the unique and common features of the respective funds are
+
+found and a set of funds in which the FoF management wants to invest is defined, the
+question remains how the FoF portfolio will be build. Thereby, it is not possible to build a
+FoF by viewing any target fund as a single asset.
+Using an appropriate risk measure is crucial for FoF portfolio building, with
+(Goodworth and Jones, 2007) focussing on non parametric risk measurement for hedge funds
+and FoFs, and (Christie, 2007) using downside leverage and event risk measures in FoFs. For
+a general discussion of risk measures, see (Rachev et. al., 2008).
+As is the choice of the appropriate risk measure far from trivial, so is its interpretation,
+especially when being applied for optimizing a FoF portfolio. When viewing any target fund
+as a single asset, one ignores the possibility that the risk that is included in one fund may also
+be included in other funds.
+Related to this problem is the issue of choosing not only which funds or what kinds of
+funds to include in a FoF, but also how many. The question is whether including additional
+funds really helps in diversifying the portfolio and thereby not averaging or counter investing
+away the characteristics of the target funds. Among others, (Connelly, 1997), (O’Neal, 1997),
+(Park and Staum, 1998), (Saraoglu and Detzler, 2002), (Brands and Gallagher, 2005),
+(Louton and Saraoglu, 2006), (Amo et. al., 2007) and (Kooli, 2007) discuss the problem of
+FoF portfolio building. Especially the (Connelly, 1997) paper hits the point with the
+discussion surrounding so called unintended indexing, which means that by choosing too
+many funds, one could end up with a costly index type investment portfolio. This does not
+only come from the fact that especially many mutual funds label themselves as being actively
+managed and thereby only slightly over or underweight their holdings relative to their
+benchmark. (Connelly, 1997), in citing a speech of William E. Jacques at the Institute for
+International Research sponsored conference of Active vs. Passive Investment Management
+argues that mixing for example a growth fund with a value fund counters the investment
+strategies, thereby increasing the portfolio holdings deadweight.
+With all the problems introduced in the preceding discussion, it is clear that FoF
+portfolio building is by no means a trivial or at least easy task. While only a few studies on
+fund portfolios exist, the literature did not yet provide a concluding answer on the questions
+raised, leaving open the door for further investigations and insights.
+5. Conclusion and Outlook
+
+Being a large and growing part of worldwide financial investment possibilities, funds of
+funds are increasingly in the focus of both practitioners and academic researchers. We lined
+out some specific features, (dis) advantages, developments, questions and problems that are
+special to FoFs. By doing so, we reviewed past research work in both the FoF world as well
+as in the field of funds as the natural FoF underlyings.
+Among the most crucial questions and challenges that we found are the following;
+FoFs are very diverse according to their investment universe and need to be treated
+accordingly; the fees charged by FoFs have initiated the discussion of the double cost fee
+structure; fund portfolios have to be build by taking into account that the target funds may not
+be seen a single assets.
+With these problems and many more still being unresolved, we stress the importance
+that FoF research needs to be done with tools that are sensible in light of the special nature of
+fund portfolios. Identifying the nature, risk factors and exposures of the target funds, thereby
+assessing their similarities and differences, needs sophisticated and sensible approaches and
+Especially when it comes to non linear (inter)dependencies and relationships,
+classical measures and methods may not be sufficient to perform the needed analyses.
+Copulas, simulation models and other inventions may be needed to identify the factors that
+are crucial in FoF management. Of course, the obtained results need to be used with other
+information from the due diligence and compliance assessment processes.
+When building portfolios out of funds, it is clear that one cannot rely on the classical
+models with an assumed normal distribution. As both the most target funds as well as their
+investments exhibit non normally distributed returns, we propose the use of stable
+distributions in the portfolio building process for FoFs. Furthermore, the fact that several
+target funds may be influenced by the same factors calls for methods that detect multiple
+exposures or holdings.
+Concluding, we stress that it is especially the need for measuring (inter) dependencies
+and diversification possibilities between target funds as well as the use of modelling the
+target funds returns in the appropriate way that should drive future fund and FoF research.
+
+Amo, A. V., H. Harasty, P. Hillion. Diversification Benefits of Funds of Hedge Funds:
+Identifying the Optimal Number of Hedge Funds // Journal of Alternative Investments,
+2007. No10. pp. 10 22.
+Beebower, G.L., G.L. Bergstrom. A Performance Analysis of Pension and Profit Sharing
+Portfolios: 1966 1975 // Financial Analysts Journal, 1977. No33. pp. 31 42.
+Black, F., R. Litterman. Asset Allocation: Combining Investor Views With Market
+Equilibrium Goldman Sachs Fixed Income Research, 1990.
+Black, F., R. Litterman. Global Portfolio Optimization // Financial Analyst Journal, 1992.
+Brands, S., D.R. Gallagher. Portfolio Selection, Diversification and Fund of Funds: A Note //
+Accounting & Finance, 2005. No45. , pp. 185 197.
+Brown, S., W. Goetzmann. Performance Persistence // Journal of Finance, 1995. No50. pp.
+Brown, S.J., W.N. Goetzmann, B. Liang. Fees on Fees in Funds of Funds // Journal of
+Investment Management, 2004. No2. pp. 39 56.
+Carhart, M.M. On Persistence in Mutual Fund Performance // Journal of Finance, 1997.
+Chiang, K.C.H., K. Kozhevnikov, M. L. Lee, C.H. Wisen. Further Evidence on the
+Performance of Funds of Funds: The Case of Real Estate Mutual Funds // Real Estate
+Economics, 2008. No36. pp. 47 61.
+Christie, S. Downside Leverage and Event Risk in Fund of Funds Portfolios // Journal of
+Alternative Investments, 2007. No10. pp. 68 75.
+Connelly, T.J. Multi Fund Diversification Issues // Journal of Financial Planning, 1997.
+Daniel, K., M. Grinblatt, S. Titman, R. Wermers. Measuring Mutual Fund Performance with
+Characteristic Based Benchmarks // Journal of Finance, 1997. No52. pp. 1035–1058.
+Elton, E.J., M.J. Gruber, C.R. Blake. The Persistence of Risk Adjusted Mutual Fund
+Performance // Journal of Business, 1996. No69. pp. 133–157.
+Fama, E.F., K.R. French. The Cross Section of Expected Stock Returns // Journal of Finance,
+1992. No47. pp. 427 465.
+Fama, E.F., K.R. French. Common Risk Factors in the Returns on Stocks and Bonds //
+Journal of Financial Economics, 1993. No33. pp. 3 56.
+
+Giacometti, R., M. Bertocchi, S.T. Rachev, F.J. Fabozzi. Stable Distributions in the Black
+Litterman Approach to Asset Allocation // Quantitative Finance, 2007. No7. pp. 423
+Goodworth, T.R.J., C.M. Jones. Factor Based, Non Parametric Risk Measurement
+Framework for Hedge Funds and Fund of Funds // European Journal of Finance, 2007.
+No13. pp. 645 655.
+Gregoriou, G.N., R. Christopherson. Corporate Governance of Hedge Funds // Derivatives
+Use, Trading & Regulation, 2005. No10. pp. 331 337.
+Grinblatt, M., S. Titman. a). Mutual Fund Performance: An Analysis of Quarterly Portfolio
+Holdings // Journal of Business, 1989, No62. pp. 393 416.
+Grinblatt, M., S. Titman. b). Portfolio Performance Evaluation: Old Issues and New Insights
+// Review of Financial Studies, 1989. No2. pp. 393 421.
+Grinblatt, M., S. Titman. The Persistence of Mutual Fund Performance // Journal of Finance,
+1992. No47. pp. 1977 1984.
+Hendricks, D., J. Patel, R. Zeckhauser. Hot Hands in Mutual Funds: Short Run Persistence of
+Relative Performance 1974 1988 // Journal of Finance, 1993. No48. pp. 93 130.
+Jegadeesh, N, S. Titman. Returns to Buying Winners and Selling Losers: Implications for
+Stock Market Efficiency // Journal of Finance, 1993. No48. pp. 65 91.
+Jensen, M. Risk, the Pricing of Capital Assets, and the Evaluation of Investment Portfolios //
+Journal of Business, 1969. No42. pp. 167 247.
+Kooli, M. The Diversification Benefits of Hedge Funds and Funds of Hedge Funds //
+Derivatives Use, Trading & Regulation, 2007. No12. pp. 290 300.
+Kosowski, R., A. Timmermann, R. Wermers, H. White. Can Mutual Fund Stars Really Pick
+Stocks? New Evidence from a Bootstrap Analysis // Journal of Finance, 2006. No61.
+Kosowski, R., N.Y. Naik, M. Teo. Do Hedge Funds Deliver Alpha? A Bayesian and
+Bootstrap Analysis // Journal of Financial Economics, 2006. No84. pp. 229 264.
+Lintner, J. The Valuation of Risk Assets and the Selection of Risky Investments in Stock
+Portfolios and Capital Budgets // Review of Economics and Statistics, 1965. No47.
+Louton, D., H. Saraoglu. Performance Implications of Holding Multiple Mutual Funds with
+the Same Investment Objective // Journal of Investing, 2006. No15 pp. 62 78.
+Malkiel, B.G. Returns from Investing in Equity Mutual Funds 1971 to 1991 // Journal of
+Finance, 1995. No50. pp. 549 572.
+
+Markowitz, H.M. Portfolio Selection // Journal of Finance, 1952. No7. pp. 77 91.
+Markowitz, H.M. Efficient Diversification of Investments New York: Wiley, 1959.
+Mittnik S., S.T. Rachev. Modelling Asset Returns with Alternative Stable Distribution //
+Economic Review, 1993. No12. pp. 261 330.
+O'Neal, E.S. How Many Mutual Funds Constitute a Diversified Mutual Fund Portfolio? //
+Financial Analysts Journal, 1997. March/April pp. 37 46.
+Ortobelli, S., I. Huber, E. Schwartz. Portfolio Selection with Stable Distributed Returns //
+Mathematical Methods of Operations Research, 2002. No55 pp. 265 300.
+Ortobelli, S. I. Huber, S.T. Rachev, E. Schwartz. Portfolio Choice Theory with Non Gaussian
+Distributed Returns Handbook of Heavy Tailed Distributions in Finance, ed. Rachev,
+S.T. Amsterdam: North Holland Handbooks of Finance, 2003.
+Park, J., J. Staum. Fund of Funds Diversification: How Much is Enough? // Journal of
+Alternative Investments, 1998. No1. pp. 39 42.
+Pastor, L., R. Stambaugh. a). Mutual Fund Performance and Seemingly Unrelated Assets //
+Journal of Financial Economics, 2002. No63. pp. 315–349.
+Pastor, L., R. Stambaugh. b). Investing in Equity Mutual Funds // Journal of Financial
+Economics, 2002. No 63. pp. 351–380.
+PiperJaffray. Alternative Assets Private Equity Fund of Funds // PiperJaffray Special Report,
+Rachev, S.T., S. Han. Portfolio Management with Stable Distributions // Mathematical
+Methods of Operations Research, 2000. No51. pp. 341 353.
+Rachev, S., S. Ortobelli, S. Stoyanov, F.J. Fabozzi, and A. Biglova. Desirable Properties of
+an Ideal Risk Measure in Portfolio Theory // International Journal of Theoretical &
+Applied Finance, 2008. No11. pp. 19 54.
+Rachev, S.T., Mittnik, S. Stable Models in Finance New York: Wiley, 2000.
+Rachlin, E., M. Castro. Hedge Funds' Delta Sharpe Score for the Fund of Funds Portfolio
+Manager // Journal of Investing, 2007. No16. pp. 83 88.
+Reddy, G., P. Brady, K. Patel. Are Funds of Funds Simply Multi Strategy Managers with
+Extra Fees? // Journal of Alternative Investments, 2007. No10. pp. 49 61.
+Ross, S.A. The Arbitrage Theory of Capital Asset Pricing // Journal of Economic Theory,
+1976. No13 pp. 341–360.
+Samorodnitsky G., M.S. Taqqu. Stable Non Gaussian Random Variables New York:
+Chapman and Hall, 1994.
+
+Saraoglu, H., M.L. Detzler. A Sensible Mutual Fund Selection Model // Financial Analysts
+Journal, 2002. No58. pp. 60 73.
+Sharpe, W.F. Capital Asset Prices: A Theory of Market Equilibrium Under Conditions of
+Risk // Journal of Finance, 1964. No19. pp. 425 442.
+Steinbach, M.C. Markowitz Revisited: Mean Variance Models in Financial Portfolio
+Analysis // SIAM Review, 2001. No43. pp. 31 87.
+View publication stats

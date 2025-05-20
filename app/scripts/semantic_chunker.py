@@ -1,21 +1,10 @@
-# scripts/semantic_chunker.py
-
-import os
-import glob
-import shutil
 import re
 import numpy as np
 import ollama
 from tqdm import tqdm
 from sklearn.metrics.pairwise import cosine_similarity
+from lib.mongo_helpers import update_fund_field, get_all_funds_with_raw_text
 
-# --- Settings ---
-INPUT_DIR = "data/new_extracted/"
-OUTPUT_DIR = "data/chunks/"            # ✅ save chunks directly in data/chunks/
-ARCHIVE_DIR = "data/extracted_data/"
-
-os.makedirs(OUTPUT_DIR, exist_ok=True)
-os.makedirs(ARCHIVE_DIR, exist_ok=True)
 
 OLLAMA_MODEL = "nomic-embed-text"
 SIMILARITY_THRESHOLD = 0.5
@@ -79,46 +68,26 @@ def chunk_semantically(sentences, embeddings):
 
     return chunks
 
-def process_file(file_path):
-    """Process a single extracted file into semantic chunks."""
-    try:
-        with open(file_path, "r", encoding="utf-8") as f:
-            text = f.read()
+def main():
+    print("🔄 Fetching documents from MongoDB...")
+
+    funds = get_all_funds_with_raw_text()
+    print(f"📄 Found {len(funds)} funds with raw text.")
+
+    for fund in tqdm(funds, desc="🔪 Chunking funds"):
+        fund_name = fund["fund_name"]
+        text = fund.get("raw_text", "")
 
         sentences = split_into_sentences(text)
         if not sentences:
-            print(f"⚠️ Warning: No valid sentences found in {file_path}")
-            return
+            print(f"⚠️ No sentences found in {fund_name}")
+            continue
 
         embeddings = get_embeddings(sentences)
         chunks = chunk_semantically(sentences, embeddings)
 
-        base_name = os.path.basename(file_path).replace(".txt", "")
-        for idx, chunk in enumerate(chunks):
-            chunk_path = os.path.join(OUTPUT_DIR, f"{base_name}_chunk_{idx+1}.txt")
-            with open(chunk_path, "w", encoding="utf-8") as f_out:
-                f_out.write(chunk)
-    except Exception as e:
-        print(f"❌ Error processing {file_path}: {e}")
-
-def main():
-    """Main pipeline: Process all new extracted files."""
-    files = sorted(glob.glob(os.path.join(INPUT_DIR, "*.txt")))
-    print(f"📝 Found {len(files)} new extracted files to chunk.")
-
-    if not files:
-        print("⚠️ No new extracted files found!")
-        return
-
-    for file_path in tqdm(files, desc="🔪 Chunking files"):
-        process_file(file_path)
-
-    print(f"✅ All files chunked. Chunks saved to {OUTPUT_DIR}")
-
-    for file_path in files:
-        shutil.move(file_path, os.path.join(ARCHIVE_DIR, os.path.basename(file_path)))
-
-    print(f"📦 Moved processed extracted files to {ARCHIVE_DIR}")
+        update_fund_field(fund_name, "cleaned_chunks", chunks)
+        print(f"✅ Chunks saved for {fund_name}")
 
 # --- Entry Point ---
 if __name__ == "__main__":

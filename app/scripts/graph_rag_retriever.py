@@ -1,79 +1,57 @@
-# scripts/graph_rag_retriever.py
+# --- graph_rag_retriever.py (MongoDB version, no local FAISS files) ---
 
-import os
-import pickle
 import numpy as np
 import faiss
 import ollama
 from tqdm import tqdm
+from lib.mongo_helpers import get_all_funds_with_embeddings
 
-# --- Settings ---
-EMBEDDING_DIR = "data/embeddings/"
-FAISS_INDEX_PATH = "data/faiss_index.index"
-GRAPH_PATH = "data/graph.pkl"
-CHUNK_DIR = "data/chunks/"
 TOP_K_FAISS = 100
 TOP_K_FINAL = 15
 MAX_TOKENS_CONTEXT = 3500
+FAISS_INDEX = None
+CHUNK_LOOKUP = {}
 
-# --- Lazy loaded variables ---
-index = None
-id_list = None
-G = None
+# --- Build FAISS Index in-memory from MongoDB ---
+def build_faiss_index():
+    global FAISS_INDEX, CHUNK_LOOKUP
+    print("🔄 Building FAISS index from MongoDB...")
+    
+    funds = get_all_funds_with_embeddings()
+    all_embeddings = []
+    all_ids = []
 
-# --- Loading Functions ---
-def load_faiss_and_ids():
-    global index, id_list
-    if index is None or id_list is None:
-        if not (os.path.exists(FAISS_INDEX_PATH) and os.path.exists(os.path.join(EMBEDDING_DIR, "ids.txt"))):
-            raise RuntimeError("❌ FAISS index or IDs file not found. Please process documents first.")
-        try:
-            print("🔄 Loading FAISS index and IDs...")
-            index = faiss.read_index(FAISS_INDEX_PATH)
-            with open(os.path.join(EMBEDDING_DIR, "ids.txt"), "r", encoding="utf-8") as f:
-                id_list = f.read().splitlines()
-            print("✅ FAISS and IDs loaded.")
-        except Exception as e:
-            raise RuntimeError(f"❌ Error loading FAISS/IDs: {e}")
+    for fund in funds:
+        fund_name = fund["fund_name"]
+        chunks = fund.get("cleaned_chunks", [])
+        embeddings = fund.get("embeddings", [])
 
-def load_graph():
-    global G
-    if G is None:
-        if not os.path.exists(GRAPH_PATH):
-            raise RuntimeError("❌ Knowledge graph not found. Please build it first.")
-        try:
-            print("🔄 Loading Knowledge Graph...")
-            with open(GRAPH_PATH, "rb") as f:
-                G = pickle.load(f)
-            print("✅ Graph loaded successfully.")
-        except Exception as e:
-            raise RuntimeError(f"❌ Error loading Graph: {e}")
+        for i, (chunk, emb) in enumerate(zip(chunks, embeddings)):
+            chunk_id = f"{fund_name}_chunk_{i+1}"
+            all_embeddings.append(emb)
+            all_ids.append(chunk_id)
+            CHUNK_LOOKUP[chunk_id] = chunk
 
-# --- Helper Functions ---
-def semantic_retrieve(query_emb, top_k=TOP_K_FAISS):
-    faiss.normalize_L2(query_emb)
-    D, I = index.search(query_emb, top_k)
-    return [id_list[i] for i in I[0] if i < len(id_list)]
+    if not all_embeddings:
+        raise RuntimeError("❌ No embeddings found in MongoDB to build FAISS index.")
 
-def graph_expand(chunk_ids):
-    expanded = set(chunk_ids)
-    for chunk_id in chunk_ids:
-        if chunk_id in G:
-            neighbors = list(G.neighbors(chunk_id))
-            expanded.update(neighbors)
-    return list(expanded)
+    xb = np.array(all_embeddings).astype("float32")
+    faiss.normalize_L2(xb)
 
-def load_chunks(ids):
-    texts = []
-    for chunk_id in tqdm(ids, desc="📄 Loading chunks"):
-        chunk_path = os.path.join(CHUNK_DIR, chunk_id)
-        if os.path.exists(chunk_path):
-            with open(chunk_path, "r", encoding="utf-8") as f:
-                content = f.read()
-                if len(content.split()) > 10:  # Ensure quality
-                    texts.append(content)
-    return texts
+    index = faiss.IndexFlatIP(xb.shape[1])
+    index.add(xb)
 
+    FAISS_INDEX = index
+    print(f"✅ FAISS index built with {len(all_ids)} chunks.")
+    return all_ids
+
+# --- Retrieve matching chunk IDs from FAISS ---
+def semantic_retrieve(question_embedding, all_ids):
+    faiss.normalize_L2(question_embedding)
+    D, I = FAISS_INDEX.search(question_embedding, TOP_K_FAISS)
+    return [all_ids[i] for i in I[0] if i < len(all_ids)]
+
+# --- Trim chunk context to token limit ---
 def trim_context(chunks, max_tokens=MAX_TOKENS_CONTEXT):
     context = ""
     total_tokens = 0
@@ -89,52 +67,28 @@ def trim_context(chunks, max_tokens=MAX_TOKENS_CONTEXT):
 def retrieve_context(question, source_filter=None):
     print(f"\n🔎 Building context for question: {question}")
 
-    load_faiss_and_ids()
-    load_graph()
+    all_ids = build_faiss_index()
 
-    # Step 1: Embed the question
     try:
         response = ollama.embeddings(model="nomic-embed-text", prompt=question)
-        query_emb = np.array([response['embedding']], dtype="float32")
+        query_emb = np.array([response["embedding"]], dtype="float32")
     except Exception as e:
         print(f"❌ Failed to embed question: {e}")
         return None
 
-    # Step 2: Semantic search
-    faiss_ids = semantic_retrieve(query_emb)
+    # Semantic search
+    faiss_ids = semantic_retrieve(query_emb, all_ids)
     print(f"🔍 Retrieved {len(faiss_ids)} chunks from FAISS.")
 
-    # Step 3: Source filter
     if source_filter:
-        filtered_ids = [cid for cid in faiss_ids if cid.startswith(source_filter)]
-        print(f"🛡️ Source Filter: {len(filtered_ids)} chunks remain after filtering.")
-        if filtered_ids:
-            faiss_ids = filtered_ids
-        else:
-            print("⚠️ No chunks after filtering. Falling back to all retrieved chunks.")
+        filtered = [cid for cid in faiss_ids if cid.startswith(source_filter)]
+        print(f"🛡️ Source Filter: {len(filtered)} remain.")
+        if filtered:
+            faiss_ids = filtered
 
-    # Step 4: Retry if needed
-    if not faiss_ids:
-        faiss_ids = semantic_retrieve(query_emb)
-    if not faiss_ids:
-        print("⚠️ Still no chunks found. Exiting retrieval.")
-        return None
+    selected_chunks = [CHUNK_LOOKUP[cid] for cid in faiss_ids if cid in CHUNK_LOOKUP]
+    context = trim_context(selected_chunks[:TOP_K_FINAL])
 
-    # Step 5: Graph expansion
-    expanded_ids = graph_expand(faiss_ids)
-    print(f"🕸️ Expanded to {len(expanded_ids)} chunks after graph expansion.")
-
-    # Step 6: Load text chunks
-    candidate_chunks = load_chunks(expanded_ids)
-    if not candidate_chunks:
-        print("⚠️ No valid chunks found after loading from disk.")
-        return None
-
-    # Step 7: Top-N selection
-    top_chunks = candidate_chunks[:TOP_K_FINAL]
-
-    # Step 8: Trim
-    context = trim_context(top_chunks)
     if len(context.strip()) < 30:
         print("⚠️ Final context too small after trimming.")
         return None

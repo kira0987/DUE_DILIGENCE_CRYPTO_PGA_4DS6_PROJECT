@@ -1,777 +1,3667 @@
 [
   {
-    "id": 1,
-    "question": "- What is the legal entity of the company, and is it compliant with all applicable laws?",
-    "tag": "Legal & Regulatory"
+      "id": 1,
+      "tag": "AML / KYC",
+      "question": "Does the project comply with Anti-Money Laundering (AML) and Know Your Customer (KYC) requirements?"
   },
   {
-    "id": 2,
-    "question": "Are there any changes in the legal structure over time?",
-    "tag": "Legal & Regulatory"
+      "id": 2,
+      "tag": "AML / KYC",
+      "question": "Does the project comply with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations in all operating jurisdictions?"
   },
   {
-    "id": 3,
-    "question": "Are all necessary licenses and permits in place?",
-    "tag": "Legal & Regulatory"
+      "id": 3,
+      "tag": "AML / KYC",
+      "question": "How robust are the projects KYC/AML processes? Are they audited regularly?"
   },
   {
-    "id": 4,
-    "question": "- Is the company compliant with relevant securities and commodities laws?",
-    "tag": "Tokenomics & Trading Integrity"
+      "id": 4,
+      "tag": "AML / KYC",
+      "question": "Does the project comply with KYC (Know Your Customer) and AML (Anti-Money Laundering) regulations?"
   },
   {
-    "id": 5,
-    "question": "Are there any sanctions restrictions or transaction monitoring requirements?",
-    "tag": "Legal & Regulatory"
+      "id": 5,
+      "tag": "AML / KYC",
+      "question": "How does the company handle AML/KYC policies and procedures?"
   },
   {
-    "id": 6,
-    "question": "How does the company handle AML policies and procedures?",
-    "tag": "AML / KYC"
+      "id": 6,
+      "tag": "Community & UX",
+      "question": "What is the project's community engagement and reputation?"
   },
   {
-    "id": 7,
-    "question": "- What IP assets does the company own, and are they valid?",
-    "tag": "IP & Contracts"
+      "id": 7,
+      "tag": "Community & UX",
+      "question": "Are there any negative reviews or controversies?"
   },
   {
-    "id": 8,
-    "question": "Are there any potential IP infringement issues?",
-    "tag": "IP & Contracts"
+      "id": 8,
+      "tag": "Community & UX",
+      "question": "Is the project's community organic or artificially inflated?"
   },
   {
-    "id": 9,
-    "question": "How are IP rights allocated among stakeholders?",
-    "tag": "IP & Contracts"
+      "id": 9,
+      "tag": "Community & UX",
+      "question": "What is the sentiment analysis of social media discussions about the project?"
   },
   {
-    "id": 10,
-    "question": "- Are there any ongoing or past legal disputes?",
-    "tag": "Legal & Regulatory"
+      "id": 10,
+      "tag": "Community & UX",
+      "question": "Are there any signs of coordinated disinformation campaigns?"
   },
   {
-    "id": 11,
-    "question": "What are the potential financial exposures from these disputes?",
-    "tag": "Financial Health"
+      "id": 11,
+      "tag": "Community & UX",
+      "question": "How user-friendly is the platform or product?"
   },
   {
-    "id": 12,
-    "question": "- How are digital assets stored and secured?",
-    "tag": "Custody & Asset Security"
+      "id": 12,
+      "tag": "Community & UX",
+      "question": "Are there any pain points or areas for improvement?"
   },
   {
-    "id": 13,
-    "question": "Are multi-signature wallets used for custody?",
-    "tag": "Custody & Asset Security"
+      "id": 13,
+      "tag": "Community & UX",
+      "question": "What customer support mechanisms are in place?"
   },
   {
-    "id": 14,
-    "question": "What measures are in place to verify asset ownership?",
-    "tag": "Custody & Asset Security"
+      "id": 14,
+      "tag": "Community & UX",
+      "question": "How does the company measure customer satisfaction?"
   },
   {
-    "id": 15,
-    "question": "- What are the procedures for buying and selling digital assets?",
-    "tag": "Custody & Asset Security"
+      "id": 15,
+      "tag": "Community & UX",
+      "question": "How large and active is the community (e.g., social media, forums, Discord, Telegram)?"
   },
   {
-    "id": 16,
-    "question": "Are there any trade surveillance mechanisms to prevent market manipulation?",
-    "tag": "Tokenomics & Trading Integrity"
+      "id": 16,
+      "tag": "Community & UX",
+      "question": "Is the community engaged and supportive of the project?"
   },
   {
-    "id": 17,
-    "question": "- Are there any conflicts of interest among stakeholders?",
-    "tag": "Governance"
+      "id": 17,
+      "tag": "Community & UX",
+      "question": "Are there any signs of manipulation or fake accounts inflating community metrics?"
   },
   {
-    "id": 18,
-    "question": "How are these conflicts managed?",
-    "tag": "Risk Management"
+      "id": 18,
+      "tag": "Community & UX",
+      "question": "Does the project have a governance model that allows community participation?"
   },
   {
-    "id": 19,
-    "question": "- What is the understanding of the current regulatory environment?",
-    "tag": "Legal & Regulatory"
+      "id": 19,
+      "tag": "Community & UX",
+      "question": "Are there any grants, incentives, or developer programs to grow the ecosystem?"
   },
   {
-    "id": 20,
-    "question": "Are there any potential regulatory risks to the portfolio?",
-    "tag": "Risk Management"
+      "id": 20,
+      "tag": "Community & UX",
+      "question": "What is the size and activity level of the projects community (e.g., Telegram, Discord, Twitter)?"
   },
   {
-    "id": 21,
-    "question": "- What blockchain technology is used, and how secure is it?",
-    "tag": "Cybersecurity & Data Privacy"
+      "id": 21,
+      "tag": "Community & UX",
+      "question": "Does the project have any known community advocates or influencers?"
   },
   {
-    "id": 22,
-    "question": "Are smart contracts audited for vulnerabilities?",
-    "tag": "IP & Contracts"
+      "id": 22,
+      "tag": "Community & UX",
+      "question": "Are there any developers or businesses actively building on top of the platform?"
   },
   {
-    "id": 23,
-    "question": "- What cybersecurity measures are in place to protect against hacks?",
-    "tag": "Cybersecurity & Data Privacy"
+      "id": 23,
+      "tag": "Community & UX",
+      "question": "What incentives are in place for ecosystem participants, such as validators, developers, or liquidity providers?"
   },
   {
-    "id": 24,
-    "question": "Are two-factor authentication and end-to-end encryption used?",
-    "tag": "Cybersecurity & Data Privacy"
+      "id": 24,
+      "tag": "Community & UX",
+      "question": "Is there an active developer community contributing to the project's growth?"
   },
   {
-    "id": 25,
-    "question": "- Is the codebase open-source or proprietary?",
-    "tag": "Community & UX"
+      "id": 25,
+      "tag": "Community & UX",
+      "question": "Are there incentives for developers to build on or integrate with the project's platform?"
   },
   {
-    "id": 26,
-    "question": "Are there any known vulnerabilities or inefficiencies?",
-    "tag": "Risk Management"
+      "id": 26,
+      "tag": "Community & UX",
+      "question": "What is the general sentiment of the community towards the project?"
   },
   {
-    "id": 27,
-    "question": "- How user-friendly is the platform or product?",
-    "tag": "Community & UX"
+      "id": 27,
+      "tag": "Community & UX",
+      "question": "Are there channels for users to provide feedback, and how is it addressed?"
   },
   {
-    "id": 28,
-    "question": "Are there any pain points or areas for improvement?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 28,
+      "tag": "Community & UX",
+      "question": "How does the project handle community disputes or disagreements?"
   },
   {
-    "id": 29,
-    "question": "- Are financial statements audited and transparent?",
-    "tag": "Financial Health"
+      "id": 29,
+      "tag": "Community & UX",
+      "question": "Are there any incentives for developers to build on the platform?"
   },
   {
-    "id": 30,
-    "question": "What is the financial health of the company?",
-    "tag": "Financial Health"
+      "id": 30,
+      "tag": "Community & UX",
+      "question": "How does the project onboard new users or developers?"
   },
   {
-    "id": 31,
-    "question": "- How are digital assets valued?",
-    "tag": "Custody & Asset Security"
+      "id": 31,
+      "tag": "Community & UX",
+      "question": "Are there any educational resources or documentation for the community?"
   },
   {
-    "id": 32,
-    "question": "Are valuations consistent with market standards?",
-    "tag": "Tokenomics & Trading Integrity"
+      "id": 32,
+      "tag": "Community & UX",
+      "question": "How does the project handle negative feedback or criticism from the community?"
   },
   {
-    "id": 33,
-    "question": "- What are the primary funding sources?",
-    "tag": "Technology & Infrastructure"
+      "id": 33,
+      "tag": "Community & UX",
+      "question": "Are there any plans to expand the community globally or target specific demographics?"
   },
   {
-    "id": 34,
-    "question": "Are revenue s diversified and sustainable?",
-    "tag": "ESG & Sustainability"
+      "id": 34,
+      "tag": "Community & UX",
+      "question": "Are there influential figures or ambassadors actively promoting the project?"
   },
   {
-    "id": 35,
-    "question": "- What is the market position of the company?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 35,
+      "tag": "Community & UX",
+      "question": "What incentives are in place for advocates to remain engaged?"
   },
   {
-    "id": 36,
-    "question": "Are there any competitors or market gaps?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 36,
+      "tag": "Community & UX",
+      "question": "Are there rewards for validators, miners, or liquidity providers?"
   },
   {
-    "id": 37,
-    "question": "- Is the digital strategy aligned with business goals?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 37,
+      "tag": "Community & UX",
+      "question": "How sustainable are these rewards over the long term?"
   },
   {
-    "id": 38,
-    "question": "Are there plans for future scalability and growth?",
-    "tag": "Technology & Infrastructure"
+      "id": 38,
+      "tag": "Community & UX",
+      "question": "Are there clear guides or resources to onboard new users or developers?"
   },
   {
-    "id": 39,
-    "question": "- How active is the community around the project?",
-    "tag": "Community & UX"
+      "id": 39,
+      "tag": "Community & UX",
+      "question": "How does the project handle technical support for users?"
   },
   {
-    "id": 40,
-    "question": "Are developers and stakeholders engaged?",
-    "tag": "Governance"
+      "id": 40,
+      "tag": "Community & UX",
+      "question": "How does the project handle community governance or decision-making?"
   },
   {
-    "id": 41,
-    "question": "- Does the project rely on energy-intensive mining methods?",
-    "tag": "Technology & Infrastructure"
+      "id": 41,
+      "tag": "Community & UX",
+      "question": "Are there any risks of community fragmentation or infighting?"
   },
   {
-    "id": 42,
-    "question": "Are there initiatives to reduce energy consumption?",
-    "tag": "ESG & Sustainability"
+      "id": 42,
+      "tag": "Community & UX",
+      "question": "How does the project plan to grow its ecosystem of developers and users?"
   },
   {
-    "id": 43,
-    "question": "- Are there any sustainability practices or policies in place?",
-    "tag": "ESG & Sustainability"
+      "id": 43,
+      "tag": "Community & UX",
+      "question": "Are there any risks of the community losing trust in the project?"
   },
   {
-    "id": 44,
-    "question": "How does the company address environmental concerns?",
-    "tag": "ESG & Sustainability"
+      "id": 44,
+      "tag": "Community & UX",
+      "question": "How does the project handle negative sentiment or FUD (fear, uncertainty, doubt)?"
   },
   {
-    "id": 45,
-    "question": "- What is the governance structure of the project?",
-    "tag": "Governance"
+      "id": 45,
+      "tag": "Community & UX",
+      "question": "Are there any plans to incentivize community contributions or participation?"
   },
   {
-    "id": 46,
-    "question": "Who holds decision-making power?",
-    "tag": "Governance"
+      "id": 46,
+      "tag": "Community & UX",
+      "question": "Are there active forums or support channels where users can ask questions and get help?"
   },
   {
-    "id": 47,
-    "question": "- Who are the major stakeholders?",
-    "tag": "Governance"
+      "id": 47,
+      "tag": "Community & UX",
+      "question": "How responsive is the team to user feedback and concerns?"
   },
   {
-    "id": 48,
-    "question": "Is the project decentralized or centralized?",
-    "tag": "Technology & Infrastructure"
+      "id": 48,
+      "tag": "Community & UX",
+      "question": "How distributed is the network? Are there risks of centralization in node operations or governance?"
   },
   {
-    "id": 49,
-    "question": "- How does the company ensure compliance with international laws and regulations?",
-    "tag": "Legal & Regulatory"
+      "id": 49,
+      "tag": "Community & UX",
+      "question": "What percentage of validators or miners are controlled by the team or affiliated entities?"
   },
   {
-    "id": 50,
-    "question": "Are there any specific jurisdictions where operations are restricted?",
-    "tag": "Legal & Regulatory"
+      "id": 50,
+      "tag": "Community & UX",
+      "question": "How many third-party developers are actively building on the platform?"
   },
   {
-    "id": 51,
-    "question": "- How does the company handle user data privacy?",
-    "tag": "Cybersecurity & Data Privacy"
+      "id": 51,
+      "tag": "Community & UX",
+      "question": "Are there incentives or grants for developers to contribute to the ecosystem?"
   },
   {
-    "id": 52,
-    "question": "Are there any data protection policies in place?",
-    "tag": "Cybersecurity & Data Privacy"
+      "id": 52,
+      "tag": "Community & UX",
+      "question": "What do independent analysts, influencers, and experts say about the project?"
   },
   {
-    "id": 53,
-    "question": "- What are the tax obligations of the company in different jurisdictions?",
-    "tag": "Legal & Regulatory"
+      "id": 53,
+      "tag": "Community & UX",
+      "question": "Are there any credible reviews or ratings from industry platforms (e.g., CoinMarketCap, CoinGecko)?"
   },
   {
-    "id": 54,
-    "question": "Are there any tax disputes or pending issues?",
-    "tag": "Financial Health"
+      "id": 54,
+      "tag": "Community & UX",
+      "question": "Has the project been featured in reputable media outlets or conferences?"
   },
   {
-    "id": 55,
-    "question": "- Are all necessary regulatory filings up to date?",
-    "tag": "Legal & Regulatory"
+      "id": 55,
+      "tag": "Community & UX",
+      "question": "What is the sentiment of the broader crypto community toward the project?"
   },
   {
-    "id": 56,
-    "question": "- What risk management strategies are in place for market volatility?",
-    "tag": "Risk Management"
+      "id": 56,
+      "tag": "Community & UX",
+      "question": "Are there any independent audits or reviews of the projects technology or finances?"
   },
   {
-    "id": 57,
-    "question": "Are there any hedging strategies used?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 57,
+      "tag": "Community & UX",
+      "question": "How does the project respond to criticism or negative reviews?"
   },
   {
-    "id": 58,
-    "question": "- Does the company have insurance coverage for digital assets?",
-    "tag": "Custody & Asset Security"
+      "id": 58,
+      "tag": "Community & UX",
+      "question": "Are there any awards or recognitions the project has received?"
   },
   {
-    "id": 59,
-    "question": "What are the terms and conditions of the insurance policy?",
-    "tag": "Legal & Regulatory"
+      "id": 59,
+      "tag": "Community & UX",
+      "question": "What is the sentiment of institutional investors or large stakeholders toward the project?"
   },
   {
-    "id": 60,
-    "question": "- Is there a business continuity plan in place for unexpected disruptions?",
-    "tag": "Risk Management"
+      "id": 60,
+      "tag": "Community & UX",
+      "question": "Are there any concerns about the projects reputation in the broader crypto community?"
   },
   {
-    "id": 61,
-    "question": "How does the company ensure operational resilience?",
-    "tag": "Risk Management"
+      "id": 61,
+      "tag": "Community & UX",
+      "question": "What are the real-world applications of the cryptocurrency or digital asset?"
   },
   {
-    "id": 62,
-    "question": "- Are background checks conducted on employees handling sensitive information?",
-    "tag": "Cybersecurity & Data Privacy"
+      "id": 62,
+      "tag": "Community & UX",
+      "question": "Are there any pilot programs or case studies demonstrating its use?"
   },
   {
-    "id": 63,
-    "question": "What are the criteria for hiring personnel in critical roles?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 63,
+      "tag": "Community & UX",
+      "question": "How does the project plan to drive adoption among businesses and consumers?"
   },
   {
-    "id": 64,
-    "question": "- What technologies are used in the development of the platform or product?",
-    "tag": "Technology & Infrastructure"
+      "id": 64,
+      "tag": "Community & UX",
+      "question": "Are there any partnerships with established companies or institutions?"
   },
   {
-    "id": 65,
-    "question": "Are these technologies scalable and secure?",
-    "tag": "Technology & Infrastructure"
+      "id": 65,
+      "tag": "Community & UX",
+      "question": "How does the project measure user engagement or adoption rates?"
   },
   {
-    "id": 66,
-    "question": "- How often is penetration testing conducted to identify vulnerabilities?",
-    "tag": "Cybersecurity & Data Privacy"
+      "id": 66,
+      "tag": "Community & UX",
+      "question": "What is the general sentiment in crypto forums, Reddit, and Twitter about the project?"
   },
   {
-    "id": 67,
-    "question": "Are the results of these tests publicly available or shared with stakeholders?",
-    "tag": "Cybersecurity & Data Privacy"
+      "id": 67,
+      "tag": "Community & UX",
+      "question": "Are there notable endorsements or criticisms from prominent figures in the space?"
   },
   {
-    "id": 68,
-    "question": "- Does the company contribute to open-source projects?",
-    "tag": "IP & Contracts"
+      "id": 68,
+      "tag": "Custody & Asset Security",
+      "question": "What are the risks associated with the project's reliance on third-party vendors and partners?"
   },
   {
-    "id": 69,
-    "question": "How does this contribute to the overall ecosystem?",
-    "tag": "ESG & Sustainability"
+      "id": 69,
+      "tag": "Custody & Asset Security",
+      "question": "What due diligence has been conducted on those third parties?"
   },
   {
-    "id": 70,
-    "question": "- Are APIs properly secured to prevent unauthorized access?",
-    "tag": "Cybersecurity & Data Privacy"
+      "id": 70,
+      "tag": "Custody & Asset Security",
+      "question": "How are digital assets stored and secured?"
   },
   {
-    "id": 71,
-    "question": "Are there any documented API security protocols?",
-    "tag": "Cybersecurity & Data Privacy"
+      "id": 71,
+      "tag": "Custody & Asset Security",
+      "question": "Are multi-signature wallets used for custody?"
   },
   {
-    "id": 72,
-    "question": "- Are revenue s diversified across different markets or products?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 72,
+      "tag": "Custody & Asset Security",
+      "question": "What measures are in place to verify asset ownership?"
   },
   {
-    "id": 73,
-    "question": "How does the company manage revenue volatility?",
-    "tag": "Risk Management"
+      "id": 73,
+      "tag": "Custody & Asset Security",
+      "question": "Does the company have insurance coverage for digital assets?"
   },
   {
-    "id": 74,
-    "question": "- What are the major expense categories for the company?",
-    "tag": "Risk Management"
+      "id": 74,
+      "tag": "Custody & Asset Security",
+      "question": "What are the terms and conditions of the insurance policy?"
   },
   {
-    "id": 75,
-    "question": "Are there any cost-saving initiatives in place?",
-    "tag": "ESG & Sustainability"
+      "id": 75,
+      "tag": "Custody & Asset Security",
+      "question": "How does the project handle oracle reliability and data feeds for smart contracts?"
   },
   {
-    "id": 76,
-    "question": "- What are the details of past funding rounds?",
-    "tag": "Governance"
+      "id": 76,
+      "tag": "Custody & Asset Security",
+      "question": "What are the liquidity options for the asset (e.g., listed on major exchanges)?"
   },
   {
-    "id": 77,
-    "question": "Are there any plans for future funding rounds?",
-    "tag": "Governance"
+      "id": 77,
+      "tag": "Custody & Asset Security",
+      "question": "Are there any lock-up periods or restrictions on selling tokens?"
   },
   {
-    "id": 78,
-    "question": "- How frequently are financial reports published?",
-    "tag": "Financial Health"
+      "id": 78,
+      "tag": "Custody & Asset Security",
+      "question": "How does the project plan to ensure long-term liquidity and market stability?"
   },
   {
-    "id": 79,
-    "question": "Are these reports audited by external firms?",
-    "tag": "Governance"
+      "id": 79,
+      "tag": "Custody & Asset Security",
+      "question": "What is the exit strategy for investors or users if the project fails?"
   },
   {
-    "id": 80,
-    "question": "- Who are the main competitors in the market?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 80,
+      "tag": "Custody & Asset Security",
+      "question": "What happens to the asset if the project fails or shuts down?"
   },
   {
-    "id": 81,
-    "question": "How does the company differentiate itself from competitors?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 81,
+      "tag": "Custody & Asset Security",
+      "question": "Are there any mechanisms for token holders to recover value in case of failure?"
   },
   {
-    "id": 82,
-    "question": "- What market research methods are used to understand customer needs?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 82,
+      "tag": "Custody & Asset Security",
+      "question": "How does the project plan to maintain liquidity during market downturns?"
   },
   {
-    "id": 83,
-    "question": "Are there any customer feedback mechanisms in place?",
-    "tag": "Community & UX"
+      "id": 83,
+      "tag": "Custody & Asset Security",
+      "question": "Are there any plans to list the asset on decentralized exchanges (DEXs) or centralized exchanges (CEXs)?"
   },
   {
-    "id": 84,
-    "question": "- What are the short-term and long-term growth strategies?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 84,
+      "tag": "Custody & Asset Security",
+      "question": "How does the project handle delisting from exchanges?"
   },
   {
-    "id": 85,
-    "question": "Are these strategies aligned with market trends?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 85,
+      "tag": "Custody & Asset Security",
+      "question": "What happens to the asset if the project is acquired or merges with another entity?"
   },
   {
-    "id": 86,
-    "question": "- Are there any strategic partnerships or collaborations?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 86,
+      "tag": "Custody & Asset Security",
+      "question": "Are there any mechanisms for token holders to exit their positions during a crisis?"
   },
   {
-    "id": 87,
-    "question": "How do these partnerships contribute to the company's growth?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 87,
+      "tag": "Custody & Asset Security",
+      "question": "How does the project plan to maintain liquidity during periods of low trading volume?"
   },
   {
-    "id": 88,
-    "question": "What is the carbon footprint of the company's operations?",
-    "tag": "ESG & Sustainability"
+      "id": 88,
+      "tag": "Custody & Asset Security",
+      "question": "Are there any risks of the asset being delisted from major exchanges?"
   },
   {
-    "id": 89,
-    "question": "Are there any initiatives to reduce this footprint?",
-    "tag": "ESG & Sustainability"
+      "id": 89,
+      "tag": "Custody & Asset Security",
+      "question": "How does the project handle market-making or liquidity provision?"
   },
   {
-    "id": 90,
-    "question": "- Are there any sustainable practices or policies in place for operations?",
-    "tag": "ESG & Sustainability"
+      "id": 90,
+      "tag": "Custody & Asset Security",
+      "question": "On which exchanges is the token listed?"
   },
   {
-    "id": 91,
-    "question": "How does the company promote sustainability within its ecosystem?",
-    "tag": "ESG & Sustainability"
+      "id": 91,
+      "tag": "Custody & Asset Security",
+      "question": "Are there any restrictions on selling or trading the token?"
   },
   {
-    "id": 92,
-    "question": "- How does the company manage its supply chain to ensure sustainability?",
-    "tag": "ESG & Sustainability"
+      "id": 92,
+      "tag": "Custody & Asset Security",
+      "question": "What is the projects long-term plan, and how does it aim to achieve sustainability?"
   },
   {
-    "id": 93,
-    "question": "Are there any audits conducted to ensure compliance with sustainability standards?",
-    "tag": "ESG & Sustainability"
+      "id": 93,
+      "tag": "Custody & Asset Security",
+      "question": "Are there clear provisions for handling project shutdowns or fund redistribution?"
   },
   {
-    "id": 94,
-    "question": "- Who are the members of the board of directors?",
-    "tag": "Governance"
+      "id": 94,
+      "tag": "Custody & Asset Security",
+      "question": "Is the token listed on major, reputable exchanges?"
   },
   {
-    "id": 95,
-    "question": "What are their backgrounds and expertise?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 95,
+      "tag": "Custody & Asset Security",
+      "question": "Are there sufficient trading volumes to ensure liquidity?"
   },
   {
-    "id": 96,
-    "question": "- How are major decisions made within the company?",
-    "tag": "Governance"
+      "id": 96,
+      "tag": "Custody & Asset Security",
+      "question": "Are there any lock-up periods or restrictions for early investors or team members?"
   },
   {
-    "id": 97,
-    "question": "Are there any checks and balances in place?",
-    "tag": "Governance"
+      "id": 97,
+      "tag": "Custody & Asset Security",
+      "question": "How might these affect token supply and price dynamics?"
   },
   {
-    "id": 98,
-    "question": "- Who are the major shareholders?",
-    "tag": "Governance"
+      "id": 98,
+      "tag": "Custody & Asset Security",
+      "question": "Are there market makers involved to ensure token liquidity on exchanges?"
   },
   {
-    "id": 99,
-    "question": "Are there any voting agreements or restrictions?",
-    "tag": "Governance"
+      "id": 99,
+      "tag": "Custody & Asset Security",
+      "question": "What are the terms of agreements with these market makers?"
   },
   {
-    "id": 100,
-    "question": "- How does the company engage with stakeholders, including investors and users?",
-    "tag": "Governance"
+      "id": 100,
+      "tag": "Custody & Asset Security",
+      "question": "What is the risk of a rug pull or project abandonment by the team?"
   },
   {
-    "id": 101,
-    "question": "Are there any mechanisms for feedback and communication?",
-    "tag": "Community & UX"
+      "id": 101,
+      "tag": "Custody & Asset Security",
+      "question": "How are investor funds protected in the event of a project failure?"
   },
   {
-    "id": 102,
-    "question": "Are there any restrictions on operations in certain countries?",
-    "tag": "Legal & Regulatory"
+      "id": 102,
+      "tag": "Custody & Asset Security",
+      "question": "How active is the secondary market for the token?"
   },
   {
-    "id": 103,
-    "question": "- Have all necessary regulatory approvals been obtained?",
-    "tag": "Legal & Regulatory"
+      "id": 103,
+      "tag": "Custody & Asset Security",
+      "question": "Are there peer-to-peer platforms for trading outside of centralized exchanges?"
   },
   {
-    "id": 104,
-    "question": "Are there any pending applications or approvals?",
-    "tag": "Legal & Regulatory"
+      "id": 104,
+      "tag": "Custody & Asset Security",
+      "question": "What are the terms for early investors or contributors to liquidate their holdings?"
   },
   {
-    "id": 105,
-    "question": "- What are the key terms of major contracts with partners or suppliers?",
-    "tag": "IP & Contracts"
+      "id": 105,
+      "tag": "Custody & Asset Security",
+      "question": "Does the project have a clear liquidation strategy for dissolving operations if needed?"
   },
   {
-    "id": 106,
-    "question": "Are there any potential liabilities from these contracts?",
-    "tag": "IP & Contracts"
+      "id": 106,
+      "tag": "Custody & Asset Security",
+      "question": "How often does the token experience low liquidity on exchanges?"
   },
   {
-    "id": 107,
-    "question": "- How does the company handle disputes with customers or partners?",
-    "tag": "IP & Contracts"
+      "id": 107,
+      "tag": "Custody & Asset Security",
+      "question": "Are there market-making strategies to ensure liquidity during volatile periods?"
   },
   {
-    "id": 108,
-    "question": "Are there any arbitration or mediation processes in place?",
-    "tag": "Legal & Regulatory"
+      "id": 108,
+      "tag": "Custody & Asset Security",
+      "question": "Does the project offer insurance against hacks, smart contract failures, or network outages?"
   },
   {
-    "id": 109,
-    "question": "- What are the potential risks in the supply chain, and how are they mitigated?",
-    "tag": "Risk Management"
+      "id": 109,
+      "tag": "Custody & Asset Security",
+      "question": "Are there partnerships with insurers or custody providers like Nexus Mutual or BitGo?"
   },
   {
-    "id": 110,
-    "question": "Are there any contingency plans for supply chain disruptions?",
-    "tag": "Risk Management"
+      "id": 110,
+      "tag": "Cybersecurity & Data Privacy",
+      "question": "What are the project's business continuity and disaster recovery plans?"
   },
   {
-    "id": 111,
-    "question": "- What training programs are in place for employees handling sensitive operations?",
-    "tag": "Risk Management"
+      "id": 111,
+      "tag": "Cybersecurity & Data Privacy",
+      "question": "What cybersecurity measures are in place to protect against hacks?"
   },
   {
-    "id": 112,
-    "question": "- What customer support mechanisms are in place?",
-    "tag": "Community & UX"
+      "id": 112,
+      "tag": "Cybersecurity & Data Privacy",
+      "question": "Are two-factor authentication and end-to-end encryption used?"
   },
   {
-    "id": 113,
-    "question": "How does the company measure customer satisfaction?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 113,
+      "tag": "Cybersecurity & Data Privacy",
+      "question": "Are background checks conducted on employees handling sensitive information?"
   },
   {
-    "id": 114,
-    "question": "- Does the company have business interruption insurance?",
-    "tag": "Risk Management"
+      "id": 114,
+      "tag": "Cybersecurity & Data Privacy",
+      "question": "What are the criteria for hiring personnel in critical roles?"
   },
   {
-    "id": 115,
-    "question": "What are the terms and conditions of this insurance?",
-    "tag": "Legal & Regulatory"
+      "id": 115,
+      "tag": "Cybersecurity & Data Privacy",
+      "question": "What training programs are in place for employees handling sensitive operations?"
   },
   {
-    "id": 116,
-    "question": "- What measures are in place to secure the company's infrastructure?",
-    "tag": "Technology & Infrastructure"
+      "id": 116,
+      "tag": "Cybersecurity & Data Privacy",
+      "question": "Are there any ongoing education initiatives to keep employees updated on best practices?"
   },
   {
-    "id": 117,
-    "question": "Are there any intrusion detection systems or firewalls?",
-    "tag": "Cybersecurity & Data Privacy"
+      "id": 117,
+      "tag": "Cybersecurity & Data Privacy",
+      "question": "Are there any plans to implement privacy features (e.g., zk-SNARKs, confidential transactions)?"
   },
   {
-    "id": 118,
-    "question": "- How often are code reviews conducted to ensure quality and security?",
-    "tag": "Tokenomics & Trading Integrity"
+      "id": 118,
+      "tag": "Cybersecurity & Data Privacy",
+      "question": "Are there any vulnerabilities in the project's governance model?"
   },
   {
-    "id": 119,
-    "question": "Are these reviews conducted by internal teams or external auditors?",
-    "tag": "Governance"
+      "id": 119,
+      "tag": "Cybersecurity & Data Privacy",
+      "question": "What are the risks of governance attacks or collusion?"
   },
   {
-    "id": 120,
-    "question": "- How scalable is the technology infrastructure?",
-    "tag": "Technology & Infrastructure"
+      "id": 120,
+      "tag": "Cybersecurity & Data Privacy",
+      "question": "What is the voting participation percentage within the DAO?"
   },
   {
-    "id": 121,
-    "question": "Are there plans for upgrading infrastructure to meet growing demand?",
-    "tag": "Technology & Infrastructure"
+      "id": 121,
+      "tag": "Cybersecurity & Data Privacy",
+      "question": "What measures are in place to protect against social engineering attacks targeting the team and community?"
   },
   {
-    "id": 122,
-    "question": "- Are there data backup and recovery processes in place?",
-    "tag": "Cybersecurity & Data Privacy"
+      "id": 122,
+      "tag": "Cybersecurity & Data Privacy",
+      "question": "What is the security awarness training that is provided to the team?"
   },
   {
-    "id": 123,
-    "question": "How frequently are backups performed?",
-    "tag": "Risk Management"
+      "id": 123,
+      "tag": "Cybersecurity & Data Privacy",
+      "question": "If the project relies on hardware or software from third-party vendors, what are the supply chain risks?"
   },
   {
-    "id": 124,
-    "question": "- How does the company manage cash flow?",
-    "tag": "Risk Management"
+      "id": 124,
+      "tag": "Cybersecurity & Data Privacy",
+      "question": "What measures are in place to prevent a rug pull or other forms of exit scam?"
   },
   {
-    "id": 125,
-    "question": "Are there any cash flow projections available?",
-    "tag": "Financial Health"
+      "id": 125,
+      "tag": "Cybersecurity & Data Privacy",
+      "question": "How frequently are audits conducted, and are past audit results published?"
   },
   {
-    "id": 126,
-    "question": "What are the company's financial planning strategies?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 126,
+      "tag": "ESG & Sustainability",
+      "question": "What is the environmental impact of the cryptocurrency (e.g., energy consumption)?"
   },
   {
-    "id": 127,
-    "question": "Are there any budgeting processes in place?",
-    "tag": "Governance"
+      "id": 127,
+      "tag": "ESG & Sustainability",
+      "question": "Does the project promote social good or inclusivity?"
   },
   {
-    "id": 128,
-    "question": "- Are there any tax planning strategies to minimize liabilities?",
-    "tag": "Risk Management"
+      "id": 128,
+      "tag": "ESG & Sustainability",
+      "question": "Are there governance mechanisms in place to ensure fair decision-making?"
   },
   {
-    "id": 129,
-    "question": "Are these strategies compliant with all applicable laws?",
-    "tag": "Legal & Regulatory"
+      "id": 129,
+      "tag": "ESG & Sustainability",
+      "question": "How does the project address ethical concerns related to its operations?"
   },
   {
-    "id": 130,
-    "question": "- Who are the company's auditors and accountants?",
-    "tag": "Governance"
+      "id": 130,
+      "tag": "ESG & Sustainability",
+      "question": "Does the project have a sustainability plan to reduce its environmental impact?"
   },
   {
-    "id": 131,
-    "question": "Are financial statements audited annually?",
-    "tag": "Financial Health"
+      "id": 131,
+      "tag": "ESG & Sustainability",
+      "question": "How does the project contribute to social causes or communities?"
   },
   {
-    "id": 132,
-    "question": "- What market analysis tools are used to understand customer needs?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 132,
+      "tag": "ESG & Sustainability",
+      "question": "Are there any concerns about the projects governance model or decision-making process?"
   },
   {
-    "id": 133,
-    "question": "Are there any market research reports available?",
-    "tag": "Risk Management"
+      "id": 133,
+      "tag": "ESG & Sustainability",
+      "question": "How does the project ensure diversity and inclusion within its team and community?"
   },
   {
-    "id": 134,
-    "question": "- How does the company analyze its competitors?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 134,
+      "tag": "ESG & Sustainability",
+      "question": "Are there any ethical concerns related to the projects operations or goals?"
   },
   {
-    "id": 135,
-    "question": "Are there any strategies to stay competitive in the market?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 135,
+      "tag": "ESG & Sustainability",
+      "question": "Does the project have a plan to offset its carbon footprint or environmental impact?"
   },
   {
-    "id": 136,
-    "question": "- What metrics are used to measure growth and success?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 136,
+      "tag": "ESG & Sustainability",
+      "question": "How does the project contribute to social causes or charitable initiatives?"
   },
   {
-    "id": 137,
-    "question": "Are these metrics aligned with business ectives?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 137,
+      "tag": "ESG & Sustainability",
+      "question": "Does the project rely on energy-intensive mining methods?"
   },
   {
-    "id": 138,
-    "question": "- Are there any exit strategies for investors or stakeholders?",
-    "tag": "Risk Management"
+      "id": 138,
+      "tag": "ESG & Sustainability",
+      "question": "Are there initiatives to reduce energy consumption?"
   },
   {
-    "id": 139,
-    "question": "What are the potential exit options (e.g., IPO, acquisition)?",
-    "tag": "IP & Contracts"
+      "id": 139,
+      "tag": "ESG & Sustainability",
+      "question": "Are there any sustainability practices or policies in place?"
   },
   {
-    "id": 140,
-    "question": "- Does the company publish sustainability reports?",
-    "tag": "ESG & Sustainability"
+      "id": 140,
+      "tag": "ESG & Sustainability",
+      "question": "How does the company address environmental concerns?"
   },
   {
-    "id": 141,
-    "question": "Are these reports audited or verified by external parties?",
-    "tag": "Cybersecurity & Data Privacy"
+      "id": 141,
+      "tag": "ESG & Sustainability",
+      "question": "What is the carbon footprint of the company's operations?"
   },
   {
-    "id": 142,
-    "question": "- Has an environmental impact assessment been conducted?",
-    "tag": "ESG & Sustainability"
+      "id": 142,
+      "tag": "ESG & Sustainability",
+      "question": "Are there any initiatives to reduce this footprint?"
   },
   {
-    "id": 143,
-    "question": "Are there any plans to reduce environmental impact?",
-    "tag": "ESG & Sustainability"
+      "id": 143,
+      "tag": "ESG & Sustainability",
+      "question": "Are there any sustainable practices or policies in place for operations?"
   },
   {
-    "id": 144,
-    "question": "- How does the company engage stakeholders on sustainability issues?",
-    "tag": "ESG & Sustainability"
+      "id": 144,
+      "tag": "ESG & Sustainability",
+      "question": "How does the company promote sustainability within its ecosystem?"
   },
   {
-    "id": 145,
-    "question": "Are there any feedback mechanisms for sustainability initiatives?",
-    "tag": "ESG & Sustainability"
+      "id": 145,
+      "tag": "ESG & Sustainability",
+      "question": "How does the company manage its supply chain to ensure sustainability?"
   },
   {
-    "id": 146,
-    "question": "- Are there any sustainability standards for suppliers?",
-    "tag": "ESG & Sustainability"
+      "id": 146,
+      "tag": "ESG & Sustainability",
+      "question": "Are there any audits conducted to ensure compliance with sustainability standards?"
   },
   {
-    "id": 147,
-    "question": "How does the company ensure compliance with these standards?",
-    "tag": "Tokenomics & Trading Integrity"
+      "id": 147,
+      "tag": "ESG & Sustainability",
+      "question": "Are these reports audited or verified by external parties?"
   },
   {
-    "id": 148,
-    "question": "- What are the governance policies for the board of directors?",
-    "tag": "Governance"
+      "id": 148,
+      "tag": "ESG & Sustainability",
+      "question": "Has an environmental impact assessment been conducted?"
   },
   {
-    "id": 149,
-    "question": "Are there any independent directors on the board?",
-    "tag": "Governance"
+      "id": 149,
+      "tag": "ESG & Sustainability",
+      "question": "Are there any plans to reduce environmental impact?"
   },
   {
-    "id": 150,
-    "question": "- Are there any shareholder agreements or voting trusts?",
-    "tag": "Governance"
+      "id": 150,
+      "tag": "ESG & Sustainability",
+      "question": "How does the company engage stakeholders on sustainability issues?"
   },
   {
-    "id": 151,
-    "question": "What are the terms of these agreements?",
-    "tag": "IP & Contracts"
+      "id": 151,
+      "tag": "ESG & Sustainability",
+      "question": "Are there any feedback mechanisms for sustainability initiatives?"
   },
   {
-    "id": 152,
-    "question": "- What is the compensation structure for executives?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 152,
+      "tag": "ESG & Sustainability",
+      "question": "Are there any sustainability standards for suppliers?"
   },
   {
-    "id": 153,
-    "question": "Are there any performance-based incentives?",
-    "tag": "Strategy & Competitive Positioning"
+      "id": 153,
+      "tag": "ESG & Sustainability",
+      "question": "How does the company ensure compliance with these standards?"
   },
   {
-    "id": 154,
-    "question": "- Is there a succession plan in place for key executives?",
-    "tag": "Governance"
+      "id": 154,
+      "tag": "ESG & Sustainability",
+      "question": "What is the energy footprint of the blockchain used by the project?"
   },
   {
-    "id": 155,
-    "question": "How does the company ensure continuity in leadership?",
-    "tag": "Governance"
+      "id": 155,
+      "tag": "ESG & Sustainability",
+      "question": "Are there any initiatives to reduce environmental impact (e.g., moving to Proof of Stake)?"
+  },
+  {
+      "id": 156,
+      "tag": "ESG & Sustainability",
+      "question": "Is the project involved in any corporate social responsibility (CSR) initiatives?"
+  },
+  {
+      "id": 157,
+      "tag": "ESG & Sustainability",
+      "question": "Does the project have a positive or negative perception in the crypto community?"
+  },
+  {
+      "id": 158,
+      "tag": "ESG & Sustainability",
+      "question": "Does the project contribute to carbon offset initiatives for its energy consumption?"
+  },
+  {
+      "id": 159,
+      "tag": "ESG & Sustainability",
+      "question": "Are there partnerships with environmentally conscious organizations?"
+  },
+  {
+      "id": 160,
+      "tag": "ESG & Sustainability",
+      "question": "Does the project make efforts to include underrepresented communities in its ecosystem?"
+  },
+  {
+      "id": 161,
+      "tag": "ESG & Sustainability",
+      "question": "Are there educational initiatives to improve accessibility for non-technical users?"
+  },
+  {
+      "id": 162,
+      "tag": "ESG & Sustainability",
+      "question": "Are there third-party reports verifying the project's claims (e.g., energy usage, decentralization)?"
+  },
+  {
+      "id": 163,
+      "tag": "Financial Health",
+      "question": "Are audited financial statements available?"
+  },
+  {
+      "id": 164,
+      "tag": "Financial Health",
+      "question": "What is the project's revenue model and financial performance?"
+  },
+  {
+      "id": 165,
+      "tag": "Financial Health",
+      "question": "What are the project's expenses and burn rate?"
+  },
+  {
+      "id": 166,
+      "tag": "Financial Health",
+      "question": "What are the project's sources of funding?"
+  },
+  {
+      "id": 167,
+      "tag": "Financial Health",
+      "question": "What is the token distribution and allocation?"
+  },
+  {
+      "id": 168,
+      "tag": "Financial Health",
+      "question": "What is the token's utility and value proposition?"
+  },
+  {
+      "id": 169,
+      "tag": "Financial Health",
+      "question": "What is the token's supply and demand dynamics?"
+  },
+  {
+      "id": 170,
+      "tag": "Financial Health",
+      "question": "Are there any risks of inflation or deflation?"
+  },
+  {
+      "id": 171,
+      "tag": "Financial Health",
+      "question": "what are the trading volumes and liquidity of the token?"
+  },
+  {
+      "id": 172,
+      "tag": "Financial Health",
+      "question": "What are the key financial risks associated with the digital asset?"
+  },
+  {
+      "id": 173,
+      "tag": "Financial Health",
+      "question": "How does the project manage volatility and market fluctuations?"
+  },
+  {
+      "id": 174,
+      "tag": "Financial Health",
+      "question": "What are the potential risks of fraud or market manipulation?"
+  },
+  {
+      "id": 175,
+      "tag": "Financial Health",
+      "question": "What is the vesting schedule for team and investor tokens?"
+  },
+  {
+      "id": 176,
+      "tag": "Financial Health",
+      "question": "Are there any mechanisms for burning or repurchasing tokens?"
+  },
+  {
+      "id": 177,
+      "tag": "Financial Health",
+      "question": "What is the token's velocity and circulation?"
+  },
+  {
+      "id": 178,
+      "tag": "Financial Health",
+      "question": "How are the funds raised during token sales being used?"
+  },
+  {
+      "id": 179,
+      "tag": "Financial Health",
+      "question": "What are the on chain metrics for the token, and how do they compare to similar projects?"
+  },
+  {
+      "id": 180,
+      "tag": "Financial Health",
+      "question": "What stress testing has been conducted on the project's financial model?"
+  },
+  {
+      "id": 181,
+      "tag": "Financial Health",
+      "question": "What are the potential impacts of black swan events on the project's finances?"
+  },
+  {
+      "id": 182,
+      "tag": "Financial Health",
+      "question": "What is the projects treasury management strategy?"
+  },
+  {
+      "id": 183,
+      "tag": "Financial Health",
+      "question": "Which accounting standards are being used?"
+  },
+  {
+      "id": 184,
+      "tag": "Financial Health",
+      "question": "Who are the auditors, and what is their reputation in the digital asset space?"
+  },
+  {
+      "id": 185,
+      "tag": "Financial Health",
+      "question": "Are there regular proof of reserve audits?"
+  },
+  {
+      "id": 186,
+      "tag": "Financial Health",
+      "question": "Are financial statements audited and transparent?"
+  },
+  {
+      "id": 187,
+      "tag": "Financial Health",
+      "question": "What is the financial health of the company?"
+  },
+  {
+      "id": 188,
+      "tag": "Financial Health",
+      "question": "How are digital assets valued?"
+  },
+  {
+      "id": 189,
+      "tag": "Financial Health",
+      "question": "Are valuations consistent with market standards?"
+  },
+  {
+      "id": 190,
+      "tag": "Financial Health",
+      "question": "What are the primary funding sources?"
+  },
+  {
+      "id": 191,
+      "tag": "Financial Health",
+      "question": "Are revenue streams diversified and sustainable?"
+  },
+  {
+      "id": 192,
+      "tag": "Financial Health",
+      "question": "Are revenue streams diversified across different markets or products?"
+  },
+  {
+      "id": 193,
+      "tag": "Financial Health",
+      "question": "How does the company manage revenue volatility?"
+  },
+  {
+      "id": 194,
+      "tag": "Financial Health",
+      "question": "What are the major expense categories for the company?"
+  },
+  {
+      "id": 195,
+      "tag": "Financial Health",
+      "question": "Are there any cost-saving initiatives in place?"
+  },
+  {
+      "id": 196,
+      "tag": "Financial Health",
+      "question": "What are the details of past funding rounds?"
+  },
+  {
+      "id": 197,
+      "tag": "Financial Health",
+      "question": "Are there any plans for future funding rounds?"
+  },
+  {
+      "id": 198,
+      "tag": "Financial Health",
+      "question": "How frequently are financial reports published?"
+  },
+  {
+      "id": 199,
+      "tag": "Financial Health",
+      "question": "Are these reports audited by external firms?"
+  },
+  {
+      "id": 200,
+      "tag": "Financial Health",
+      "question": "How does the company manage cash flow?"
+  },
+  {
+      "id": 201,
+      "tag": "Financial Health",
+      "question": "Are there any cash flow projections available?"
+  },
+  {
+      "id": 202,
+      "tag": "Financial Health",
+      "question": "What are the company's financial planning strategies?"
+  },
+  {
+      "id": 203,
+      "tag": "Financial Health",
+      "question": "Are there any budgeting processes in place?"
+  },
+  {
+      "id": 204,
+      "tag": "Financial Health",
+      "question": "Are there any tax planning strategies to minimize liabilities?"
+  },
+  {
+      "id": 205,
+      "tag": "Financial Health",
+      "question": "Are these strategies compliant with all applicable laws?"
+  },
+  {
+      "id": 206,
+      "tag": "Financial Health",
+      "question": "Who are the company's auditors and accountants?"
+  },
+  {
+      "id": 207,
+      "tag": "Financial Health",
+      "question": "Are financial statements audited annually?"
+  },
+  {
+      "id": 208,
+      "tag": "Financial Health",
+      "question": "What is the initial distribution of tokens (e.g., private sales, public sales, team allocation)?"
+  },
+  {
+      "id": 209,
+      "tag": "Financial Health",
+      "question": "Are there any vesting schedules or lock-up periods for team and investor tokens?"
+  },
+  {
+      "id": 210,
+      "tag": "Financial Health",
+      "question": "How many tokens are in circulation, and what is the total supply?"
+  },
+  {
+      "id": 211,
+      "tag": "Financial Health",
+      "question": "How does the project generate revenue, and what are its primary sources of income?"
+  },
+  {
+      "id": 212,
+      "tag": "Financial Health",
+      "question": "Are there any existing partnerships or business agreements driving revenue?"
+  },
+  {
+      "id": 213,
+      "tag": "Financial Health",
+      "question": "How are raised funds stored (e.g., cold wallets, multi-signature wallets)?"
+  },
+  {
+      "id": 214,
+      "tag": "Financial Health",
+      "question": "Are there independent audits or attestations for the projects treasury or reserves?"
+  },
+  {
+      "id": 215,
+      "tag": "Financial Health",
+      "question": "What is the burn or inflation rate of the token?"
+  },
+  {
+      "id": 216,
+      "tag": "Financial Health",
+      "question": "What are the project's current and projected revenue streams?"
+  },
+  {
+      "id": 217,
+      "tag": "Financial Health",
+      "question": "How does the project plan to achieve financial sustainability?"
+  },
+  {
+      "id": 218,
+      "tag": "Financial Health",
+      "question": "What are the primary use cases for the token within the project's ecosystem?"
+  },
+  {
+      "id": 219,
+      "tag": "Financial Health",
+      "question": "Is there a clear demand for the token that supports its value proposition?"
+  },
+  {
+      "id": 220,
+      "tag": "Financial Health",
+      "question": "What were the sources of funding (e.g., ICO, private sales, venture capital)?"
+  },
+  {
+      "id": 221,
+      "tag": "Financial Health",
+      "question": "Are there large stakeholders or institutional investors holding a significant share of the tokens?"
+  },
+  {
+      "id": 222,
+      "tag": "Financial Health",
+      "question": "How are funds in the projects treasury allocated (e.g., development, marketing, reserve)?"
+  },
+  {
+      "id": 223,
+      "tag": "Financial Health",
+      "question": "What safeguards are in place to prevent misuse of funds?"
+  },
+  {
+      "id": 224,
+      "tag": "Financial Health",
+      "question": "Are there any mechanisms for token buybacks or burns to regulate supply?"
+  },
+  {
+      "id": 225,
+      "tag": "Financial Health",
+      "question": "How transparent are these policies, and how often are they executed?"
+  },
+  {
+      "id": 226,
+      "tag": "Financial Health",
+      "question": "How does the project generate revenue outside of token sales?"
+  },
+  {
+      "id": 227,
+      "tag": "Financial Health",
+      "question": "Are there clear projections for future revenue growth?"
+  },
+  {
+      "id": 228,
+      "tag": "Financial Health",
+      "question": "How does the project manage inflation or deflation of its token supply?"
+  },
+  {
+      "id": 229,
+      "tag": "Financial Health",
+      "question": "Are there mechanisms for ensuring token stability during periods of high volatility?"
+  },
+  {
+      "id": 230,
+      "tag": "Financial Health",
+      "question": "How are pre-mined or reserved tokens allocated? Is this information publicly disclosed?"
+  },
+  {
+      "id": 231,
+      "tag": "Financial Health",
+      "question": "Are vesting schedules for team members and investors strictly enforced?"
+  },
+  {
+      "id": 232,
+      "tag": "Financial Health",
+      "question": "Does the project provide liquidity pools on decentralized exchanges (DEXs)?"
+  },
+  {
+      "id": 233,
+      "tag": "Financial Health",
+      "question": "What are the annual percentage yields (APYs) for liquidity providers?"
+  },
+  {
+      "id": 234,
+      "tag": "Financial Health",
+      "question": "What on-chain metrics are used to assess the health of the project's network?"
+  },
+  {
+      "id": 235,
+      "tag": "Financial Health",
+      "question": "Are there any signs of wash trading or other forms of market manipulation?"
+  },
+  {
+      "id": 236,
+      "tag": "Financial Health",
+      "question": "What are the distribution metrics of the tokens, and is there a large concentration of wealth?"
+  },
+  {
+      "id": 237,
+      "tag": "Financial Health",
+      "question": "What are the risks of cascading liquidations in the protocol?"
+  },
+  {
+      "id": 238,
+      "tag": "Financial Health",
+      "question": "How does the protocol manage its treasury and reserves?"
+  },
+  {
+      "id": 239,
+      "tag": "Financial Health",
+      "question": "What are the risks of oracle failures?"
+  },
+  {
+      "id": 240,
+      "tag": "Financial Health",
+      "question": "If the project utilizes stablecoins, what are the risks associated with those stablecoins?"
+  },
+  {
+      "id": 241,
+      "tag": "Financial Health",
+      "question": "Are the stablecoins fully backed by reserves, and are those reserves audited?"
+  },
+  {
+      "id": 242,
+      "tag": "Financial Health",
+      "question": "What are the de-pegging risks?"
+  },
+  {
+      "id": 243,
+      "tag": "Financial Health",
+      "question": "What valuation models are being used to assess the project's worth?"
+  },
+  {
+      "id": 244,
+      "tag": "Financial Health",
+      "question": "Are those valuation models appropriate for the unique characteristics of digital assets?"
+  },
+  {
+      "id": 245,
+      "tag": "Governance",
+      "question": "What are the backgrounds and reputations of the project's advisors?"
+  },
+  {
+      "id": 246,
+      "tag": "Governance",
+      "question": "What is the project's governance structure, and how are decisions made?"
+  },
+  {
+      "id": 247,
+      "tag": "Governance",
+      "question": "What is the level of transparency in the project's governance?"
+  },
+  {
+      "id": 248,
+      "tag": "Governance",
+      "question": "Are there any conflicts of interest among stakeholders?"
+  },
+  {
+      "id": 249,
+      "tag": "Governance",
+      "question": "How are these conflicts managed?"
+  },
+  {
+      "id": 250,
+      "tag": "Governance",
+      "question": "What is the governance structure of the project?"
+  },
+  {
+      "id": 251,
+      "tag": "Governance",
+      "question": "Who holds decision-making power?"
+  },
+  {
+      "id": 252,
+      "tag": "Governance",
+      "question": "Who are the major stakeholders?"
+  },
+  {
+      "id": 253,
+      "tag": "Governance",
+      "question": "Is the project decentralized or centralized?"
+  },
+  {
+      "id": 254,
+      "tag": "Governance",
+      "question": "Who are the members of the board of directors?"
+  },
+  {
+      "id": 255,
+      "tag": "Governance",
+      "question": "What are their backgrounds and expertise?"
+  },
+  {
+      "id": 256,
+      "tag": "Governance",
+      "question": "How are major decisions made within the company?"
+  },
+  {
+      "id": 257,
+      "tag": "Governance",
+      "question": "Are there any checks and balances in place?"
+  },
+  {
+      "id": 258,
+      "tag": "Governance",
+      "question": "Who are the major shareholders?"
+  },
+  {
+      "id": 259,
+      "tag": "Governance",
+      "question": "Are there any voting agreements or restrictions?"
+  },
+  {
+      "id": 260,
+      "tag": "Governance",
+      "question": "How does the company engage with stakeholders, including investors and users?"
+  },
+  {
+      "id": 261,
+      "tag": "Governance",
+      "question": "Are there any mechanisms for feedback and communication?"
+  },
+  {
+      "id": 262,
+      "tag": "Governance",
+      "question": "What are the governance policies for the board of directors?"
+  },
+  {
+      "id": 263,
+      "tag": "Governance",
+      "question": "Are there any independent directors on the board?"
+  },
+  {
+      "id": 264,
+      "tag": "Governance",
+      "question": "Are there any shareholder agreements or voting trusts?"
+  },
+  {
+      "id": 265,
+      "tag": "Governance",
+      "question": "What are the terms of these agreements?"
+  },
+  {
+      "id": 266,
+      "tag": "Governance",
+      "question": "What is the compensation structure for executives?"
+  },
+  {
+      "id": 267,
+      "tag": "Governance",
+      "question": "Are there any performance-based incentives?"
+  },
+  {
+      "id": 268,
+      "tag": "Governance",
+      "question": "Is there a succession plan in place for key executives?"
+  },
+  {
+      "id": 269,
+      "tag": "Governance",
+      "question": "How does the company ensure continuity in leadership?"
+  },
+  {
+      "id": 270,
+      "tag": "Governance",
+      "question": "Who are the key members of the team, and what are their backgrounds?"
+  },
+  {
+      "id": 271,
+      "tag": "Governance",
+      "question": "Have the founders been involved in any previous crypto projects? If so, what was their track record?"
+  },
+  {
+      "id": 272,
+      "tag": "Governance",
+      "question": "Does the project employ decentralized governance? If so, how is it implemented?"
+  },
+  {
+      "id": 273,
+      "tag": "Governance",
+      "question": "What role does the community play in decision-making processes?"
+  },
+  {
+      "id": 274,
+      "tag": "Governance",
+      "question": "How are governance proposals submitted, voted on, and executed?"
+  },
+  {
+      "id": 275,
+      "tag": "Governance",
+      "question": "Are meeting minutes, development updates, and key financial information shared publicly?"
+  },
+  {
+      "id": 276,
+      "tag": "Governance",
+      "question": "Does the team maintain open communication with the community and stakeholders?"
+  },
+  {
+      "id": 277,
+      "tag": "Governance",
+      "question": "Who are the project's advisors, and what relevant experience do they bring?"
+  },
+  {
+      "id": 278,
+      "tag": "Governance",
+      "question": "Are there established partnerships with other reputable organizations or projects?"
+  },
+  {
+      "id": 279,
+      "tag": "Governance",
+      "question": "Does the team have a history of delivering on their project milestones?"
+  },
+  {
+      "id": 280,
+      "tag": "Governance",
+      "question": "Are team members' identities and qualifications verifiable?"
+  },
+  {
+      "id": 281,
+      "tag": "Governance",
+      "question": "Are key team members committed full-time or part-time to the project?"
+  },
+  {
+      "id": 282,
+      "tag": "Governance",
+      "question": "Is there a clear succession plan if a founding member departs?"
+  },
+  {
+      "id": 283,
+      "tag": "Governance",
+      "question": "What percentage of token holders actively participate in governance votes?"
+  },
+  {
+      "id": 284,
+      "tag": "Governance",
+      "question": "Are governance decisions binding, or are they advisory in nature?"
+  },
+  {
+      "id": 285,
+      "tag": "Governance",
+      "question": "Are team members involved in any competing projects?"
+  },
+  {
+      "id": 286,
+      "tag": "Governance",
+      "question": "Are there transparent disclosures about personal holdings of the token by team members?"
+  },
+  {
+      "id": 287,
+      "tag": "Governance",
+      "question": "How decentralized is governance? Are decisions dominated by a few large token holders?"
+  },
+  {
+      "id": 288,
+      "tag": "Governance",
+      "question": "Are governance proposals documented, voted on, and implemented transparently?"
+  },
+  {
+      "id": 289,
+      "tag": "Governance",
+      "question": "Have the founders been involved in any failed projects or scandals in the crypto space?"
+  },
+  {
+      "id": 290,
+      "tag": "Governance",
+      "question": "What public endorsements or criticisms have key team members received?"
+  },
+  {
+      "id": 291,
+      "tag": "Governance",
+      "question": "Are the team members actively pursuing upskilling or certifications in blockchain and cryptocurrency?"
+  },
+  {
+      "id": 292,
+      "tag": "Governance",
+      "question": "Is the team geographically distributed, and how does this affect collaboration and execution?"
+  },
+  {
+      "id": 293,
+      "tag": "Governance",
+      "question": "How decentralized is the projects governance model?"
+  },
+  {
+      "id": 294,
+      "tag": "Governance",
+      "question": "Are there any risks of centralization in decision-making or control?"
+  },
+  {
+      "id": 295,
+      "tag": "Governance",
+      "question": "How are governance proposals submitted, voted on, and implemented?"
+  },
+  {
+      "id": 296,
+      "tag": "Governance",
+      "question": "Are there any mechanisms to prevent governance attacks or manipulation?"
+  },
+  {
+      "id": 297,
+      "tag": "Governance",
+      "question": "How does the project ensure transparency in governance decisions?"
+  },
+  {
+      "id": 298,
+      "tag": "IP & Contracts",
+      "question": "Are there any potential IP disputes or infringement risks?"
+  },
+  {
+      "id": 299,
+      "tag": "IP & Contracts",
+      "question": "How is the project's IP protected?"
+  },
+  {
+      "id": 300,
+      "tag": "IP & Contracts",
+      "question": "Has the project faced any legal challenges over intellectual property (IP) claims?"
+  },
+  {
+      "id": 301,
+      "tag": "IP & Contracts",
+      "question": "Are IP rights secured in major markets where the project intends to operate?"
+  },
+  {
+      "id": 302,
+      "tag": "IP & Contracts",
+      "question": "What IP assets does the company own, and are they valid?"
+  },
+  {
+      "id": 303,
+      "tag": "IP & Contracts",
+      "question": "How are IP rights allocated among stakeholders?"
+  },
+  {
+      "id": 304,
+      "tag": "Legal & Regulatory",
+      "question": "In which jurisdictions is the digital asset/cryptocurrency operating?"
+  },
+  {
+      "id": 305,
+      "tag": "Legal & Regulatory",
+      "question": "Is the cryptocurrency or digital asset compliant with local and international regulations?"
+  },
+  {
+      "id": 306,
+      "tag": "Legal & Regulatory",
+      "question": "Has the project obtained necessary licenses or approvals from regulatory bodies?"
+  },
+  {
+      "id": 307,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any ongoing legal disputes or regulatory investigations involving the asset or its team?"
+  },
+  {
+      "id": 308,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any restrictions or bans on the asset in specific jurisdictions?"
+  },
+  {
+      "id": 309,
+      "tag": "Legal & Regulatory",
+      "question": "How does the project handle data privacy and protection (e.g., GDPR compliance)?"
+  },
+  {
+      "id": 310,
+      "tag": "Legal & Regulatory",
+      "question": "Are there clear terms of service, disclaimers, and risk disclosures for users?"
+  },
+  {
+      "id": 311,
+      "tag": "Legal & Regulatory",
+      "question": "Does the project have a legal opinion or whitepaper addressing its regulatory status?"
+  },
+  {
+      "id": 312,
+      "tag": "Legal & Regulatory",
+      "question": "Is the entity or project registered with any regulatory bodies?"
+  },
+  {
+      "id": 313,
+      "tag": "Legal & Regulatory",
+      "question": "Does the entity hold any required licenses for operating in the cryptocurrency space (e.g., money transmitter licenses, securities licenses)?"
+  },
+  {
+      "id": 314,
+      "tag": "Legal & Regulatory",
+      "question": "In which jurisdictions does the project operate, and what is the regulatory stance in those regions?"
+  },
+  {
+      "id": 315,
+      "tag": "Legal & Regulatory",
+      "question": "What are the tax implications of investing in this digital asset within your jurisdiction?"
+  },
+  {
+      "id": 316,
+      "tag": "Legal & Regulatory",
+      "question": "Does the project provide guidance or support for tax reporting?"
+  },
+  {
+      "id": 317,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any existing patents or intellectual property claims that could affect the project's operations?"
+  },
+  {
+      "id": 318,
+      "tag": "Legal & Regulatory",
+      "question": "Does the project have a clear legal structure (e.g., foundation, corporation, DAO)?"
+  },
+  {
+      "id": 319,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any tax implications for holding or transacting with the asset?"
+  },
+  {
+      "id": 320,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any restrictions on the transfer or ownership of the asset?"
+  },
+  {
+      "id": 321,
+      "tag": "Legal & Regulatory",
+      "question": "Does the project have a compliance officer or legal team to monitor regulatory changes?"
+  },
+  {
+      "id": 322,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any pending or potential legislative changes that could impact the asset?"
+  },
+  {
+      "id": 323,
+      "tag": "Legal & Regulatory",
+      "question": "How does the project handle sanctions or restrictions from governments or financial institutions?"
+  },
+  {
+      "id": 324,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any specific regulatory red flags associated with the project's chosen jurisdiction(s)?"
+  },
+  {
+      "id": 325,
+      "tag": "Legal & Regulatory",
+      "question": "How does the project anticipate and adapt to potential future regulatory changes?"
+  },
+  {
+      "id": 326,
+      "tag": "Legal & Regulatory",
+      "question": "Has the project received any formal or informal inquiries from regulatory bodies?"
+  },
+  {
+      "id": 327,
+      "tag": "Legal & Regulatory",
+      "question": "Who owns the intellectual property (IP) related to the project's technology?"
+  },
+  {
+      "id": 328,
+      "tag": "Legal & Regulatory",
+      "question": "What are the project's procedures for screening transactions for sanctions compliance?"
+  },
+  {
+      "id": 329,
+      "tag": "Legal & Regulatory",
+      "question": "How does the project handle politically exposed persons (PEPs) and high-risk customers?"
+  },
+  {
+      "id": 330,
+      "tag": "Legal & Regulatory",
+      "question": "What are the on chain analysis tools that they utilize to track illicit funds?"
+  },
+  {
+      "id": 331,
+      "tag": "Legal & Regulatory",
+      "question": "If the project is a DAO, what is the legal standing of the DAO in relevant jurisdictions?"
+  },
+  {
+      "id": 332,
+      "tag": "Legal & Regulatory",
+      "question": "How are liabilities handled within the DAO structure?"
+  },
+  {
+      "id": 333,
+      "tag": "Legal & Regulatory",
+      "question": "What are the legal implications of the DAO's governance model?"
+  },
+  {
+      "id": 334,
+      "tag": "Legal & Regulatory",
+      "question": "Does the project have a legal opinion regarding its classification as a utility token, security, or other asset type?"
+  },
+  {
+      "id": 335,
+      "tag": "Legal & Regulatory",
+      "question": "In how many jurisdictions has the project ensured regulatory compliance?"
+  },
+  {
+      "id": 336,
+      "tag": "Legal & Regulatory",
+      "question": "Are there export controls or restrictions for certain countries?"
+  },
+  {
+      "id": 337,
+      "tag": "Legal & Regulatory",
+      "question": "Are partnership agreements with exchanges, payment processors, or third-party providers formalized and enforceable?"
+  },
+  {
+      "id": 338,
+      "tag": "Legal & Regulatory",
+      "question": "Are there terms and conditions that protect the platform and users in case of disputes?"
+  },
+  {
+      "id": 339,
+      "tag": "Legal & Regulatory",
+      "question": "Does the project have a clear stance on securities law compliance (e.g., Howey Test)?"
+  },
+  {
+      "id": 340,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any restrictions on the assets use in decentralized finance (DeFi) applications?"
+  },
+  {
+      "id": 341,
+      "tag": "Legal & Regulatory",
+      "question": "How does the project handle compliance with evolving regulations like MiCA (Markets in Crypto-Assets) in the EU?"
+  },
+  {
+      "id": 342,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any risks of the asset being classified as a security, commodity, or currency in key jurisdictions?"
+  },
+  {
+      "id": 343,
+      "tag": "Legal & Regulatory",
+      "question": "Does the project have a plan to adapt to future regulatory changes?"
+  },
+  {
+      "id": 344,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any concerns about the projects compliance with sanctions or embargoes?"
+  },
+  {
+      "id": 345,
+      "tag": "Legal & Regulatory",
+      "question": "How does the project handle intellectual property rights related to its technology or branding?"
+  },
+  {
+      "id": 346,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any ongoing investigations or lawsuits against the project or its team members?"
+  },
+  {
+      "id": 347,
+      "tag": "Legal & Regulatory",
+      "question": "How does the project handle regulatory inquiries or subpoenas?"
+  },
+  {
+      "id": 348,
+      "tag": "Legal & Regulatory",
+      "question": "Are all project assets, such as logos, trademarks, and patents, properly registered?"
+  },
+  {
+      "id": 349,
+      "tag": "Legal & Regulatory",
+      "question": "Are there potential infringement risks due to similarities with other projects?"
+  },
+  {
+      "id": 350,
+      "tag": "Legal & Regulatory",
+      "question": "What are the applicable laws and regulations in those jurisdictions?"
+  },
+  {
+      "id": 351,
+      "tag": "Legal & Regulatory",
+      "question": "Has the project obtained all necessary licenses and registrations?"
+  },
+  {
+      "id": 352,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any pending or past regulatory investigations or enforcement actions?"
+  },
+  {
+      "id": 353,
+      "tag": "Legal & Regulatory",
+      "question": "How does the project handle cross-border transactions and regulatory differences?"
+  },
+  {
+      "id": 354,
+      "tag": "Legal & Regulatory",
+      "question": "What is the legal structure of the entity behind the digital asset?"
+  },
+  {
+      "id": 355,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any legal agreements or contracts in place (e.g., smart contracts, token sale agreements)?"
+  },
+  {
+      "id": 356,
+      "tag": "Legal & Regulatory",
+      "question": "What are the legal rights and obligations of token holders?"
+  },
+  {
+      "id": 357,
+      "tag": "Legal & Regulatory",
+      "question": "What is the legal classification of the digital asset (e.g., security, utility token, commodity)?"
+  },
+  {
+      "id": 358,
+      "tag": "Legal & Regulatory",
+      "question": "How does the project comply with data privacy regulations (e.g., GDPR)?"
+  },
+  {
+      "id": 359,
+      "tag": "Legal & Regulatory",
+      "question": "What data is collected from users, and how is it stored and protected?"
+  },
+  {
+      "id": 360,
+      "tag": "Legal & Regulatory",
+      "question": "What is the project's policy on data breaches and incident response?"
+  },
+  {
+      "id": 361,
+      "tag": "Legal & Regulatory",
+      "question": "How does the entity ensure GDPR or other data privacy compliance for its users?"
+  },
+  {
+      "id": 362,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any pending legal actions, investigations, or disputes involving the project or its founders?"
+  },
+  {
+      "id": 363,
+      "tag": "Legal & Regulatory",
+      "question": "Are trademarks, copyrights, and patents secured for the technology or branding?"
+  },
+  {
+      "id": 364,
+      "tag": "Legal & Regulatory",
+      "question": "Is there a clear ownership structure for the projects intellectual property?"
+  },
+  {
+      "id": 365,
+      "tag": "Legal & Regulatory",
+      "question": "What is the understanding of the current regulatory environment?"
+  },
+  {
+      "id": 366,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any potential regulatory risks to the portfolio?"
+  },
+  {
+      "id": 367,
+      "tag": "Legal & Regulatory",
+      "question": "Has the project undergone a financial audit? Are the results publicly available?"
+  },
+  {
+      "id": 368,
+      "tag": "Legal & Regulatory",
+      "question": "Are the projects treasury and funds managed transparently?"
+  },
+  {
+      "id": 369,
+      "tag": "Legal & Regulatory",
+      "question": "How are funds raised through token sales or investments being allocated?"
+  },
+  {
+      "id": 370,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any concerns about the projects financial sustainability or runway?"
+  },
+  {
+      "id": 371,
+      "tag": "Legal & Regulatory",
+      "question": "Are there regular financial reports or updates for investors?"
+  },
+  {
+      "id": 372,
+      "tag": "Legal & Regulatory",
+      "question": "How does the project manage its treasury or reserve funds?"
+  },
+  {
+      "id": 373,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any concerns about misallocation or misuse of funds?"
+  },
+  {
+      "id": 374,
+      "tag": "Legal & Regulatory",
+      "question": "Does the project have a clear budget or financial plan for the next 1-3 years?"
+  },
+  {
+      "id": 375,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any risks of insolvency or running out of funds?"
+  },
+  {
+      "id": 376,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any concerns about the projects financial reporting or accounting practices?"
+  },
+  {
+      "id": 377,
+      "tag": "Legal & Regulatory",
+      "question": "How does the project handle investor relations or communication?"
+  },
+  {
+      "id": 378,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any risks of the project running out of funding or going bankrupt?"
+  },
+  {
+      "id": 379,
+      "tag": "Legal & Regulatory",
+      "question": "How does the project plan to allocate funds raised from token sales or investments?"
+  },
+  {
+      "id": 380,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any concerns about the projects financial sustainability or profitability?"
+  },
+  {
+      "id": 381,
+      "tag": "Legal & Regulatory",
+      "question": "What is the legal entity of the company, and is it compliant with all applicable laws?"
+  },
+  {
+      "id": 382,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any changes in the legal structure over time?"
+  },
+  {
+      "id": 383,
+      "tag": "Legal & Regulatory",
+      "question": "Are all necessary licenses and permits in place?"
+  },
+  {
+      "id": 384,
+      "tag": "Legal & Regulatory",
+      "question": "Is the company compliant with relevant securities and commodities laws?"
+  },
+  {
+      "id": 385,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any sanctions restrictions or transaction monitoring requirements?"
+  },
+  {
+      "id": 386,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any ongoing or past legal disputes?"
+  },
+  {
+      "id": 387,
+      "tag": "Legal & Regulatory",
+      "question": "What are the potential financial exposures from these disputes?"
+  },
+  {
+      "id": 388,
+      "tag": "Legal & Regulatory",
+      "question": "How does the company ensure compliance with international laws and regulations?"
+  },
+  {
+      "id": 389,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any specific jurisdictions where operations are restricted?"
+  },
+  {
+      "id": 390,
+      "tag": "Legal & Regulatory",
+      "question": "How does the company handle user data privacy?"
+  },
+  {
+      "id": 391,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any data protection policies in place?"
+  },
+  {
+      "id": 392,
+      "tag": "Legal & Regulatory",
+      "question": "What are the tax obligations of the company in different jurisdictions?"
+  },
+  {
+      "id": 393,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any tax disputes or pending issues?"
+  },
+  {
+      "id": 394,
+      "tag": "Legal & Regulatory",
+      "question": "Are all necessary regulatory filings up to date?"
+  },
+  {
+      "id": 395,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any pending or anticipated regulatory changes that could impact operations?"
+  },
+  {
+      "id": 396,
+      "tag": "Legal & Regulatory",
+      "question": "In which jurisdictions does the company operate, and are there any specific compliance requirements?"
+  },
+  {
+      "id": 397,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any restrictions on operations in certain countries?"
+  },
+  {
+      "id": 398,
+      "tag": "Legal & Regulatory",
+      "question": "Have all necessary regulatory approvals been obtained?"
+  },
+  {
+      "id": 399,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any pending applications or approvals?"
+  },
+  {
+      "id": 400,
+      "tag": "Legal & Regulatory",
+      "question": "What are the key terms of major contracts with partners or suppliers?"
+  },
+  {
+      "id": 401,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any potential liabilities from these contracts?"
+  },
+  {
+      "id": 402,
+      "tag": "Legal & Regulatory",
+      "question": "How does the company handle disputes with customers or partners?"
+  },
+  {
+      "id": 403,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any arbitration or mediation processes in place?"
+  },
+  {
+      "id": 404,
+      "tag": "Legal & Regulatory",
+      "question": "If a DeFi protocol, how does it handle regulatory ambiguities surrounding lending, borrowing, and yield farming?"
+  },
+  {
+      "id": 405,
+      "tag": "Legal & Regulatory",
+      "question": "What are the legal implications of automated governance and protocol upgrades?"
+  },
+  {
+      "id": 406,
+      "tag": "Legal & Regulatory",
+      "question": "How does the protocol address the risks of impermanent loss and liquidation?"
+  },
+  {
+      "id": 407,
+      "tag": "Legal & Regulatory",
+      "question": "What are the copyright and intellectual property rights associated with the NFTs?"
+  },
+  {
+      "id": 408,
+      "tag": "Legal & Regulatory",
+      "question": "How does the project address the risks of counterfeit NFTs?"
+  },
+  {
+      "id": 409,
+      "tag": "Legal & Regulatory",
+      "question": "What are the legal implications of fractionalized NFTs?"
+  },
+  {
+      "id": 410,
+      "tag": "Legal & Regulatory",
+      "question": "How does the project handle tax reporting for token holders in various jurisdictions?"
+  },
+  {
+      "id": 411,
+      "tag": "Legal & Regulatory",
+      "question": "What are the potential tax implications of airdrops, staking rewards, and other forms of token distribution?"
+  },
+  {
+      "id": 412,
+      "tag": "Legal & Regulatory",
+      "question": "Are there any records of legal threats against the project, or the team members?"
+  },
+  {
+      "id": 413,
+      "tag": "Risk Management",
+      "question": "What are the project's plans for handling a major security breach or regulatory crackdown?"
+  },
+  {
+      "id": 414,
+      "tag": "Risk Management",
+      "question": "What is the plan for a bear market, or crypto winter?"
+  },
+  {
+      "id": 415,
+      "tag": "Risk Management",
+      "question": "What risk management strategies are in place for market volatility?"
+  },
+  {
+      "id": 416,
+      "tag": "Risk Management",
+      "question": "Are there any hedging strategies used?"
+  },
+  {
+      "id": 417,
+      "tag": "Risk Management",
+      "question": "Is there a business continuity plan in place for unexpected disruptions?"
+  },
+  {
+      "id": 418,
+      "tag": "Risk Management",
+      "question": "How does the company ensure operational resilience?"
+  },
+  {
+      "id": 419,
+      "tag": "Risk Management",
+      "question": "What are the potential risks in the supply chain, and how are they mitigated?"
+  },
+  {
+      "id": 420,
+      "tag": "Risk Management",
+      "question": "Are there any contingency plans for supply chain disruptions?"
+  },
+  {
+      "id": 421,
+      "tag": "Risk Management",
+      "question": "Does the company have business interruption insurance?"
+  },
+  {
+      "id": 422,
+      "tag": "Risk Management",
+      "question": "What are the terms and conditions of this insurance?"
+  },
+  {
+      "id": 423,
+      "tag": "Risk Management",
+      "question": "Are there any signs of a pump-and-dump scheme or market manipulation?"
+  },
+  {
+      "id": 424,
+      "tag": "Risk Management",
+      "question": "Does the project make unrealistic promises or guarantees of returns?"
+  },
+  {
+      "id": 425,
+      "tag": "Risk Management",
+      "question": "Are there any conflicts of interest among team members or advisors?"
+  },
+  {
+      "id": 426,
+      "tag": "Risk Management",
+      "question": "Has the project been involved in any scams, hacks, or controversies?"
+  },
+  {
+      "id": 427,
+      "tag": "Risk Management",
+      "question": "Are there any signs of plagiarism in the whitepaper, code, or branding?"
+  },
+  {
+      "id": 428,
+      "tag": "Risk Management",
+      "question": "How transparent is the project about its finances and operations?"
+  },
+  {
+      "id": 429,
+      "tag": "Risk Management",
+      "question": "Are there any signs of insider trading or market manipulation?"
+  },
+  {
+      "id": 430,
+      "tag": "Risk Management",
+      "question": "Does the project rely heavily on hype or marketing rather than substance?"
+  },
+  {
+      "id": 431,
+      "tag": "Risk Management",
+      "question": "Are there any concerns about the projects long-term viability or sustainability?"
+  },
+  {
+      "id": 432,
+      "tag": "Risk Management",
+      "question": "Does the project have a history of missed deadlines or broken promises?"
+  },
+  {
+      "id": 433,
+      "tag": "Risk Management",
+      "question": "Are there any signs of plagiarism or lack of originality in the project?"
+  },
+  {
+      "id": 434,
+      "tag": "Risk Management",
+      "question": "How does the project handle negative press or public relations crises?"
+  },
+  {
+      "id": 435,
+      "tag": "Risk Management",
+      "question": "Are there any signs of the project being a rug pull or exit scam?"
+  },
+  {
+      "id": 436,
+      "tag": "Risk Management",
+      "question": "Does the project rely heavily on influencers or paid promotions for marketing?"
+  },
+  {
+      "id": 437,
+      "tag": "Risk Management",
+      "question": "Are there any concerns about the projects transparency or accountability?"
+  },
+  {
+      "id": 438,
+      "tag": "Risk Management",
+      "question": "Does the project have a history of overpromising and underdelivering?"
+  },
+  {
+      "id": 439,
+      "tag": "Risk Management",
+      "question": "How does the project handle security breaches or hacks?"
+  },
+  {
+      "id": 440,
+      "tag": "Risk Management",
+      "question": "Are there any known or anticipated regulatory changes that could impact the project?"
+  },
+  {
+      "id": 441,
+      "tag": "Risk Management",
+      "question": "How does the project handle cross-border compliance challenges?"
+  },
+  {
+      "id": 442,
+      "tag": "Risk Management",
+      "question": "Is there any reliance on third-party technology that could pose a risk?"
+  },
+  {
+      "id": 443,
+      "tag": "Risk Management",
+      "question": "Are there backup and disaster recovery plans in case of critical system failures?"
+  },
+  {
+      "id": 444,
+      "tag": "Risk Management",
+      "question": "What are the potential risks of market manipulation or token price volatility?"
+  },
+  {
+      "id": 445,
+      "tag": "Risk Management",
+      "question": "How dependent is the project on the price of its native token?"
+  },
+  {
+      "id": 446,
+      "tag": "Risk Management",
+      "question": "What are the potential operational challenges the project might face?"
+  },
+  {
+      "id": 447,
+      "tag": "Risk Management",
+      "question": "Does the project have contingency plans for critical risks?"
+  },
+  {
+      "id": 448,
+      "tag": "Risk Management",
+      "question": "How susceptible is the token's value to market fluctuations?"
+  },
+  {
+      "id": 449,
+      "tag": "Risk Management",
+      "question": "Are there mechanisms in place to mitigate extreme volatility?"
+  },
+  {
+      "id": 450,
+      "tag": "Risk Management",
+      "question": "Are a large number of tokens held by a small group of wallets? If so, who are they?"
+  },
+  {
+      "id": 451,
+      "tag": "Risk Management",
+      "question": "What safeguards are in place to prevent market manipulation by large holders?"
+  },
+  {
+      "id": 452,
+      "tag": "Risk Management",
+      "question": "Are there any past controversies or scandals associated with the project or its team?"
+  },
+  {
+      "id": 453,
+      "tag": "Risk Management",
+      "question": "How is the project mitigating risks related to misinformation or bad press?"
+  },
+  {
+      "id": 454,
+      "tag": "Risk Management",
+      "question": "How does the project plan to adapt to potential regulatory changes?"
+  },
+  {
+      "id": 455,
+      "tag": "Risk Management",
+      "question": "What happens if the token is reclassified as a security or other regulated asset?"
+  },
+  {
+      "id": 456,
+      "tag": "Risk Management",
+      "question": "Are there unresolved bugs or issues in the codebase that could cause long-term risks?"
+  },
+  {
+      "id": 457,
+      "tag": "Risk Management",
+      "question": "Does the project maintain clear documentation for future developers?"
+  },
+  {
+      "id": 458,
+      "tag": "Risk Management",
+      "question": "What is the worst-case scenario if regulators classify the token as a security?"
+  },
+  {
+      "id": 459,
+      "tag": "Risk Management",
+      "question": "Does the project have a strategy for relaunching or rebranding if regulatory pressures escalate?"
+  },
+  {
+      "id": 460,
+      "tag": "Risk Management",
+      "question": "Are tokens held in multisignature wallets or other secure storage solutions?"
+  },
+  {
+      "id": 461,
+      "tag": "Risk Management",
+      "question": "Are users educated on safe storage practices for their assets?"
+  },
+  {
+      "id": 462,
+      "tag": "Risk Management",
+      "question": "How would a market-wide cryptocurrency crash affect the project's operations and financial health?"
+  },
+  {
+      "id": 463,
+      "tag": "Risk Management",
+      "question": "What measures are in place to mitigate risks from prolonged bear markets?"
+  },
+  {
+      "id": 464,
+      "tag": "Risk Management",
+      "question": "Does the project have a risk management framework in place?"
+  },
+  {
+      "id": 465,
+      "tag": "Risk Management",
+      "question": "How does the project handle potential threats or vulnerabilities?"
+  },
+  {
+      "id": 466,
+      "tag": "Risk Management",
+      "question": "Are there any contingency plans for technical failures or market crashes?"
+  },
+  {
+      "id": 467,
+      "tag": "Risk Management",
+      "question": "How does the project ensure business continuity during crises?"
+  },
+  {
+      "id": 468,
+      "tag": "Risk Management",
+      "question": "Are there any insurance policies or safeguards in place for user funds?"
+  },
+  {
+      "id": 469,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What are the project's plans for scaling operations?"
+  },
+  {
+      "id": 470,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What problem does the cryptocurrency or digital asset aim to solve?"
+  },
+  {
+      "id": 471,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Who are the main competitors, and how does the project differentiate itself?"
+  },
+  {
+      "id": 472,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What is the size of the target market, and what is the growth potential?"
+  },
+  {
+      "id": 473,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any partnerships or collaborations that enhance the projects credibility?"
+  },
+  {
+      "id": 474,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project plan to attract and retain users or investors?"
+  },
+  {
+      "id": 475,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What is the current adoption rate, and are there any real-world use cases?"
+  },
+  {
+      "id": 476,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project perform during market downturns or periods of high volatility?"
+  },
+  {
+      "id": 477,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What is the unique selling point (USP) of the project compared to competitors?"
+  },
+  {
+      "id": 478,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What is the current market share of the platform or token?"
+  },
+  {
+      "id": 479,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How many active users or wallets are there on the platform?"
+  },
+  {
+      "id": 480,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What is the current trading volume and liquidity of the token?"
+  },
+  {
+      "id": 481,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What partnerships or collaborations have been secured to drive adoption?"
+  },
+  {
+      "id": 482,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Who are the main competitors, and what are their strengths and weaknesses?"
+  },
+  {
+      "id": 483,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project differentiate itself in terms of technology, user experience, or business model?"
+  },
+  {
+      "id": 484,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What problem is the project aiming to solve, and how significant is this issue in the current market?"
+  },
+  {
+      "id": 485,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Is there evidence of user adoption or interest in the project's solution?"
+  },
+  {
+      "id": 486,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What differentiates the project from its competitors?"
+  },
+  {
+      "id": 487,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Does the project have any proprietary technology or unique features that provide a competitive edge?"
+  },
+  {
+      "id": 488,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What is the projects unique value proposition (UVP) compared to competitors?"
+  },
+  {
+      "id": 489,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any barriers to entry for new competitors in this space?"
+  },
+  {
+      "id": 490,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project plan to capture market share from established players?"
+  },
+  {
+      "id": 491,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any emerging trends or technologies that could disrupt the project?"
+  },
+  {
+      "id": 492,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project plan to expand into new markets or regions?"
+  },
+  {
+      "id": 493,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any risks of substitution (e.g., another project solving the same problem better)?"
+  },
+  {
+      "id": 494,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What is the projects strategy for dealing with market volatility or downturns?"
+  },
+  {
+      "id": 495,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What percentage of the target market has adopted the platform?"
+  },
+  {
+      "id": 496,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there use cases where the platform has demonstrated measurable ROI for users?"
+  },
+  {
+      "id": 497,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What are the barriers to entry for competitors?"
+  },
+  {
+      "id": 498,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Does the project face significant barriers in expanding to new markets?"
+  },
+  {
+      "id": 499,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What is the growth rate of the community across platforms (e.g., Telegram, Twitter, Discord)?"
+  },
+  {
+      "id": 500,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there metrics showing user retention and engagement over time?"
+  },
+  {
+      "id": 501,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project plan to differentiate itself from forks or copycat projects?"
+  },
+  {
+      "id": 502,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any risks of the project being overshadowed by larger, more established players?"
+  },
+  {
+      "id": 503,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project plan to attract institutional investors or traditional financial players?"
+  },
+  {
+      "id": 504,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any risks of the project being disrupted by new technologies or innovations?"
+  },
+  {
+      "id": 505,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project plan to expand into emerging markets or underserved regions?"
+  },
+  {
+      "id": 506,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any risks of the project being impacted by macroeconomic factors (e.g., inflation, recession)?"
+  },
+  {
+      "id": 507,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What types of users (retail, institutional, developers) are most actively engaging with the platform?"
+  },
+  {
+      "id": 508,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project plan to onboard more non-crypto-native users?"
+  },
+  {
+      "id": 509,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Have competitors publicly commented on or copied elements of the project?"
+  },
+  {
+      "id": 510,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there plans to counter or adapt to competitor advancements?"
+  },
+  {
+      "id": 511,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How recognizable is the projects brand in both crypto and mainstream markets?"
+  },
+  {
+      "id": 512,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any partnerships with well-known brands or influencers?"
+  },
+  {
+      "id": 513,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Does the project have a clear and realistic roadmap? Are milestones being met on time?"
+  },
+  {
+      "id": 514,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What are the short-term and long-term goals of the project?"
+  },
+  {
+      "id": 515,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How active is the development team? Are there regular updates and code commits?"
+  },
+  {
+      "id": 516,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any delays or setbacks in the projects development?"
+  },
+  {
+      "id": 517,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project handle community feedback and feature requests?"
+  },
+  {
+      "id": 518,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project prioritize features or milestones on its roadmap?"
+  },
+  {
+      "id": 519,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any dependencies on external factors to achieve roadmap goals?"
+  },
+  {
+      "id": 520,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How transparent is the project about delays or changes to the roadmap?"
+  },
+  {
+      "id": 521,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any plans for post-launch development or continuous improvement?"
+  },
+  {
+      "id": 522,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project measure success against its roadmap goals?"
+  },
+  {
+      "id": 523,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any risks of scope creep or feature bloat?"
+  },
+  {
+      "id": 524,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project prioritize user feedback in its development process?"
+  },
+  {
+      "id": 525,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any risks of the project losing momentum or focus over time?"
+  },
+  {
+      "id": 526,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project handle delays or setbacks in its roadmap?"
+  },
+  {
+      "id": 527,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any plans to pivot or change direction based on market conditions?"
+  },
+  {
+      "id": 528,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project measure progress against its roadmap goals?"
+  },
+  {
+      "id": 529,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any risks of the project becoming obsolete due to technological advancements?"
+  },
+  {
+      "id": 530,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What is the market position of the company?"
+  },
+  {
+      "id": 531,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any competitors or market gaps?"
+  },
+  {
+      "id": 532,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Is the digital strategy aligned with business goals?"
+  },
+  {
+      "id": 533,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there plans for future scalability and growth?"
+  },
+  {
+      "id": 534,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How active is the community around the project?"
+  },
+  {
+      "id": 535,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are developers and stakeholders engaged?"
+  },
+  {
+      "id": 536,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Who are the main competitors in the market?"
+  },
+  {
+      "id": 537,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the company differentiate itself from competitors?"
+  },
+  {
+      "id": 538,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What market research methods are used to understand customer needs?"
+  },
+  {
+      "id": 539,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any customer feedback mechanisms in place?"
+  },
+  {
+      "id": 540,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What are the short-term and long-term growth strategies?"
+  },
+  {
+      "id": 541,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are these strategies aligned with market trends?"
+  },
+  {
+      "id": 542,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any strategic partnerships or collaborations?"
+  },
+  {
+      "id": 543,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How do these partnerships contribute to the company's growth?"
+  },
+  {
+      "id": 544,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What market analysis tools are used to understand customer needs?"
+  },
+  {
+      "id": 545,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any market research reports available?"
+  },
+  {
+      "id": 546,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the company analyze its competitors?"
+  },
+  {
+      "id": 547,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any strategies to stay competitive in the market?"
+  },
+  {
+      "id": 548,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What metrics are used to measure growth and success?"
+  },
+  {
+      "id": 549,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are these metrics aligned with business objectives?"
+  },
+  {
+      "id": 550,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any exit strategies for investors or stakeholders?"
+  },
+  {
+      "id": 551,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What are the potential exit options (e.g., IPO, acquisition)?"
+  },
+  {
+      "id": 552,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project plan to handle increasing user and transaction volumes?"
+  },
+  {
+      "id": 553,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there defined timelines for planned upgrades or releases?"
+  },
+  {
+      "id": 554,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Is the project exploring innovative solutions such as zero-knowledge proofs, layer-2 scaling, or AI integration?"
+  },
+  {
+      "id": 555,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What is the projects stance on adopting emerging standards (e.g., DID for decentralized identity)?"
+  },
+  {
+      "id": 556,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any upcoming partnerships or integrations that could significantly impact the projects value?"
+  },
+  {
+      "id": 557,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How are new partners onboarded, and what criteria must they meet?"
+  },
+  {
+      "id": 558,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there plans to expand the project to new geographic regions or industries?"
+  },
+  {
+      "id": 559,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How will the project handle regulatory differences in these new markets?"
+  },
+  {
+      "id": 560,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What future partnerships are in development, and how critical are they to the projects success?"
+  },
+  {
+      "id": 561,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there plans to integrate with emerging technologies (e.g., AI, IoT)?"
+  },
+  {
+      "id": 562,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "What percentage of the roadmap is dedicated to user acquisition versus platform improvements?"
+  },
+  {
+      "id": 563,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there milestones that are contingent on external factors (e.g., partnerships, funding)?"
+  },
+  {
+      "id": 564,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any strategic partnerships with other blockchain projects or traditional companies?"
+  },
+  {
+      "id": 565,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project vet and select its partners or collaborators?"
+  },
+  {
+      "id": 566,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any risks of partnerships falling through or failing to deliver?"
+  },
+  {
+      "id": 567,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project leverage partnerships to drive adoption or growth?"
+  },
+  {
+      "id": 568,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any exclusive or long-term agreements with partners?"
+  },
+  {
+      "id": 569,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project plan to build and maintain its brand reputation?"
+  },
+  {
+      "id": 570,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any risks of negative publicity or PR crises?"
+  },
+  {
+      "id": 571,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project handle influencer marketing or paid promotions?"
+  },
+  {
+      "id": 572,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "Are there any plans to expand into new markets or regions?"
+  },
+  {
+      "id": 573,
+      "tag": "Strategy & Competitive Positioning",
+      "question": "How does the project measure the effectiveness of its marketing campaigns?"
+  },
+  {
+      "id": 574,
+      "tag": "Technology & Infrastructure",
+      "question": "What blockchain technology is used?"
+  },
+  {
+      "id": 575,
+      "tag": "Technology & Infrastructure",
+      "question": "What is the consensus mechanism?"
+  },
+  {
+      "id": 576,
+      "tag": "Technology & Infrastructure",
+      "question": "What is the security of the blockchain network?"
+  },
+  {
+      "id": 577,
+      "tag": "Technology & Infrastructure",
+      "question": "Has the blockchain been audited for vulnerabilities?"
+  },
+  {
+      "id": 578,
+      "tag": "Technology & Infrastructure",
+      "question": "Are smart contracts used?"
+  },
+  {
+      "id": 579,
+      "tag": "Technology & Infrastructure",
+      "question": "Have the smart contracts been audited for security and functionality?"
+  },
+  {
+      "id": 580,
+      "tag": "Technology & Infrastructure",
+      "question": "What is the risk of smart contract bugs or exploits?"
+  },
+  {
+      "id": 581,
+      "tag": "Technology & Infrastructure",
+      "question": "What cybersecurity measures are in place to protect the digital asset and user data?"
+  },
+  {
+      "id": 582,
+      "tag": "Technology & Infrastructure",
+      "question": "Has the project undergone penetration testing and security audits?"
+  },
+  {
+      "id": 583,
+      "tag": "Technology & Infrastructure",
+      "question": "What is the project's incident response plan?"
+  },
+  {
+      "id": 584,
+      "tag": "Technology & Infrastructure",
+      "question": "How are the digital assets custodied?"
+  },
+  {
+      "id": 585,
+      "tag": "Technology & Infrastructure",
+      "question": "Are the private keys stored safely?"
+  },
+  {
+      "id": 586,
+      "tag": "Technology & Infrastructure",
+      "question": "What are the procedures for recovering lost or stolen keys?"
+  },
+  {
+      "id": 587,
+      "tag": "Technology & Infrastructure",
+      "question": "Which blockchain technology or protocol is used, and why was it chosen?"
+  },
+  {
+      "id": 588,
+      "tag": "Technology & Infrastructure",
+      "question": "Is the blockchain platform decentralized, or is it permissioned?"
+  },
+  {
+      "id": 589,
+      "tag": "Technology & Infrastructure",
+      "question": "What consensus mechanism is employed (e.g., Proof of Work, Proof of Stake, etc.)?"
+  },
+  {
+      "id": 590,
+      "tag": "Technology & Infrastructure",
+      "question": "Has the smart contract or platform code been audited by third-party security firms?"
+  },
+  {
+      "id": 591,
+      "tag": "Technology & Infrastructure",
+      "question": "What security measures are in place to prevent hacks or breaches?"
+  },
+  {
+      "id": 592,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there bug bounty programs to encourage reporting vulnerabilities?"
+  },
+  {
+      "id": 593,
+      "tag": "Technology & Infrastructure",
+      "question": "What is the current throughput (transactions per second)?"
+  },
+  {
+      "id": 594,
+      "tag": "Technology & Infrastructure",
+      "question": "How does the platform handle scalability issues during periods of high usage?"
+  },
+  {
+      "id": 595,
+      "tag": "Technology & Infrastructure",
+      "question": "What are the plans for upgrades or improvements to the technical stack?"
+  },
+  {
+      "id": 596,
+      "tag": "Technology & Infrastructure",
+      "question": "Have the smart contracts been audited by reputable third parties?"
+  },
+  {
+      "id": 597,
+      "tag": "Technology & Infrastructure",
+      "question": "Are the audit reports publicly accessible for review?"
+  },
+  {
+      "id": 598,
+      "tag": "Technology & Infrastructure",
+      "question": "Is the project's codebase open source, allowing for community review and contributions?"
+  },
+  {
+      "id": 599,
+      "tag": "Technology & Infrastructure",
+      "question": "How active is the development community in maintaining and improving the code?"
+  },
+  {
+      "id": 600,
+      "tag": "Technology & Infrastructure",
+      "question": "What specific cryptographic algorithms are used?"
+  },
+  {
+      "id": 601,
+      "tag": "Technology & Infrastructure",
+      "question": "What is the project's approach to key management and security?"
+  },
+  {
+      "id": 602,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there any known vulnerabilities in the underlying blockchain protocol?"
+  },
+  {
+      "id": 603,
+      "tag": "Technology & Infrastructure",
+      "question": "What is the process for updating and patching the blockchain?"
+  },
+  {
+      "id": 604,
+      "tag": "Technology & Infrastructure",
+      "question": "What formal verification methods are used to ensure smart contract correctness?"
+  },
+  {
+      "id": 605,
+      "tag": "Technology & Infrastructure",
+      "question": "What is the project's bug bounty program?"
+  },
+  {
+      "id": 606,
+      "tag": "Technology & Infrastructure",
+      "question": "Has there been any previous exploits of the smart contract?"
+  },
+  {
+      "id": 607,
+      "tag": "Technology & Infrastructure",
+      "question": "If the project is open-source, what is the quality and activity of the code repository?"
+  },
+  {
+      "id": 608,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there any signs of malicious code or backdoors?"
+  },
+  {
+      "id": 609,
+      "tag": "Technology & Infrastructure",
+      "question": "What is the communities involvement in the open source project?"
+  },
+  {
+      "id": 610,
+      "tag": "Technology & Infrastructure",
+      "question": "If the project is designed to be interoperable with other blockchains, what are the associated risks?"
+  },
+  {
+      "id": 611,
+      "tag": "Technology & Infrastructure",
+      "question": "What cross chain bridges are being used, and what are their security track records?"
+  },
+  {
+      "id": 612,
+      "tag": "Technology & Infrastructure",
+      "question": "Where are the servers or nodes for the platform hosted (e.g., on-premise, cloud-based, decentralized)?"
+  },
+  {
+      "id": 613,
+      "tag": "Technology & Infrastructure",
+      "question": "How is the network protected against Distributed Denial of Service (DDoS) attacks?"
+  },
+  {
+      "id": 614,
+      "tag": "Technology & Infrastructure",
+      "question": "Does the project support interoperability with other blockchains or technologies (e.g., bridges, cross-chain functionality)?"
+  },
+  {
+      "id": 615,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there plans to integrate with upcoming blockchain standards (e.g., Polkadot, Cosmos)?"
+  },
+  {
+      "id": 616,
+      "tag": "Technology & Infrastructure",
+      "question": "What development methodology does the team follow (e.g., Agile, DevOps)?"
+  },
+  {
+      "id": 617,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there regular updates to the codebase, and is there a public roadmap?"
+  },
+  {
+      "id": 618,
+      "tag": "Technology & Infrastructure",
+      "question": "What is the project's uptime percentage over the past year?"
+  },
+  {
+      "id": 619,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there automated systems for monitoring and recovering from outages?"
+  },
+  {
+      "id": 620,
+      "tag": "Technology & Infrastructure",
+      "question": "What encryption methods are used to secure transactions and data?"
+  },
+  {
+      "id": 621,
+      "tag": "Technology & Infrastructure",
+      "question": "How does the project protect against Sybil attacks, 51% attacks, or re-entrancy vulnerabilities?"
+  },
+  {
+      "id": 622,
+      "tag": "Technology & Infrastructure",
+      "question": "Has the project undergone stress testing for high-volume transactions or user activity?"
+  },
+  {
+      "id": 623,
+      "tag": "Technology & Infrastructure",
+      "question": "What are the projects plans to handle scaling challenges, such as network congestion?"
+  },
+  {
+      "id": 624,
+      "tag": "Technology & Infrastructure",
+      "question": "Does the project have an active bug bounty program to identify and fix vulnerabilities?"
+  },
+  {
+      "id": 625,
+      "tag": "Technology & Infrastructure",
+      "question": "What incentives are offered to ethical hackers or auditors?"
+  },
+  {
+      "id": 626,
+      "tag": "Technology & Infrastructure",
+      "question": "Can the token be used on multiple blockchain networks (e.g., via wrapped tokens)?"
+  },
+  {
+      "id": 627,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there plans to expand interoperability with other DeFi ecosystems?"
+  },
+  {
+      "id": 628,
+      "tag": "Technology & Infrastructure",
+      "question": "What technologies are used in the development of the platform or product?"
+  },
+  {
+      "id": 629,
+      "tag": "Technology & Infrastructure",
+      "question": "Are these technologies scalable and secure?"
+  },
+  {
+      "id": 630,
+      "tag": "Technology & Infrastructure",
+      "question": "How often is penetration testing conducted to identify vulnerabilities?"
+  },
+  {
+      "id": 631,
+      "tag": "Technology & Infrastructure",
+      "question": "Are the results of these tests publicly available or shared with stakeholders?"
+  },
+  {
+      "id": 632,
+      "tag": "Technology & Infrastructure",
+      "question": "Does the company contribute to open-source projects?"
+  },
+  {
+      "id": 633,
+      "tag": "Technology & Infrastructure",
+      "question": "How does this contribute to the overall ecosystem?"
+  },
+  {
+      "id": 634,
+      "tag": "Technology & Infrastructure",
+      "question": "Are APIs properly secured to prevent unauthorized access?"
+  },
+  {
+      "id": 635,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there any documented API security protocols?"
+  },
+  {
+      "id": 636,
+      "tag": "Technology & Infrastructure",
+      "question": "What measures are in place to secure the company's infrastructure?"
+  },
+  {
+      "id": 637,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there any intrusion detection systems or firewalls?"
+  },
+  {
+      "id": 638,
+      "tag": "Technology & Infrastructure",
+      "question": "How often are code reviews conducted to ensure quality and security?"
+  },
+  {
+      "id": 639,
+      "tag": "Technology & Infrastructure",
+      "question": "Are these reviews conducted by internal teams or external auditors?"
+  },
+  {
+      "id": 640,
+      "tag": "Technology & Infrastructure",
+      "question": "How scalable is the technology infrastructure?"
+  },
+  {
+      "id": 641,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there plans for upgrading infrastructure to meet growing demand?"
+  },
+  {
+      "id": 642,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there data backup and recovery processes in place?"
+  },
+  {
+      "id": 643,
+      "tag": "Technology & Infrastructure",
+      "question": "How frequently are backups performed?"
+  },
+  {
+      "id": 644,
+      "tag": "Technology & Infrastructure",
+      "question": "what is the level of decentralization of the project?"
+  },
+  {
+      "id": 645,
+      "tag": "Technology & Infrastructure",
+      "question": "What blockchain technology is used, and how secure is it?"
+  },
+  {
+      "id": 646,
+      "tag": "Technology & Infrastructure",
+      "question": "Are smart contracts audited for vulnerabilities?"
+  },
+  {
+      "id": 647,
+      "tag": "Technology & Infrastructure",
+      "question": "Is the codebase open-source or proprietary?"
+  },
+  {
+      "id": 648,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there any known vulnerabilities or inefficiencies?"
+  },
+  {
+      "id": 649,
+      "tag": "Technology & Infrastructure",
+      "question": "What blockchain or technology does the asset use? Is it proprietary or built on an existing platform?"
+  },
+  {
+      "id": 650,
+      "tag": "Technology & Infrastructure",
+      "question": "Is the codebase open-source? Has it been audited by third-party security firms?"
+  },
+  {
+      "id": 651,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there any known vulnerabilities or past security breaches?"
+  },
+  {
+      "id": 652,
+      "tag": "Technology & Infrastructure",
+      "question": "How does the project handle smart contract risks (if applicable)?"
+  },
+  {
+      "id": 653,
+      "tag": "Technology & Infrastructure",
+      "question": "What consensus mechanism does the blockchain use (e.g., Proof of Work, Proof of Stake)?"
+  },
+  {
+      "id": 654,
+      "tag": "Technology & Infrastructure",
+      "question": "How scalable is the technology, and what are the transaction speeds and costs?"
+  },
+  {
+      "id": 655,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there mechanisms in place to prevent double-spending, 51% attacks, or other exploits?"
+  },
+  {
+      "id": 656,
+      "tag": "Technology & Infrastructure",
+      "question": "Does the project have a disaster recovery plan or contingency measures for technical failures?"
+  },
+  {
+      "id": 657,
+      "tag": "Technology & Infrastructure",
+      "question": "Does the project use a permissioned or permissionless blockchain?"
+  },
+  {
+      "id": 658,
+      "tag": "Technology & Infrastructure",
+      "question": "How does the project handle upgrades or forks (e.g., hard forks, soft forks)?"
+  },
+  {
+      "id": 659,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there any dependencies on third-party technologies or platforms?"
+  },
+  {
+      "id": 660,
+      "tag": "Technology & Infrastructure",
+      "question": "How does the project ensure interoperability with other blockchains or systems?"
+  },
+  {
+      "id": 661,
+      "tag": "Technology & Infrastructure",
+      "question": "What is the process for reporting and resolving bugs or vulnerabilities?"
+  },
+  {
+      "id": 662,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there any mechanisms for decentralized governance of the protocol?"
+  },
+  {
+      "id": 663,
+      "tag": "Technology & Infrastructure",
+      "question": "How does the project handle key management and wallet security for users?"
+  },
+  {
+      "id": 664,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there any plans to migrate to a new blockchain or upgrade the underlying technology?"
+  },
+  {
+      "id": 665,
+      "tag": "Technology & Infrastructure",
+      "question": "Does the project use zero-knowledge proofs, sharding, or other advanced cryptographic techniques?"
+  },
+  {
+      "id": 666,
+      "tag": "Technology & Infrastructure",
+      "question": "How does the project handle quantum computing risks to its cryptographic algorithms?"
+  },
+  {
+      "id": 667,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there any plans to integrate with Layer 2 solutions (e.g., rollups, sidechains)?"
+  },
+  {
+      "id": 668,
+      "tag": "Technology & Infrastructure",
+      "question": "How does the project ensure data integrity and immutability on its blockchain?"
+  },
+  {
+      "id": 669,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there any risks of network congestion or high gas fees during peak usage?"
+  },
+  {
+      "id": 670,
+      "tag": "Technology & Infrastructure",
+      "question": "What innovative features or technologies does the project introduce?"
+  },
+  {
+      "id": 671,
+      "tag": "Technology & Infrastructure",
+      "question": "How does the project stay ahead of technological advancements in the industry?"
+  },
+  {
+      "id": 672,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there any patents or intellectual property associated with the project?"
+  },
+  {
+      "id": 673,
+      "tag": "Technology & Infrastructure",
+      "question": "How does the project handle competition from newer or more advanced technologies?"
+  },
+  {
+      "id": 674,
+      "tag": "Technology & Infrastructure",
+      "question": "Are there any plans to integrate with emerging technologies (e.g., AI, IoT)?"
+  },
+  {
+      "id": 675,
+      "tag": "Technology & Infrastructure",
+      "question": "What formal verification tools and techniques are used to ensure the correctness of the code?"
+  },
+  {
+      "id": 676,
+      "tag": "Technology & Infrastructure",
+      "question": "What is the scope and depth of the formal verification process?"
+  },
+  {
+      "id": 677,
+      "tag": "Technology & Infrastructure",
+      "question": "Who are the security auditors, and what is their reputation?"
+  },
+  {
+      "id": 678,
+      "tag": "Technology & Infrastructure",
+      "question": "What are the findings of the security audits, and how have they been addressed?"
+  },
+  {
+      "id": 679,
+      "tag": "Technology & Infrastructure",
+      "question": "Are the security audits publicly available?"
+  },
+  {
+      "id": 680,
+      "tag": "Technology & Infrastructure",
+      "question": "If the project uses DID, how is user privacy protected?"
+  },
+  {
+      "id": 681,
+      "tag": "Technology & Infrastructure",
+      "question": "What are the risks associated with the project's privacy-preserving technologies?"
+  },
+  {
+      "id": 682,
+      "tag": "Technology & Infrastructure",
+      "question": "What are the potential risks of quantum computing attacks on the project's cryptography?"
+  },
+  {
+      "id": 683,
+      "tag": "Technology & Infrastructure",
+      "question": "What measures are being taken to mitigate those risks?"
+  },
+  {
+      "id": 684,
+      "tag": "Team and Background",
+      "question": "What is the experience and expertise of the team?"
+  },
+  {
+      "id": 685,
+      "tag": "Team and Background",
+      "question": "What is the team's track record?"
+  },
+  {
+      "id": 686,
+      "tag": "Team and Background",
+      "question": "Are there any conflicts of interest?"
+  },
+  {
+      "id": 687,
+      "tag": "Team and Background",
+      "question": "What are the project's operational procedures and controls?"
+  },
+  {
+      "id": 688,
+      "tag": "Team and Background",
+      "question": "Who are the founders, developers, and key team members? What is their professional background?"
+  },
+  {
+      "id": 689,
+      "tag": "Team and Background",
+      "question": "Have the team members been involved in previous successful projects or any controversies?"
+  },
+  {
+      "id": 690,
+      "tag": "Team and Background",
+      "question": "Is the team publicly identifiable, and do they have a verifiable track record?"
+  },
+  {
+      "id": 691,
+      "tag": "Team and Background",
+      "question": "Are there any advisors or partners associated with the project? What is their reputation?"
+  },
+  {
+      "id": 692,
+      "tag": "Team and Background",
+      "question": "Does the team have the necessary technical and industry expertise to deliver on their promises?"
+  },
+  {
+      "id": 693,
+      "tag": "Team and Background",
+      "question": "Is the team actively engaged with the community, and do they respond to concerns transparently?"
+  },
+  {
+      "id": 694,
+      "tag": "Team and Background",
+      "question": "Are the team members doxxed (publicly identifiable), or do they operate anonymously?"
+  },
+  {
+      "id": 695,
+      "tag": "Team and Background",
+      "question": "Have any team members been involved in failed or fraudulent projects in the past?"
+  },
+  {
+      "id": 696,
+      "tag": "Team and Background",
+      "question": "Does the team have experience in blockchain development, cryptography, or fintech?"
+  },
+  {
+      "id": 697,
+      "tag": "Team and Background",
+      "question": "Are there any gaps in the teams expertise (e.g., lack of marketing, legal, or financial experts)?"
+  },
+  {
+      "id": 698,
+      "tag": "Team and Background",
+      "question": "How does the team handle conflicts of interest, especially if members are involved in multiple projects?"
+  },
+  {
+      "id": 699,
+      "tag": "Team and Background",
+      "question": "Is the team actively involved in the crypto community or industry events?"
+  },
+  {
+      "id": 700,
+      "tag": "Team and Background",
+      "question": "Are there any succession plans in place for key team members?"
+  },
+  {
+      "id": 701,
+      "tag": "Team and Background",
+      "question": "Are there any ghost founders or anonymous contributors to the project?"
+  },
+  {
+      "id": 702,
+      "tag": "Team and Background",
+      "question": "How does the project handle team turnover or departures?"
+  },
+  {
+      "id": 703,
+      "tag": "Team and Background",
+      "question": "Are there any non-compete or confidentiality agreements in place for team members?"
+  },
+  {
+      "id": 704,
+      "tag": "Team and Background",
+      "question": "Does the team have experience in scaling projects or managing rapid growth?"
+  },
+  {
+      "id": 705,
+      "tag": "Team and Background",
+      "question": "Are there any cultural or language barriers within the team that could impact operations?"
+  },
+  {
+      "id": 706,
+      "tag": "Team and Background",
+      "question": "How does the project handle conflicts between team members or advisors?"
+  },
+  {
+      "id": 707,
+      "tag": "Team and Background",
+      "question": "Are there any plans to expand the team, and how will new members be onboarded?"
+  },
+  {
+      "id": 708,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "Which exchanges and platforms are the digital assets listed on?"
+  },
+  {
+      "id": 709,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "What is the due diligence process for those exchanges and platforms?"
+  },
+  {
+      "id": 710,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "What are the procedures for buying and selling digital assets?"
+  },
+  {
+      "id": 711,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "Are there any trade surveillance mechanisms to prevent market manipulation?"
+  },
+  {
+      "id": 712,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "What is the total supply of the cryptocurrency or token? Is it fixed or inflationary?"
+  },
+  {
+      "id": 713,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "How are tokens distributed (e.g., team, investors, community, reserves)?"
+  },
+  {
+      "id": 714,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "Is there a vesting schedule for team and investor tokens to prevent market dumping?"
+  },
+  {
+      "id": 715,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "What is the utility of the token? Does it have a clear use case within the ecosystem?"
+  },
+  {
+      "id": 716,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "How does the project generate revenue, and what is its business model?"
+  },
+  {
+      "id": 717,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "Are there any staking, yield farming, or other earning mechanisms? How sustainable are they?"
+  },
+  {
+      "id": 718,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "What is the market capitalization, liquidity, and trading volume of the asset?"
+  },
+  {
+      "id": 719,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "Are there any significant token holders or whales who could manipulate the market?"
+  },
+  {
+      "id": 720,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "What percentage of tokens are held by the team, advisors, and early investors?"
+  },
+  {
+      "id": 721,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "Are there any mechanisms to burn or reduce the token supply over time?"
+  },
+  {
+      "id": 722,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "How does the project manage inflation or deflation of the token?"
+  },
+  {
+      "id": 723,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "Are there any buyback or token-burning mechanisms to support price stability?"
+  },
+  {
+      "id": 724,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "How does the project fund its operations (e.g., token sales, venture capital, grants)?"
+  },
+  {
+      "id": 725,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "Are there any risks of centralization in token ownership or control?"
+  },
+  {
+      "id": 726,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "How does the project plan to incentivize long-term holding of the token?"
+  },
+  {
+      "id": 727,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "Are there any mechanisms to prevent token concentration among a few holders?"
+  },
+  {
+      "id": 728,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "How does the project handle token dilution or inflation over time?"
+  },
+  {
+      "id": 729,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "Are there any risks of token utility being reduced by competing projects or technologies?"
+  },
+  {
+      "id": 730,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "How does the project plan to maintain token value during bear markets?"
+  },
+  {
+      "id": 731,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "Are there any risks of the token being delisted from major exchanges?"
+  },
+  {
+      "id": 732,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "How does the project handle token burns, and what is the economic rationale behind them?"
+  },
+  {
+      "id": 733,
+      "tag": "Tokenomics & Trading Integrity",
+      "question": "Are there any risks of the token being used for illicit activities (e.g., money laundering)?"
   }
 ]

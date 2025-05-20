@@ -5,6 +5,9 @@ from tqdm import tqdm
 
 from scripts.graph_rag_retriever import retrieve_context
 from scripts.llm_responder import ask_llm, detect_and_structure_gaps
+from lib.mongo_helpers import append_qa_result
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 # --- Paths ---
 QUESTION_BANK_PATH = "data/question_bank.json"
@@ -36,6 +39,9 @@ for q in tqdm(questions, desc="🧠 Answering Questions"):
     if context and context.strip() and "❌" not in context:
         answer = ask_llm(q_text, context)
         status = "Found"
+        # Use latest_uploaded_filename as fund name
+        fund_name = os.environ.get("LATEST_UPLOADED_FUND") or "default_fund"
+        append_qa_result(fund_name, q_text, answer)
 
         # Step 3: Detect and structure gaps
         gap_raw = detect_and_structure_gaps(q_text, context, answer)

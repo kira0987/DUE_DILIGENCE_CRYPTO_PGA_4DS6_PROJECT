@@ -30,11 +30,11 @@ def score_investment(answers):
 
         # Map evaluation to numeric risk score
         if evaluation.lower() == "positive":
-            score = 1.0
+            score = 0.0
         elif evaluation.lower() == "partial":
             score = 0.5
         else:  # negative or missing
-            score = 0.0
+            score = 1.0
 
         # Initialize category aggregates if needed
         if category not in category_scores:

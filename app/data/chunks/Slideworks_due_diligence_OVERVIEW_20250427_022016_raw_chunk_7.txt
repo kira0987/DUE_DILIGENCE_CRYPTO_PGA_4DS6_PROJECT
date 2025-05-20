@@ -1,3 +1,0 @@
-Most refunds are returned via the original 
-payment method. Note that we retain the right to only refund a customer’s first 
-purchase.
