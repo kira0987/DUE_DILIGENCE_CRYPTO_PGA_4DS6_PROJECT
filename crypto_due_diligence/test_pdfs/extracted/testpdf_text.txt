@@ -1,0 +1,576 @@
+6th Annual Global 
+Crypto Hedge Fund 
+Report 
+October 2024 
+
+2 
+ 
+Index 
+ 
+I. Introduction .................................................................................................................................. 3 
+II. Methodology................................................................................................................................ 4 
+III. Key findings................................................................................................................................ 5 
+IV. Current landscape ..................................................................................................................... 6 
+V. Increasing interest among institutional investors ..................................................................... 10 
+VI. Evolving product landscape and the importance of ETFs ...................................................... 11 
+VII. Growing hedge fund engagement with tokenization.............................................................. 13 
+VIII. Risks, barriers and challenges to further growth .................................................................. 14 
+IX. Conclusion: Signs of market maturation and investment sophistication ................................ 18 
+ 
+ 
+ 
+
+3 
+ 
+I. Introduction 
+ 
+2024 has been a year filled with significant developments and transformative events that continue to 
+shape the digital assets industry in profound ways. From the Securities and Exchange Commission’s 
+(“SEC”) approval of spot bitcoin and ether exchange-traded funds (ETFs) to notable advancements 
+towards clearer regulatory frameworks around the globe (e.g., the European Union’s Markets in Crypto-
+Assets Regulation (“MiCA”), Hong Kong Monetary Authority stablecoin consultations and the introduction 
+of multiple digital asset bills in the United States), the crypto market experienced exhilarating highs that 
+saw a remarkable surge in asset prices, captivating the attention of investors worldwide. Given recent 
+market activity, the industry finally appears ready to move past the events of 2022 which saw several 
+high-profile fraud cases and a general lack of maturity across the wider digital assets landscape.  
+The 2024 survey, conducted by PwC and the Alternative Investment Management Association (AIMA), 
+offers insights into the evolving digital assets investment landscape as it relates to both ‘traditional’ (non-
+crypto focused) and crypto-focused hedge funds.  
+ 
+These findings include hedge fund managers’ perspectives on: 
+• 
+the impact of ETFs,  
+• 
+the increasing institutional interest in the emerging asset class and blockchain technologies,  
+• 
+ever-evolving investment management strategies, as well as  
+• 
+future outlooks on the nascent and burgeoning asset class. 
+ 
+By analyzing sentiments from hedge fund managers currently investing in digital assets and those that 
+are not, our findings shed light on the current sentiment around crypto investment.  
+ 
+ 
+ 
+ 
+ 
+In its sixth year, our report aims to explore the evolving digital assets investment landscape for hedge 
+funds. In the following sections, we delve into some of the key findings from the survey, providing insights 
+into the state of the market, increasing institutional interest, the evolving product landscape, growing 
+engagement with tokenization, as well as the risks, barriers, challenges, and how the industry is seeking 
+to mature. 
+ 
+ 
+In short: Traditional hedge funds are returning to digital asset investing 
+after last year’s drop-off, and they are doing so in increasingly 
+sophisticated ways.  
+
+4 
+ 
+II. Methodology 
+ 
+The 6th Annual Global Crypto Hedge Fund Report examines the current state and evolution of the digital 
+assets hedge fund market over the past year. The data contained in this report comes from a survey 
+conducted by AIMA and PwC in Q2 2024 across a sample of close to 100 hedge funds from both 
+traditional (42%) and digital asset focused hedge funds (58%) from over six geographical regions with an 
+estimated aggregate of $124.5B in asset under management (AUM). For this survey, we define digital 
+asset focused hedge funds as those that have at least 50% of AUM invested in digital assets. It excludes 
+data from crypto index funds and crypto venture capital funds. Specifically, the survey questions were 
+designed to understand the impact that the past year had on fund managers and highlight key themes 
+and trends. 
+ 
+ 
+
+5 
+ 
+III. Key findings 
+ 
+Digital asset investments rise as regulatory clarity and ETFs boost confidence: Nearly half 
+(47%) of traditional hedge funds surveyed this year have exposure to digital assets, up from 29% 
+in 2023 and 37% in 2022, driven by increased regulatory clarity and the launch of spot 
+cryptocurrency ETFs in Asia and the U.S. Among those already invested, 67% plan to maintain 
+the same level of capital employed while the remaining 33% plan to invest more capital by the 
+end of 2024. 
+ 
+More sophisticated investment strategies, shifting to derivatives: There has been a notable 
+shift towards derivative trading in digital assets by traditional hedge funds, with its use rising to 
+58% in 2024 (up from 38% in 2023), while spot trading dropped to 25% this year after peaking at 
+69% last year. This signals growing sophistication in hedge fund strategies.  
+ 
+Growing interest in tokenization despite regulatory challenges: Interest in fund tokenization 
+is also growing, with 33% of hedge fund respondents either committed to or exploring 
+tokenization, compared to around a quarter of traditional hedge funds last year. Among digital 
+asset focused hedge funds, 12% are already investing in tokenized assets, although regulatory 
+challenges remain the biggest hurdle to wider adoption.  
+ 
+Rising institutional client demand: 43% of traditional hedge funds—whether invested or not in 
+digital assets—are seeing increased interest from institutional clients. Currently, family offices and 
+high-net-worth individuals (HNWIs) remain the largest investor categories in digital asset focused 
+hedge funds, followed by fund of funds.  
+ 
+Hedge fund sector remains cautious: Despite the industry’s growth, many traditional hedge 
+fund managers remain hesitant, with 76% of those not currently invested in digital assets unlikely 
+to enter the space within the next three years, up from 54% in 2023. The top barrier to entering 
+the market, cited by 38% of traditional hedge funds not invested is the exclusion of  digital assets 
+from investment mandates, rising from fourth place last year. While regulatory uncertainty 
+remains a key concern, it has eased somewhat due to the adoption of clearer regulatory 
+frameworks like the EU’s MiCA.  
+ 
+ 
+ 
+ 
+ 
+
+6 
+ 
+IV. Current landscape 
+The digital assets landscape is rapidly evolving. Our survey shows that the average AUM for respondents 
+is $1.5B, while traditional hedge funds average $3.14B. This difference between traditional hedge funds 
+and digital asset hedge funds highlights the relative newness of digital assets as a primary investment 
+strategy. In this section, we will explore differences in location, strategy and trading methods, among the 
+surveyed hedge funds.  
+ 
+In which jurisdiction is your fund domiciled? (Figure 1)  
+Respondents were asked to select all that apply. 
+ 
+The most common jurisdictions cited by digital asset hedge funds for domiciling their funds were the 
+Cayman Islands (63%), Gibraltar (19%), and the US (16%) (see Figure 1). In the previous year, the 
+Cayman Islands was home to 34% of the funds surveyed. Year-over-year growth of 29 percentage points 
+shows that it remains the most preferable location for the domicile of digital asset funds. On the other 
+hand, the US was home to 28% of funds surveyed last year. This year-over-year decrease shows 
+managers may not currently prefer to domicile their digital asset funds in the US. 
+ 
+What is your digital assets strategy? (Figure 2) 
+ 
+ 
+ 
+
+7 
+ 
+How are you invested in digital assets? (Figure 3) 
+Respondents were asked to select all that apply. 
+ 
+ 
+Hedge funds are increasingly diversifying their portfolios by incorporating digital assets, employing a 
+variety of investment strategies to navigate this emerging market and its complexities. According to the 
+survey data, the most popular digital asset strategies among traditional hedge funds include market-
+neutral and discretionary long only, each adopted by 33% of respondents (see Figure 2).  Market-neutral 
+strategies are often favored for their ability to manage risk while seeking returns in the fluctuating digital 
+assets market. Although discretionary long only strategies lack the volatility dampening characteristics of 
+market-neutral portfolios, they can capitalize on the upside potential of innovative blockchain projects or 
+tokens. 
+In addition to these strategies, quantitative long/short and quantitative long only strategies are also 
+utilized, each by 17% of respondents. The quantitative long/short strategy tends to leverage algorithmic 
+models and data analysis to capitalize on perceived market inefficiencies and trends. For digital asset 
+hedge funds, quantitative long/short (33%) and market neutral (31%) are the prevailing strategies. The 
+diversity in strategies adopted underscores the variety of risk appetites and investment objectives within 
+the hedge fund community. 
+When it comes to the types of digital assets that traditional hedge funds are investing in, spot was the 
+most popular amongst digital asset hedge funds, selected by 88% of respondents (see Figure 3). Spot 
+trading and exchange-traded products (ETPs) are also popular amongst traditional hedge funds, each 
+A shift toward derivatives: Trading 
+vehicle preferences over time 
+Survey responses over the years show a shifting 
+preference between derivative and spot trading of 
+digital assets (see Figure 4). The percentage of 
+respondents using derivatives dropped from 52% 
+in 2022 to 38% in 2023, but rose to 58% this 
+year. Spot trading, meanwhile, increased from 
+52% in 2022 to 69% in 2023, but fell to 25% in 
+2024. This suggest growing sophistication in how 
+hedge funds trade digital assets. 
+
+8 
+ 
+used by 25% of respondents. Spot trading involves the direct purchase of digital assets, while ETPs offer 
+a more traditional investment vehicle that tracks the performance of digital assets. Derivatives are also 
+significant, with 58% of traditional hedge fund respondents and 64% of digital asset hedge fund 
+respondents indicating their use. Some derivatives offer a way to gain exposure to digital assets without 
+directly holding them, providing a hedge against volatility and potential downside risks.  
+Furthermore, 17% of traditional and digital asset hedge funds each invest in digital assets through 
+venture capital, indicating a longer-term belief in the growth and development of blockchain technologies 
+and related innovations. Fund of funds, another investment method, is used by 17% of traditional hedge 
+fund respondents and 12% of digital asset hedge funds, allowing them to diversify exposure by investing 
+in a portfolio of other funds that hold digital assets. 
+How are you trading digital assets? (Figure 5) 
+Respondents were asked to select all that apply. 
+ 
+The trading venues for these digital assets also vary. Centralized exchanges are the most popular, used 
+by 58% of traditional hedge fund respondents, due to their liquidity and ease of use (see Figure 5). 
+Decentralized exchanges, which can offer greater control over assets, are used by 33% of traditional 
+hedge fund respondents. Over-the-counter (OTC) trading, preferred by 25% of traditional hedge fund 
+respondents, provides a way to execute large trades without impacting the market price. 
+When it comes to selecting a trading venue or platform, traditional hedge funds tend to weigh up several 
+factors. The most significant factor is the counterparty risk, which was cited by 40% of respondents. 
+Liquidity was the second most important factor, 
+mentioned by 30%. Other considerations include 
+regulation, token availability, and platform 
+security, each noted by 10% of respondents. 
+In terms of their preferred methods for trading 
+digital assets, the vast majority of digital asset 
+hedge funds favor using a centralized exchange 
+(selected by 95% of respondents). Other popular 
+methods include OTC, selected by 63% of 
+respondents, and decentralized exchanges, 
+selected by 49%.  
+Stablecoins are another prevalent method, with 
+78% of all hedge funds investing in the asset 
+class using this form of digital asset. The primary 
+reason that digital asset hedge funds cite for 
+using them is as an alternative to fiat when 
+entering and exiting transactions (72%) (see Figure 6). Other uses that digital asset hedge funds cite for 
+stablecoins include generating yield (21%) and transferring funds internally or externally (19%). 
+“Stablecoins are the effective currency of the digital 
+asset ecosystem and an enabler for the future of 
+finance. This has been reinforced by the finding that 
+78% of hedge funds investing in digital assets are 
+using stablecoins. This is in line with our experience in 
+the market where the speed and efficiency when 
+moving between transactions, funds or to investors is 
+a critical differentiator, especially when viewed 
+through the lens of capital efficiency.” 
+Usman Ahmad, Co-Founder and CEO, Zodia Markets 
+
+9 
+ 
+If you use stablecoins, what is the main purpose for using them? (Figure 6) 
+Respondents were asked to select all that apply. 
+ 
+ 
+Traditional hedge funds are using diverse strategies to navigate the digital asset markets, including 
+derivatives, spot trading, ETPs, and both centralized and decentralized exchanges. This reflects growing 
+confidence and a more mature market as hedge funds take more strategic approaches to optimize 
+returns and manage risk.  
+ 
+ 
+ 
+
+10 
+ 
+V. Increasing interest among institutional 
+investors 
+Closely mirroring the SEC’s approval of spot bitcoin and ether ETFs, as well as advancements in clearer 
+regulatory frameworks, respondents reported a rising interest in digital assets from institutional investors, 
+with two-thirds of all hedge fund managers surveyed noting increased interest (see Figure 7).    
+Are you seeing increasing interest from institutional investors in digital assets? 
+(Figure 7) 
+ 
+   
+ 
+The survey results paint an intriguing picture of the growing interest in digital assets among institutional 
+investors. Among hedge funds that have already dipped their toes in the digital asset waters, a significant 
+number (78%) have noticed increasing interest from institutional investors (see Figure 7). 
+However, the story is a bit different for hedge funds that haven’t ventured into digital assets. Among 
+these, 1 in 3 who surveyed have reported an uptick in interest. This could be a sign that institutional 
+investors are more inclined to explore digital assets with hedge funds that already have developed some 
+experience in this asset class. 
+When analyzed by hedge fund type, notable differences emerge. 85% of digital asset hedge funds have 
+reported increased interest from institutional investors, compared to 43% of traditional hedge funds. 
+Regardless, increased regulatory clarity appears to be enhancing investor confidence as the digital asset 
+markets progress beyond previous instances of fraud and extreme volatility.  
+ 
+Hedge funds not 
+invested in digital assets 
+Hedge funds invested 
+in digital assets 
+
+11 
+ 
+VI. Evolving product landscape and the 
+importance of ETFs 
+Since the SEC’s approval of the spot bitcoin ETFs in January of this year, total trading volume across all 
+issuers1 has surpassed $350B2, averaging just shy of $2B in collective volume per day since the products 
+inception and with Blackrock’s $IBIT ETF earning the designation of the fastest ETF to reach $10B in 
+assets (49 days)3. According to reports, "investment managers held $4.7B worth of spot bitcoin ETFs in 
+the second quarter of 2024”4. More recently, while not as dramatic as the launch of spot bitcoin ETFs, the 
+launch of spot ether ETFs have resulted in nearly $6B in total trading volume in the first seven days of 
+trading, averaging roughly $850M in daily volume across all issuers 5.  
+ 
+Our survey supports this data, which showed a 
+significant increase in interest in the launch of 
+these products among the hedge funds surveyed. 
+64% of all respondents believe that these 
+approvals will create more opportunities for future 
+product launches and enhanced strategies (see 
+Figure 8). Future product launches could include 
+bi-directional levered ETFs and potentially staking 
+and yield enhancing products, which have 
+already been explored by issuers. Among the digital asset hedge funds surveyed, the sentiment is even 
+stronger, with 85% viewing the approvals as an opportunity for launching new digital asset focused 
+products and services. By comparison traditional hedge funds remain largely unaffected by the approval 
+of spot Bitcoin ETFs, with 66% stating that the development will have little to no impact on their plans to 
+launch new digital asset products.  
+ 
+How will the recent approvals of spot bitcoin ETFs change your perspective on 
+launching new digital assets products? (Figure 8) 
+Options  
+All 
+Traditional 
+hedge funds 
+Digital Asset 
+hedge funds 
+Negatively - ETFs will be a threat to future hedge 
+fund product launches 
+1% 
+0% 
+2% 
+Neutral - little to no impact on product launches 
+investing in digital assets 
+35% 
+66% 
+13% 
+Positively - more opportunity for product launches 
+64% 
+34% 
+85% 
+ 
+ 
+1 Issuers include Blackrock, Fidelity, Grayscale, Ark Invest/21 Shares, Bitwise, Franklin, Invesco/Galaxy, VanEck, Valkyrie, 
+WisdomTree, and Hasdex. 
+2 Cumulative Spot Bitcoin ETF Volumes, The Block 
+3 IBIT and FBTC ETFs hit $10 billion AUM in weeks, smashing previous record of three years , The Block 
+4 Here’s how hedge funds played spot Bitcoin ETFs in Q2, The Block 
+5 Issuers include Blackrock, Fidelity, Grayscale, Ark Invest/21 Shares, Bitwise, Franklin, Invesco/Galaxy, VanEck, Valkyrie, 
+WisdomTree, and Hasdex 
+"The Bitcoin ETF was the most successful ETF 
+launch in over 30 years of data and 5,000+ ETF 
+launches. This statistic alone should make any 
+allocator stop and reflect."  
+Henri Arslanian, Co-Founder, Nine Blocks Capital Management 
+
+12 
+ 
+ 
+ 
+Do you plan to utilise bitcoin ETFs as part of your digital asset investment strategy? 
+(Figure 9) 
+ 
+Traditional hedge funds 
+             Digital Asset hedge funds 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+Hedge funds have varied approaches to using bitcoin ETFs. Two-thirds of traditional hedge funds do not 
+plan to incorporate bitcoin ETFs into their current digital asset strategies, and only a quarter of digital 
+asset hedge funds are considering this option (see Figure 9). This suggests that, while hedge funds may 
+not be adopting bitcoin ETFs widely, they may still view them favorably for their role in the broader digital 
+assets industry.   
+ 
+“For years, the story of institutional adoption of digital assets 
+has been ahead of actual adoption data. That has now 
+changed. Regulatory advancements, such as the introduction 
+of spot ETFs, have paved the way for wider adoption. At 
+Galaxy, we believe strongly that further regulatory clarity is on 
+the horizon, and that a sustained period of institutional 
+adoption will follow.” 
+Steve Kurz, Global Head of Asset Management, Galaxy 
+
+13 
+ 
+VII. Growing hedge fund engagement with 
+tokenization 
+Tokenization – the process of issuing a unique digital representation of an asset on a blockchain – is 
+already driving significant innovation in the operations of financial services. Various entities, including 
+banks, asset managers, lenders, payment providers, corporate treasurers, and finance departments, are 
+now tokenizing a wide range of assets.5 Currently, 12% of digital asset hedge funds who responded to 
+our survey say that they are investing in tokenized assets. These assets can include bank deposits, 
+securities, commodities, and documentation.  
+Of those survey respondents that had an interest in tokenization, the top reasons for interest were 
+tokenization’s opportunity to facilitate liquidity (37%) and to broaden access to more investors (27%) (see 
+Figure 10). 
+What is it that interests your hedge fund most about tokenisation? (Figure 10) 
+ Respondents were asked to select one. Those who selected “not interested” have been excluded. 
+ 
+In addition to this growing interest in tokenized assets, there is a notable interest in the process of 
+tokenization within the hedge fund industry. This year, 33% of all hedge fund respondents are planning to 
+explore tokenizing units in their fund or are committed to tokenizing units in their fund over the coming 12 
+months (see Figure 11). This includes both traditional and digital asset focused hedge funds. Last year, 
+only a quarter of traditional hedge funds surveyed confirmed that they were beginning to explore 
+tokenization.  
+When asked what the greatest perceived barrier to wider adoption of tokenization is, respondents 
+overwhelmingly indicated regulation as the biggest obstacle. This indicates that while hedge funds see 
+the potential benefits of tokenization, they are also acutely aware of the challenges. It is also noted that 
+distribution continues to be a challenge for both digital asset focused and traditional hedge funds. The 
+future of the industry will likely be shaped by how the challenges are addressed, and the extent t o which 
+hedge funds can capitalize on the opportunities presented by digital assets and tokenization.  
+37%
+27%
+12%
+7%
+5%
+5%
+5%
+2%
+Facilitating
+liquidity
+Broadened
+access to more
+investors
+Secondary
+market trading
+options
+Reduced cost Programmability
+Enabling
+fractional
+ownership of
+assets
+Greater
+transparency
+Enhanced risk
+management
+capabilities
+
+14 
+ 
+While some hedge funds are intrigued by the potential of tokenization, they are also cautious. The 
+regulatory environment and market demand are key factors that will determine the pace of adoption. 
+However, with increasing interest from institutional asset managers, the momentum towards tokenization 
+appears to be building.  
+ 
+Is your hedge fund tokenizing units in your fund? (Figure 11) 
+ 
+“We are seeing the emergence of tokenization as an important growth area for digital asset 
+hedge funds… Today, that is largely tokenized treasury products for yield, but increasingly 
+we are seeing exposures such as tokenized reinsurance risk, tokenized carbon markets, 
+and tokenized credit/loans. Bringing this exposure onchain will allow digital asset hedge 
+funds to have more options for generating alpha and managing risk in the crypto markets.” 
+Anthony Bassili, Head of Allocators & Tokenization, Coinbase Institutional 
+67%
+22%
+11%
+No, and no plans to
+explore
+No, but we are planning
+to explore tokenizing
+units in our fund
+Yes, we are committed
+to tokenizing units in our
+fund over the next 12
+months
+
+15 
+ 
+VIII. Risks, barriers and challenges to 
+further growth 
+For traditional hedge funds, the main perceived barrier for growth in digital assets adoption is regulatory 
+uncertainty, with almost half (45%) of respondents citing this as a concern. Other concerns like bad 
+actors, quantum computing, custody issues, restaking, politics/government bans, and protocol design 
+were also noted, but these were less prominent, each getting about 9% of the votes.  
+Digital asset hedge funds also flagged regulatory uncertainty as their top concern for the industry’s 
+growth, but it was even more pronounced, with 56% of respondents choosing this option (see Figure 12). 
+This remains consistent with each previous year’s survey results, which highlighted regulatory uncertainty 
+as the main obstacle to further growth.  
+What do you see as the key risk for digital assets at present? (Figure 12)  
+ 
+Traditional hedge funds 
+ 
+ 
+Digital Asset hedge funds 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For traditional hedge funds without digital asset investments the two main non-regulatory related barriers 
+cited by respondents are either no investor mandate or little-to-no investment conviction in the asset 
+class. Interestingly, the barrier of digital assets being outside the scope of the current investment 
+mandate has shot up from fourth last year to number one this year. This might suggest a growing 
+
+16 
+ 
+bifurcation between those hedge funds which remain skeptical or with constrained investment mandates 
+and those now choosing to enter the space, albeit still with relatively low allocations. 
+Forty-two percent of hedge funds not currently investing in digital assets note that they would start 
+investing or become more interested in the asset class if the main barriers to investing in digital assets 
+were removed. However, 58% would not change their existing approach. This is a slight increase from 
+last year, when 40% stated that the removal of barriers would still not impact their current approach to not 
+invest. 
+Where is the greatest need for market infrastructure improvements? (Figure 13) 
+ 
+Traditional hedge funds                                                   Digital Asset hedge funds
+ 
+ 
+ 
+ 
+ 
+ 
+Both traditional and digital asset hedge funds see prime brokerage as an area that needs to see 
+improvements to support broader investment. Traditional hedge funds cite prime brokerage as their top 
+need (33%), and digital asset hedge funds cited it second most (24%) (see Figure 13). 
+Outside of prime brokerage, opinions differ between traditional and digital asset hedge funds on which 
+areas of the market need the most improvement in order to support further industry growth. Traditional 
+hedge funds see legal and compliance services, fund administration, blockchain analytics, custody 
+
+17 
+ 
+services, banking rails, and execution by trading venues, but with fewer votes, each representing 
+between 8% and 17% of responses. 
+Digital asset hedge funds think banking rails need the most improvement, with 31% of them selecting this. 
+Other areas such as custody services, execution by trading venues, technological standardization, 
+blockchain analytics, cybersecurity, fund administration, and legal and compliance services were also 
+mentioned, but didn't get as many votes, with each representing between 2% and 24% of responses.  
+ 
+ 
+
+18 
+ 
+IX. Conclusion: Signs of market maturation 
+and investment sophistication 
+In summary, we see the following in 2024’s digital assets investment market: 
+ 
+Positive investment momentum: Hedge funds are investing more in digital assets, due 
+in part to increased regulatory clarity, new investment options (particularly ETFs), 
+increased investor interest, and the rise of mainstream institutions entering the market. 
+Increased sophistication: Both traditional and digital asset hedge funds are leveraging 
+more sophisticated investment strategies than in year’s past, as signified by the use of 
+derivatives, the mixture of trading venues, stablecoin usage, or expanded investment in 
+tokenized assets. 
+General agreement on the challenges still to be solved: Both traditional and digital 
+asset hedge funds see further regulatory clarity and infrastructure in prime brokerage to 
+be key areas for improvement if the industry is to continue growing. 
+ 
+With increasing interest from institutional investors and a maturing trading landscape, the crypto hedge 
+fund industry is well-positioned for further growth and development. 
+
+© 2024 PwC. All rights reserved. PwC refers to the PwC network and/or one or more of its member firms, each of 
+which is a separate legal entity. Please see www.pwc.com/structure for further details. This content is for general 
+information purposes only and should not be used as a substitute for consultation with professional advisors. 
+ 
+About AIMA 
+The Alternative Investment Management Association (AIMA) is the global representative of the alternative 
+investment industry, with around 2,100 corporate members in over 60 countries. AIMA’s fund manager 
+members collectively manage more than US$3 trillion in hedge fund and private credit assets. 
+AIMA draws upon the expertise and diversity of its membership to provide leadership in industry initiatives 
+such as advocacy, policy and regulatory engagement, educational programs and sound practice guides. 
+AIMA works to raise media and public awareness of the value of the industry. 
+AIMA set up the Alternative Credit Council (ACC) to help firms focused on the private credit and direct 
+lending space. The ACC currently represents over 250 members that manage over US$1 trillion of private 
+credit assets globally. The ACC is an affiliate of AIMA and is governed by its own board which ultimately 
+reports to the AIMA Council.  
+AIMA is committed to developing skills and education standards and is a co -founder of the Chartered 
+Alternative Investment Analyst designation (CAIA) – the first and only specialized educational standard 
+for alternative investment specialists. AIMA is governed by its Council (Board of Directors ). 
+For further information, please visit www.aima.org.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pwc.com

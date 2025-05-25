@@ -1,0 +1,6 @@
+2025-03-09 03:48:46,811 - INFO - Converting PDF test_pdfs/sample.pdf to images...
+2025-03-09 03:48:46,813 - ERROR - Unexpected error during PDF processing: Unable to get page count. Is poppler installed and in PATH?
+2025-03-09 03:48:46,813 - INFO - PDF processing completed successfully.
+2025-03-09 03:50:27,725 - INFO - Converting PDF test_pdfs/sample.pdf to images...
+2025-03-09 03:50:27,727 - ERROR - Unexpected error during PDF processing: Unable to get page count. Is poppler installed and in PATH?
+2025-03-09 03:50:27,727 - INFO - PDF processing completed successfully.
