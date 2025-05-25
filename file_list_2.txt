@@ -1,4 +1,0 @@
-IOTA_USD Bitfinex Historical Data.csv
-SUI_USD Binance Historical Data.csv
-USDC_USD Binance Historical Data.csv
-USDT_USD Coinbase Pro Historical Data.csv

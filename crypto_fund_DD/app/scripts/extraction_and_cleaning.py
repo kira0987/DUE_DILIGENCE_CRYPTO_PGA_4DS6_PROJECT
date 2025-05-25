@@ -12,6 +12,7 @@ import pytesseract
 import pdfplumber
 import pandas as pd
 from langdetect import detect
+from lib.mongo_helpers import update_fund_field
 
 # --- Configure Tesseract if needed ---
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
@@ -173,7 +174,8 @@ def process_uploaded_file(uploaded_file):
     clean_path = os.path.join(NEW_EXTRACTED_DIR, f"{base_name}_{timestamp}_cleaned.txt")
     with open(clean_path, "w", encoding="utf-8") as f:
         f.write(cleaned_text)
-
+    # 🔽 Add this line right after saving raw_text to file
+    update_fund_field(base_name, "raw_text", raw_text)
     # Save tables if any
     tables_paths = []
     if tables:

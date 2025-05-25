@@ -1,14 +1,16 @@
-# --- Imports ---
 import os
 import json
 import pandas as pd
 from tqdm import tqdm
 
 from scripts.graph_rag_retriever import retrieve_context
-from scripts.llm_responder import ask_llm, evaluate_answer, check_faithfulness, detect_and_structure_gaps
+from scripts.llm_responder import ask_llm, detect_and_structure_gaps
+from lib.mongo_helpers import append_qa_result
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 # --- Paths ---
-QUESTION_BANK_PATH = "data/question_bank.json"   # Your custom question list
+QUESTION_BANK_PATH = "data/question_bank.json"
 OUTPUT_PATH = "data/auto_answered_questions.csv"
 GAPS_OUTPUT_PATH = "data/missing_gaps_to_scrape.json"
 
@@ -37,43 +39,28 @@ for q in tqdm(questions, desc="🧠 Answering Questions"):
     if context and context.strip() and "❌" not in context:
         answer = ask_llm(q_text, context)
         status = "Found"
+        # Use latest_uploaded_filename as fund name
+        fund_name = os.environ.get("LATEST_UPLOADED_FUND") or "default_fund"
+        append_qa_result(fund_name, q_text, answer)
 
-        # Step 3: Evaluate the answer
-        evaluation_result = evaluate_answer(q_text, context, answer)
-        
-        # Parse evaluation result safely
+        # Step 3: Detect and structure gaps
+        gap_raw = detect_and_structure_gaps(q_text, context, answer)
         try:
-            eval_json = json.loads(evaluation_result)
-        except Exception as e:
-            eval_json = {"Relevance": 0, "Completeness": 0, "Clarity": 0, "Missing_Points": []}
+            gap_json = json.loads(gap_raw) if isinstance(gap_raw, str) else {}
+        except Exception:
+            gap_json = {"Status": "❌ Failed to parse gap JSON."}
 
-        # Step 4: Check faithfulness
-        faithfulness_result = check_faithfulness(q_text, context, answer)
-
-        # Step 5: Detect and structure gaps
-        missing_points = eval_json.get("Missing_Points", [])
-        if missing_points:
-            gaps = detect_and_structure_gaps(q_text, context, answer, missing_points)
-            all_gaps[q_id] = gaps
-        else:
-            all_gaps[q_id] = {"Status": "✅ No missing points detected."}
-
+        all_gaps[q_id] = gap_json
     else:
         answer = "No answer found based on the provided documents."
-        eval_json = {"Relevance": 0, "Completeness": 0, "Clarity": 0, "Missing_Points": []}
-        faithfulness_result = "❌ No context"
-        gaps = {"Status": "❌ No context to analyze gaps."}
         status = "Not Found"
+        all_gaps[q_id] = {"Status": "❌ No context to analyze gaps."}
 
     all_results.append({
         "ID": q_id,
         "Question": q_text,
         "Answer": answer,
-        "Status": status,
-        "Relevance": eval_json.get("Relevance", 0),
-        "Completeness": eval_json.get("Completeness", 0),
-        "Clarity": eval_json.get("Clarity", 0),
-        "Faithfulness": faithfulness_result
+        "Status": status
     })
 
 # --- Save Results to CSV ---
@@ -86,6 +73,6 @@ os.makedirs(os.path.dirname(GAPS_OUTPUT_PATH), exist_ok=True)
 with open(GAPS_OUTPUT_PATH, "w", encoding="utf-8") as f:
     json.dump(all_gaps, f, indent=2, ensure_ascii=False)
 
-print(f"✅ All answers and evaluations saved to {OUTPUT_PATH}")
+print(f"✅ All answers saved to {OUTPUT_PATH}")
 print(f"✅ Missing gaps saved to {GAPS_OUTPUT_PATH}")
 print("🏁 Auto-answering complete!")

@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "question": "What is the legal entity of the company, and is it compliant with all applicable laws?",
+      "category": "Legal & Regulatory",
+      "weight": 4.0
+    },
+    {
+      "id": 3,
+      "question": "Are all necessary licenses and permits in place?",
+      "category": "Legal & Regulatory",
+      "weight": 4.0
+    },
+    {
+      "id": 6,
+      "question": "How does the company handle AML policies and procedures?",
+      "category": "AML / KYC",
+      "weight": 5.0
+    },
+    {
+      "id": 12,
+      "question": "How are digital assets stored and secured?",
+      "category": "Custody & Asset Security",
+      "weight": 4.5
+    },
+    {
+      "id": 13,
+      "question": "Are multi-signature wallets used for custody?",
+      "category": "Custody & Asset Security",
+      "weight": 3.5
+    },
+    {
+      "id": 23,
+      "question": "What cybersecurity measures are in place to protect against hacks?",
+      "category": "Cybersecurity & Data Privacy",
+      "weight": 5.0
+    },
+    {
+      "id": 29,
+      "question": "Are financial statements audited and transparent?",
+      "category": "Financial Health",
+      "weight": 4.0
+    },
+    {
+      "id": 30,
+      "question": "What is the financial health of the company?",
+      "category": "Financial Health",
+      "weight": 4.0
+    },
+    {
+      "id": 45,
+      "question": "What is the governance structure of the project?",
+      "category": "Governance",
+      "weight": 4.0
+    },
+    {
+      "id": 46,
+      "question": "Who holds decision-making power?",
+      "category": "Governance",
+      "weight": 3.5
+    },
+    {
+      "id": 21,
+      "question": "What blockchain technology is used, and how secure is it?",
+      "category": "Technology & Infrastructure",
+      "weight": 4.0
+    },
+    {
+      "id": 16,
+      "question": "Are there any trade surveillance mechanisms to prevent market manipulation?",
+      "category": "Tokenomics & Trading Integrity",
+      "weight": 4.0
+    },
+    {
+      "id": 42,
+      "question": "Are there initiatives to reduce energy consumption?",
+      "category": "ESG & Sustainability",
+      "weight": 3.5
+    },
+    {
+      "id": 43,
+      "question": "Are there any sustainability practices or policies in place?",
+      "category": "ESG & Sustainability",
+      "weight": 3.5
+    },
+    {
+      "id": 114,
+      "question": "Does the company have business interruption insurance?",
+      "category": "Risk Management",
+      "weight": 4.0
+    },
+    {
+      "id": 20,
+      "question": "Are there any potential regulatory risks to the portfolio?",
+      "category": "Risk Management",
+      "weight": 5.0
+    }
+  ]

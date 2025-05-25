@@ -1,0 +1,72 @@
+Crypto Fund Due Diligence Automation
+What is the Problem (Problematique)?
+The cryptocurrency space is growing fast, but investing in crypto funds and projects has several risks
+1. Lack of Transparency:
+It’s hard to determine if a crypto fund or project is legitimate. Scammers can easily publish
+documents that look credible but hide risks or fraudulent activities.
+2. Overwhelming Information:
+Investors face large amounts of complex data, such as whitepapers, performance reports,
+and compliance documents. Analyzing these manually is time consuming and difficult.
+3. Regulatory Risks:
+Crypto funds must comply with financial regulations, such as anti money laundering
+(AML) laws. However, verifying this is challenging without expertise.
+4. Complexity of Due Diligence:
+Conducting due diligence involves assessing legal compliance, market risks, team
+credibility, and fund performance. This process is complicated and not beginner friendly.
+
+5. Lack of Automated Tools:
+Investors currently don’t have tools to easily analyze documents, ask questions, or generate
+reports to make informed decisions.
+What Does the Project Aim to Solve?
+Our project streamlines and automates the due diligence process for cryptocurrency funds by:
+Automating Data Collection:
+Collecting data from APIs, websites, and documents to deliver comprehensive insights into
+Building a Q&A System:
+Enabling users to upload documents (e.g., whitepapers) or ask specific questions about crypto
+funds to receive accurate, AI powered answers.
+Generating PowerPoint Reports:
+Automatically generating detailed, professional reports that summarize key findings,
+including fund overviews, risk assessments, and compliance statuses.
+Simplified Explanation of the Problem
+Our project helps investors assess cryptocurrency funds by automating data collection,
+analyzing risks and compliance using AI, and providing clear answers to user questions. It simplifies
+evaluating fund safety, identifying red flags, and sharing findings through professional reports.
+what is cryptocurrency fund ?
+A cryptocurrency fund is an investment fund that focuses on cryptocurrencies and blockchain
+based projects. It pools money from multiple investors and uses that capital to invest in
+
+cryptocurrencies, tokens, or blockchain startups. These funds are managed by professionals who aim
+to generate returns for investors
+How Does a Cryptocurrency Fund Work? 
+Individuals or institutions contribute money to the fund.
+The fund manager uses this pooled money to invest in various crypto related assets. 
+Funds may invest in cryptocurrencies (e.g., Bitcoin, Ethereum).
+They may also invest in blockchain startups, decentralized finance (DeFi), or NFTs (non
+Investors earn profits (or losses) based on the performance of the fund’s investments.
+Returns may come from price appreciation of cryptocurrencies, staking rewards, or other
+Examples of Cryptocurrency Funds
+1. Polychain Capital:
+Focuses on investing in blockchain protocols and startups.
+One of the largest crypto hedge funds, investing in cryptocurrencies and blockchain
+3. Grayscale Investments:
+Offers cryptocurrency investment products like the Grayscale Bitcoin Trust (GBTC).
+Why is Due Diligence Important for Crypto Funds?
+
+Since cryptocurrency funds deal with volatile and complex assets, due diligence is crucial to
+4. The fund is legitimate and not a scam.
+5. The fund complies with laws and regulations.
+6. Investors understand the risks and strategies.
+What is the Core Problem?
+How can we simplify, automate, and improve the due diligence process for cryptocurrency
+funds to ensure transparency, mitigate risks, and provide clear insights to investors?
+Types of Data to Collect 
+Cryptocurrency Fund Data:
+Fund performance, management team, strategy, assets under management (AUM),
+Real time and historical prices, trading volumes, and market trends. 
+Compliance and Regulation Data:
+Legal filings, tax compliance, AML/KYC adherence. 
+Social media discussions, news articles, and community feedback. 
+Whitepapers and Reports:
+Project whitepapers, risk reports, and investment strategies.
+
+>] «+ G vy (oon on aie lig?
