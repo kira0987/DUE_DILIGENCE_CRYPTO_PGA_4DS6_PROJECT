@@ -30,7 +30,7 @@
 - 🐍 **Python**
 - 🤖 **Machine Learning**
 - ✨ **Generative AI**
-- 🌍 **Django**
+- 🌍 **Streamlit**
 - 📊 **Data Analysis**
 - 💬 **Chatbot Development**
 - 🔗 **Blockchain & Crypto Risk Assessment**
