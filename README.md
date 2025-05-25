@@ -3,7 +3,8 @@
 ## Overview
 
 🚀 This project was developed as part of the **PI 4DS6** coursework at [ESPRIT University](https://esprit.tn). It focuses on **risk prevention** and **crypto advisory** using advanced **machine learning** and **data science** methodologies and working with **TDSP** workflow environment. The project is a collaboration with **Value**, aimed at enhancing due diligence in the crypto space through AI-powered analytics and risk assessment.
-To open the project you should access to the folder crypto_fund_DD then access app then streamlit run main.py 
+
+ To open the project you should access to the folder crypto_fund_DD then access app then streamlit run main.py 
 ---
 
 ## Features
